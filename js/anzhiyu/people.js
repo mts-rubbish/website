@@ -115,13 +115,13 @@ var peopleConfig = {
     ctx.save();
     ctx.scale(devicePixelRatio, devicePixelRatio);
   
-    // 计算缩放比例，实现 "cover" 效果
+    // 计算缩放比例，实现 "contain" 效果，确保显示完整图片
     const imgWidth = img.naturalWidth;
     const imgHeight = img.naturalHeight;
     const canvasWidth = stage.width;
     const canvasHeight = stage.height;
   
-    const ratio = Math.max(canvasWidth / imgWidth, canvasHeight / imgHeight);
+    const ratio = Math.min(canvasWidth / imgWidth, canvasHeight / imgHeight);
     const newWidth = imgWidth * ratio;
     const newHeight = imgHeight * ratio;
     const x = (canvasWidth - newWidth) / 2;
