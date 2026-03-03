@@ -1,8 +1,8 @@
-https://www.rubbish.press/talks/index.html
-https://www.rubbish.press/tags/index.html
-https://www.rubbish.press/page/temp/index.html
 https://www.rubbish.press/link/index.html
 https://www.rubbish.press/messageboard/index.html
+https://www.rubbish.press/tags/index.html
+https://www.rubbish.press/talks/index.html
+https://www.rubbish.press/page/temp/index.html
 https://www.rubbish.press/archives/index.html
 https://www.rubbish.press/categories/index.html
 https://www.rubbish.press/2024/04/20/slice/
