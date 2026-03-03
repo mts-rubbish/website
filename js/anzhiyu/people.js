@@ -57,241 +57,76 @@ function _createClass(e, r, t) {
 }
 var peopleConfig = {
     src: GLOBAL_CONFIG.peoplecanvas.img,
-    rows: 15,
-    cols: 7,
-  },
-  randomRange = function (e, r) {
-    return e + Math.random() * (r - e);
-  },
-  randomIndex = function (e) {
-    return 0 | randomRange(0, e.length);
-  },
-  removeFromArray = function (e, r) {
-    return e.splice(r, 1)[0];
-  },
-  removeItemFromArray = function (e, r) {
-    return removeFromArray(e, e.indexOf(r));
-  },
-  removeRandomFromArray = function (e) {
-    return removeFromArray(e, randomIndex(e));
-  },
-  getRandomFromArray = function (e) {
-    return e[0 | randomIndex(e)];
-  },
-  resetPeep = function (e) {
-    var r,
-      t,
-      a = e.stage,
-      n = e.peep,
-      o = 0.5 < Math.random() ? 1 : -1,
-      i = 100 - 250 * gsap.parseEase("power2.in")(Math.random()),
-      s = a.height - n.height + i;
-    return (
-      1 == o ? ((r = -n.width), (t = a.width), (n.scaleX = 1)) : ((r = a.width + n.width), (t = 0), (n.scaleX = -1)),
-      (n.x = r),
-      (n.y = s),
-      {
-        startX: r,
-        startY: (n.anchorY = s),
-        endX: t,
-      }
-    );
-  },
-  normalWalk = function (e) {
-    var r = e.peep,
-      t = e.props,
-      a = (t.startX, t.startY),
-      n = t.endX,
-      o = gsap.timeline();
-    return (
-      o.timeScale(randomRange(0.5, 1.5)),
-      o.to(
-        r,
-        {
-          duration: 10,
-          x: n,
-          ease: "none",
-        },
-        0
-      ),
-      o.to(
-        r,
-        {
-          duration: 0.25,
-          repeat: 40,
-          yoyo: !0,
-          y: a - 10,
-        },
-        0
-      ),
-      o
-    );
-  },
-  walks = [normalWalk],
-  Peep = (function () {
-    function a(e) {
-      var r = e.image,
-        t = e.rect;
-      _classCallCheck(this, a),
-        (this.image = r),
-        this.setRect(t),
-        (this.x = 0),
-        (this.y = 0),
-        (this.anchorY = 0),
-        (this.scaleX = 1),
-        (this.walk = null);
-    }
-    return (
-      _createClass(a, [
-        {
-          key: "setRect",
-          value: function (e) {
-            (this.rect = e),
-              (this.width = e[2]),
-              (this.height = e[3]),
-              (this.drawArgs = [this.image].concat(_toConsumableArray(e), [0, 0, this.width, this.height]));
-          },
-        },
-        {
-          key: "render",
-          value: function (e) {
-            e.save(),
-              e.translate(this.x, this.y),
-              e.scale(this.scaleX, 1),
-              e.drawImage.apply(e, _toConsumableArray(this.drawArgs)),
-              e.restore();
-          },
-        },
-      ]),
-      a
-    );
-  })(),
-  img = document.createElement("img");
-(img.onload = init), (img.src = peopleConfig.src);
-let peoplecanvasEl = document.getElementById("peoplecanvas");
-
-let ctx = peoplecanvasEl ? peoplecanvasEl.getContext("2d") : undefined,
-  stage = {
-    width: 0,
-    height: 0,
-  },
-  allPeeps = [],
-  availablePeeps = [],
-  crowd = [],
-  isbindPjax = false;
-
-function cleanupPeopleCanvas() {
-  window.removeEventListener("resize", resize);
-  gsap.ticker.remove(render);
-  crowd.forEach(function (e) {
-    if (e.walk) e.walk.kill();
-  });
-  crowd.length = 0;
-  availablePeeps.length = 0;
-}
-
-function init() {
-  if (!peoplecanvasEl) return;
-  // 如果 allPeeps 已有数据，先清空避免重复
-  if (allPeeps.length === 0) {
-    createPeeps();
+  };
+  
+  var img = document.createElement("img");
+  img.onload = init;
+  img.src = peopleConfig.src;
+  let peoplecanvasEl = document.getElementById("peoplecanvas");
+  
+  let ctx = peoplecanvasEl ? peoplecanvasEl.getContext("2d") : undefined,
+    stage = {
+      width: 0,
+      height: 0,
+    },
+    isbindPjax = false;
+  
+  function cleanupPeopleCanvas() {
+    window.removeEventListener("resize", resize);
   }
-  resize();
-  gsap.ticker.add(render);
-  window.addEventListener("resize", resize);
-}
-
-if (!isbindPjax) {
-  isbindPjax = true;
-  document.addEventListener("pjax:send", function () {
-    // 离开页面时清理
-    cleanupPeopleCanvas();
-  });
-  document.addEventListener("pjax:success", function () {
-    peoplecanvasEl = document.getElementById("peoplecanvas");
-    if (peoplecanvasEl) {
-      ctx = peoplecanvasEl.getContext("2d");
-      setTimeout(function () {
-        if (!peoplecanvasEl) return;
-        resize();
-        gsap.ticker.add(render);
-        window.addEventListener("resize", resize);
-      }, 300);
-    }
-  });
-}
-
-function createPeeps() {
-  for (
-    var e = peopleConfig.rows,
-      r = peopleConfig.cols,
-      t = e * r,
-      a = img.naturalWidth / e,
-      n = img.naturalHeight / r,
-      o = 0;
-    o < t;
-    o++
-  )
-    allPeeps.push(
-      new Peep({
-        image: img,
-        rect: [(o % e) * a, ((o / e) | 0) * n, a, n],
-      })
-    );
-}
-
-function resize() {
-  if (peoplecanvasEl && peoplecanvasEl.clientWidth != 0) {
-    (stage.width = peoplecanvasEl.clientWidth),
-      (stage.height = peoplecanvasEl.clientHeight),
-      (peoplecanvasEl.width = stage.width * devicePixelRatio),
-      (peoplecanvasEl.height = stage.height * devicePixelRatio),
-      crowd.forEach(function (e) {
-        e.walk.kill();
-      }),
-      (crowd.length = 0),
-      (availablePeeps.length = 0),
-      availablePeeps.push.apply(availablePeeps, allPeeps),
-      initCrowd();
+  
+  function init() {
+    if (!peoplecanvasEl) return;
+    resize();
+    window.addEventListener("resize", resize);
   }
-}
-
-function initCrowd() {
-  for (; availablePeeps.length; ) addPeepToCrowd().walk.progress(Math.random());
-}
-
-function addPeepToCrowd() {
-  var e = removeRandomFromArray(availablePeeps),
-    r = getRandomFromArray(walks)({
-      peep: e,
-      props: resetPeep({
-        peep: e,
-        stage: stage,
-      }),
-    }).eventCallback("onComplete", function () {
-      removePeepFromCrowd(e), addPeepToCrowd();
+  
+  if (!isbindPjax) {
+    isbindPjax = true;
+    document.addEventListener("pjax:send", function () {
+      cleanupPeopleCanvas();
     });
-  return (
-    (e.walk = r),
-    crowd.push(e),
-    crowd.sort(function (e, r) {
-      return e.anchorY - r.anchorY;
-    }),
-    e
-  );
-}
-
-function removePeepFromCrowd(e) {
-  removeItemFromArray(crowd, e), availablePeeps.push(e);
-}
-
-function render() {
-  if (!peoplecanvasEl) return;
-  (peoplecanvasEl.width = peoplecanvasEl.width),
-    ctx.save(),
-    ctx.scale(devicePixelRatio, devicePixelRatio),
-    crowd.forEach(function (e) {
-      e.render(ctx);
-    }),
+    document.addEventListener("pjax:success", function () {
+      peoplecanvasEl = document.getElementById("peoplecanvas");
+      if (peoplecanvasEl) {
+        ctx = peoplecanvasEl.getContext("2d");
+        setTimeout(function () {
+          if (!peoplecanvasEl) return;
+          resize();
+          window.addEventListener("resize", resize);
+        }, 300);
+      }
+    });
+  }
+  
+  function resize() {
+    if (peoplecanvasEl && peoplecanvasEl.clientWidth != 0) {
+      stage.width = peoplecanvasEl.clientWidth;
+      stage.height = peoplecanvasEl.clientHeight;
+      peoplecanvasEl.width = stage.width * devicePixelRatio;
+      peoplecanvasEl.height = stage.height * devicePixelRatio;
+      render();
+    }
+  }
+  
+  function render() {
+    if (!peoplecanvasEl || !img.complete) return;
+    ctx.clearRect(0, 0, peoplecanvasEl.width, peoplecanvasEl.height);
+    ctx.save();
+    ctx.scale(devicePixelRatio, devicePixelRatio);
+  
+    // 计算缩放比例，实现 "cover" 效果
+    const imgWidth = img.naturalWidth;
+    const imgHeight = img.naturalHeight;
+    const canvasWidth = stage.width;
+    const canvasHeight = stage.height;
+  
+    const ratio = Math.max(canvasWidth / imgWidth, canvasHeight / imgHeight);
+    const newWidth = imgWidth * ratio;
+    const newHeight = imgHeight * ratio;
+    const x = (canvasWidth - newWidth) / 2;
+    const y = (canvasHeight - newHeight) / 2;
+  
+    ctx.drawImage(img, x, y, newWidth, newHeight);
     ctx.restore();
-}
+  }
