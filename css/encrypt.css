@@ -1,0 +1,62 @@
+/* 部分内容加密样式：适配白天/黑夜模式 */
+:root {
+  /* 白天模式变量（根据你的博客主题色调整） */
+  --encrypt-border: #e0e0e0;    /* 边框色：浅灰 */
+  --encrypt-bg: #ffffff;        /* 背景色：白色 */
+  --encrypt-text: #333333;      /* 文字色：深灰 */
+  --encrypt-btn-bg: #4096ff;    /* 按钮色：主题主色（如蓝色） */
+}
+
+/* 黑夜模式变量（适配主题黑夜模式类名，常见为 darkmode--activated） */
+html.darkmode--activated {
+  --encrypt-border: #444444;    /* 边框色：深灰 */
+  --encrypt-bg: #1a1a1a;        /* 背景色：深色 */
+  --encrypt-text: #eeeeee;      /* 文字色：浅灰 */
+  --encrypt-btn-bg: #4dabf7;    /* 按钮色：浅色主色（如亮蓝） */
+}
+
+/* 输入框和按钮细节优化 */
+.encrypt-pwd {
+  padding: 0.5rem 0.8rem;
+  border-radius: 4px;
+  outline: none;
+  margin-right: 0.5rem;
+  flex: 1;
+  min-width: 180px;
+}
+.encrypt-pwd:focus {
+  box-shadow: 0 0 0 2px rgba(64, 150, 255, 0.2); /* 聚焦高亮 */
+}
+.encrypt-btn {
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+.encrypt-btn:hover {
+  background-color: var(--encrypt-btn-hover, #1677ff); /* 按钮 hover 色 */
+}
+.encrypt-input-wrap {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 1rem;
+  border-radius: 8px;
+  background-color: var(--encrypt-bg);
+  border: 1px solid var(--encrypt-border);
+}
+
+/* 响应式适配（移动端优化） */
+@media (max-width: 768px) {
+  .encrypt-input-wrap {
+    padding: 0.8rem;
+  }
+  .encrypt-pwd {
+    min-width: 100%;
+    margin-right: 0;
+    margin-bottom: 0.5rem;
+  }
+  .encrypt-btn {
+    width: 100%;
+  }
+}
