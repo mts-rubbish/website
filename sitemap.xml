@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.rubbish.press/page/HowToPublishAnArticle/index.html</loc>
+    <loc>https://www.rubbish.press/categories/index.html</loc>
     
     <lastmod>2026-03-04</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.rubbish.press/categories/index.html</loc>
+    <loc>https://www.rubbish.press/page/HowToPublishAnArticle/index.html</loc>
     
     <lastmod>2026-03-04</lastmod>
     
@@ -101,6 +101,13 @@
 
   
   <url>
+    <loc>https://www.rubbish.press/tags/%E6%8A%95%E7%A8%BF/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.rubbish.press/tags/WB/</loc>
     <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -135,21 +142,7 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://www.rubbish.press/tags/%E6%8A%95%E7%A8%BF/</loc>
-    <lastmod>2026-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2026-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://www.rubbish.press/categories/%E6%96%B0%E9%97%BB/</loc>
@@ -159,14 +152,21 @@
   </url>
   
   <url>
-    <loc>https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/</loc>
+    <loc>https://www.rubbish.press/categories/%E6%8A%95%E7%A8%BF%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.rubbish.press/categories/%E6%8A%95%E7%A8%BF%E6%8C%87%E5%8D%97/</loc>
+    <loc>https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/</loc>
     <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
