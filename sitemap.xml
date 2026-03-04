@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.rubbish.press/tags/index.html</loc>
+    
+    <lastmod>2026-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.rubbish.press/talks/index.html</loc>
     
     <lastmod>2026-03-04</lastmod>
@@ -20,15 +29,6 @@
   </url>
   
   <url>
-    <loc>https://www.rubbish.press/tags/index.html</loc>
-    
-    <lastmod>2026-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.rubbish.press/archives/index.html</loc>
     
     <lastmod>2026-03-04</lastmod>
@@ -39,6 +39,15 @@
   
   <url>
     <loc>https://www.rubbish.press/categories/index.html</loc>
+    
+    <lastmod>2026-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.rubbish.press/posts/43751.html</loc>
     
     <lastmod>2026-03-04</lastmod>
     
@@ -98,6 +107,41 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.rubbish.press/tags/WB/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.rubbish.press/tags/%E5%AE%9E%E9%AA%8C%E5%A4%B1%E8%B4%A5/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.rubbish.press/tags/%E7%86%8A%E7%8C%AB/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E5%B9%BD%E9%BB%98/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.rubbish.press/tags/%E6%9D%A1%E5%B8%A6%E8%89%BA%E6%9C%AF/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -116,6 +160,13 @@
   
   <url>
     <loc>https://www.rubbish.press/categories/%E4%BB%99%E6%9C%AF/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/</loc>
     <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
