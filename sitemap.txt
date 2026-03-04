@@ -1,8 +1,8 @@
 https://www.rubbish.press/tags/index.html
 https://www.rubbish.press/talks/index.html
 https://www.rubbish.press/page/temp/index.html
-https://www.rubbish.press/categories/index.html
 https://www.rubbish.press/archives/index.html
+https://www.rubbish.press/categories/index.html
 https://www.rubbish.press/posts/43751.html
 https://www.rubbish.press/posts/62288.html
 https://www.rubbish.press/statistic/index.html
@@ -13,6 +13,6 @@ https://www.rubbish.press/tags/%E5%AE%9E%E9%AA%8C%E5%A4%B1%E8%B4%A5/
 https://www.rubbish.press/tags/%E7%86%8A%E7%8C%AB/
 https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E5%B9%BD%E9%BB%98/
 https://www.rubbish.press/tags/%E6%9D%A1%E5%B8%A6%E8%89%BA%E6%9C%AF/
-https://www.rubbish.press/categories/%E6%96%B0%E9%97%BB/
 https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/
+https://www.rubbish.press/categories/%E6%96%B0%E9%97%BB/
 https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/
