@@ -1,7 +1,8 @@
 https://www.rubbish.press/tags/index.html
 https://www.rubbish.press/page/temp/index.html
-https://www.rubbish.press/categories/index.html
 https://www.rubbish.press/archives/index.html
+https://www.rubbish.press/categories/index.html
+https://www.rubbish.press/posts/6890.html
 https://www.rubbish.press/posts/43751.html
 https://www.rubbish.press/posts/6147.html
 https://www.rubbish.press/page/HowToPublishAnArticle/index.html
@@ -10,6 +11,11 @@ https://www.rubbish.press/posts/62288.html
 https://www.rubbish.press/statistic/index.html
 https://www.rubbish.press/privacy/index.html
 https://www.rubbish.press/
+https://www.rubbish.press/tags/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/
+https://www.rubbish.press/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/
+https://www.rubbish.press/tags/%E8%AE%B0%E5%8F%B7%E7%AC%94/
+https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E8%87%AA%E6%95%91/
+https://www.rubbish.press/tags/%E5%AE%8C%E7%BE%8E%E6%8B%9F%E5%90%88/
 https://www.rubbish.press/tags/WB/
 https://www.rubbish.press/tags/%E5%AE%9E%E9%AA%8C%E5%A4%B1%E8%B4%A5/
 https://www.rubbish.press/tags/%E7%86%8A%E7%8C%AB/
@@ -22,6 +28,7 @@ https://www.rubbish.press/tags/%E6%B5%8B%E8%AF%84/
 https://www.rubbish.press/tags/%E5%AE%9E%E7%94%A8/
 https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/
 https://www.rubbish.press/categories/%E6%96%B0%E9%97%BB/
+https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/
+https://www.rubbish.press/categories/%E4%BB%99%E6%9C%AF/
 https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/
 https://www.rubbish.press/categories/%E6%8A%95%E7%A8%BF%E6%8C%87%E5%8D%97/
-https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/
