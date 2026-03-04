@@ -1,7 +1,7 @@
 https://www.rubbish.press/tags/index.html
 https://www.rubbish.press/page/temp/index.html
-https://www.rubbish.press/archives/index.html
 https://www.rubbish.press/categories/index.html
+https://www.rubbish.press/archives/index.html
 https://www.rubbish.press/posts/43751.html
 https://www.rubbish.press/posts/6147.html
 https://www.rubbish.press/page/HowToPublishAnArticle/index.html
