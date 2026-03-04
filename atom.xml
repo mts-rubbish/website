@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>Rubbish编辑部</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://www.rubbish.press/</id>
+  <link href="https://www.rubbish.press/" rel="alternate"/>
+  <link href="https://www.rubbish.press/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Rubbish编辑部</rights>
+  <subtitle>Rubbish 期刊官网</subtitle>
+  <title>Rubbish Journal</title>
+  <updated>2026-03-04T01:33:08.002Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="喜剧" scheme="https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/"/>
+    <category term="WB" scheme="https://www.rubbish.press/tags/WB/"/>
+    <category term="实验失败" scheme="https://www.rubbish.press/tags/%E5%AE%9E%E9%AA%8C%E5%A4%B1%E8%B4%A5/"/>
+    <category term="熊猫" scheme="https://www.rubbish.press/tags/%E7%86%8A%E7%8C%AB/"/>
+    <category term="科研幽默" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E5%B9%BD%E9%BB%98/"/>
+    <category term="条带艺术" scheme="https://www.rubbish.press/tags/%E6%9D%A1%E5%B8%A6%E8%89%BA%E6%9C%AF/"/>
+    <id>https://www.rubbish.press/posts/43751.html</id>
+    <link href="https://www.rubbish.press/posts/43751.html"/>
+    <published>2026-03-04T01:16:28.941Z</published>
+    <summary>
+      <![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。 -->
+<p>Anonymous<sup>1</sup></p>
+<p><sup>1</sup>失败WB实验室,科研狗大学,Beijing,China</p>
+<!--]]>
+    </summary>
+    <title>我的WB结果像只熊猫</title>
+    <updated>2026-03-04T01:33:08.002Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="新闻" scheme="https://www.rubbish.press/categories/%E6%96%B0%E9%97%BB/"/>
+    <id>https://www.rubbish.press/posts/62288.html</id>
+    <link href="https://www.rubbish.press/posts/62288.html"/>
+    <published>2026-03-03T14:39:41.208Z</published>
+    <summary>
+      <![CDATA[<p>测试</p>]]>
+    </summary>
+    <title>投稿指南</title>
+    <updated>2026-03-03T14:39:42.040Z</updated>
+  </entry>
+</feed>
