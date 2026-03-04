@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.rubbish.press/archives/index.html</loc>
+    <loc>https://www.rubbish.press/categories/index.html</loc>
     
     <lastmod>2026-03-04</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.rubbish.press/categories/index.html</loc>
+    <loc>https://www.rubbish.press/archives/index.html</loc>
     
     <lastmod>2026-03-04</lastmod>
     
@@ -129,14 +129,14 @@
 
   
   <url>
-    <loc>https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://www.rubbish.press/categories/%E6%96%B0%E9%97%BB/</loc>
     <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.rubbish.press/categories/%E6%96%B0%E9%97%BB/</loc>
+    <loc>https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
