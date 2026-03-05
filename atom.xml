@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>Rubbish 期刊官网</subtitle>
   <title>Rubbish Journal</title>
-  <updated>2026-03-05T10:44:14.647Z</updated>
+  <updated>2026-03-05T11:37:22.710Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="经济学" scheme="https://www.rubbish.press/categories/%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
+    <category term="王者荣耀" scheme="https://www.rubbish.press/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/"/>
+    <category term="经济学" scheme="https://www.rubbish.press/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
+    <id>https://www.rubbish.press/posts/13619.html</id>
+    <link href="https://www.rubbish.press/posts/13619.html"/>
+    <published>2026-03-05T11:24:17.192Z</published>
+    <summary>
+      <![CDATA[<p>江小游</p>
+<!-- 以下请在href=后填写pdf全网链接 -->
+<a href="https://file.rubbish.press/artical/wangzherongyao.pdf" target="_blank" style="display:]]>
+    </summary>
+    <title>王者荣耀：射手位前四分钟的经济研究</title>
+    <updated>2026-03-05T11:37:22.710Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
