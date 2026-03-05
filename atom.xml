@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>Rubbish 期刊官网</subtitle>
   <title>Rubbish Journal</title>
-  <updated>2026-03-05T11:37:22.710Z</updated>
+  <updated>2026-03-05T11:58:29.646Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="虚构研究" scheme="https://www.rubbish.press/categories/%E8%99%9A%E6%9E%84%E7%A0%94%E7%A9%B6/"/>
+    <category term="李白" scheme="https://www.rubbish.press/tags/%E6%9D%8E%E7%99%BD/"/>
+    <category term="神圣罗马帝国" scheme="https://www.rubbish.press/tags/%E7%A5%9E%E5%9C%A3%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD/"/>
+    <category term="时空壁垒" scheme="https://www.rubbish.press/tags/%E6%97%B6%E7%A9%BA%E5%A3%81%E5%9E%92/"/>
+    <category term="被低估现象" scheme="https://www.rubbish.press/tags/%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%8E%B0%E8%B1%A1/"/>
+    <id>https://www.rubbish.press/posts/57354.html</id>
+    <link href="https://www.rubbish.press/posts/57354.html"/>
+    <published>2026-03-05T11:47:56.363Z</published>
+    <summary>
+      <![CDATA[<p>PuPu King<sup>1,*,†</p>
+<!-- 以下请在href=后填写pdf全网链接 -->
+<a href="https://file.rubbish.press/artical/wangzherongyao.pdf" target="_blank"]]>
+    </summary>
+    <title>为什么李白从未踏足过神圣罗马帝国——被严重低估的时空壁垒</title>
+    <updated>2026-03-05T11:58:29.646Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
