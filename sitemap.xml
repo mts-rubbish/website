@@ -38,6 +38,15 @@
   </url>
   
   <url>
+    <loc>https://www.rubbish.press/page/HowToPublishAnArticle/index.html</loc>
+    
+    <lastmod>2026-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.rubbish.press/posts/16986.html</loc>
     
     <lastmod>2026-03-05</lastmod>
@@ -66,15 +75,6 @@
   
   <url>
     <loc>https://www.rubbish.press/posts/43751.html</loc>
-    
-    <lastmod>2026-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.rubbish.press/page/HowToPublishAnArticle/index.html</loc>
     
     <lastmod>2026-03-04</lastmod>
     
