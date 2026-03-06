@@ -75,7 +75,7 @@ gtag('config', 'G-1J95QGL20L');
   isHome: true,
   isHighlightShrink: false,
   isToc: false,
-  postUpdate: '2026-03-06 15:58:18',
+  postUpdate: '2026-03-06 16:04:14',
   postMainColor: '',
 }</script><noscript><style type="text/css">
   #nav {
@@ -272,6 +272,12 @@ gtag('config', 'G-1J95QGL20L');
       </a>
     </div>
     
+    <div class="catalog-list-item" id="/categories/实用/">
+      <a href="/categories/实用/">
+        实用
+      </a>
+    </div>
+    
     <div class="catalog-list-item" id="/categories/新闻/">
       <a href="/categories/新闻/">
         新闻
@@ -281,12 +287,6 @@ gtag('config', 'G-1J95QGL20L');
     <div class="catalog-list-item" id="/categories/实验记录/">
       <a href="/categories/实验记录/">
         实验记录
-      </a>
-    </div>
-    
-    <div class="catalog-list-item" id="/categories/实用/">
-      <a href="/categories/实用/">
-        实用
       </a>
     </div>
     
@@ -522,6 +522,21 @@ Keywords:李白；神圣罗马帝国；时空壁垒；被低估现象
 }
 #agreement-popup .confirm-btn.active {
   opacity: 1;
+}
+@media screen and (max-width: 768px) {
+  #agreement-popup {
+    width: calc(100% - 40px) !important;
+    right: 20px !important;
+    bottom: 20px !important;
+    padding: 20px !important;
+    max-width: 400px;
+  }
+  #agreement-popup .title {
+    font-size: 18px;
+  }
+  #agreement-popup .content {
+    font-size: 13px;
+  }
 }</style><div id="agreement-popup"><div class="title">合规声明与隐私提醒</div><div class="content">欢迎访问本站。继续浏览前，请先仔细阅读我们的 <a href="/page/DeclarationOfConformity" style="color:var(--anzhiyu-main);" target="_blank">《合规声明》</a>和 <a href="/privacy" style="color:var(--anzhiyu-main);" target="_blank">《隐私协议》</a>。</div><div class="checkbox-container"><input type="checkbox" id="agreement-checkbox"><label for="agreement-checkbox">我已阅读并同意上述合规声明和隐私协议</label></div><button class="confirm-btn" id="agreement-confirm-btn" disabled>确认并继续浏览</button></div><script defer>var hasShownPopup = localStorage.getItem('sessionNegotiatePopupShown');
 if (!hasShownPopup) {
   setTimeout(() => {
