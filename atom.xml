@@ -10,7 +10,27 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>无厘头科研・趣味学术・轻松发现的乐趣</subtitle>
   <title>Rubbish Journal</title>
-  <updated>2026-03-05T16:43:32.612Z</updated>
+  <updated>2026-03-06T10:06:27.995Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="咸口锅包肉" scheme="https://www.rubbish.press/tags/%E5%92%B8%E5%8F%A3%E9%94%85%E5%8C%85%E8%82%89/"/>
+    <category term="甜口锅包肉" scheme="https://www.rubbish.press/tags/%E7%94%9C%E5%8F%A3%E9%94%85%E5%8C%85%E8%82%89/"/>
+    <category term="量子力学与量子场论" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E4%B8%8E%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA/"/>
+    <category term="无限维希尔伯特空间" scheme="https://www.rubbish.press/tags/%E6%97%A0%E9%99%90%E7%BB%B4%E5%B8%8C%E5%B0%94%E4%BC%AF%E7%89%B9%E7%A9%BA%E9%97%B4/"/>
+    <id>https://www.rubbish.press/posts/60079.html</id>
+    <link href="https://www.rubbish.press/posts/60079.html"/>
+    <published>2026-03-06T10:06:27.246Z</published>
+    <summary>
+      <![CDATA[<p>Yuqi Liu<sup>1,2,*</sup>, Chenhang Weng<sup>1,2,*</sup><br>
+<sup>1</sup>中国科学院锅包肉研究所 and <sup>2</sup>]]>
+    </summary>
+    <title>味觉态空间中的有效哈密顿量：咸口与甜口锅包肉的量子化比较研究</title>
+    <updated>2026-03-06T10:06:27.995Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
