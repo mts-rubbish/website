@@ -14485,13 +14485,13 @@ blockquote {
   color: var(--anzhiyu-secondtext);
   overflow: hidden;
   display: -webkit-box;
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   text-align: center;
 }
 @media screen and (max-width: 768px) {
   #post .post-copyright .post-copyright__notice .post-copyright-info {
-    -webkit-line-clamp: 2;
+    -webkit-line-clamp: 4;
   }
 }
 #post .post-copyright .post-copyright__notice .post-copyright-info a:hover {
