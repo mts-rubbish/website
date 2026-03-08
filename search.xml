@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>为什么我的 MBTI 一直在变？一种基于理论建模的人格不稳定性的新机制</title>
+      <link href="/posts/31678.html"/>
+      <url>/posts/31678.html</url>
+      
+        <content type="html"><![CDATA[<p>我药当你蝶</p><a href="ttps://file.rubbish.press/artical/%E5%B7%B2%E5%8F%91mbti.pdf" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; background: #2563eb; color: white; border-radius: 8px; text-decoration: none; font-size: 15px; font-weight: 500; transition: all 0.2s;">  <svg style="width:18px;height:18px;fill:currentColor;" viewBox="0 0 24 24">    <path d="M20 2H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H8V4h12v12zM4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm12 6V9l-4 4-4-4v3h8z"/>  </svg>  阅读 PDF 全文</a><h2 id="摘要">摘要</h2><p>在 MBTI 的大众语境中，存在一个令人困惑现象：同一个人今天是 INTP，明天是 ENFP，后天变成“我不想测了”。传统解释将其归咎于测评误差、情境依赖或人格发展，但这些解释过于严肃。本研究提出一种最简理论模型，在无跨维度耦合、固定有向社交网络的条件下，我们“证明”当社交互动强度超过临界值时，系统从稳定型转变为混沌型，人格出现持续的翻转；而内禀的人格极化程度则使群体人格也趋于稳定。该模型也预测了社交互动强度、内禀人格极化程度都会加强最终的人格极化程度。</p><p>Keywords: MBTI；混沌；社交网络</p><h2 id="1-引言">1 引言</h2><p>MBTI 人格测试在现代社交网络中承担着重要的认知外包功能：只需要 4 个字母就可以替代一整个人。它提供了低成本的自我描述与他人预测，尤其适合用于：找对象、找队友、找借口。然而，用户社区中频繁出现一个“异常现象”：同一个个体的 MBTI 类型在时间上高度不稳定。这种不稳定通常被解释为（i）测试不可靠，（ii）情境变化，（iii）人格发展，或（iv）“你去测测荣格八维”。</p><p>这些解释虽然真实，但过于严肃。本研究采取更荒诞也更不近人情的立场：假设人本质上是稳定的，但是社交会把你搞乱。我们提出一个最简模型，在不引入跨维度耦合、不引入网络重组、不引入人生重大事件的条件下，仅靠“社会互动太强”就能产生持续不稳定与混沌动力学。</p><h2 id="2-方法">2 方法</h2><p>本研究属于纯粹理论研究，我们考虑一个理想化的社交动力学模型。</p><h3 id="2-1-Model-Description">2.1 Model Description</h3><h4 id="2-1-1-Individual-Personality-Variable">2.1.1 Individual Personality Variable</h4><p>本文不考虑维度之间的耦合，因此可以仅研究任意一个维度（例如 (N / S) ）的动力学。对个体 (i)，定义连续人格坐标：</p><p><img src="https://img.rubbish.press/file/2603/1772982205568_image.png" alt=""></p><p>其中 sgnxi对应二元类型（如 (x &gt; 0) 为 (N)，(x &lt; 0) 为 (S)）。同时我们引入无界隐变量 ℎi(t) ∈ ℝ，作为未经归一化的人格维度测量，并用双曲正切映射：</p><p><img src="https://img.rubbish.press/file/2603/1772982334211_image.png" alt=""></p><p>该结构保证 (xi) 永远落在 (-1,1) 内。</p><p>本文假设每个人都有一个“内禀人格倾向”，并用一个个体特异的偏置 bi 表示本征倾向，其分布刻画群体差异，并假设其服从均值为0，方差为 sigmab2的正态分布。这相当于假设“大多数人其实没有很极端的先天人格”，而 sigmab2 刻画了内禀人格极化程度。在无社交作用时，人格将收敛到</p><p><img src="https://img.rubbish.press/file/2603/1772982974013_image.png" alt=""></p><p>因此 bi直接决定个体的“默认MBTI倾向”。</p><h4 id="2-1-2-Social-Interaction">2.1.2 Social Interaction</h4><p>个体之间通过社交网络相互影响。我们假设非对称社交影响（想象一下，一个E人可以对I人不休，让其不得安宁，但I人的反应可能对E人毫无作用）。秉承学术垃圾原则，我们用图示的方法表示该模型（图1），以取代学术过端的常微分方程公式描述。</p><p><img src="https://img.rubbish.press/file/2603/1772983113196_image.png" alt=""><br>图1：社交网络模型示意图。网络实际上是全连接结构，部分连接因考虑可视化而未显示。</p><p>本文假设所有节点之间都存在相互作用，且作用强度服从均值为0，方差为 g^2/ N的正态分布。因此 (g) 刻画了社交互动强度。虽然由于I人的存在，假设all-to-all相互作用显然不合理，但作者暂时学不会怎么分析更真实的稀疏相互作用模型，因此留给未来工作。</p><h3 id="2-2-Cart-Gustav-Jung-Analytical-Approach-CGJ">2.2 Cart Gustav Jung Analytical Approach (CGJ)</h3><p>经典方法通常以动力学平均场论（Dynamical Mean-Field Theory，DMFT）对大规模网络动力学进行分析。然而，该方法推导严谨、符号密集，偏离“学术垃圾”应有的精神内核。本文因此拒绝采用DMFT，而转向一种更加符合MBTI选题的分析框架——Carl Gustav Jung Analytical Approach (CGJ)。</p><p>CGJ方法的核心步骤如下：（1）长时间凝视公式；（2）在尚未完全理解其物理意义前进入浅睡眠；（3）荣格大师为我们有趣的选题和虔诚的精神所感动，并在梦中给予启示；（4）醒来后将梦境内容整理为“自洽推导”。</p><p>根据荣格在梦中所述，该系统存在稳定相和混沌相判据为：g2 &lt; tanh ’ （ℎ）2 &gt;&lt; 1系统趋于稳定不动点，此时个体有稳定的人格，尽管不一定和其内禀偏好相同；当g 2 ⟨ tanh ’ ℎ ) 2 &gt; 1，系统处于混沌态，此时人格将随时发生剧烈变化（其中 (.) 代表取平均）。在结果中，我们进一步描述CGJ分析给出的，社交互动强度g、内禀人格极化程度 sigmab 对人格稳定性及人格分布的影响。</p><h3 id="2-3-Numerical-Simulation">2.3 Numerical Simulation</h3><p>本文通过欧拉法模拟了 (N = 2000) 的群体的动力学，并计算人格变量跨过0点的频率（即，sgn(x)发生变化的频率）以衡量人格翻转速率。</p><h2 id="3-结果与讨论">3 结果与讨论</h2><h3 id="3-1-Personality-Stability">3.1 Personality Stability</h3><p>根据荣格的指示，我们可以写出当系统处于平衡态时（注：平衡态包括系统宏观统计量不变的混沌态），h的方差 q = Var(h)满足的自治方程：<br><img src="https://img.rubbish.press/file/2603/1772983815926_image.png" alt=""></p><p>其中，r(q)代表某个函数。众所周知，人很难记住梦中的全部内容，因此 r(q)的具体形式已经被淡忘。我们指出，q可被理解为群体层面的人格极化程度：q越大，表示个体的隐变量 h更常远离零点、人格变量 (x) 的分布也更极化。由公式(1)进一步可以得到两相边界的曲线方程：<br><img src="https://img.rubbish.press/file/2603/1772983937180_image.png" alt=""></p><p>同理，s(q)代表某个函数，其具体形式也遗失在梦境中、难以追溯。对相边界进行数值求解，结果如图2A所示。</p><p>图2：（A）相图，黑色虚线表示理论相边界，<br><img src="https://img.rubbish.press/file/2603/1772984166553_image.png" alt=""><br>热图表示数值模拟所得人格反转速率；（B）混沌相和（C）稳定相下个体人格动力学示例；对应的参数值在（A）中由星号标示。</p><p>由图可以看出，g增加将系统推向混沌态，而 sigmab增加则使系统趋于稳定。我们进一步通过数值模拟计算人格变化频率，发现理论与数值结果完美吻合——感谢荣格——系统处于稳定相时人格几乎不翻转，而当系统处于混沌相时，人格开始翻转，且随 g增加而单调递增，随sigmab增加而单调递减。图2B、C展示了两种状态下，人格变量动力学的示例。</p><h3 id="3-2-Level-of-Personality-Polarization">3.2 Level of Personality Polarization</h3><p>根据公式(1)可以看出，群体的人格极化程度随g和 sigmab都单调增长，即，更强的社交互动、更强的内禀人格极化程度，都会增加最终的群体的人格极化程度，尽管两个参数对人格稳定性的作用不同。</p><h2 id="4-结论">4 结论</h2><p>本文提出一种最简理论机制，解释“为什么我的MBTI总在变”。在无跨维度耦合、固定有向网络结构下，我们证明仅凭社交耦合强度g的增大即可使系统产生混沌，并给出简明判据。该机制指出：人格不稳定并不需要人格本身“不稳定”，而是可以作为强社交耦合导致的动力学混沌自然出现。</p><p>未来工作将加入更现实的因素，如：稀疏的社交互动（为了I人着想）、多维度耦合（“INFJ是I人中最E的”）、社交网络重连（“N人和S人就是聊不到一块！”）、以及延迟反馈（隔天才回消息）等。</p><h2 id="Acknowledge">Acknowledge</h2><p>感谢那些坚持不懈地让我测MBTI的朋友们，以及你们提出的“你咋可能是INFP？”等诸多宝贵意见，没有你们就没有这个荒谬的选题。</p><h2 id="Reference">Reference</h2><p>[1] Sompolinsky, H., Crisanti, A., &amp; Sommers, H. J. (1988). Chaos in random neural networks. Physical Review Letters 61, no. 3 (1988): 259-62. <a href="https://doi.org/10.1103/PhysRevLett.61.259">https://doi.org/10.1103/PhysRevLett.61.259</a>.<br>[2] momo 的读书日记. 为什么我的MBTI 结果一直在变！！[Post]. 小红书（REDnote）.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 文章 </category>
+          
+          <category> 人格心理学研究 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> MBTI </tag>
+            
+            <tag> 混沌 </tag>
+            
+            <tag> 社交网络 </tag>
+            
+            <tag> 人格动力学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>勿擦我桌子：完美数据的守护者——桌面微生物</title>
       <link href="/posts/49877.html"/>
       <url>/posts/49877.html</url>
