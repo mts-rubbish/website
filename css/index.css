@@ -12158,6 +12158,11 @@ h1.page-title + .tag-cloud-list {
   transition: 0.3s;
   will-change: transform;
 }
+#random-banner #peoplecanvas {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
 #random-banner:hover {
   -webkit-box-shadow: var(--anzhiyu-shadow-main);
   box-shadow: var(--anzhiyu-shadow-main);
