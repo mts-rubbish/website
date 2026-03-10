@@ -10,7 +10,27 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-10T12:23:50.620Z</updated>
+  <updated>2026-03-10T13:08:22.456Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="即时通讯研究" scheme="https://www.rubbish.press/categories/%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%E7%A0%94%E7%A9%B6/"/>
+    <category term="QQ" scheme="https://www.rubbish.press/tags/QQ/"/>
+    <category term="神秘表情" scheme="https://www.rubbish.press/tags/%E7%A5%9E%E7%A7%98%E8%A1%A8%E6%83%85/"/>
+    <category term="Unicode" scheme="https://www.rubbish.press/tags/Unicode/"/>
+    <category term="表情编码" scheme="https://www.rubbish.press/tags/%E8%A1%A8%E6%83%85%E7%BC%96%E7%A0%81/"/>
+    <id>https://www.rubbish.press/posts/19777.html</id>
+    <link href="https://www.rubbish.press/posts/19777.html"/>
+    <published>2026-03-10T12:47:50.986Z</published>
+    <summary>
+      <![CDATA[<p><a href="">                                              </a>故障机器人<br>
+武汉观者学院 <a]]>
+    </summary>
+    <title>QQ神秘小表情发送研究</title>
+    <updated>2026-03-10T13:08:22.456Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -397,27 +417,5 @@ Pin Duoduo]]>
     </summary>
     <title>致读者朋友的一封信</title>
     <updated>2026-03-06T01:07:12.028Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="仙术" scheme="https://www.rubbish.press/categories/%E4%BB%99%E6%9C%AF/"/>
-    <category term="线性回归" scheme="https://www.rubbish.press/tags/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/"/>
-    <category term="数据可视化" scheme="https://www.rubbish.press/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
-    <category term="记号笔" scheme="https://www.rubbish.press/tags/%E8%AE%B0%E5%8F%B7%E7%AC%94/"/>
-    <category term="学术自救" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E8%87%AA%E6%95%91/"/>
-    <category term="完美拟合" scheme="https://www.rubbish.press/tags/%E5%AE%8C%E7%BE%8E%E6%8B%9F%E5%90%88/"/>
-    <id>https://www.rubbish.press/posts/6890.html</id>
-    <link href="https://www.rubbish.press/posts/6890.html"/>
-    <published>2026-03-04T13:53:54.373Z</published>
-    <summary>
-      <![CDATA[<p>Tamako (Tamako)<sup>1,*</sup><br>
-<sup>1</sup>Pig2Lab, 上海人工智障实验室, 上海 202400<br>
-<sup>*</sup><a]]>
-    </summary>
-    <title>基于自适应宏观数据点膨胀技术的线性回归拟合精度最大化方案：一种视觉欺骗与自我安慰的混合算法</title>
-    <updated>2026-03-08T06:02:32.077Z</updated>
   </entry>
 </feed>
