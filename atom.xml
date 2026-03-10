@@ -10,7 +10,31 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-10T13:31:26.771Z</updated>
+  <updated>2026-03-10T13:54:50.751Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="农学研究" scheme="https://www.rubbish.press/categories/%E5%86%9C%E5%AD%A6%E7%A0%94%E7%A9%B6/"/>
+    <category term="Agriculture" scheme="https://www.rubbish.press/tags/Agriculture/"/>
+    <category term="Sample Collection" scheme="https://www.rubbish.press/tags/Sample-Collection/"/>
+    <category term="Field Sampling" scheme="https://www.rubbish.press/tags/Field-Sampling/"/>
+    <category term="Risk Prevention" scheme="https://www.rubbish.press/tags/Risk-Prevention/"/>
+    <category term="农学" scheme="https://www.rubbish.press/tags/%E5%86%9C%E5%AD%A6/"/>
+    <category term="样品采集" scheme="https://www.rubbish.press/tags/%E6%A0%B7%E5%93%81%E9%87%87%E9%9B%86/"/>
+    <category term="野外采样" scheme="https://www.rubbish.press/tags/%E9%87%8E%E5%A4%96%E9%87%87%E6%A0%B7/"/>
+    <category term="风险防范" scheme="https://www.rubbish.press/tags/%E9%A3%8E%E9%99%A9%E9%98%B2%E8%8C%83/"/>
+    <id>https://www.rubbish.press/posts/39217.html</id>
+    <link href="https://www.rubbish.press/posts/39217.html"/>
+    <published>2026-03-10T13:47:08.681Z</published>
+    <summary>
+      <![CDATA[<p>Taat</p>
+<a href="https://file.rubbish.press/artical/%E5%B7%B2%E5%8F%91caiyang.pdf?preview" target="_blank" style="display: inline-flex;]]>
+    </summary>
+    <title>基于农学采样可能存在的困境研究现状与对策建议</title>
+    <updated>2026-03-10T13:54:50.751Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -408,20 +432,5 @@ Pin Duoduo]]>
     </summary>
     <title>王者荣耀：射手位前四分钟的经济研究</title>
     <updated>2026-03-08T05:45:11.507Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="中药学" scheme="https://www.rubbish.press/categories/%E4%B8%AD%E8%8D%AF%E5%AD%A6/"/>
-    <category term="抽象" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1/"/>
-    <category term="甄嬛传" scheme="https://www.rubbish.press/tags/%E7%94%84%E5%AC%9B%E4%BC%A0/"/>
-    <id>https://www.rubbish.press/posts/31539.html</id>
-    <link href="https://www.rubbish.press/posts/31539.html"/>
-    <published>2026-03-05T09:58:49.081Z</published>
-    <summary>Hera1,*,†Jasper2,† 1安徽酱料大学 2南七技校 †这些作者贡献相同。               阅读 PDF 全文   摘要 古装电视剧《甄嬛传》中，华妃年世兰集万千宠爱于一身却终身无子，最终在得知欢宜香真相后悲愤自尽，成为全剧最具冲击力的悲剧场景之一。剧情将不孕的直接原因指向皇帝特赐的欢宜香，尤其强调其中所含麝香的避孕功效。本文在梳理现有文献的基础上，结合中医妇科理论、现代生...</summary>
-    <title>宫闱秘辛与皇权政治：华妃不孕原因的跨学科分析</title>
-    <updated>2026-03-08T05:24:50.342Z</updated>
   </entry>
 </feed>
