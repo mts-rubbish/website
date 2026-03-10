@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>title</title>
-      <link href="/posts/42496.html"/>
-      <url>/posts/42496.html</url>
-      
-        <content type="html"><![CDATA[<p>！！请切换编辑模式为分屏预览！！</p><!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。 --><p>作者名字<sup>1,*,†</sup><br><sup>1</sup>工作单位<br><sup>*</sup><a href="mailto:abc@example.com">abc@example.com</a><br><sup>†</sup>这些作者贡献相同。</p><!-- 以下请在href=后填写pdf全网链接 --><a href="https://file.rubbish.press/artical/Rubbish%20017606292141098239885.pdf" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; background: #2563eb; color: white; border-radius: 8px; text-decoration: none; font-size: 15px; font-weight: 500; transition: all 0.2s;">  <svg style="width:18px;height:18px;fill:currentColor;" viewBox="0 0 24 24">    <path d="M20 2H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H8V4h12v12zM4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm12 6V9l-4 4-4-4v3h8z"/>  </svg>  阅读 PDF 全文</a><hr><h1>摘要</h1><p>我是摘要。</p><p><strong>关键词：</strong></p><hr><h1>1.一级标题</h1><p>我是正文。</p><h2 id="1-1-二级标题">1.1.二级标题</h2><p>我也是正文。</p><h3 id="1-1-1-三级标题">1.1.1. 三级标题</h3><p>我还是正文。</p><hr><h1>参考文献</h1><p>[1]XXXXXX</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>为什么我的 MBTI 一直在变？一种基于理论建模的人格不稳定性的新机制</title>
       <link href="/posts/31678.html"/>
       <url>/posts/31678.html</url>
