@@ -10,7 +10,27 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-10T11:58:28.274Z</updated>
+  <updated>2026-03-10T12:23:50.620Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文化研究" scheme="https://www.rubbish.press/categories/%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6/"/>
+    <category term="海绵宝宝" scheme="https://www.rubbish.press/tags/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D/"/>
+    <category term="洗碗海绵" scheme="https://www.rubbish.press/tags/%E6%B4%97%E7%A2%97%E6%B5%B7%E7%BB%B5/"/>
+    <category term="能动性" scheme="https://www.rubbish.press/tags/%E8%83%BD%E5%8A%A8%E6%80%A7/"/>
+    <category term="工具属性" scheme="https://www.rubbish.press/tags/%E5%B7%A5%E5%85%B7%E5%B1%9E%E6%80%A7/"/>
+    <id>https://www.rubbish.press/posts/44021.html</id>
+    <link href="https://www.rubbish.press/posts/44021.html"/>
+    <published>2026-03-10T12:11:19.270Z</published>
+    <summary>
+      <![CDATA[<p>鱿鱼干</p>
+<a href="https://file.rubbish.press/artical/%E5%B7%B2%E5%8F%91xiwanhaimian.pdf" target="_blank" style="display: inline-flex;]]>
+    </summary>
+    <title>为什么洗碗海绵具有能动性——以海绵宝宝为例</title>
+    <updated>2026-03-10T12:23:50.620Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -399,25 +419,5 @@ Pin Duoduo]]>
     </summary>
     <title>基于自适应宏观数据点膨胀技术的线性回归拟合精度最大化方案：一种视觉欺骗与自我安慰的混合算法</title>
     <updated>2026-03-08T06:02:32.077Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="外卖" scheme="https://www.rubbish.press/tags/%E5%A4%96%E5%8D%96/"/>
-    <category term="汉堡" scheme="https://www.rubbish.press/tags/%E6%B1%89%E5%A0%A1/"/>
-    <category term="测评" scheme="https://www.rubbish.press/tags/%E6%B5%8B%E8%AF%84/"/>
-    <category term="实用" scheme="https://www.rubbish.press/tags/%E5%AE%9E%E7%94%A8/"/>
-    <id>https://www.rubbish.press/posts/6147.html</id>
-    <link href="https://www.rubbish.press/posts/6147.html"/>
-    <published>2026-03-04T13:15:09.375Z</published>
-    <summary>
-      <![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。 -->
-<p><strong>Yunrui Li</strong>¹,✉,†, <strong>YijieGao</strong>¹,†, <strong>Yufan]]>
-    </summary>
-    <title>深夜外卖之解:各种品牌汉堡的横向比较</title>
-    <updated>2026-03-08T05:34:31.760Z</updated>
   </entry>
 </feed>
