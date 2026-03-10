@@ -16,7 +16,7 @@
       <name>Rubbish编辑部</name>
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="农学研究" scheme="https://www.rubbish.press/categories/%E5%86%9C%E5%AD%A6%E7%A0%94%E7%A9%B6/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
     <category term="Agriculture" scheme="https://www.rubbish.press/tags/Agriculture/"/>
     <category term="Sample Collection" scheme="https://www.rubbish.press/tags/Sample-Collection/"/>
     <category term="Field Sampling" scheme="https://www.rubbish.press/tags/Field-Sampling/"/>
@@ -40,7 +40,7 @@
       <name>Rubbish编辑部</name>
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="汪汪汪研究" scheme="https://www.rubbish.press/categories/%E6%B1%AA%E6%B1%AA%E6%B1%AA%E7%A0%94%E7%A9%B6/"/>
+    <category term="喜剧" scheme="https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/"/>
     <category term="汪汪汪" scheme="https://www.rubbish.press/tags/%E6%B1%AA%E6%B1%AA%E6%B1%AA/"/>
     <category term="汪汪" scheme="https://www.rubbish.press/tags/%E6%B1%AA%E6%B1%AA/"/>
     <category term="汪汪汪汪" scheme="https://www.rubbish.press/tags/%E6%B1%AA%E6%B1%AA%E6%B1%AA%E6%B1%AA/"/>
@@ -102,7 +102,7 @@
       <name>Rubbish编辑部</name>
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="非理性工程实践" scheme="https://www.rubbish.press/categories/%E9%9D%9E%E7%90%86%E6%80%A7%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
     <category term="小猫" scheme="https://www.rubbish.press/tags/%E5%B0%8F%E7%8C%AB/"/>
     <category term="庇护结构" scheme="https://www.rubbish.press/tags/%E5%BA%87%E6%8A%A4%E7%BB%93%E6%9E%84/"/>
     <category term="喵喵机制" scheme="https://www.rubbish.press/tags/%E5%96%B5%E5%96%B5%E6%9C%BA%E5%88%B6/"/>
