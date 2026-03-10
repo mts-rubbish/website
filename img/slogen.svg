@@ -1,0 +1,91 @@
+<svg width="720" height="250" viewBox="0 0 720 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="pop-shadow" x="-10%" y="-10%" width="120%" height="120%">
+            <feDropShadow dx="2" dy="4" stdDeviation="3" flood-color="#4a4a4a" flood-opacity="0.3"/>
+        </filter>
+        <linearGradient id="beamGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFEAA7" stop-opacity="0.7"/>
+            <stop offset="100%" stop-color="#00CEC9" stop-opacity="0.1"/>
+        </linearGradient>
+    </defs>
+    <!-- 嵌入式 CSS 动画 -->
+    <style>
+        /* UFO 悬浮动画 */
+        .ufo-group {
+            animation: float 4s ease-in-out infinite;
+            transform-origin: center;
+        }
+        /* 光束呼吸灯动画 */
+        .beam {
+            animation: pulse 2s ease-in-out infinite alternate;
+        }
+        /* 香蕉旋转吸入动画 */
+        .banana {
+            animation: abduct 3s ease-in-out infinite;
+            transform-origin: 140px 150px;
+        }
+        /* 符号跳动动画 */
+        .symbol {
+            animation: bounce 2s ease-in-out infinite;
+        }
+        .symbol-2 {
+            animation: bounce 2.5s ease-in-out infinite reverse;
+        }
+        @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+        }
+        @keyframes pulse {
+            0% { opacity: 0.6; }
+            100% { opacity: 1; }
+        }
+        @keyframes abduct {
+            0% { transform: translateY(5px) rotate(-20deg); }
+            50% { transform: translateY(-15px) rotate(10deg); }
+            100% { transform: translateY(5px) rotate(-20deg); }
+        }
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0px) rotate(15deg); }
+            50% { transform: translateY(-8px) rotate(25deg); }
+        }
+    </style>
+    <!-- 背景装饰线 -->
+    <g stroke="#B2BEC3" stroke-width="2" fill="none" opacity="0.6">
+        <circle cx="50" cy="40" r="5" />
+        <circle cx="680" cy="60" r="8" />
+        <path d="M 650 200 L 660 210 M 660 200 L 650 210" />
+        <path d="M 300 40 L 310 50 M 310 40 L 300 50" />
+        <path d="M 220 200 C 250 160, 280 230, 320 180" stroke-dasharray="5 5" stroke="#A29BFE" stroke-width="2"/>
+        <path d="M 520 70 C 580 50, 600 120, 660 90" stroke-dasharray="5 5" stroke="#FF7675" stroke-width="2"/>
+    </g>
+    <g filter="url(#pop-shadow)">
+        <!-- 动画组：UFO及光束 -->
+        <g class="ufo-group">
+            <polygon points="120,80 160,80 210,210 70,210" fill="url(#beamGrad)" class="beam" />
+            <path d="M 100 70 Q 140 20 180 70" fill="#81ECEC" opacity="0.8" stroke="#00CEC9" stroke-width="3"/>
+            <ellipse cx="140" cy="75" rx="55" ry="16" fill="#FD79A8" stroke="#E84393" stroke-width="3"/>
+            <ellipse cx="140" cy="70" rx="55" ry="12" fill="#FF7675" />
+            <circle cx="100" cy="75" r="3" fill="#FFEAA7"/>
+            <circle cx="140" cy="78" r="3" fill="#FFEAA7"/>
+            <circle cx="180" cy="75" r="3" fill="#FFEAA7"/>
+        </g>
+        <!-- 动画组：香蕉 -->
+        <path class="banana" d="M 125 145 Q 135 170 160 160 Q 145 150 125 145 Z" fill="#FDCB6E" stroke="#E17055" stroke-width="2"/>
+        <!-- 显微镜 (保持静止) -->
+        <rect x="110" y="195" width="60" height="12" rx="4" fill="#6C5CE7"/>
+        <path d="M 120 195 L 120 165 C 120 150 140 150 145 165 L 145 175" fill="none" stroke="#A29BFE" stroke-width="8" stroke-linecap="round"/>
+        <rect x="135" y="172" width="20" height="10" rx="2" fill="#0984E3"/>
+        <rect x="130" y="186" width="30" height="4" fill="#74B9FF"/>
+    </g>
+    <!-- 动画组：漂浮符号 -->
+    <text x="180" y="130" class="symbol" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#00B894" filter="url(#pop-shadow)">?</text>
+    <text x="80" y="180" class="symbol-2" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0984E3" filter="url(#pop-shadow)" transform="rotate(-30 80 180)">!</text>
+    <!-- 右侧文案 -->
+    <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" filter="url(#pop-shadow)">
+        <text x="270" y="105" font-size="44" font-weight="900" fill="#FF7675" letter-spacing="8">于 荒 诞 处</text>
+        <text x="360" y="165" font-size="52" font-weight="900" fill="#0984E3" letter-spacing="10">见 同 路 人</text>
+    </g>
+    <!-- 焦点框 -->
+    <path d="M 245 60 L 245 45 L 260 45" fill="none" stroke="#FDCB6E" stroke-width="4"/>
+    <path d="M 650 175 L 650 190 L 635 190" fill="none" stroke="#FDCB6E" stroke-width="4"/>
+</svg>
