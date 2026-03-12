@@ -79,10 +79,6 @@ https://www.rubbish.press/tags/%E6%9D%8E%E7%99%BD/
 https://www.rubbish.press/tags/%E7%A5%9E%E5%9C%A3%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD/
 https://www.rubbish.press/tags/%E6%97%B6%E7%A9%BA%E5%A3%81%E5%9E%92/
 https://www.rubbish.press/tags/%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%8E%B0%E8%B1%A1/
-https://www.rubbish.press/tags/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D/
-https://www.rubbish.press/tags/%E6%B4%97%E7%A2%97%E6%B5%B7%E7%BB%B5/
-https://www.rubbish.press/tags/%E8%83%BD%E5%8A%A8%E6%80%A7/
-https://www.rubbish.press/tags/%E5%B7%A5%E5%85%B7%E5%B1%9E%E6%80%A7/
 https://www.rubbish.press/tags/%E5%91%B3%E8%A7%89%E8%AE%B0%E5%BF%86/
 https://www.rubbish.press/tags/%E7%8C%9C%E4%BD%A0%E6%83%B3%E7%9F%A5%E9%81%93/
 https://www.rubbish.press/tags/%E5%90%83%E6%92%91%E4%BA%86/
@@ -195,6 +191,10 @@ https://www.rubbish.press/tags/%E6%B4%9B%E4%BC%A6%E5%85%B9%E5%9B%A0%E5%AD%90/
 https://www.rubbish.press/tags/%E8%BD%A8%E9%81%93%E8%A1%B0%E5%87%8F/
 https://www.rubbish.press/tags/%E8%83%BD%E9%87%8F%E9%80%9A%E9%87%8F/
 https://www.rubbish.press/tags/%E7%81%B5%E6%B0%94%E5%A4%8D%E8%8B%8F/
+https://www.rubbish.press/tags/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D/
+https://www.rubbish.press/tags/%E6%B4%97%E7%A2%97%E6%B5%B7%E7%BB%B5/
+https://www.rubbish.press/tags/%E8%83%BD%E5%8A%A8%E6%80%A7/
+https://www.rubbish.press/tags/%E5%B7%A5%E5%85%B7%E5%B1%9E%E6%80%A7/
 https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/
 https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/
 https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/
@@ -202,6 +202,6 @@ https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/
 https://www.rubbish.press/categories/%E4%BB%99%E6%9C%AF/
 https://www.rubbish.press/categories/%E8%B7%A8%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6/
 https://www.rubbish.press/categories/%E6%96%B0%E9%97%BB/
-https://www.rubbish.press/categories/%E6%8A%95%E7%A8%BF%E6%8C%87%E5%8D%97/
 https://www.rubbish.press/categories/%E6%B8%B8%E6%88%8F%E7%A0%94%E7%A9%B6/
+https://www.rubbish.press/categories/%E6%8A%95%E7%A8%BF%E6%8C%87%E5%8D%97/
 https://www.rubbish.press/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/
