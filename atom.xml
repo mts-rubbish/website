@@ -10,7 +10,31 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-12T03:21:56.930Z</updated>
+  <updated>2026-03-12T16:02:24.659Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="游戏研究" scheme="https://www.rubbish.press/categories/%E6%B8%B8%E6%88%8F%E7%A0%94%E7%A9%B6/"/>
+    <category term="原神" scheme="https://www.rubbish.press/tags/%E5%8E%9F%E7%A5%9E/"/>
+    <category term="深境螺旋" scheme="https://www.rubbish.press/tags/%E6%B7%B1%E5%A2%83%E8%9E%BA%E6%97%8B/"/>
+    <category term="百事可乐" scheme="https://www.rubbish.press/tags/%E7%99%BE%E4%BA%8B%E5%8F%AF%E4%B9%90/"/>
+    <category term="可口可乐" scheme="https://www.rubbish.press/tags/%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90/"/>
+    <category term="随机对照实验" scheme="https://www.rubbish.press/tags/%E9%9A%8F%E6%9C%BA%E5%AF%B9%E7%85%A7%E5%AE%9E%E9%AA%8C/"/>
+    <category term="快乐水效应" scheme="https://www.rubbish.press/tags/%E5%BF%AB%E4%B9%90%E6%B0%B4%E6%95%88%E5%BA%94/"/>
+    <category term="钟离" scheme="https://www.rubbish.press/tags/%E9%92%9F%E7%A6%BB/"/>
+    <id>https://www.rubbish.press/posts/11819.html</id>
+    <link href="https://www.rubbish.press/posts/11819.html"/>
+    <published>2026-03-12T15:42:44.211Z</published>
+    <summary>
+      <![CDATA[<p><strong>Shinye 宁叶<sup>1,*</sup></strong></p>
+<p><sup>1</sup> 东大村男子职业技术学院<br>
+<sup>*</sup> <a]]>
+    </summary>
+    <title>百事可乐与可口可乐对原神玩家深境螺旋通关表现影响的比较研究——一项随机对照实验</title>
+    <updated>2026-03-12T16:02:24.659Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -411,26 +435,5 @@ Mathew]]>
     </summary>
     <title>你为什么会呕吐</title>
     <updated>2026-03-08T13:56:16.909Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="纸书时代遗产" scheme="https://www.rubbish.press/tags/%E7%BA%B8%E4%B9%A6%E6%97%B6%E4%BB%A3%E9%81%97%E4%BA%A7/"/>
-    <category term="怀旧资产负债表" scheme="https://www.rubbish.press/tags/%E6%80%80%E6%97%A7%E8%B5%84%E4%BA%A7%E8%B4%9F%E5%80%BA%E8%A1%A8/"/>
-    <category term="情绪库存周转率" scheme="https://www.rubbish.press/tags/%E6%83%85%E7%BB%AA%E5%BA%93%E5%AD%98%E5%91%A8%E8%BD%AC%E7%8E%87/"/>
-    <category term="甜虐比结构指数" scheme="https://www.rubbish.press/tags/%E7%94%9C%E8%99%90%E6%AF%94%E7%BB%93%E6%9E%84%E6%8C%87%E6%95%B0/"/>
-    <category term="安全叙事工业" scheme="https://www.rubbish.press/tags/%E5%AE%89%E5%85%A8%E5%8F%99%E4%BA%8B%E5%B7%A5%E4%B8%9A/"/>
-    <id>https://www.rubbish.press/posts/13750.html</id>
-    <link href="https://www.rubbish.press/posts/13750.html"/>
-    <published>2026-03-08T06:17:06.341Z</published>
-    <summary>
-      <![CDATA[<p>Gavin Hu 1,*,† , Unemployed Pink Collar2,*,†<br>
-International Institute for Online Literature Studies (IIOLS), Center for]]>
-    </summary>
-    <title>旧瓶装新流量：陈年言情 IP 的工业复活术</title>
-    <updated>2026-03-08T06:28:49.457Z</updated>
   </entry>
 </feed>
