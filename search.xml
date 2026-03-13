@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>title</title>
+      <link href="/posts/42496.html"/>
+      <url>/posts/42496.html</url>
+      
+        <content type="html"><![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。 --><p>Arsenal Director<sup>1,*,†</sup>,zsdfdsd<sup>2,*,†</sup><br><sup>1</sup>HKUSTurkey, Hong Kong <sup>2</sup>SUSTCat, Shenzhen<br><sup>*</sup><a href="mailto:wguoaq@connect.ust.hk">wguoaq@connect.ust.hk</a>, <a href="mailto:zsdfdsd@qq.com">zsdfdsd@qq.com</a><br><sup>†</sup>这些作者贡献相同。</p><!-- 以下请在href=后的双引号里填写pdf全网链接 --><a href="https://file.rubbish.press/artical/dingwanranshao.pdf?preview" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; background: #2563eb; color: white; border-radius: 8px; text-decoration: none; font-size: 15px; font-weight: 500; transition: all 0.2s;">  <svg style="width:18px;height:18px;fill:currentColor;" viewBox="0 0 24 24">    <path d="M20 2H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H8V4h12v12zM4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm12 6V9l-4 4-4-4v3h8z"/>  </svg>  阅读 PDF 全文</a><hr><h1>Abstract（抽象）</h1><p>在熔融层积成型（FDM）3D打印制造过程当中，由于设备故障、设计失误等原因，得到的成品在尺寸方面可能会超出要求或预期范围。由于3D打印固化成型后的高分子材料具有较高的材料强度，在打印结束后很难对成品进行减材等后处理。本研究利用丁烷的燃烧对打印成型件进行加热，实现了3D打印成型件的快速减材制造，从而成功将成品尺寸缩小至要求范围。</p><p><strong>关键词：</strong></p><p>3D printing; Subtractive manufacturing; Butane; Combustion</p><h1>1 Introduction（简介）</h1><p>熔融层积成型（FDM）3D打印作为一种增材制造方式，具有成本低、操作简单、材料选择广泛等优势​<sup>[1]</sup>​，广泛应用于各种复杂与并不复杂的工件制造当中。然而在3D打印过程中，由于设备故障、设计失误等原因，得到的成品在尺寸方面可能会超出要求或预期的范围。由于大尺寸部件的单次打印时间过长，在时间紧迫的情况下会对产品的使用造成巨大影响。</p><p>由于3D打印固化成型后的高分子材料具有较高的材料强度，很难通过折弯 、剪切​等常规方式实现成型件的材料去除。</p><p>针对以上问题，本研究创新性地提出一种基于丁烷燃烧的3D打印成型件快速减材制造方法，利用燃烧产生的热量使高分子材料快速熔化，实现材料的高效去除。如图1所示：</p><p><img src="https://img.rubbish.press/file/2603/1773389408433_%E5%9B%BE%E7%89%8701.png" alt=""></p><center>图1 打印成型件快速减材制造流程</center><h1>2 Methodology（方法）</h1><h2 id="2-1-FDM-3D打印原理">2.1 FDM 3D打印原理</h2><p>通过<s>搜百度百科</s>对3D打印的原理进行研究，发现FDM 3D打印以PLA、ABS等热塑性高分子材料为原料，经过加热熔化、喷嘴挤出、逐层堆积、固化成型得到最终的三维产品<sup>[2]</sup>​。在加热至较高温度时材料表现出黏流性，能够通过喷嘴挤出并沉积于特定位置；在温度低于固化温度时材料开始固化成型并表现出较高的材料强度<sup>[3]</sup>​。由于打印所用的高分子材料的材料强度随温度升高而减小，所以在较高温度时更容易实现打印成型件的材料去除，因此需要通过某种途径对打印成型件进行快速加热。</p><h2 id="2-2-加热方式的确定">2.2 加热方式的确定</h2><p>想要实现对打印成型件的快速加热，需要选取合适的加热方式，以下是生活当中常见的几种加热方式：</p><h3 id="2-2-1-辐射加热">2.2.1 辐射加热</h3><p>辐射加热是通过<s>核辐射</s>烘箱、烤炉等发热体发出的红外辐射，由外至内对物体进行加热。该方法常用于整体或表面加热，无法实现某一小块区域的定点加热。</p><h3 id="2-2-2-电磁感应加热">2.2.2 电磁感应加热</h3><p>电磁感应加热的原理是啥我也不太清楚，不过这并不重要。总之电磁感应加热只能用于加热导电的磁性材料，对3D打印所使用的热塑性绝缘材料无效。</p><h3 id="2-2-3-明火加热">2.2.3 明火加热</h3><p>明火加热是一种简单粗暴的加热方式，该方式利用可燃物燃烧产生的火焰对物体进行直接加热，能够实现小范围的快速加热。因此认为该方法非常适用于3D打印材料的快速加热。</p><p>基于以上分析，本研究选择明火加热作为FDM 3D打印成型件的加热方式。</p><h2 id="2-3-丁烷的选取和使用">2.3 丁烷的选取和使用</h2><p>明火加热中可燃物的选取范围非常广泛，理论上来说很难确定哪种燃料的加热效果是最佳的。本研究并非偶然地发现存在一种名为“打火<s>坤</s>机”的小型取火装置，该装置通常以加压液化的丁烷（<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi mathvariant="normal">C</mi><mn>4</mn></msub><msub><mi mathvariant="normal">H</mi><mn>10</mn></msub></mrow><annotation encoding="application/x-tex">\mathrm{C_4H_{10}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"><span class="mord mathrm">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathrm mtight">4</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathrm mtight">10</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span>）为燃料，能够实现较小范围的快速点火<sup>[4]</sup>。经过<s>不到</s><s>3</s><s>秒钟</s>细致且全面的分析，作者认为“打火机”应用于本研究当中那简直是太绝妙了。</p><p>在使用丁烷的过程中，最好直接买以丁烷作为直接燃料的打火机。同时为保证实验的流畅性以及减材制造效率，推荐使用如图2所示的容易点火且不易熄灭的防风打火机。</p><p><img src="https://img.rubbish.press/file/2603/1773390211617_%E5%9B%BE%E7%89%8702.png" alt=""></p><center>图2 售价0.0002万元的打火机</center><h1>3 Result &amp; Discussion（结果与讨论）</h1><h2 id="3-1-研究过程">3.1 研究过程</h2><p>为了创造验证上述理论的正确性的机会，D教授组的智<s>障</s>能3D打印机在乌漆嘛黑的夜里经过6小时左右的<s>胡乱</s>精妙打印后得到了类似图1的①中所示的神奇物件。由于该物件当天上午就急着用，于是本文的两位作者被迫使用打火机进行了本研究的实验验证。<br>（为了生动描述实验过程，下文出现两人的大量对话，其中<strong>字体加粗的</strong>为作者zsdfdsd所说，其余为作者Arsenal Director所说。）<br>“<strong>3、2、1，点火！</strong>”随着点火装置的按动，<s>神舟五号</s>我们的3D打印部件被成功点燃。“桥豆麻袋（ちょっと待って，等一下），我们是要给材料加热来着，怎么直接给点着了？”“<strong>哦对，塑料这玩意确实是可燃的。问题不大，反正是要去除材料，怎么去掉都行。</strong>”</p><h2 id="3-2-研究结果">3.2 研究结果</h2><p>“我觉得加热的差不多了，你来把这一块扯掉。”“<strong>我靠这玩意儿咋这么黏，扯这么长了还不断。</strong>”“别急，你等它凉了变硬一点再给它掰断也行。”“<strong>搞定，这波简直完美！…我靠这玩意儿黏得我满手都是，我得赶紧去洗个手。</strong>”<br>本实验通过丁烷燃烧对材料进行加热和点燃，最终成功实现了打印成型件的快速减材制造，不能够为后续相关研究提供指导性帮助。</p><h2 id="3-3-分析讨论">3.3 分析讨论</h2><p>通过对实验过程与结果进行分析，我们认为本实验有以下几个需要注意的地方：<br>（1）本方法仅适用于时间紧迫时对于精度要求不高的物件进行减材，其他情况建议重新进行3D打印。<br>（2）在加热过程中材料在变软的同时也会变黏，很容易粘到手上，建议实验时佩戴一次性橡胶手套。<br>（3）当加热温度过高时材料会被点燃并产生黑烟，建议在空旷的环境下进行。切忌在加油站、化工厂、油库等易燃易爆危险区进行该实验。<br>（4）少数情况下打火机会连续打不着火，此时千万不要去摔火机，否则它很大概率会和您的血压一起爆炸。</p><h1>4 Conclusion（总结）</h1><p>本研究利用丁烷燃烧对3D打印成型件进行加热，使其恢复黏流性从而易于去除。在实验过程中作者意外地发现材料在较高温度下会被点燃，能够进一步提高减材制造的效率。研究最终实现了打印成型件的快速减材制造，在只能死马当做活马医的窘迫情境下具有奇效。</p><h1>Declaration（声明）</h1><p>本文是根据作者的真实经历所改编的娱乐性文章，大概率不具有任何学术价值。文章仅发表于《Rubbish》期刊中，与其他研究不存在关联与利益冲突。此外，文中如有任何错误或不严谨之处请<strong>千万不要</strong>与作者联系。</p><h1>Acknowledgement（致谢）</h1><p>本研究未得到国家自然科学基金支持，感谢广东工业大学提供实验场地和好吃的猪杂汤饭，同时感谢某台不太好用的3D打印机以及美宜佳两块钱的防风打火机。</p><h1>References（参考文献）</h1><p>[1] FDM 3D打印的优势. Deepseek. 2026.</p><p>[2] 熔融层积成型技术. 百度百科. 2026.</p><p>[3] 3D打印的原理. 作者自己总结的. 2026.</p><p>[4] 打火机. 百度百科. 2026.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 文章 </category>
+          
+          <category> 制造 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 3D打印 </tag>
+            
+            <tag> 减材制造 </tag>
+            
+            <tag> 燃烧 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>临床医学生二级学科选择与带教请客之间的关系：一项单中心、回顾性研究</title>
       <link href="/posts/56936.html"/>
       <url>/posts/56936.html</url>
