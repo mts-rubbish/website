@@ -10,7 +10,31 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-13T02:24:23.328Z</updated>
+  <updated>2026-03-13T02:46:57.193Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="统计学" scheme="https://www.rubbish.press/categories/%E7%BB%9F%E8%AE%A1%E5%AD%A6/"/>
+    <category term="孙悟空" scheme="https://www.rubbish.press/tags/%E5%AD%99%E6%82%9F%E7%A9%BA/"/>
+    <category term="七十二变" scheme="https://www.rubbish.press/tags/%E4%B8%83%E5%8D%81%E4%BA%8C%E5%8F%98/"/>
+    <category term="头发数量" scheme="https://www.rubbish.press/tags/%E5%A4%B4%E5%8F%91%E6%95%B0%E9%87%8F/"/>
+    <category term="非平稳统计" scheme="https://www.rubbish.press/tags/%E9%9D%9E%E5%B9%B3%E7%A8%B3%E7%BB%9F%E8%AE%A1/"/>
+    <category term="神话人物" scheme="https://www.rubbish.press/tags/%E7%A5%9E%E8%AF%9D%E4%BA%BA%E7%89%A9/"/>
+    <category term="荒诞研究" scheme="https://www.rubbish.press/tags/%E8%8D%92%E8%AF%9E%E7%A0%94%E7%A9%B6/"/>
+    <id>https://www.rubbish.press/posts/52547.html</id>
+    <link href="https://www.rubbish.press/posts/52547.html"/>
+    <published>2026-03-13T02:36:49.824Z</published>
+    <summary>
+      <![CDATA[<p>Pochuan Hu , Man without boyi, ferryman e, Minato Namikaze</p>
+<ol>
+<li>Lingtai Fangcun Mountain, Xieyue Sanxing Cave</li>
+<li>Huaguo]]>
+    </summary>
+    <title>孙悟空七十二变后头发数量的变化:基于非平稳统计的探索</title>
+    <updated>2026-03-13T02:46:57.193Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -417,26 +441,5 @@ Mathew]]>
     </summary>
     <title>为什么我的 MBTI 一直在变？一种基于理论建模的人格不稳定性的新机制</title>
     <updated>2026-03-09T12:52:32.777Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="桌面微生物" scheme="https://www.rubbish.press/tags/%E6%A1%8C%E9%9D%A2%E5%BE%AE%E7%94%9F%E7%89%A9/"/>
-    <category term="别擦桌子" scheme="https://www.rubbish.press/tags/%E5%88%AB%E6%93%A6%E6%A1%8C%E5%AD%90/"/>
-    <category term="实验顺利进行" scheme="https://www.rubbish.press/tags/%E5%AE%9E%E9%AA%8C%E9%A1%BA%E5%88%A9%E8%BF%9B%E8%A1%8C/"/>
-    <category term="别消毒" scheme="https://www.rubbish.press/tags/%E5%88%AB%E6%B6%88%E6%AF%92/"/>
-    <category term="别笑" scheme="https://www.rubbish.press/tags/%E5%88%AB%E7%AC%91/"/>
-    <id>https://www.rubbish.press/posts/49877.html</id>
-    <link href="https://www.rubbish.press/posts/49877.html"/>
-    <published>2026-03-08T14:38:56.749Z</published>
-    <summary>
-      <![CDATA[<p>TZTK, 微生物, and桌面微生物保护协会（The Table Microbe Conservation Society）</p>
-<a]]>
-    </summary>
-    <title>勿擦我桌子：完美数据的守护者——桌面微生物</title>
-    <updated>2026-03-08T14:50:22.094Z</updated>
   </entry>
 </feed>
