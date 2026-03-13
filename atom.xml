@@ -10,7 +10,31 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-13T05:27:41.148Z</updated>
+  <updated>2026-03-13T05:46:40.429Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="游戏研究" scheme="https://www.rubbish.press/categories/%E6%B8%B8%E6%88%8F%E7%A0%94%E7%A9%B6/"/>
+    <category term="关羽" scheme="https://www.rubbish.press/tags/%E5%85%B3%E7%BE%BD/"/>
+    <category term="赤兔马" scheme="https://www.rubbish.press/tags/%E8%B5%A4%E5%85%94%E9%A9%AC/"/>
+    <category term="王者峡谷" scheme="https://www.rubbish.press/tags/%E7%8E%8B%E8%80%85%E5%B3%A1%E8%B0%B7/"/>
+    <category term="河道生物多样性" scheme="https://www.rubbish.press/tags/%E6%B2%B3%E9%81%93%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A0%B7%E6%80%A7/"/>
+    <category term="生态系统健康" scheme="https://www.rubbish.press/tags/%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F%E5%81%A5%E5%BA%B7/"/>
+    <category term="虚拟生态干扰" scheme="https://www.rubbish.press/tags/%E8%99%9A%E6%8B%9F%E7%94%9F%E6%80%81%E5%B9%B2%E6%89%B0/"/>
+    <category term="猩红石像" scheme="https://www.rubbish.press/tags/%E7%8C%A9%E7%BA%A2%E7%9F%B3%E5%83%8F/"/>
+    <id>https://www.rubbish.press/posts/10483.html</id>
+    <link href="https://www.rubbish.press/posts/10483.html"/>
+    <published>2026-03-13T05:34:25.605Z</published>
+    <summary>
+      <![CDATA[<p>鱼骨 JJ，荧惑</p>
+<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
+<a]]>
+    </summary>
+    <title>关羽蹲草后显著降低了河道生物多样性和生态系统健康</title>
+    <updated>2026-03-13T05:46:40.429Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -437,25 +461,5 @@ Mathew]]>
     </summary>
     <title>QQ神秘小表情发送研究</title>
     <updated>2026-03-10T13:54:48.783Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="海绵宝宝" scheme="https://www.rubbish.press/tags/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D/"/>
-    <category term="洗碗海绵" scheme="https://www.rubbish.press/tags/%E6%B4%97%E7%A2%97%E6%B5%B7%E7%BB%B5/"/>
-    <category term="能动性" scheme="https://www.rubbish.press/tags/%E8%83%BD%E5%8A%A8%E6%80%A7/"/>
-    <category term="工具属性" scheme="https://www.rubbish.press/tags/%E5%B7%A5%E5%85%B7%E5%B1%9E%E6%80%A7/"/>
-    <id>https://www.rubbish.press/posts/44021.html</id>
-    <link href="https://www.rubbish.press/posts/44021.html"/>
-    <published>2026-03-10T12:11:19.270Z</published>
-    <summary>
-      <![CDATA[<p>鱿鱼干</p>
-<a href="https://file.rubbish.press/artical/%E5%B7%B2%E5%8F%91xiwanhaimian.pdf?preview" target="_blank" style="display:]]>
-    </summary>
-    <title>为什么洗碗海绵具有能动性——以海绵宝宝为例</title>
-    <updated>2026-03-10T12:23:50.620Z</updated>
   </entry>
 </feed>
