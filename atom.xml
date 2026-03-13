@@ -10,7 +10,31 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-13T05:46:40.429Z</updated>
+  <updated>2026-03-13T06:25:31.177Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="临床研究" scheme="https://www.rubbish.press/categories/%E4%B8%B4%E5%BA%8A%E7%A0%94%E7%A9%B6/"/>
+    <category term="临床医学生" scheme="https://www.rubbish.press/tags/%E4%B8%B4%E5%BA%8A%E5%8C%BB%E5%AD%A6%E7%94%9F/"/>
+    <category term="二级学科选择" scheme="https://www.rubbish.press/tags/%E4%BA%8C%E7%BA%A7%E5%AD%A6%E7%A7%91%E9%80%89%E6%8B%A9/"/>
+    <category term="实习带教" scheme="https://www.rubbish.press/tags/%E5%AE%9E%E4%B9%A0%E5%B8%A6%E6%95%99/"/>
+    <category term="泊松回归" scheme="https://www.rubbish.press/tags/%E6%B3%8A%E6%9D%BE%E5%9B%9E%E5%BD%92/"/>
+    <category term="医学教育" scheme="https://www.rubbish.press/tags/%E5%8C%BB%E5%AD%A6%E6%95%99%E8%82%B2/"/>
+    <category term="科室选择" scheme="https://www.rubbish.press/tags/%E7%A7%91%E5%AE%A4%E9%80%89%E6%8B%A9/"/>
+    <id>https://www.rubbish.press/posts/56936.html</id>
+    <link href="https://www.rubbish.press/posts/56936.html"/>
+    <published>2026-03-13T06:16:25.351Z</published>
+    <summary>
+      <![CDATA[<p>幻化成风<br>
+大山中学第一上官婉儿，广州，广东，中国，114514<br>
+翻斗花园第一不知火舞，广州，广东，中国，114515<br>
+<a]]>
+    </summary>
+    <title>临床医学生二级学科选择与带教请客之间的关系：一项单中心、回顾性研究</title>
+    <updated>2026-03-13T06:25:31.177Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -440,26 +464,5 @@ Mathew]]>
     </summary>
     <title>汪汪汪汪汪汪汪汪汪汪汪汪汪汪汪汪汪汪汪汪汪汪汪汪汪汪汪</title>
     <updated>2026-03-10T13:31:26.771Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="QQ" scheme="https://www.rubbish.press/tags/QQ/"/>
-    <category term="神秘表情" scheme="https://www.rubbish.press/tags/%E7%A5%9E%E7%A7%98%E8%A1%A8%E6%83%85/"/>
-    <category term="Unicode" scheme="https://www.rubbish.press/tags/Unicode/"/>
-    <category term="表情编码" scheme="https://www.rubbish.press/tags/%E8%A1%A8%E6%83%85%E7%BC%96%E7%A0%81/"/>
-    <id>https://www.rubbish.press/posts/19777.html</id>
-    <link href="https://www.rubbish.press/posts/19777.html"/>
-    <published>2026-03-10T12:47:50.986Z</published>
-    <summary>
-      <![CDATA[<p>故障机器人<br>
-武汉观者学院 <a href="mailto:defeat@watcher.edu">defeat@watcher.edu</a></p>
-<a]]>
-    </summary>
-    <title>QQ神秘小表情发送研究</title>
-    <updated>2026-03-10T13:54:48.783Z</updated>
   </entry>
 </feed>
