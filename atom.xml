@@ -10,7 +10,30 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-13T02:46:57.193Z</updated>
+  <updated>2026-03-13T03:02:14.521Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="心理学" scheme="https://www.rubbish.press/categories/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
+    <category term="亲密关系" scheme="https://www.rubbish.press/tags/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB/"/>
+    <category term="母胎单身" scheme="https://www.rubbish.press/tags/%E6%AF%8D%E8%83%8E%E5%8D%95%E8%BA%AB/"/>
+    <category term="处男" scheme="https://www.rubbish.press/tags/%E5%A4%84%E7%94%B7/"/>
+    <category term="异性恋" scheme="https://www.rubbish.press/tags/%E5%BC%82%E6%80%A7%E6%81%8B/"/>
+    <category term="心理特征" scheme="https://www.rubbish.press/tags/%E5%BF%83%E7%90%86%E7%89%B9%E5%BE%81/"/>
+    <category term="硕士研究生" scheme="https://www.rubbish.press/tags/%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
+    <id>https://www.rubbish.press/posts/16126.html</id>
+    <link href="https://www.rubbish.press/posts/16126.html"/>
+    <published>2026-03-13T02:56:55.804Z</published>
+    <summary>
+      <![CDATA[<p>BOOM¹,*</p>
+<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
+<a]]>
+    </summary>
+    <title>硕士研究生母胎及无性经验群体的心理特征相关研究——基于异性恋男性视角</title>
+    <updated>2026-03-13T03:02:14.521Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -421,25 +444,5 @@ Mathew]]>
     </summary>
     <title>猫猫如何通过科研活动占领地球？</title>
     <updated>2026-03-10T09:03:24.570Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="MBTI" scheme="https://www.rubbish.press/tags/MBTI/"/>
-    <category term="混沌" scheme="https://www.rubbish.press/tags/%E6%B7%B7%E6%B2%8C/"/>
-    <category term="社交网络" scheme="https://www.rubbish.press/tags/%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C/"/>
-    <category term="人格动力学" scheme="https://www.rubbish.press/tags/%E4%BA%BA%E6%A0%BC%E5%8A%A8%E5%8A%9B%E5%AD%A6/"/>
-    <id>https://www.rubbish.press/posts/31678.html</id>
-    <link href="https://www.rubbish.press/posts/31678.html"/>
-    <published>2026-03-08T14:59:02.006Z</published>
-    <summary>
-      <![CDATA[<p>我药当你蝶</p>
-<a]]>
-    </summary>
-    <title>为什么我的 MBTI 一直在变？一种基于理论建模的人格不稳定性的新机制</title>
-    <updated>2026-03-09T12:52:32.777Z</updated>
   </entry>
 </feed>
