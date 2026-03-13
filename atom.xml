@@ -40,6 +40,32 @@
       <name>Rubbish编辑部</name>
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="材料力学" scheme="https://www.rubbish.press/categories/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6/"/>
+    <category term="食品安全" scheme="https://www.rubbish.press/categories/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/"/>
+    <category term="猪肾" scheme="https://www.rubbish.press/tags/%E7%8C%AA%E8%82%BE/"/>
+    <category term="泌尿系统结石" scheme="https://www.rubbish.press/tags/%E6%B3%8C%E5%B0%BF%E7%B3%BB%E7%BB%9F%E7%BB%93%E7%9F%B3/"/>
+    <category term="草酸钙" scheme="https://www.rubbish.press/tags/%E8%8D%89%E9%85%B8%E9%92%99/"/>
+    <category term="局部应力集聚" scheme="https://www.rubbish.press/tags/%E5%B1%80%E9%83%A8%E5%BA%94%E5%8A%9B%E9%9B%86%E8%81%9A/"/>
+    <category term="蒙特卡洛模拟" scheme="https://www.rubbish.press/tags/%E8%92%99%E7%89%B9%E5%8D%A1%E6%B4%9B%E6%A8%A1%E6%8B%9F/"/>
+    <category term="穿透性击穿" scheme="https://www.rubbish.press/tags/%E7%A9%BF%E9%80%8F%E6%80%A7%E5%87%BB%E7%A9%BF/"/>
+    <category term="烤生蚝" scheme="https://www.rubbish.press/tags/%E7%83%A4%E7%94%9F%E8%9A%9D/"/>
+    <category term="牙齿损伤" scheme="https://www.rubbish.press/tags/%E7%89%99%E9%BD%BF%E6%8D%9F%E4%BC%A4/"/>
+    <id>https://www.rubbish.press/posts/46174.html</id>
+    <link href="https://www.rubbish.press/posts/46174.html"/>
+    <published>2026-03-13T09:52:47.863Z</published>
+    <summary>
+      <![CDATA[<p>Humanlike, CuteCat</p>
+<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
+<a]]>
+    </summary>
+    <title>烤猪肾消费场景下的意外硬物冲击：基于材料力学与概率分布的牙齿 “穿透性击穿”风险建模分析</title>
+    <updated>2026-03-13T10:39:35.364Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="制造" scheme="https://www.rubbish.press/categories/%E5%88%B6%E9%80%A0/"/>
     <category term="3D打印" scheme="https://www.rubbish.press/tags/3D%E6%89%93%E5%8D%B0/"/>
     <category term="减材制造" scheme="https://www.rubbish.press/tags/%E5%87%8F%E6%9D%90%E5%88%B6%E9%80%A0/"/>
@@ -445,29 +471,5 @@ Mathew]]>
     </summary>
     <title>“数据会自己长出来吗？”：基于拖延动力学与咖啡摄入量的实验室科研生存机制研究</title>
     <updated>2026-03-10T16:19:52.143Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="Agriculture" scheme="https://www.rubbish.press/tags/Agriculture/"/>
-    <category term="Sample Collection" scheme="https://www.rubbish.press/tags/Sample-Collection/"/>
-    <category term="Field Sampling" scheme="https://www.rubbish.press/tags/Field-Sampling/"/>
-    <category term="Risk Prevention" scheme="https://www.rubbish.press/tags/Risk-Prevention/"/>
-    <category term="农学" scheme="https://www.rubbish.press/tags/%E5%86%9C%E5%AD%A6/"/>
-    <category term="样品采集" scheme="https://www.rubbish.press/tags/%E6%A0%B7%E5%93%81%E9%87%87%E9%9B%86/"/>
-    <category term="野外采样" scheme="https://www.rubbish.press/tags/%E9%87%8E%E5%A4%96%E9%87%87%E6%A0%B7/"/>
-    <category term="风险防范" scheme="https://www.rubbish.press/tags/%E9%A3%8E%E9%99%A9%E9%98%B2%E8%8C%83/"/>
-    <id>https://www.rubbish.press/posts/39217.html</id>
-    <link href="https://www.rubbish.press/posts/39217.html"/>
-    <published>2026-03-10T13:47:08.681Z</published>
-    <summary>
-      <![CDATA[<p>Taat</p>
-<a href="https://file.rubbish.press/artical/%E5%B7%B2%E5%8F%91caiyang.pdf?preview" target="_blank" style="display: inline-flex;]]>
-    </summary>
-    <title>基于农学采样可能存在的困境研究现状与对策建议</title>
-    <updated>2026-03-10T13:54:50.751Z</updated>
   </entry>
 </feed>
