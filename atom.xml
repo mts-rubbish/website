@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-16T11:34:10.119Z</updated>
+  <updated>2026-03-16T12:00:49.945Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="学术垃圾" scheme="https://www.rubbish.press/categories/%E5%AD%A6%E6%9C%AF%E5%9E%83%E5%9C%BE/"/>
+    <category term="关键词" scheme="https://www.rubbish.press/tags/%E5%85%B3%E9%94%AE%E8%AF%8D/"/>
+    <id>https://www.rubbish.press/posts/40575.html</id>
+    <link href="https://www.rubbish.press/posts/40575.html"/>
+    <published>2026-03-16T11:55:17.640Z</published>
+    <summary>
+      <![CDATA[<p>我绞尽脑汁才想出来没准带着点跑题的标题M. K.1，总在抓人的小老板，蹭车的师弟and一天到晚见不着人的大老板1*</p>
+<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
+<a]]>
+    </summary>
+    <title>我绞尽脑汁才想出来没准带着点跑题的标题</title>
+    <updated>2026-03-16T12:00:49.945Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -448,28 +466,5 @@ Mathew]]>
     </summary>
     <title>姓名纠缠：全球化视域下东西方起名逻辑的量子叠加与语义坍缩</title>
     <updated>2026-03-11T10:53:23.649Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="密闭空间" scheme="https://www.rubbish.press/tags/%E5%AF%86%E9%97%AD%E7%A9%BA%E9%97%B4/"/>
-    <category term="电梯沉默" scheme="https://www.rubbish.press/tags/%E7%94%B5%E6%A2%AF%E6%B2%89%E9%BB%98/"/>
-    <category term="手机依赖" scheme="https://www.rubbish.press/tags/%E6%89%8B%E6%9C%BA%E4%BE%9D%E8%B5%96/"/>
-    <category term="垂直社交引力场" scheme="https://www.rubbish.press/tags/%E5%9E%82%E7%9B%B4%E7%A4%BE%E4%BA%A4%E5%BC%95%E5%8A%9B%E5%9C%BA/"/>
-    <category term="城市微空间动力学" scheme="https://www.rubbish.press/tags/%E5%9F%8E%E5%B8%82%E5%BE%AE%E7%A9%BA%E9%97%B4%E5%8A%A8%E5%8A%9B%E5%AD%A6/"/>
-    <id>https://www.rubbish.press/posts/48065.html</id>
-    <link href="https://www.rubbish.press/posts/48065.html"/>
-    <published>2026-03-11T02:47:04.366Z</published>
-    <summary>
-      <![CDATA[<p>爱吃牛油果的小学生</p>
-<p>中国小红书大学 中国哗哩哗哩大学<br>
-<a href="mailto:aichixxs@uni.edu.cn">aichixxs@uni.edu.cn</a></p>
-<a]]>
-    </summary>
-    <title>电梯里的人类为什么会集体沉默：一种垂直社交引力场与手机屏蔽效应的统一理论</title>
-    <updated>2026-03-11T03:11:06.702Z</updated>
   </entry>
 </feed>
