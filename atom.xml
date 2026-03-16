@@ -10,7 +10,27 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-16T12:00:49.945Z</updated>
+  <updated>2026-03-16T14:21:59.015Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
+    <category term="人体排气" scheme="https://www.rubbish.press/tags/%E4%BA%BA%E4%BD%93%E6%8E%92%E6%B0%94/"/>
+    <category term="反冲效应" scheme="https://www.rubbish.press/tags/%E5%8F%8D%E5%86%B2%E6%95%88%E5%BA%94/"/>
+    <category term="火箭推进" scheme="https://www.rubbish.press/tags/%E7%81%AB%E7%AE%AD%E6%8E%A8%E8%BF%9B/"/>
+    <category term="极限工况分析" scheme="https://www.rubbish.press/tags/%E6%9E%81%E9%99%90%E5%B7%A5%E5%86%B5%E5%88%86%E6%9E%90/"/>
+    <id>https://www.rubbish.press/posts/6139.html</id>
+    <link href="https://www.rubbish.press/posts/6139.html"/>
+    <published>2026-03-16T14:12:39.952Z</published>
+    <summary>
+      <![CDATA[<p>爱因斯坦 <sup>1,*</sup> 豆包 <sup>2,\†</sup><br>
+1中国可学园航人工程幼儿园and²字节跳动 <a href="mailto:shirenleima@inst.edu">shirenleima@inst.edu</a>]]>
+    </summary>
+    <title>人体排气的动量反冲效应与人体运动可行性分析</title>
+    <updated>2026-03-16T14:21:59.015Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -444,27 +464,5 @@ Mathew]]>
     </summary>
     <title>一个单样本的混沌系统：恋爱幸福感与工作积极性的动态耦合模型研究</title>
     <updated>2026-03-12T03:25:07.377Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="跨文化研究" scheme="https://www.rubbish.press/categories/%E8%B7%A8%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6/"/>
-    <category term="量子纠缠" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%AD%90%E7%BA%A0%E7%BC%A0/"/>
-    <category term="语义坍缩" scheme="https://www.rubbish.press/tags/%E8%AF%AD%E4%B9%89%E5%9D%8D%E7%BC%A9/"/>
-    <category term="命名学" scheme="https://www.rubbish.press/tags/%E5%91%BD%E5%90%8D%E5%AD%A6/"/>
-    <category term="全球化" scheme="https://www.rubbish.press/tags/%E5%85%A8%E7%90%83%E5%8C%96/"/>
-    <category term="乡土符号" scheme="https://www.rubbish.press/tags/%E4%B9%A1%E5%9C%9F%E7%AC%A6%E5%8F%B7/"/>
-    <id>https://www.rubbish.press/posts/60313.html</id>
-    <link href="https://www.rubbish.press/posts/60313.html"/>
-    <published>2026-03-11T10:47:48.169Z</published>
-    <summary>
-      <![CDATA[<p>小名</p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>姓名纠缠：全球化视域下东西方起名逻辑的量子叠加与语义坍缩</title>
-    <updated>2026-03-11T10:53:23.649Z</updated>
   </entry>
 </feed>
