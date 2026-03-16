@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-16T14:21:59.015Z</updated>
+  <updated>2026-03-16T16:03:35.841Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="胡言乱语" scheme="https://www.rubbish.press/categories/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/"/>
+    <category term="谋反" scheme="https://www.rubbish.press/tags/%E8%B0%8B%E5%8F%8D/"/>
+    <category term="诛九族" scheme="https://www.rubbish.press/tags/%E8%AF%9B%E4%B9%9D%E6%97%8F/"/>
+    <category term="性价比" scheme="https://www.rubbish.press/tags/%E6%80%A7%E4%BB%B7%E6%AF%94/"/>
+    <id>https://www.rubbish.press/posts/41458.html</id>
+    <link href="https://www.rubbish.press/posts/41458.html"/>
+    <published>2026-03-16T16:03:33.694Z</published>
+    <summary>
+      <![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。 -->
+<p>包]]>
+    </summary>
+    <title>论“谋反诛九族”的“性价比”——古代谋反选手的翻车实录</title>
+    <updated>2026-03-16T16:03:35.841Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -441,28 +460,5 @@ Mathew]]>
     </summary>
     <title>足球运动员巅峰期转会的地质控制因素——以梅西转会大巴黎为例</title>
     <updated>2026-03-12T03:21:56.930Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="情感动力学" scheme="https://www.rubbish.press/tags/%E6%83%85%E6%84%9F%E5%8A%A8%E5%8A%9B%E5%AD%A6/"/>
-    <category term="工作投入" scheme="https://www.rubbish.press/tags/%E5%B7%A5%E4%BD%9C%E6%8A%95%E5%85%A5/"/>
-    <category term="亲密关系支持" scheme="https://www.rubbish.press/tags/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E6%94%AF%E6%8C%81/"/>
-    <category term="混沌模型" scheme="https://www.rubbish.press/tags/%E6%B7%B7%E6%B2%8C%E6%A8%A1%E5%9E%8B/"/>
-    <category term="单样本设计" scheme="https://www.rubbish.press/tags/%E5%8D%95%E6%A0%B7%E6%9C%AC%E8%AE%BE%E8%AE%A1/"/>
-    <category term="秀恩爱的现象学考察" scheme="https://www.rubbish.press/tags/%E7%A7%80%E6%81%A9%E7%88%B1%E7%9A%84%E7%8E%B0%E8%B1%A1%E5%AD%A6%E8%80%83%E5%AF%9F/"/>
-    <id>https://www.rubbish.press/posts/30594.html</id>
-    <link href="https://www.rubbish.press/posts/30594.html"/>
-    <published>2026-03-12T02:04:12.874Z</published>
-    <summary>
-      <![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。 -->
-<p>@Vie<sup>1,*</sup><br>
-<sup>1</sup>Vie Studio</p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>一个单样本的混沌系统：恋爱幸福感与工作积极性的动态耦合模型研究</title>
-    <updated>2026-03-12T03:25:07.377Z</updated>
   </entry>
 </feed>
