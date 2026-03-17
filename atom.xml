@@ -10,7 +10,31 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-17T07:52:37.970Z</updated>
+  <updated>2026-03-17T07:59:06.615Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="科研恶搞" scheme="https://www.rubbish.press/categories/%E7%A7%91%E7%A0%94%E6%81%B6%E6%90%9E/"/>
+    <category term="发作性睡病" scheme="https://www.rubbish.press/tags/%E5%8F%91%E4%BD%9C%E6%80%A7%E7%9D%A1%E7%97%85/"/>
+    <category term="遗传学" scheme="https://www.rubbish.press/tags/%E9%81%97%E4%BC%A0%E5%AD%A6/"/>
+    <category term="早八" scheme="https://www.rubbish.press/tags/%E6%97%A9%E5%85%AB/"/>
+    <category term="家系分析" scheme="https://www.rubbish.press/tags/%E5%AE%B6%E7%B3%BB%E5%88%86%E6%9E%90/"/>
+    <category term="拟制血缘" scheme="https://www.rubbish.press/tags/%E6%8B%9F%E5%88%B6%E8%A1%80%E7%BC%98/"/>
+    <id>https://www.rubbish.press/posts/37963.html</id>
+    <link href="https://www.rubbish.press/posts/37963.html"/>
+    <published>2026-03-17T07:54:40.127Z</published>
+    <summary>
+      <![CDATA[<p>灵舞<br>
+咕咕嘎嘎研究院，生理医学系负叫兽<br>
+<a href="mailto:3467006478@qq.com">3467006478@qq.com</a></p>
+<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
+<a]]>
+    </summary>
+    <title>早八相关的家族性传染性发作性睡病家系分析</title>
+    <updated>2026-03-17T07:59:06.615Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -430,29 +454,5 @@
     </summary>
     <title>午膳对编辑下午处理稿件的能力影响——一项基于个案的研究</title>
     <updated>2026-03-13T05:27:41.148Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="哲学" scheme="https://www.rubbish.press/categories/%E5%93%B2%E5%AD%A6/"/>
-    <category term="宇宙大爆炸" scheme="https://www.rubbish.press/tags/%E5%AE%87%E5%AE%99%E5%A4%A7%E7%88%86%E7%82%B8/"/>
-    <category term="原初核合成" scheme="https://www.rubbish.press/tags/%E5%8E%9F%E5%88%9D%E6%A0%B8%E5%90%88%E6%88%90/"/>
-    <category term="道家哲学" scheme="https://www.rubbish.press/tags/%E9%81%93%E5%AE%B6%E5%93%B2%E5%AD%A6/"/>
-    <category term="元素演化" scheme="https://www.rubbish.press/tags/%E5%85%83%E7%B4%A0%E6%BC%94%E5%8C%96/"/>
-    <category term="宇宙地质学" scheme="https://www.rubbish.press/tags/%E5%AE%87%E5%AE%99%E5%9C%B0%E8%B4%A8%E5%AD%A6/"/>
-    <category term="中国传统思想" scheme="https://www.rubbish.press/tags/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E6%80%9D%E6%83%B3/"/>
-    <category term="跨学科研究" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E5%AD%A6%E7%A7%91%E7%A0%94%E7%A9%B6/"/>
-    <id>https://www.rubbish.press/posts/35208.html</id>
-    <link href="https://www.rubbish.press/posts/35208.html"/>
-    <published>2026-03-13T03:52:18.238Z</published>
-    <summary>
-      <![CDATA[<p>睿 ，大闲之才</p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>原初核合成的元素演化序列与道家“道生一，一生二，二生三，三生万物”的哲学耦合及宇宙地质启示</title>
-    <updated>2026-03-13T04:00:22.862Z</updated>
   </entry>
 </feed>
