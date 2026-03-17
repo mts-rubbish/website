@@ -10,7 +10,31 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-17T08:09:13.081Z</updated>
+  <updated>2026-03-17T08:22:09.331Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="科研恶搞" scheme="https://www.rubbish.press/categories/%E7%A7%91%E7%A0%94%E6%81%B6%E6%90%9E/"/>
+    <category term="实验室" scheme="https://www.rubbish.press/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4/"/>
+    <category term="白大褂" scheme="https://www.rubbish.press/tags/%E7%99%BD%E5%A4%A7%E8%A4%82/"/>
+    <category term="笔" scheme="https://www.rubbish.press/tags/%E7%AC%94/"/>
+    <category term="标志重捕法" scheme="https://www.rubbish.press/tags/%E6%A0%87%E5%BF%97%E9%87%8D%E6%8D%95%E6%B3%95/"/>
+    <category term="种群流动" scheme="https://www.rubbish.press/tags/%E7%A7%8D%E7%BE%A4%E6%B5%81%E5%8A%A8/"/>
+    <id>https://www.rubbish.press/posts/7124.html</id>
+    <link href="https://www.rubbish.press/posts/7124.html"/>
+    <published>2026-03-17T08:17:00.241Z</published>
+    <summary>
+      <![CDATA[<p>含章, Chatgpt<br>
+克莱登大学附属医院<br>
+克莱登大学人工智能学院</p>
+<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
+<a]]>
+    </summary>
+    <title>实验室环境中白大褂胸前口袋内笔种群流动特征的初步研究：基于标志重捕法的观察性分析</title>
+    <updated>2026-03-17T08:22:09.331Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -430,29 +454,5 @@ Brain Power University</p>
     </summary>
     <title>临床医学生二级学科选择与带教请客之间的关系：一项单中心、回顾性研究</title>
     <updated>2026-03-13T06:25:31.177Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="游戏研究" scheme="https://www.rubbish.press/categories/%E6%B8%B8%E6%88%8F%E7%A0%94%E7%A9%B6/"/>
-    <category term="关羽" scheme="https://www.rubbish.press/tags/%E5%85%B3%E7%BE%BD/"/>
-    <category term="赤兔马" scheme="https://www.rubbish.press/tags/%E8%B5%A4%E5%85%94%E9%A9%AC/"/>
-    <category term="王者峡谷" scheme="https://www.rubbish.press/tags/%E7%8E%8B%E8%80%85%E5%B3%A1%E8%B0%B7/"/>
-    <category term="河道生物多样性" scheme="https://www.rubbish.press/tags/%E6%B2%B3%E9%81%93%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A0%B7%E6%80%A7/"/>
-    <category term="生态系统健康" scheme="https://www.rubbish.press/tags/%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F%E5%81%A5%E5%BA%B7/"/>
-    <category term="虚拟生态干扰" scheme="https://www.rubbish.press/tags/%E8%99%9A%E6%8B%9F%E7%94%9F%E6%80%81%E5%B9%B2%E6%89%B0/"/>
-    <category term="猩红石像" scheme="https://www.rubbish.press/tags/%E7%8C%A9%E7%BA%A2%E7%9F%B3%E5%83%8F/"/>
-    <id>https://www.rubbish.press/posts/10483.html</id>
-    <link href="https://www.rubbish.press/posts/10483.html"/>
-    <published>2026-03-13T05:34:25.605Z</published>
-    <summary>
-      <![CDATA[<p>鱼骨 JJ，荧惑</p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>关羽蹲草后显著降低了河道生物多样性和生态系统健康</title>
-    <updated>2026-03-13T05:46:40.429Z</updated>
   </entry>
 </feed>
