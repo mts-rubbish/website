@@ -10,7 +10,32 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-18T09:06:04.221Z</updated>
+  <updated>2026-03-18T09:38:56.571Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="音游" scheme="https://www.rubbish.press/categories/%E9%9F%B3%E6%B8%B8/"/>
+    <category term="音游" scheme="https://www.rubbish.press/tags/%E9%9F%B3%E6%B8%B8/"/>
+    <category term="BanG Dream!" scheme="https://www.rubbish.press/tags/BanG-Dream/"/>
+    <category term="Roselia" scheme="https://www.rubbish.press/tags/Roselia/"/>
+    <category term="流速调整" scheme="https://www.rubbish.press/tags/%E6%B5%81%E9%80%9F%E8%B0%83%E6%95%B4/"/>
+    <category term="打击精度" scheme="https://www.rubbish.press/tags/%E6%89%93%E5%87%BB%E7%B2%BE%E5%BA%A6/"/>
+    <id>https://www.rubbish.press/posts/55689.html</id>
+    <link href="https://www.rubbish.press/posts/55689.html"/>
+    <published>2026-03-18T09:29:56.541Z</published>
+    <summary>
+      <![CDATA[<p>新手工作人员，凑友希那，冰川纱夜，今井莉莎，宇田川亚子，白金子<br>
+CIRCLE LIVE HOUSE<br>
+四叶女子大学<br>
+庆鹏女子大学<br>
+羽丘女子学园<br>
+<a]]>
+    </summary>
+    <title>如何通过精度判定调整音游流速 ——以《BanG Dream!》为例</title>
+    <updated>2026-03-18T09:38:56.571Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -469,28 +494,5 @@ Brain Power University</p>
     </summary>
     <title>味觉抑制与生命维持：单一环境下功能性饮食对个体心理及生理韧性的影响研究</title>
     <updated>2026-03-17T07:24:07.836Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="科研恶搞" scheme="https://www.rubbish.press/categories/%E7%A7%91%E7%A0%94%E6%81%B6%E6%90%9E/"/>
-    <category term="曲阜三孔" scheme="https://www.rubbish.press/tags/%E6%9B%B2%E9%98%9C%E4%B8%89%E5%AD%94/"/>
-    <category term="耶稣四孔" scheme="https://www.rubbish.press/tags/%E8%80%B6%E7%A8%A3%E5%9B%9B%E5%AD%94/"/>
-    <category term="儒家文化" scheme="https://www.rubbish.press/tags/%E5%84%92%E5%AE%B6%E6%96%87%E5%8C%96/"/>
-    <category term="基督教" scheme="https://www.rubbish.press/tags/%E5%9F%BA%E7%9D%A3%E6%95%99/"/>
-    <category term="符号象征" scheme="https://www.rubbish.press/tags/%E7%AC%A6%E5%8F%B7%E8%B1%A1%E5%BE%81/"/>
-    <category term="文化比较" scheme="https://www.rubbish.press/tags/%E6%96%87%E5%8C%96%E6%AF%94%E8%BE%83/"/>
-    <id>https://www.rubbish.press/posts/48477.html</id>
-    <link href="https://www.rubbish.press/posts/48477.html"/>
-    <published>2026-03-17T07:09:48.926Z</published>
-    <summary>
-      <![CDATA[<p>Yuan Jiang, Juan Wen</p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>为什么曲阜有三孔，而耶稣却有四个孔？—基于文化符号与宗教象征的比较研究</title>
-    <updated>2026-03-17T07:17:21.710Z</updated>
   </entry>
 </feed>
