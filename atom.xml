@@ -10,7 +10,32 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-18T03:09:40.676Z</updated>
+  <updated>2026-03-18T06:26:13.591Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="科研恶搞" scheme="https://www.rubbish.press/categories/%E7%A7%91%E7%A0%94%E6%81%B6%E6%90%9E/"/>
+    <category term="小组作业" scheme="https://www.rubbish.press/tags/%E5%B0%8F%E7%BB%84%E4%BD%9C%E4%B8%9A/"/>
+    <category term="国际关系理论" scheme="https://www.rubbish.press/tags/%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB%E7%90%86%E8%AE%BA/"/>
+    <category term="安全困境" scheme="https://www.rubbish.press/tags/%E5%AE%89%E5%85%A8%E5%9B%B0%E5%A2%83/"/>
+    <category term="现实还原" scheme="https://www.rubbish.press/tags/%E7%8E%B0%E5%AE%9E%E8%BF%98%E5%8E%9F/"/>
+    <category term="制度合作论" scheme="https://www.rubbish.press/tags/%E5%88%B6%E5%BA%A6%E5%90%88%E4%BD%9C%E8%AE%BA/"/>
+    <id>https://www.rubbish.press/posts/8478.html</id>
+    <link href="https://www.rubbish.press/posts/8478.html"/>
+    <published>2026-03-18T06:22:32.462Z</published>
+    <summary>
+      <![CDATA[<p>Kun Ai, DeepSeek<br>
+无线电法国别研究研究所<br>
+人工智能助手<br>
+<a href="mailto:ikun@outlook.com">ikun@outlook.com</a><br>
+贡献相同</p>
+<!--]]>
+    </summary>
+    <title>在无政府教室的星空下：新型小组作业关系的理论建构与实践突围 ——一种基于现实还原范式的国际关系理论本土化尝试</title>
+    <updated>2026-03-18T06:26:13.591Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -436,25 +461,5 @@ Brain Power University</p>
     </summary>
     <title>烤猪肾消费场景下的意外硬物冲击：基于材料力学与概率分布的牙齿 “穿透性击穿”风险建模分析</title>
     <updated>2026-03-13T10:39:35.364Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="制造" scheme="https://www.rubbish.press/categories/%E5%88%B6%E9%80%A0/"/>
-    <category term="3D打印" scheme="https://www.rubbish.press/tags/3D%E6%89%93%E5%8D%B0/"/>
-    <category term="减材制造" scheme="https://www.rubbish.press/tags/%E5%87%8F%E6%9D%90%E5%88%B6%E9%80%A0/"/>
-    <category term="燃烧" scheme="https://www.rubbish.press/tags/%E7%87%83%E7%83%A7/"/>
-    <id>https://www.rubbish.press/posts/14122.html</id>
-    <link href="https://www.rubbish.press/posts/14122.html"/>
-    <published>2026-03-13T07:37:58.982Z</published>
-    <summary>
-      <![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。 -->
-<p>Arsenal Director<sup>1,*,†</sup>,zsdfdsd<sup>2,*,†</sup><br>
-<sup>1</sup>HKUSTurkey, Hong]]>
-    </summary>
-    <title>基于丁烷燃烧的3D打印成型件快速减材制造方法</title>
-    <updated>2026-03-13T15:54:01.288Z</updated>
   </entry>
 </feed>
