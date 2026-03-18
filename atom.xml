@@ -10,7 +10,32 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-18T07:56:18.735Z</updated>
+  <updated>2026-03-18T08:04:10.483Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="中医学" scheme="https://www.rubbish.press/categories/%E4%B8%AD%E5%8C%BB%E5%AD%A6/"/>
+    <category term="中医" scheme="https://www.rubbish.press/tags/%E4%B8%AD%E5%8C%BB/"/>
+    <category term="五行" scheme="https://www.rubbish.press/tags/%E4%BA%94%E8%A1%8C/"/>
+    <category term="人体" scheme="https://www.rubbish.press/tags/%E4%BA%BA%E4%BD%93/"/>
+    <category term="呼吸" scheme="https://www.rubbish.press/tags/%E5%91%BC%E5%90%B8/"/>
+    <category term="排泄" scheme="https://www.rubbish.press/tags/%E6%8E%92%E6%B3%84/"/>
+    <category term="炼金术" scheme="https://www.rubbish.press/tags/%E7%82%BC%E9%87%91%E6%9C%AF/"/>
+    <id>https://www.rubbish.press/posts/40038.html</id>
+    <link href="https://www.rubbish.press/posts/40038.html"/>
+    <published>2026-03-18T07:58:56.992Z</published>
+    <summary>
+      <![CDATA[<p>MaDouLingNeiXiAn<br>
+焦虑大学炼狱系<br>
+<a href="mailto:abc@uni.edu">abc@uni.edu</a></p>
+<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
+<a]]>
+    </summary>
+    <title>人体作为微型炼金术工坊的初步探索</title>
+    <updated>2026-03-18T08:04:10.483Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -454,25 +479,5 @@ Brain Power University</p>
     </summary>
     <title>论“谋反诛九族”的“性价比”——古代谋反选手的翻车实录</title>
     <updated>2026-03-16T16:03:35.841Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
-    <category term="人体排气" scheme="https://www.rubbish.press/tags/%E4%BA%BA%E4%BD%93%E6%8E%92%E6%B0%94/"/>
-    <category term="反冲效应" scheme="https://www.rubbish.press/tags/%E5%8F%8D%E5%86%B2%E6%95%88%E5%BA%94/"/>
-    <category term="火箭推进" scheme="https://www.rubbish.press/tags/%E7%81%AB%E7%AE%AD%E6%8E%A8%E8%BF%9B/"/>
-    <category term="极限工况分析" scheme="https://www.rubbish.press/tags/%E6%9E%81%E9%99%90%E5%B7%A5%E5%86%B5%E5%88%86%E6%9E%90/"/>
-    <id>https://www.rubbish.press/posts/6139.html</id>
-    <link href="https://www.rubbish.press/posts/6139.html"/>
-    <published>2026-03-16T14:12:39.952Z</published>
-    <summary>
-      <![CDATA[<p>爱因斯坦 <sup>1,*</sup> 豆包 <sup>2,\†</sup><br>
-1中国可学园航人工程幼儿园and²字节跳动 <a href="mailto:shirenleima@inst.edu">shirenleima@inst.edu</a>]]>
-    </summary>
-    <title>人体排气的动量反冲效应与人体运动可行性分析</title>
-    <updated>2026-03-16T14:21:59.015Z</updated>
   </entry>
 </feed>
