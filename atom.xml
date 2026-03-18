@@ -10,7 +10,31 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-18T06:52:13.456Z</updated>
+  <updated>2026-03-18T07:00:05.891Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="传播学" scheme="https://www.rubbish.press/categories/%E4%BC%A0%E6%92%AD%E5%AD%A6/"/>
+    <category term="未发送信息" scheme="https://www.rubbish.press/tags/%E6%9C%AA%E5%8F%91%E9%80%81%E4%BF%A1%E6%81%AF/"/>
+    <category term="空白传播" scheme="https://www.rubbish.press/tags/%E7%A9%BA%E7%99%BD%E4%BC%A0%E6%92%AD/"/>
+    <category term="量子传播" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%AD%90%E4%BC%A0%E6%92%AD/"/>
+    <category term="潜在信息场" scheme="https://www.rubbish.press/tags/%E6%BD%9C%E5%9C%A8%E4%BF%A1%E6%81%AF%E5%9C%BA/"/>
+    <category term="输入框哲学" scheme="https://www.rubbish.press/tags/%E8%BE%93%E5%85%A5%E6%A1%86%E5%93%B2%E5%AD%A6/"/>
+    <id>https://www.rubbish.press/posts/31398.html</id>
+    <link href="https://www.rubbish.press/posts/31398.html"/>
+    <published>2026-03-18T06:56:30.877Z</published>
+    <summary>
+      <![CDATA[<p>妙语空空真君, 知论派<br>
+中国沉思大学<br>
+中国输入框研究院<br>
+<a href="mailto:never_send@520.com">never_send@520.com</a></p>
+<!-- 以下请在href=后的双引号里填写pdf全网链接]]>
+    </summary>
+    <title>言说即坍塌：数字聊天框中的量子传播学</title>
+    <updated>2026-03-18T07:00:05.891Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -439,25 +463,5 @@ Brain Power University</p>
     </summary>
     <title>放假缓冲期存在的必要性研究——基于大学生假期时间补偿与心理适应的视角</title>
     <updated>2026-03-16T11:17:10.905Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="幻想" scheme="https://www.rubbish.press/categories/%E5%B9%BB%E6%83%B3/"/>
-    <category term="爽文" scheme="https://www.rubbish.press/categories/%E7%88%BD%E6%96%87/"/>
-    <category term="叶凡" scheme="https://www.rubbish.press/tags/%E5%8F%B6%E5%87%A1/"/>
-    <category term="萧炎" scheme="https://www.rubbish.press/tags/%E8%90%A7%E7%82%8E/"/>
-    <category term="唐三" scheme="https://www.rubbish.press/tags/%E5%94%90%E4%B8%89/"/>
-    <category term="李嘉图·M·路" scheme="https://www.rubbish.press/tags/%E6%9D%8E%E5%98%89%E5%9B%BE%C2%B7M%C2%B7%E8%B7%AF/"/>
-    <id>https://www.rubbish.press/posts/53680.html</id>
-    <link href="https://www.rubbish.press/posts/53680.html"/>
-    <published>2026-03-14T17:03:44.187Z</published>
-    <summary>
-      <![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。]]>
-    </summary>
-    <title>全球科研能力下降一万倍，一篇Rubbish被各大高校疯抢</title>
-    <updated>2026-03-14T17:03:43.335Z</updated>
   </entry>
 </feed>
