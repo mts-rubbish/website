@@ -10,7 +10,31 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-18T06:38:49.167Z</updated>
+  <updated>2026-03-18T06:52:13.456Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="研究生" scheme="https://www.rubbish.press/categories/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
+    <category term="研究生" scheme="https://www.rubbish.press/tags/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
+    <category term="导师消息" scheme="https://www.rubbish.press/tags/%E5%AF%BC%E5%B8%88%E6%B6%88%E6%81%AF/"/>
+    <category term="心理坍缩" scheme="https://www.rubbish.press/tags/%E5%BF%83%E7%90%86%E5%9D%8D%E7%BC%A9/"/>
+    <category term="应激性假死" scheme="https://www.rubbish.press/tags/%E5%BA%94%E6%BF%80%E6%80%A7%E5%81%87%E6%AD%BB/"/>
+    <category term="学术恐慌" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E6%81%90%E6%85%8C/"/>
+    <id>https://www.rubbish.press/posts/14268.html</id>
+    <link href="https://www.rubbish.press/posts/14268.html"/>
+    <published>2026-03-18T06:44:11.852Z</published>
+    <summary>
+      <![CDATA[<p>Shuaibi Da<br>
+某深夜刷手机不睡觉大学<br>
+论文学术牲</p>
+<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
+<a]]>
+    </summary>
+    <title>研究生收到导师消息后的心理坍缩机制与应激性假死研究</title>
+    <updated>2026-03-18T06:52:13.456Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -435,29 +459,5 @@ Brain Power University</p>
     </summary>
     <title>全球科研能力下降一万倍，一篇Rubbish被各大高校疯抢</title>
     <updated>2026-03-14T17:03:43.335Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="材料科学" scheme="https://www.rubbish.press/categories/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6/"/>
-    <category term="荒诞研究" scheme="https://www.rubbish.press/tags/%E8%8D%92%E8%AF%9E%E7%A0%94%E7%A9%B6/"/>
-    <category term="炼金术" scheme="https://www.rubbish.press/tags/%E7%82%BC%E9%87%91%E6%9C%AF/"/>
-    <category term="钨钼合金" scheme="https://www.rubbish.press/tags/%E9%92%A8%E9%92%BC%E5%90%88%E9%87%91/"/>
-    <category term="燃气舵" scheme="https://www.rubbish.press/tags/%E7%87%83%E6%B0%94%E8%88%B5/"/>
-    <category term="内炼金术" scheme="https://www.rubbish.press/tags/%E5%86%85%E7%82%BC%E9%87%91%E6%9C%AF/"/>
-    <category term="哲学性升华" scheme="https://www.rubbish.press/tags/%E5%93%B2%E5%AD%A6%E6%80%A7%E5%8D%87%E5%8D%8E/"/>
-    <category term="形而上学材料科学" scheme="https://www.rubbish.press/tags/%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6/"/>
-    <id>https://www.rubbish.press/posts/18054.html</id>
-    <link href="https://www.rubbish.press/posts/18054.html"/>
-    <published>2026-03-13T09:54:44.593Z</published>
-    <summary>
-      <![CDATA[<p>Dr.DuskGleam Drawn</p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>论炼金术步骤在钨钼合金燃气舵“内炼金术化”性能提升中的潜在机理与应用前景初探</title>
-    <updated>2026-03-13T10:07:24.506Z</updated>
   </entry>
 </feed>
