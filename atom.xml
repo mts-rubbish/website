@@ -10,7 +10,32 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-18T08:17:44.976Z</updated>
+  <updated>2026-03-18T08:34:47.499Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="研究生" scheme="https://www.rubbish.press/categories/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
+    <category term="实验室玄学" scheme="https://www.rubbish.press/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%8E%84%E5%AD%A6/"/>
+    <category term="跨年夜" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E5%B9%B4%E5%A4%9C/"/>
+    <category term="马弗炉" scheme="https://www.rubbish.press/tags/%E9%A9%AC%E5%BC%97%E7%82%89/"/>
+    <category term="催化剂" scheme="https://www.rubbish.press/tags/%E5%82%AC%E5%8C%96%E5%89%82/"/>
+    <category term="怨气守恒" scheme="https://www.rubbish.press/tags/%E6%80%A8%E6%B0%94%E5%AE%88%E6%81%92/"/>
+    <id>https://www.rubbish.press/posts/23409.html</id>
+    <link href="https://www.rubbish.press/posts/23409.html"/>
+    <published>2026-03-18T08:19:17.674Z</published>
+    <summary>
+      <![CDATA[<p>花生米，大米粒<br>
+情绪动力学与材料玄学研究中心<br>
+国自燃科学基金“孤寡”学者专项办公室第一作者也是唯一干活的人<br>
+通讯作者（负责在跨年夜给第一作者发消息“结果出来了吗”）</p>
+<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
+<a]]>
+    </summary>
+    <title>实验室“怨气守恒”定律：科研打工人情绪对催化剂“黑化” 效应的影响——以跨年夜合成实验为补充验证</title>
+    <updated>2026-03-18T08:34:47.499Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -463,26 +488,5 @@ Brain Power University</p>
     </summary>
     <title>腿-眼轴：关于老鼠的腿决定它能不能看见猫的研究</title>
     <updated>2026-03-17T02:26:44.189Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="行为研究" scheme="https://www.rubbish.press/categories/%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6/"/>
-    <category term="茶歇" scheme="https://www.rubbish.press/tags/%E8%8C%B6%E6%AD%87/"/>
-    <category term="学术会议" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE/"/>
-    <category term="学术蝗虫" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E8%9D%97%E8%99%AB/"/>
-    <id>https://www.rubbish.press/posts/51922.html</id>
-    <link href="https://www.rubbish.press/posts/51922.html"/>
-    <published>2026-03-16T16:27:40.264Z</published>
-    <summary>
-      <![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。 -->
-<p>李楂燃<sup>1,*</sup><br>
-<sup>1</sup>红薯大学<br>
-<sup>*</sup><a]]>
-    </summary>
-    <title>论“学术蝗虫”的摄食行为学：从社交礼仪到生存本能的坍塌——基于某高效学术会议“茶歇修罗场”的实证观察</title>
-    <updated>2026-03-16T16:27:41.589Z</updated>
   </entry>
 </feed>
