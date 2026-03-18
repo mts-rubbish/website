@@ -63,6 +63,26 @@ CIRCLE LIVE HOUSE<br>
       <name>Rubbish编辑部</name>
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="美食" scheme="https://www.rubbish.press/categories/%E7%BE%8E%E9%A3%9F/"/>
+    <category term="量子化学" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6/"/>
+    <category term="DFT" scheme="https://www.rubbish.press/tags/DFT/"/>
+    <category term="动物性格" scheme="https://www.rubbish.press/tags/%E5%8A%A8%E7%89%A9%E6%80%A7%E6%A0%BC/"/>
+    <category term="食物口感" scheme="https://www.rubbish.press/tags/%E9%A3%9F%E7%89%A9%E5%8F%A3%E6%84%9F/"/>
+    <category term="构象模拟" scheme="https://www.rubbish.press/tags/%E6%9E%84%E8%B1%A1%E6%A8%A1%E6%8B%9F/"/>
+    <id>https://www.rubbish.press/posts/14638.html</id>
+    <link href="https://www.rubbish.press/posts/14638.html"/>
+    <published>2026-03-18T09:11:35.394Z</published>
+    <summary>
+      <![CDATA[<p>Prof. Guo, Prof. Zhou, Prof. Jiao, Prof. Huang, Dr. Silico, Dr. Bao Dou and Dr.]]>
+    </summary>
+    <title>小龙虾、鹅、蜜蜂的食物风味与动物性格对其构象模拟分子的量子化学计算及光化学性质的影响</title>
+    <updated>2026-03-18T09:52:52.322Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="音乐" scheme="https://www.rubbish.press/categories/%E9%9F%B3%E4%B9%90/"/>
     <category term="Suno大模型" scheme="https://www.rubbish.press/tags/Suno%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
     <category term="摸鱼式探索" scheme="https://www.rubbish.press/tags/%E6%91%B8%E9%B1%BC%E5%BC%8F%E6%8E%A2%E7%B4%A2/"/>
@@ -472,27 +492,5 @@ Brain Power University</p>
     </summary>
     <title>玉足！基于多维度工艺化的足部趾甲类食物炒制风味提升机制研究</title>
     <updated>2026-03-17T07:52:37.970Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="科研恶搞" scheme="https://www.rubbish.press/categories/%E7%A7%91%E7%A0%94%E6%81%B6%E6%90%9E/"/>
-    <category term="以伊战争" scheme="https://www.rubbish.press/tags/%E4%BB%A5%E4%BC%8A%E6%88%98%E4%BA%89/"/>
-    <category term="研究生" scheme="https://www.rubbish.press/tags/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
-    <category term="睡眠质量" scheme="https://www.rubbish.press/tags/%E7%9D%A1%E7%9C%A0%E8%B4%A8%E9%87%8F/"/>
-    <category term="心理应激" scheme="https://www.rubbish.press/tags/%E5%BF%83%E7%90%86%E5%BA%94%E6%BF%80/"/>
-    <category term="PSQI" scheme="https://www.rubbish.press/tags/PSQI/"/>
-    <id>https://www.rubbish.press/posts/47681.html</id>
-    <link href="https://www.rubbish.press/posts/47681.html"/>
-    <published>2026-03-17T07:26:51.499Z</published>
-    <summary>
-      <![CDATA[<p>Yuan Jiang, Juan Wen</p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>以色列与伊朗战争对中国研究生睡眠质量的影响及机制研究</title>
-    <updated>2026-03-18T05:53:40.522Z</updated>
   </entry>
 </feed>
