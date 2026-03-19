@@ -10,7 +10,30 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-19T14:41:41.594Z</updated>
+  <updated>2026-03-19T14:52:48.753Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="研究生" scheme="https://www.rubbish.press/categories/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
+    <category term="教育研究" scheme="https://www.rubbish.press/categories/%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6/"/>
+    <category term="科研" scheme="https://www.rubbish.press/categories/%E7%A7%91%E7%A0%94/"/>
+    <category term="心理代偿机制" scheme="https://www.rubbish.press/tags/%E5%BF%83%E7%90%86%E4%BB%A3%E5%81%BF%E6%9C%BA%E5%88%B6/"/>
+    <category term="认知演化" scheme="https://www.rubbish.press/tags/%E8%AE%A4%E7%9F%A5%E6%BC%94%E5%8C%96/"/>
+    <category term="唯物唯心转别" scheme="https://www.rubbish.press/tags/%E5%94%AF%E7%89%A9%E5%94%AF%E5%BF%83%E8%BD%AC%E5%88%AB/"/>
+    <id>https://www.rubbish.press/posts/35513.html</id>
+    <link href="https://www.rubbish.press/posts/35513.html"/>
+    <published>2026-03-19T14:52:46.121Z</published>
+    <summary>
+      <![CDATA[<p>！！请切换编辑模式为分屏预览！！</p>
+<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。 -->
+<p>Sun<sup>1,†</sup> 物心二极管<sup>1,†</sup>, 旅行者-帝<sup>2</sup>,]]>
+    </summary>
+    <title>科研人员唯物-唯心二象性及其跃迁机制的量化与质性研究</title>
+    <updated>2026-03-19T14:52:48.753Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -78,8 +101,8 @@
     <author>
       <name>Rubbish编辑部</name>
     </author>
-    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
     <category term="临床研究" scheme="https://www.rubbish.press/categories/%E4%B8%B4%E5%BA%8A%E7%A0%94%E7%A9%B6/"/>
+    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
     <category term="痤疮" scheme="https://www.rubbish.press/tags/%E7%97%A4%E7%96%AE/"/>
     <category term="发病机制" scheme="https://www.rubbish.press/tags/%E5%8F%91%E7%97%85%E6%9C%BA%E5%88%B6/"/>
     <category term="皮脂腺" scheme="https://www.rubbish.press/tags/%E7%9A%AE%E8%84%82%E8%85%BA/"/>
@@ -121,9 +144,9 @@
     <author>
       <name>Rubbish编辑部</name>
     </author>
+    <category term="临床研究" scheme="https://www.rubbish.press/categories/%E4%B8%B4%E5%BA%8A%E7%A0%94%E7%A9%B6/"/>
     <category term="中医学" scheme="https://www.rubbish.press/categories/%E4%B8%AD%E5%8C%BB%E5%AD%A6/"/>
     <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
-    <category term="临床研究" scheme="https://www.rubbish.press/categories/%E4%B8%B4%E5%BA%8A%E7%A0%94%E7%A9%B6/"/>
     <category term="骨科" scheme="https://www.rubbish.press/tags/%E9%AA%A8%E7%A7%91/"/>
     <category term="妇科" scheme="https://www.rubbish.press/tags/%E5%A6%87%E7%A7%91/"/>
     <category term="骨质疏松" scheme="https://www.rubbish.press/tags/%E9%AA%A8%E8%B4%A8%E7%96%8F%E6%9D%BE/"/>
@@ -442,29 +465,5 @@ AI生成音乐实验室<br>
     </summary>
     <title>如何应用 AI 生成底刊:通过 Ctrl + C、Ctrl + V 的先进生产技术</title>
     <updated>2026-03-18T07:27:56.772Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="仙术" scheme="https://www.rubbish.press/categories/%E4%BB%99%E6%9C%AF/"/>
-    <category term="时间循环" scheme="https://www.rubbish.press/tags/%E6%97%B6%E9%97%B4%E5%BE%AA%E7%8E%AF/"/>
-    <category term="庞加莱复现" scheme="https://www.rubbish.press/tags/%E5%BA%9E%E5%8A%A0%E8%8E%B1%E5%A4%8D%E7%8E%B0/"/>
-    <category term="科学优先权" scheme="https://www.rubbish.press/tags/%E7%A7%91%E5%AD%A6%E4%BC%98%E5%85%88%E6%9D%83/"/>
-    <category term="离散宇宙" scheme="https://www.rubbish.press/tags/%E7%A6%BB%E6%95%A3%E5%AE%87%E5%AE%99/"/>
-    <category term="跨周期信息传播" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E5%91%A8%E6%9C%9F%E4%BF%A1%E6%81%AF%E4%BC%A0%E6%92%AD/"/>
-    <id>https://www.rubbish.press/posts/5105.html</id>
-    <link href="https://www.rubbish.press/posts/5105.html"/>
-    <published>2026-03-18T07:01:50.254Z</published>
-    <summary>
-      <![CDATA[<p>时间旅行者，平行宇宙的我<br>
-未来周期文明研究所<br>
-过去周期穿越者联盟whyalwaysme@time.loop</p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>谁偷走了我的理论：一种基于离散宇宙与时间循环的科学优先权解释模型</title>
-    <updated>2026-03-18T07:14:08.029Z</updated>
   </entry>
 </feed>
