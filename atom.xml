@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-19T14:09:53.620Z</updated>
+  <updated>2026-03-19T14:29:14.226Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="抽象" scheme="https://www.rubbish.press/categories/%E6%8A%BD%E8%B1%A1/"/>
+    <category term="爽文" scheme="https://www.rubbish.press/categories/%E7%88%BD%E6%96%87/"/>
+    <category term="南通" scheme="https://www.rubbish.press/tags/%E5%8D%97%E9%80%9A/"/>
+    <category term="骰子模型" scheme="https://www.rubbish.press/tags/%E9%AA%B0%E5%AD%90%E6%A8%A1%E5%9E%8B/"/>
+    <id>https://www.rubbish.press/posts/11828.html</id>
+    <link href="https://www.rubbish.press/posts/11828.html"/>
+    <published>2026-03-19T14:29:13.291Z</published>
+    <summary>
+      <![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。 -->
+<p>torchboy<sup>1,*</sup><br>
+<sup>1</sup>Nantong University, Male Homosexuality Research]]>
+    </summary>
+    <title>基于微信掷骰子的好友南通预测模型构建与验证：一项来自南通大学的前瞻性随机对照试验</title>
+    <updated>2026-03-19T14:29:14.226Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -449,29 +468,5 @@ AI生成音乐实验室<br>
     </summary>
     <title>言说即坍塌：数字聊天框中的量子传播学</title>
     <updated>2026-03-18T07:00:05.891Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="研究生" scheme="https://www.rubbish.press/categories/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
-    <category term="研究生" scheme="https://www.rubbish.press/tags/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
-    <category term="导师消息" scheme="https://www.rubbish.press/tags/%E5%AF%BC%E5%B8%88%E6%B6%88%E6%81%AF/"/>
-    <category term="心理坍缩" scheme="https://www.rubbish.press/tags/%E5%BF%83%E7%90%86%E5%9D%8D%E7%BC%A9/"/>
-    <category term="应激性假死" scheme="https://www.rubbish.press/tags/%E5%BA%94%E6%BF%80%E6%80%A7%E5%81%87%E6%AD%BB/"/>
-    <category term="学术恐慌" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E6%81%90%E6%85%8C/"/>
-    <id>https://www.rubbish.press/posts/14268.html</id>
-    <link href="https://www.rubbish.press/posts/14268.html"/>
-    <published>2026-03-18T06:44:11.852Z</published>
-    <summary>
-      <![CDATA[<p>Shuaibi Da<br>
-某深夜刷手机不睡觉大学<br>
-论文学术牲</p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>研究生收到导师消息后的心理坍缩机制与应激性假死研究</title>
-    <updated>2026-03-18T06:52:13.456Z</updated>
   </entry>
 </feed>
