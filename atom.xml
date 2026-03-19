@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-18T09:51:30.690Z</updated>
+  <updated>2026-03-19T02:48:48.548Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="抽象" scheme="https://www.rubbish.press/categories/%E6%8A%BD%E8%B1%A1/"/>
+    <category term="空" scheme="https://www.rubbish.press/tags/%E7%A9%BA/"/>
+    <id>https://www.rubbish.press/posts/50517.html</id>
+    <link href="https://www.rubbish.press/posts/50517.html"/>
+    <published>2026-03-19T02:42:11.821Z</published>
+    <summary>
+      <![CDATA[<p>C. Enahs<br>
+Universität der schönen blauen Donau</p>
+<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
+<a]]>
+    </summary>
+    <title>Empty rubbish的存在性证明</title>
+    <updated>2026-03-19T02:48:48.548Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -470,27 +489,5 @@ Brain Power University</p>
     </summary>
     <title>早八相关的家族性传染性发作性睡病家系分析</title>
     <updated>2026-03-17T07:59:06.615Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="科研恶搞" scheme="https://www.rubbish.press/categories/%E7%A7%91%E7%A0%94%E6%81%B6%E6%90%9E/"/>
-    <category term="脚趾甲" scheme="https://www.rubbish.press/tags/%E8%84%9A%E8%B6%BE%E7%94%B2/"/>
-    <category term="风味优化" scheme="https://www.rubbish.press/tags/%E9%A3%8E%E5%91%B3%E4%BC%98%E5%8C%96/"/>
-    <category term="二次元食材开发" scheme="https://www.rubbish.press/tags/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%9F%E6%9D%90%E5%BC%80%E5%8F%91/"/>
-    <category term="玉足" scheme="https://www.rubbish.press/tags/%E7%8E%89%E8%B6%B3/"/>
-    <category term="炒制工艺" scheme="https://www.rubbish.press/tags/%E7%82%92%E5%88%B6%E5%B7%A5%E8%89%BA/"/>
-    <id>https://www.rubbish.press/posts/40654.html</id>
-    <link href="https://www.rubbish.press/posts/40654.html"/>
-    <published>2026-03-17T07:45:54.803Z</published>
-    <summary>
-      <![CDATA[<p>Smith Berdenl</p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>玉足！基于多维度工艺化的足部趾甲类食物炒制风味提升机制研究</title>
-    <updated>2026-03-17T07:52:37.970Z</updated>
   </entry>
 </feed>
