@@ -1654,8 +1654,6 @@
       
         <tags>
             
-            <tag> 数据可视化 </tag>
-            
             <tag> 单细胞测序 </tag>
             
             <tag> 聚类分析 </tag>
@@ -1663,6 +1661,8 @@
             <tag> 赛博烟花 </tag>
             
             <tag> 环境保护 </tag>
+            
+            <tag> 数据可视化 </tag>
             
         </tags>
       
@@ -2724,9 +2724,9 @@
       
         <tags>
             
-            <tag> 线性回归 </tag>
-            
             <tag> 数据可视化 </tag>
+            
+            <tag> 线性回归 </tag>
             
             <tag> 记号笔 </tag>
             
