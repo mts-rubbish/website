@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-19T02:48:48.548Z</updated>
+  <updated>2026-03-19T11:29:20.353Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="仙术" scheme="https://www.rubbish.press/categories/%E4%BB%99%E6%9C%AF/"/>
+    <category term="古方复炼" scheme="https://www.rubbish.press/tags/%E5%8F%A4%E6%96%B9%E5%A4%8D%E7%82%BC/"/>
+    <category term="成丹率" scheme="https://www.rubbish.press/tags/%E6%88%90%E4%B8%B9%E7%8E%87/"/>
+    <category term="丹书记载" scheme="https://www.rubbish.press/tags/%E4%B8%B9%E4%B9%A6%E8%AE%B0%E8%BD%BD/"/>
+    <category term="炉前实炼" scheme="https://www.rubbish.press/tags/%E7%82%89%E5%89%8D%E5%AE%9E%E7%82%BC/"/>
+    <category term="隐诀" scheme="https://www.rubbish.press/tags/%E9%9A%90%E8%AF%80/"/>
+    <id>https://www.rubbish.press/posts/22156.html</id>
+    <link href="https://www.rubbish.press/posts/22156.html"/>
+    <published>2026-03-19T11:29:14.588Z</published>
+    <summary>
+      <![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。]]>
+    </summary>
+    <title>古方复炼困局小考——丹书记载与炉前实炼之差距探析</title>
+    <updated>2026-03-19T11:29:20.353Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -465,29 +484,5 @@ Brain Power University</p>
     </summary>
     <title>收敛之前：深度神经网络 Loss 轨迹的抽象艺术形式阐释</title>
     <updated>2026-03-17T08:09:13.081Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="科研恶搞" scheme="https://www.rubbish.press/categories/%E7%A7%91%E7%A0%94%E6%81%B6%E6%90%9E/"/>
-    <category term="发作性睡病" scheme="https://www.rubbish.press/tags/%E5%8F%91%E4%BD%9C%E6%80%A7%E7%9D%A1%E7%97%85/"/>
-    <category term="遗传学" scheme="https://www.rubbish.press/tags/%E9%81%97%E4%BC%A0%E5%AD%A6/"/>
-    <category term="早八" scheme="https://www.rubbish.press/tags/%E6%97%A9%E5%85%AB/"/>
-    <category term="家系分析" scheme="https://www.rubbish.press/tags/%E5%AE%B6%E7%B3%BB%E5%88%86%E6%9E%90/"/>
-    <category term="拟制血缘" scheme="https://www.rubbish.press/tags/%E6%8B%9F%E5%88%B6%E8%A1%80%E7%BC%98/"/>
-    <id>https://www.rubbish.press/posts/37963.html</id>
-    <link href="https://www.rubbish.press/posts/37963.html"/>
-    <published>2026-03-17T07:54:40.127Z</published>
-    <summary>
-      <![CDATA[<p>灵舞<br>
-咕咕嘎嘎研究院，生理医学系负叫兽<br>
-<a href="mailto:3467006478@qq.com">3467006478@qq.com</a></p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>早八相关的家族性传染性发作性睡病家系分析</title>
-    <updated>2026-03-17T07:59:06.615Z</updated>
   </entry>
 </feed>
