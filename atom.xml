@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-19T13:18:44.215Z</updated>
+  <updated>2026-03-19T13:27:47.918Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="抽象" scheme="https://www.rubbish.press/categories/%E6%8A%BD%E8%B1%A1/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="环卫作业" scheme="https://www.rubbish.press/tags/%E7%8E%AF%E5%8D%AB%E4%BD%9C%E4%B8%9A/"/>
+    <category term="拖拽式火车" scheme="https://www.rubbish.press/tags/%E6%8B%96%E6%8B%BD%E5%BC%8F%E7%81%AB%E8%BD%A6/"/>
+    <category term="两轮电动自行车" scheme="https://www.rubbish.press/tags/%E4%B8%A4%E8%BD%AE%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6/"/>
+    <category term="可行性研究" scheme="https://www.rubbish.press/tags/%E5%8F%AF%E8%A1%8C%E6%80%A7%E7%A0%94%E7%A9%B6/"/>
+    <category term="低速电动车" scheme="https://www.rubbish.press/tags/%E4%BD%8E%E9%80%9F%E7%94%B5%E5%8A%A8%E8%BD%A6/"/>
+    <id>https://www.rubbish.press/posts/63459.html</id>
+    <link href="https://www.rubbish.press/posts/63459.html"/>
+    <published>2026-03-19T13:27:46.816Z</published>
+    <summary>
+      <![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。 -->
+<p>Bean Buns<sup>1</sup>, Great Emperor<sup>1,2,*</sup>, Little]]>
+    </summary>
+    <title>关于两轮电动自行车加装拖曳式货厢用于替代半挂货车的可行性研究</title>
+    <updated>2026-03-19T13:27:47.918Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -457,31 +478,5 @@ AI生成音乐实验室<br>
     </summary>
     <title>在无政府教室的星空下：新型小组作业关系的理论建构与实践突围 ——一种基于现实还原范式的国际关系理论本土化尝试</title>
     <updated>2026-03-18T06:26:13.591Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="科研恶搞" scheme="https://www.rubbish.press/categories/%E7%A7%91%E7%A0%94%E6%81%B6%E6%90%9E/"/>
-    <category term="arXiv" scheme="https://www.rubbish.press/tags/arXiv/"/>
-    <category term="黑洞" scheme="https://www.rubbish.press/tags/%E9%BB%91%E6%B4%9E/"/>
-    <category term="学术冗余" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E5%86%97%E4%BD%99/"/>
-    <category term="引力坍缩" scheme="https://www.rubbish.press/tags/%E5%BC%95%E5%8A%9B%E5%9D%8D%E7%BC%A9/"/>
-    <category term="知识奇点" scheme="https://www.rubbish.press/tags/%E7%9F%A5%E8%AF%86%E5%A5%87%E7%82%B9/"/>
-    <category term="学术霍金辐射" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E9%9C%8D%E9%87%91%E8%BE%90%E5%B0%84/"/>
-    <id>https://www.rubbish.press/posts/51175.html</id>
-    <link href="https://www.rubbish.press/posts/51175.html"/>
-    <published>2026-03-18T02:29:59.678Z</published>
-    <summary>
-      <![CDATA[<p>Prof. Ctrl+Z, Dr. Null Pointer, (三作招租中)<br>
-某不知名大学<br>
-某知名bug生产基地<br>
-共同一作但都不负责<br>
-通讯作者（因为跑得最快）</p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接]]>
-    </summary>
-    <title>论压缩学术冗余的引力坍缩：arXiv.zip 能否形成黑洞？</title>
-    <updated>2026-03-18T03:09:40.676Z</updated>
   </entry>
 </feed>
