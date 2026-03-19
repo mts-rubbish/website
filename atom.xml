@@ -10,7 +10,29 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-19T13:52:16.181Z</updated>
+  <updated>2026-03-19T14:09:53.620Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
+    <category term="教育" scheme="https://www.rubbish.press/categories/%E6%95%99%E8%82%B2/"/>
+    <category term="环境与生态" scheme="https://www.rubbish.press/categories/%E7%8E%AF%E5%A2%83%E4%B8%8E%E7%94%9F%E6%80%81/"/>
+    <category term="Lake Ad Excellentiam" scheme="https://www.rubbish.press/tags/Lake-Ad-Excellentiam/"/>
+    <category term="Cable Car" scheme="https://www.rubbish.press/tags/Cable-Car/"/>
+    <category term="CUHK" scheme="https://www.rubbish.press/tags/CUHK/"/>
+    <category term="Commuting Thermodynamics" scheme="https://www.rubbish.press/tags/Commuting-Thermodynamics/"/>
+    <category term="未圆湖" scheme="https://www.rubbish.press/tags/%E6%9C%AA%E5%9C%86%E6%B9%96/"/>
+    <category term="山顶缆车" scheme="https://www.rubbish.press/tags/%E5%B1%B1%E9%A1%B6%E7%BC%86%E8%BD%A6/"/>
+    <id>https://www.rubbish.press/posts/30415.html</id>
+    <link href="https://www.rubbish.press/posts/30415.html"/>
+    <published>2026-03-19T14:09:52.672Z</published>
+    <summary>
+      <![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。]]>
+    </summary>
+    <title>基于“通勤热力学”的校园空间重构：香港中文大学未圆湖公共泳池改造与山顶缆车工程的可行性与经济学分析</title>
+    <updated>2026-03-19T14:09:53.620Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -37,8 +59,8 @@
     <author>
       <name>Rubbish编辑部</name>
     </author>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
     <category term="抽象" scheme="https://www.rubbish.press/categories/%E6%8A%BD%E8%B1%A1/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
     <category term="环卫作业" scheme="https://www.rubbish.press/tags/%E7%8E%AF%E5%8D%AB%E4%BD%9C%E4%B8%9A/"/>
     <category term="拖拽式火车" scheme="https://www.rubbish.press/tags/%E6%8B%96%E6%8B%BD%E5%BC%8F%E7%81%AB%E8%BD%A6/"/>
     <category term="两轮电动自行车" scheme="https://www.rubbish.press/tags/%E4%B8%A4%E8%BD%AE%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6/"/>
@@ -451,29 +473,5 @@ AI生成音乐实验室<br>
     </summary>
     <title>研究生收到导师消息后的心理坍缩机制与应激性假死研究</title>
     <updated>2026-03-18T06:52:13.456Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="艺术" scheme="https://www.rubbish.press/categories/%E8%89%BA%E6%9C%AF/"/>
-    <category term="朱砂平安扣" scheme="https://www.rubbish.press/tags/%E6%9C%B1%E7%A0%82%E5%B9%B3%E5%AE%89%E6%89%A3/"/>
-    <category term="再悬挂行为" scheme="https://www.rubbish.press/tags/%E5%86%8D%E6%82%AC%E6%8C%82%E8%A1%8C%E4%B8%BA/"/>
-    <category term="非标准结" scheme="https://www.rubbish.press/tags/%E9%9D%9E%E6%A0%87%E5%87%86%E7%BB%93/"/>
-    <category term="拓扑稳定性" scheme="https://www.rubbish.press/tags/%E6%8B%93%E6%89%91%E7%A8%B3%E5%AE%9A%E6%80%A7/"/>
-    <category term="个体路径生成" scheme="https://www.rubbish.press/tags/%E4%B8%AA%E4%BD%93%E8%B7%AF%E5%BE%84%E7%94%9F%E6%88%90/"/>
-    <id>https://www.rubbish.press/posts/48927.html</id>
-    <link href="https://www.rubbish.press/posts/48927.html"/>
-    <published>2026-03-18T06:29:35.345Z</published>
-    <summary>
-      <![CDATA[<p>爱吃牛油果的小学生<br>
-中国小红书大学<br>
-中国哔哩哔哩大学<br>
-<a href="mailto:aichixxs@uni.edu.cn">aichixxs@uni.edu.cn</a></p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接]]>
-    </summary>
-    <title>朱砂平安扣的再悬挂行为与非标准结结构的拓扑稳定性研究</title>
-    <updated>2026-03-18T06:38:49.167Z</updated>
   </entry>
 </feed>
