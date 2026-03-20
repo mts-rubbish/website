@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-20T02:41:59.713Z</updated>
+  <updated>2026-03-20T15:18:21.357Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="学术垃圾" scheme="https://www.rubbish.press/categories/%E5%AD%A6%E6%9C%AF%E5%9E%83%E5%9C%BE/"/>
+    <category term="日常行为" scheme="https://www.rubbish.press/tags/%E6%97%A5%E5%B8%B8%E8%A1%8C%E4%B8%BA/"/>
+    <category term="抖动次数" scheme="https://www.rubbish.press/tags/%E6%8A%96%E5%8A%A8%E6%AC%A1%E6%95%B0/"/>
+    <id>https://www.rubbish.press/posts/34401.html</id>
+    <link href="https://www.rubbish.press/posts/34401.html"/>
+    <published>2026-03-20T06:30:40.035Z</published>
+    <summary>
+      <![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。 -->
+<p>爱吃牛油果的小学生<sup>1,2,*</sup>，Trump]]>
+    </summary>
+    <title>男性排尿后抖动次数的行为规律研究</title>
+    <updated>2026-03-20T15:18:21.357Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -431,30 +449,5 @@ AI生成音乐实验室<br>
     </summary>
     <title>论研究生组会机制在世界大战爆发中的关键性影响 ——基于 AI 训练误差的全球冲突传导模型</title>
     <updated>2026-03-18T08:17:44.976Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="中医学" scheme="https://www.rubbish.press/categories/%E4%B8%AD%E5%8C%BB%E5%AD%A6/"/>
-    <category term="中医" scheme="https://www.rubbish.press/tags/%E4%B8%AD%E5%8C%BB/"/>
-    <category term="五行" scheme="https://www.rubbish.press/tags/%E4%BA%94%E8%A1%8C/"/>
-    <category term="人体" scheme="https://www.rubbish.press/tags/%E4%BA%BA%E4%BD%93/"/>
-    <category term="呼吸" scheme="https://www.rubbish.press/tags/%E5%91%BC%E5%90%B8/"/>
-    <category term="排泄" scheme="https://www.rubbish.press/tags/%E6%8E%92%E6%B3%84/"/>
-    <category term="炼金术" scheme="https://www.rubbish.press/tags/%E7%82%BC%E9%87%91%E6%9C%AF/"/>
-    <id>https://www.rubbish.press/posts/40038.html</id>
-    <link href="https://www.rubbish.press/posts/40038.html"/>
-    <published>2026-03-18T07:58:56.992Z</published>
-    <summary>
-      <![CDATA[<p>MaDouLingNeiXiAn<br>
-焦虑大学炼狱系<br>
-<a href="mailto:abc@uni.edu">abc@uni.edu</a></p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>人体作为微型炼金术工坊的初步探索</title>
-    <updated>2026-03-18T08:04:10.483Z</updated>
   </entry>
 </feed>
