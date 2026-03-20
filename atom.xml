@@ -10,7 +10,30 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-19T15:13:46.599Z</updated>
+  <updated>2026-03-20T02:41:59.713Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="应用" scheme="https://www.rubbish.press/categories/%E5%BA%94%E7%94%A8/"/>
+    <category term="饮水温度" scheme="https://www.rubbish.press/tags/%E9%A5%AE%E6%B0%B4%E6%B8%A9%E5%BA%A6/"/>
+    <category term="随机对照试验" scheme="https://www.rubbish.press/tags/%E9%9A%8F%E6%9C%BA%E5%AF%B9%E7%85%A7%E8%AF%95%E9%AA%8C/"/>
+    <category term="荟萃分析" scheme="https://www.rubbish.press/tags/%E8%8D%9F%E8%90%83%E5%88%86%E6%9E%90/"/>
+    <category term="食管黏膜损伤" scheme="https://www.rubbish.press/tags/%E9%A3%9F%E7%AE%A1%E9%BB%8F%E8%86%9C%E6%8D%9F%E4%BC%A4/"/>
+    <category term="循证 hydration" scheme="https://www.rubbish.press/tags/%E5%BE%AA%E8%AF%81-hydration/"/>
+    <id>https://www.rubbish.press/posts/57619.html</id>
+    <link href="https://www.rubbish.press/posts/57619.html"/>
+    <published>2026-03-20T02:30:00.307Z</published>
+    <summary>
+      <![CDATA[<p>未知机构<br>
+<a href="mailto:598096819@qq.com">598096819@qq.com</a></p>
+<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
+<a]]>
+    </summary>
+    <title>一杯水的“冷热之争” ：基于随机对照试验和荟萃分析的系统综述</title>
+    <updated>2026-03-20T02:41:59.713Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -433,29 +456,5 @@ AI生成音乐实验室<br>
     </summary>
     <title>人体作为微型炼金术工坊的初步探索</title>
     <updated>2026-03-18T08:04:10.483Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="仙术" scheme="https://www.rubbish.press/categories/%E4%BB%99%E6%9C%AF/"/>
-    <category term="运动" scheme="https://www.rubbish.press/tags/%E8%BF%90%E5%8A%A8/"/>
-    <category term="寿命" scheme="https://www.rubbish.press/tags/%E5%AF%BF%E5%91%BD/"/>
-    <category term="时间价值" scheme="https://www.rubbish.press/tags/%E6%97%B6%E9%97%B4%E4%BB%B7%E5%80%BC/"/>
-    <category term="时空悖论" scheme="https://www.rubbish.press/tags/%E6%97%B6%E7%A9%BA%E6%82%96%E8%AE%BA/"/>
-    <category term="时间天平理论" scheme="https://www.rubbish.press/tags/%E6%97%B6%E9%97%B4%E5%A4%A9%E5%B9%B3%E7%90%86%E8%AE%BA/"/>
-    <category term="生命质量" scheme="https://www.rubbish.press/tags/%E7%94%9F%E5%91%BD%E8%B4%A8%E9%87%8F/"/>
-    <id>https://www.rubbish.press/posts/35826.html</id>
-    <link href="https://www.rubbish.press/posts/35826.html"/>
-    <published>2026-03-18T07:42:13.039Z</published>
-    <summary>
-      <![CDATA[<p>李鑫<br>
-时间天平理论研究中心，矢氮大学华西附二小学，四川成都 610041<br>
-生命时间价值重点研究所，四川成都 610041<br>
-<a]]>
-    </summary>
-    <title>时间天平理论：运动收益的时空悖论</title>
-    <updated>2026-03-18T07:56:18.735Z</updated>
   </entry>
 </feed>
