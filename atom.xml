@@ -10,7 +10,22 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-22T13:56:20.036Z</updated>
+  <updated>2026-03-22T16:02:31.616Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="喜剧" scheme="https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/"/>
+    <category term="热力学" scheme="https://www.rubbish.press/tags/%E7%83%AD%E5%8A%9B%E5%AD%A6/"/>
+    <category term="动力学" scheme="https://www.rubbish.press/tags/%E5%8A%A8%E5%8A%9B%E5%AD%A6/"/>
+    <id>https://www.rubbish.press/posts/2213.html</id>
+    <link href="https://www.rubbish.press/posts/2213.html"/>
+    <published>2026-03-22T15:22:38.356Z</published>
+    <summary>**摘要**：   本文探讨了冬季清晨起床困难的热力学与动力学机制，结合热传导模型、吉布斯自由能变化及生理需求（尿意、饥饿感、工作压力）构建多因素模型。研究表明，人体与被窝间的温差导致热量流失，增大起床难度；低温环境下自由能升高进一步抑制自发行为。动力学分析显示，尿意在工作日午后最强，而工作压力的驱动力在早晨更高，成为“考勤打卡”的主要动力。建议通过调节睡眠环境（如加厚被褥）、优化作息时间或利用外部压力（如闹钟）来减少起床阻力，提升冬季晨间行动效率。</summary>
+    <title>冬季清晨起床的热力学与动力学博弈：能量抑制与生理驱动力</title>
+    <updated>2026-03-22T16:02:31.616Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -403,30 +418,5 @@ AI生成音乐实验室<br>
     </summary>
     <title>一场“自欺欺人”的 Suno 大模型探索记 ——献给所有凑数底刊的“学术垃圾”</title>
     <updated>2026-03-18T09:06:04.221Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="游戏" scheme="https://www.rubbish.press/categories/%E6%B8%B8%E6%88%8F/"/>
-    <category term="王者荣耀" scheme="https://www.rubbish.press/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/"/>
-    <category term="瑶" scheme="https://www.rubbish.press/tags/%E7%91%B6/"/>
-    <category term="电刀" scheme="https://www.rubbish.press/tags/%E7%94%B5%E5%88%80/"/>
-    <category term="后羿" scheme="https://www.rubbish.press/tags/%E5%90%8E%E7%BE%BF/"/>
-    <category term="认知失调" scheme="https://www.rubbish.press/tags/%E8%AE%A4%E7%9F%A5%E5%A4%B1%E8%B0%83/"/>
-    <category term="阶级反抗" scheme="https://www.rubbish.press/tags/%E9%98%B6%E7%BA%A7%E5%8F%8D%E6%8A%97/"/>
-    <id>https://www.rubbish.press/posts/31360.html</id>
-    <link href="https://www.rubbish.press/posts/31360.html"/>
-    <published>2026-03-18T08:39:32.887Z</published>
-    <summary>
-      <![CDATA[<p>投稿被拒一次，相亲被拒N次<br>
-王者荣耀Q区<br>
-<a href="mailto:kaiheibeiju@qq.com">kaiheibeiju@qq.com</a></p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>王者荣耀中“瑶”出电刀单杀后羿的可能性分析</title>
-    <updated>2026-03-18T08:51:26.711Z</updated>
   </entry>
 </feed>
