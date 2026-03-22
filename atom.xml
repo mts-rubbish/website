@@ -10,7 +10,21 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-22T16:02:31.616Z</updated>
+  <updated>2026-03-22T16:50:30.326Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="庶民研究" scheme="https://www.rubbish.press/tags/%E5%BA%B6%E6%B0%91%E7%A0%94%E7%A9%B6/"/>
+    <category term="知识生产" scheme="https://www.rubbish.press/tags/%E7%9F%A5%E8%AF%86%E7%94%9F%E4%BA%A7/"/>
+    <id>https://www.rubbish.press/posts/7331.html</id>
+    <link href="https://www.rubbish.press/posts/7331.html"/>
+    <published>2026-03-22T16:30:13.054Z</published>
+    <summary>**摘要：**   本文基于斯皮瓦克“庶民能说话吗”的去殖民化理论，探讨小红书学术底刊（如《Rubbish》）作为去中心化知识生产形式的可能性。文章指出，传统顶刊体系由精英主导，排斥底层科研人员的成果，延续学术霸权。而小红书学术底刊以“没什么用但有点搞笑”的内容为特色，允许庶民自主定义知识价值，打破主流话语垄断。通过案例研究，作者认为这类平台为被边缘化的声音提供了发声空间，实现了斯皮瓦克所倡导的庶民去殖民化知识生产的实践。结论强调，这种自下而上的知识生产模式挑战了精英主义学术结构，赋予边缘群体话语权，体现了庶民发声的可能。</summary>
+    <title>没什么用但有点搞笑：作为一种去中心化知识生产形式的小红书学术底刊群体——以 《Rubbish》为例</title>
+    <updated>2026-03-22T16:50:30.326Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -392,31 +406,5 @@ CIRCLE LIVE HOUSE<br>
     </summary>
     <title>小龙虾、鹅、蜜蜂的食物风味与动物性格对其构象模拟分子的量子化学计算及光化学性质的影响</title>
     <updated>2026-03-18T09:52:52.322Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="音乐" scheme="https://www.rubbish.press/categories/%E9%9F%B3%E4%B9%90/"/>
-    <category term="Suno大模型" scheme="https://www.rubbish.press/tags/Suno%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
-    <category term="摸鱼式探索" scheme="https://www.rubbish.press/tags/%E6%91%B8%E9%B1%BC%E5%BC%8F%E6%8E%A2%E7%B4%A2/"/>
-    <category term="AI生成歌曲" scheme="https://www.rubbish.press/tags/AI%E7%94%9F%E6%88%90%E6%AD%8C%E6%9B%B2/"/>
-    <category term="无效科研" scheme="https://www.rubbish.press/tags/%E6%97%A0%E6%95%88%E7%A7%91%E7%A0%94/"/>
-    <category term="底刊凑数" scheme="https://www.rubbish.press/tags/%E5%BA%95%E5%88%8A%E5%87%91%E6%95%B0/"/>
-    <id>https://www.rubbish.press/posts/24295.html</id>
-    <link href="https://www.rubbish.press/posts/24295.html"/>
-    <published>2026-03-18T08:52:39.620Z</published>
-    <summary>
-      <![CDATA[<p>Yananaaaaa, 豆包, Suno, 剪映<br>
-摸鱼式科研研究院<br>
-AI生成音乐实验室<br>
-视频缝合技术中心<br>
-凑数界扛把子</p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>一场“自欺欺人”的 Suno 大模型探索记 ——献给所有凑数底刊的“学术垃圾”</title>
-    <updated>2026-03-18T09:06:04.221Z</updated>
   </entry>
 </feed>
