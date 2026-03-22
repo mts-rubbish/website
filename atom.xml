@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-22T13:40:48.102Z</updated>
+  <updated>2026-03-22T13:56:20.036Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="生命科学" scheme="https://www.rubbish.press/categories/%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/"/>
+    <category term="Coilin" scheme="https://www.rubbish.press/tags/Coilin/"/>
+    <category term="Cajal小体" scheme="https://www.rubbish.press/tags/Cajal%E5%B0%8F%E4%BD%93/"/>
+    <category term="核形态" scheme="https://www.rubbish.press/tags/%E6%A0%B8%E5%BD%A2%E6%80%81/"/>
+    <category term="相分离" scheme="https://www.rubbish.press/tags/%E7%9B%B8%E5%88%86%E7%A6%BB/"/>
+    <category term="视觉拟像" scheme="https://www.rubbish.press/tags/%E8%A7%86%E8%A7%89%E6%8B%9F%E5%83%8F/"/>
+    <id>https://www.rubbish.press/posts/33806.html</id>
+    <link href="https://www.rubbish.press/posts/33806.html"/>
+    <published>2026-03-22T13:48:45.493Z</published>
+    <summary>**摘要**：   本研究探讨细胞核形态受染色质组织、核内凝聚体自组织及力学环境的共同调控。通过Coilin-mCherry标记和共聚焦成像，发现Coilin通常在核内形成围绕核仁的中空壳状结构；在极少数细胞中（约十万分之一），该结构因核力学形变与多相凝聚体界面的协同作用而呈现各向异性，使细胞核轮廓类似男性生殖器官的象征性形态。作者强调，此现象是物理机制（如相分离与力学失衡）的结果，而非功能性解剖学变化，人类视觉系统的“拟像效应”进一步赋予其象征意义。研究揭示了Coilin界面组织能力在核形态重塑中的潜在作用，并呼吁关注罕见表型背后的基础科学价值。</summary>
+    <title>当细胞核呈现男性某器官形态：Coilin诱导的十万分之一结构事件</title>
+    <updated>2026-03-22T13:56:20.036Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -410,30 +428,5 @@ AI生成音乐实验室<br>
     </summary>
     <title>王者荣耀中“瑶”出电刀单杀后羿的可能性分析</title>
     <updated>2026-03-18T08:51:26.711Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="研究生" scheme="https://www.rubbish.press/categories/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
-    <category term="实验室玄学" scheme="https://www.rubbish.press/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%8E%84%E5%AD%A6/"/>
-    <category term="跨年夜" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E5%B9%B4%E5%A4%9C/"/>
-    <category term="马弗炉" scheme="https://www.rubbish.press/tags/%E9%A9%AC%E5%BC%97%E7%82%89/"/>
-    <category term="催化剂" scheme="https://www.rubbish.press/tags/%E5%82%AC%E5%8C%96%E5%89%82/"/>
-    <category term="怨气守恒" scheme="https://www.rubbish.press/tags/%E6%80%A8%E6%B0%94%E5%AE%88%E6%81%92/"/>
-    <id>https://www.rubbish.press/posts/23409.html</id>
-    <link href="https://www.rubbish.press/posts/23409.html"/>
-    <published>2026-03-18T08:19:17.674Z</published>
-    <summary>
-      <![CDATA[<p>花生米，大米粒<br>
-情绪动力学与材料玄学研究中心<br>
-国自燃科学基金“孤寡”学者专项办公室第一作者也是唯一干活的人<br>
-通讯作者（负责在跨年夜给第一作者发消息“结果出来了吗”）</p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>实验室“怨气守恒”定律：科研打工人情绪对催化剂“黑化” 效应的影响——以跨年夜合成实验为补充验证</title>
-    <updated>2026-03-18T08:34:47.499Z</updated>
   </entry>
 </feed>
