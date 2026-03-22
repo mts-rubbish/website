@@ -10,7 +10,24 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-22T16:50:30.326Z</updated>
+  <updated>2026-03-22T17:22:09.456Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="博士培养" scheme="https://www.rubbish.press/tags/%E5%8D%9A%E5%A3%AB%E5%9F%B9%E5%85%BB/"/>
+    <category term="旮旯给木" scheme="https://www.rubbish.press/tags/%E6%97%AE%E6%97%AF%E7%BB%99%E6%9C%A8/"/>
+    <category term="模拟器" scheme="https://www.rubbish.press/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/"/>
+    <category term="建模" scheme="https://www.rubbish.press/tags/%E5%BB%BA%E6%A8%A1/"/>
+    <id>https://www.rubbish.press/posts/33782.html</id>
+    <link href="https://www.rubbish.press/posts/33782.html"/>
+    <published>2026-03-22T16:47:45.783Z</published>
+    <summary>**摘要**：   本文提出一种基于Galgame（“旮旯给木”）隐喻的博士培养过程建模方法，开发了为期48个月的读博生存模拟器。研究将博士阶段抽象为多属性决策系统，设定健康值、导师关系、学生关系、金钱值和毕业进度五大核心指标，通过模拟博士生在不同活动（如课题研究、项目协作、兼职等）中的策略选择，分析其对各项属性的动态影响。结果显示，仅28.3%的路径可实现顺利毕业，42.7%会触发延毕机制，凸显多维平衡的重要性。该模拟器结合游戏化叙事与计算模型，揭示学术培养中资源分配的内在矛盾，不仅为博士生提供生涯规划工具，也为优化培养体系提供理论参考与创新范式。</summary>
+    <title>博士培养的旮旯给木化建模：一个基于 48 月目的生存模拟器设计</title>
+    <updated>2026-03-22T17:22:09.456Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -386,25 +403,5 @@ CIRCLE LIVE HOUSE<br>
     </summary>
     <title>如何通过精度判定调整音游流速 ——以《BanG Dream!》为例</title>
     <updated>2026-03-18T09:38:56.571Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="美食" scheme="https://www.rubbish.press/categories/%E7%BE%8E%E9%A3%9F/"/>
-    <category term="量子化学" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6/"/>
-    <category term="DFT" scheme="https://www.rubbish.press/tags/DFT/"/>
-    <category term="动物性格" scheme="https://www.rubbish.press/tags/%E5%8A%A8%E7%89%A9%E6%80%A7%E6%A0%BC/"/>
-    <category term="食物口感" scheme="https://www.rubbish.press/tags/%E9%A3%9F%E7%89%A9%E5%8F%A3%E6%84%9F/"/>
-    <category term="构象模拟" scheme="https://www.rubbish.press/tags/%E6%9E%84%E8%B1%A1%E6%A8%A1%E6%8B%9F/"/>
-    <id>https://www.rubbish.press/posts/14638.html</id>
-    <link href="https://www.rubbish.press/posts/14638.html"/>
-    <published>2026-03-18T09:11:35.394Z</published>
-    <summary>
-      <![CDATA[<p>Prof. Guo, Prof. Zhou, Prof. Jiao, Prof. Huang, Dr. Silico, Dr. Bao Dou and Dr.]]>
-    </summary>
-    <title>小龙虾、鹅、蜜蜂的食物风味与动物性格对其构象模拟分子的量子化学计算及光化学性质的影响</title>
-    <updated>2026-03-18T09:52:52.322Z</updated>
   </entry>
 </feed>
