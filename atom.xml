@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-22T17:22:09.456Z</updated>
+  <updated>2026-03-22T17:34:32.004Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="喜剧" scheme="https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/"/>
+    <category term="坏" scheme="https://www.rubbish.press/tags/%E5%9D%8F/"/>
+    <category term="问候语" scheme="https://www.rubbish.press/tags/%E9%97%AE%E5%80%99%E8%AF%AD/"/>
+    <category term="青年亚文化" scheme="https://www.rubbish.press/tags/%E9%9D%92%E5%B9%B4%E4%BA%9A%E6%96%87%E5%8C%96/"/>
+    <category term="社交话语" scheme="https://www.rubbish.press/tags/%E7%A4%BE%E4%BA%A4%E8%AF%9D%E8%AF%AD/"/>
+    <category term="反向表达" scheme="https://www.rubbish.press/tags/%E5%8F%8D%E5%90%91%E8%A1%A8%E8%BE%BE/"/>
+    <id>https://www.rubbish.press/posts/27712.html</id>
+    <link href="https://www.rubbish.press/posts/27712.html"/>
+    <published>2026-03-22T17:18:49.705Z</published>
+    <summary>**摘要**：   本文探讨数字媒介时代青年群体中流行的“XX坏”反向问候语现象。该话语通过以负面词汇替代传统正向问候（如“XX好”），成为青年对社交情绪劳动与积极情绪规训的温柔抵抗，体现了一种独特的亚文化实践。作者批判现有学术研究中过度依赖外部理论框架拆解此类表达，导致其原生抵抗性与生成性被消解。为此，论文创新性地摒弃常规学术范式，全文仅以“XX坏”构式为核心文本，保留其开放性与生命力。研究强调，“XX坏”的价值在于其无限生成能力与共情空间，呼吁学术研究尊重青年自发表达的本真形态，为网络亚文化研究提供了去权威化、重体验的新路径。</summary>
+    <title>反向的温柔：来一句XX坏</title>
+    <updated>2026-03-22T17:34:32.004Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -378,30 +396,5 @@ OpenAI<br>
     </summary>
     <title>实验室祖传 MSAP 方法不可重复性的逐级证伪：从条件优化到风水排查</title>
     <updated>2026-03-18T09:51:30.690Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="音游" scheme="https://www.rubbish.press/categories/%E9%9F%B3%E6%B8%B8/"/>
-    <category term="音游" scheme="https://www.rubbish.press/tags/%E9%9F%B3%E6%B8%B8/"/>
-    <category term="BanG Dream!" scheme="https://www.rubbish.press/tags/BanG-Dream/"/>
-    <category term="Roselia" scheme="https://www.rubbish.press/tags/Roselia/"/>
-    <category term="流速调整" scheme="https://www.rubbish.press/tags/%E6%B5%81%E9%80%9F%E8%B0%83%E6%95%B4/"/>
-    <category term="打击精度" scheme="https://www.rubbish.press/tags/%E6%89%93%E5%87%BB%E7%B2%BE%E5%BA%A6/"/>
-    <id>https://www.rubbish.press/posts/55689.html</id>
-    <link href="https://www.rubbish.press/posts/55689.html"/>
-    <published>2026-03-18T09:29:56.541Z</published>
-    <summary>
-      <![CDATA[<p>新手工作人员，凑友希那，冰川纱夜，今井莉莎，宇田川亚子，白金子<br>
-CIRCLE LIVE HOUSE<br>
-四叶女子大学<br>
-庆鹏女子大学<br>
-羽丘女子学园<br>
-<a]]>
-    </summary>
-    <title>如何通过精度判定调整音游流速 ——以《BanG Dream!》为例</title>
-    <updated>2026-03-18T09:38:56.571Z</updated>
   </entry>
 </feed>
