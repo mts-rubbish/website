@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-21T06:01:37.942Z</updated>
+  <updated>2026-03-22T13:40:48.102Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="研究生" scheme="https://www.rubbish.press/categories/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
+    <category term="作者贡献" scheme="https://www.rubbish.press/tags/%E4%BD%9C%E8%80%85%E8%B4%A1%E7%8C%AE/"/>
+    <category term="科研乱象" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E4%B9%B1%E8%B1%A1/"/>
+    <category term="学术权力" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E6%9D%83%E5%8A%9B/"/>
+    <category term="隐形劳动" scheme="https://www.rubbish.press/tags/%E9%9A%90%E5%BD%A2%E5%8A%B3%E5%8A%A8/"/>
+    <category term="故事会" scheme="https://www.rubbish.press/tags/%E6%95%85%E4%BA%8B%E4%BC%9A/"/>
+    <id>https://www.rubbish.press/posts/23982.html</id>
+    <link href="https://www.rubbish.press/posts/23982.html"/>
+    <published>2026-03-22T13:33:30.972Z</published>
+    <summary>**摘要**   本文探讨“作者贡献”在合作科研中的复杂性与现实困境，通过虚构访谈故事揭示学术署名背后的权力失衡、伦理争议与实践乱象。核心问题包括：贡献界定模糊导致“隐形劳动”（如修改论文却无署名）、导师凭借权力获取不当署名，以及版面费负担加剧学生不公。文章批判现有评价体系失真，呼吁拓展“作者贡献”内涵——不仅关注智力投入，还需纳入资金、责任与伦理维度。结论强调需建立更透明、公平的署名机制，以维护科研诚信。全文以幽默笔调警示学术环境弊病，虽为虚构案例，但折射真实问题。</summary>
+    <title>对“作者贡献”概念的内涵拓展</title>
+    <updated>2026-03-22T13:40:48.102Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -417,29 +435,5 @@ AI生成音乐实验室<br>
     </summary>
     <title>实验室“怨气守恒”定律：科研打工人情绪对催化剂“黑化” 效应的影响——以跨年夜合成实验为补充验证</title>
     <updated>2026-03-18T08:34:47.499Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="研究生" scheme="https://www.rubbish.press/categories/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
-    <category term="研究生组会" scheme="https://www.rubbish.press/tags/%E7%A0%94%E7%A9%B6%E7%94%9F%E7%BB%84%E4%BC%9A/"/>
-    <category term="睡眠不足" scheme="https://www.rubbish.press/tags/%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B3/"/>
-    <category term="AI训练误差" scheme="https://www.rubbish.press/tags/AI%E8%AE%AD%E7%BB%83%E8%AF%AF%E5%B7%AE/"/>
-    <category term="政策预测" scheme="https://www.rubbish.press/tags/%E6%94%BF%E7%AD%96%E9%A2%84%E6%B5%8B/"/>
-    <category term="国际冲突" scheme="https://www.rubbish.press/tags/%E5%9B%BD%E9%99%85%E5%86%B2%E7%AA%81/"/>
-    <id>https://www.rubbish.press/posts/20057.html</id>
-    <link href="https://www.rubbish.press/posts/20057.html"/>
-    <published>2026-03-18T08:06:28.601Z</published>
-    <summary>
-      <![CDATA[<p>水果宾治武士，初玺，COOO，Olivia，promise)，氢氧化氢，悦栀，aaa干活果实奶糖形态<br>
-青州街混子职业技术学院Hit12306@qq.com<br>
-同等贡献</p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>论研究生组会机制在世界大战爆发中的关键性影响 ——基于 AI 训练误差的全球冲突传导模型</title>
-    <updated>2026-03-18T08:17:44.976Z</updated>
   </entry>
 </feed>
