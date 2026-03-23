@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-23T05:31:58.767Z</updated>
+  <updated>2026-03-23T08:08:47.193Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="喜剧" scheme="https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/"/>
+    <category term="抽象期刊" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1%E6%9C%9F%E5%88%8A/"/>
+    <category term="Rubbish" scheme="https://www.rubbish.press/tags/Rubbish/"/>
+    <category term="中稿策略" scheme="https://www.rubbish.press/tags/%E4%B8%AD%E7%A8%BF%E7%AD%96%E7%95%A5/"/>
+    <category term="学术整活" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E6%95%B4%E6%B4%BB/"/>
+    <category term="文本分析" scheme="https://www.rubbish.press/tags/%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90/"/>
+    <category term="科研文化" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E6%96%87%E5%8C%96/"/>
+    <id>https://www.rubbish.press/posts/5725.html</id>
+    <link href="https://www.rubbish.press/posts/5725.html"/>
+    <published>2026-03-23T07:56:33.855Z</published>
+    <summary>**摘要**：   随着中文互联网“抽象学术”文化兴起，《Rubbish》等期刊成为科研工作者缓解压力的“赛博自留地”。然而，该期刊中稿率仅21.4%（39篇录用/182篇投稿），暴露出“严谨的荒诞性”背后的隐性门槛。本文通过对已录用文献的深度文本分析，总结出三大成功要素：（1）**日常焦虑的学术化解构**，如导师微信回复情绪预测模型；   （2）**跨物种/维度的物理重构**，如擎天柱形态切换的精算学研究；   （3）**科研失败的玄学辩护**，如电泳条带升华为北宋名画美学。研究揭示，高录用率文章需融合“错位感”“叙事张力”与“生活痛点学术化”，形成独特的“学术整活”范式。作者建议将个体泄愤转化为可复制的工业化创作流程，助力科研人在高压环境中寻找乐趣并实现发表。</summary>
+    <title>论抽象期刊的高效中稿策略</title>
+    <updated>2026-03-23T08:08:47.193Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -373,28 +392,5 @@ Universität der schönen blauen Donau</p>
     </summary>
     <title>Empty rubbish的存在性证明</title>
     <updated>2026-03-19T02:48:48.548Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="实验室祖传方法" scheme="https://www.rubbish.press/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%A5%96%E4%BC%A0%E6%96%B9%E6%B3%95/"/>
-    <category term="无法重复怪圈" scheme="https://www.rubbish.press/tags/%E6%97%A0%E6%B3%95%E9%87%8D%E5%A4%8D%E6%80%AA%E5%9C%88/"/>
-    <category term="科学与玄学" scheme="https://www.rubbish.press/tags/%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%8E%84%E5%AD%A6/"/>
-    <category term="MSAP" scheme="https://www.rubbish.press/tags/MSAP/"/>
-    <category term="避雷" scheme="https://www.rubbish.press/tags/%E9%81%BF%E9%9B%B7/"/>
-    <id>https://www.rubbish.press/posts/29166.html</id>
-    <link href="https://www.rubbish.press/posts/29166.html"/>
-    <published>2026-03-18T09:42:58.232Z</published>
-    <summary>
-      <![CDATA[<p>Kiara Hu), ChatGPT<br>
-大山中学<br>
-OpenAI<br>
-<a]]>
-    </summary>
-    <title>实验室祖传 MSAP 方法不可重复性的逐级证伪：从条件优化到风水排查</title>
-    <updated>2026-03-18T09:51:30.690Z</updated>
   </entry>
 </feed>
