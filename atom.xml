@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-23T15:16:48.397Z</updated>
+  <updated>2026-03-23T15:23:20.198Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="上班" scheme="https://www.rubbish.press/tags/%E4%B8%8A%E7%8F%AD/"/>
+    <category term="哺乳动物" scheme="https://www.rubbish.press/tags/%E5%93%BA%E4%B9%B3%E5%8A%A8%E7%89%A9/"/>
+    <category term="寿命" scheme="https://www.rubbish.press/tags/%E5%AF%BF%E5%91%BD/"/>
+    <category term="转录组" scheme="https://www.rubbish.press/tags/%E8%BD%AC%E5%BD%95%E7%BB%84/"/>
+    <category term="工作模型" scheme="https://www.rubbish.press/tags/%E5%B7%A5%E4%BD%9C%E6%A8%A1%E5%9E%8B/"/>
+    <category term="风险模型" scheme="https://www.rubbish.press/tags/%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B/"/>
+    <id>https://www.rubbish.press/posts/41630.html</id>
+    <link href="https://www.rubbish.press/posts/41630.html"/>
+    <published>2026-03-23T15:18:07.257Z</published>
+    <summary>**摘要：**   本研究通过构建小鼠“工作模型”探讨工作对哺乳动物寿命的影响。作者将幼鼠分为脑力工作组、体力工作组和无工作组，持续21天干预后提取血液样本进行转录组测序，并筛选出与工作相关的差异表达基因（work-DEGs）。基于这些基因，利用Cox回归和Lasso算法构建风险评分模型（RISK = Σi×j），将样本按中位数分为高低工作评分组。生存分析（K-M曲线）显示，高工作评分组小鼠寿命显著缩短，ROC曲线验证模型预测效能良好。研究结论认为“工作会显著降低哺乳动物寿命”，为这一假说提供实验支持。但作者强调此为娱乐性质作品，不具科学真实性，请勿当真。</summary>
+    <title>工作会影响哺乳动物寿命？一项基于 bulk 转录组数据的综合性研究</title>
+    <updated>2026-03-23T15:23:20.198Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -363,20 +382,5 @@
     <summary>**摘要：**   本文基于斯皮瓦克“庶民能说话吗”的去殖民化理论，探讨小红书学术底刊（如《Rubbish》）作为去中心化知识生产形式的可能性。文章指出，传统顶刊体系由精英主导，排斥底层科研人员的成果，延续学术霸权。而小红书学术底刊以“没什么用但有点搞笑”的内容为特色，允许庶民自主定义知识价值，打破主流话语垄断。通过案例研究，作者认为这类平台为被边缘化的声音提供了发声空间，实现了斯皮瓦克所倡导的庶民去殖民化知识生产的实践。结论强调，这种自下而上的知识生产模式挑战了精英主义学术结构，赋予边缘群体话语权，体现了庶民发声的可能。</summary>
     <title>没什么用但有点搞笑：作为一种去中心化知识生产形式的小红书学术底刊群体——以 《Rubbish》为例</title>
     <updated>2026-03-22T16:50:30.326Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="喜剧" scheme="https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/"/>
-    <category term="热力学" scheme="https://www.rubbish.press/tags/%E7%83%AD%E5%8A%9B%E5%AD%A6/"/>
-    <category term="动力学" scheme="https://www.rubbish.press/tags/%E5%8A%A8%E5%8A%9B%E5%AD%A6/"/>
-    <id>https://www.rubbish.press/posts/2213.html</id>
-    <link href="https://www.rubbish.press/posts/2213.html"/>
-    <published>2026-03-22T15:22:38.356Z</published>
-    <summary>**摘要**：   本文探讨了冬季清晨起床困难的热力学与动力学机制，结合热传导模型、吉布斯自由能变化及生理需求（尿意、饥饿感、工作压力）构建多因素模型。研究表明，人体与被窝间的温差导致热量流失，增大起床难度；低温环境下自由能升高进一步抑制自发行为。动力学分析显示，尿意在工作日午后最强，而工作压力的驱动力在早晨更高，成为“考勤打卡”的主要动力。建议通过调节睡眠环境（如加厚被褥）、优化作息时间或利用外部压力（如闹钟）来减少起床阻力，提升冬季晨间行动效率。</summary>
-    <title>冬季清晨起床的热力学与动力学博弈：能量抑制与生理驱动力</title>
-    <updated>2026-03-22T16:02:31.616Z</updated>
   </entry>
 </feed>
