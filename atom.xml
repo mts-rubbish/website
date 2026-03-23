@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-23T14:47:42.183Z</updated>
+  <updated>2026-03-23T14:53:52.671Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="肠道动力学" scheme="https://www.rubbish.press/tags/%E8%82%A0%E9%81%93%E5%8A%A8%E5%8A%9B%E5%AD%A6/"/>
+    <category term="多目标优化" scheme="https://www.rubbish.press/tags/%E5%A4%9A%E7%9B%AE%E6%A0%87%E4%BC%98%E5%8C%96/"/>
+    <category term="摩擦学" scheme="https://www.rubbish.press/tags/%E6%91%A9%E6%93%A6%E5%AD%A6/"/>
+    <category term="湿厕纸" scheme="https://www.rubbish.press/tags/%E6%B9%BF%E5%8E%95%E7%BA%B8/"/>
+    <category term="帕累托前沿" scheme="https://www.rubbish.press/tags/%E5%B8%95%E7%B4%AF%E6%89%98%E5%89%8D%E6%B2%BF/"/>
+    <category term="晨间排便" scheme="https://www.rubbish.press/tags/%E6%99%A8%E9%97%B4%E6%8E%92%E4%BE%BF/"/>
+    <id>https://www.rubbish.press/posts/15363.html</id>
+    <link href="https://www.rubbish.press/posts/15363.html"/>
+    <published>2026-03-23T14:48:23.245Z</published>
+    <summary>**摘要**   本文聚焦晨间结肠排空活动的生理机制与湿厕纸产品的优化选择，提出肠道动力学的昼夜节律受神经内分泌信号（如胃结肠反射和皮质醇觉醒反应）严格调控，具有客观生物学基础。针对清洁介质，研究构建多目标优化模型，综合考虑擦拭效能（S）、抗拉伸强度（T）、降解速率（D）及成本（C），引入深度学习权重项求解帕累托最优解。结果表明，极端设计（过高厚度或过低价格）均因材料学悖论（如降解性差或易破损）导致隐性卫生与经济成本上升；唯有采用原生木浆与适度改性粘胶纤维的中等规格产品（单价0.08–0.12元），在承受25N剪切力且45秒内完全分散的条件下，实现综合效用最大化。结论强调：顺应生理规律，并基于多维参数而非主观偏好选择清洁产品，方具真实卫生经济学价值。    （字数：199）</summary>
+    <title>基于晨间觉醒节律的下消化道动力学建模与纤维素基清洁介质的帕累托最优成本效能分析</title>
+    <updated>2026-03-23T14:53:52.671Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -351,23 +370,5 @@
     <summary>**摘要**   本文探讨男性排尿后抖动行为的稳定模式——通常为2–3次，而非一次或更多。作者通过行为观察与经验分析，提出“残余不确定性递减模型”：第一次抖动清除大部分残留，第二次显著降低残余量，第三次提供心理确认，而超过三次则边际收益锐减且可能引发社会不适。该模式是效率（动作收益递减）、确定性需求与社会规范共同作用的结果。研究类比日常重复行为（如敲门），揭示人类在操作不确定性下通过少量冗余动作平衡安全与效率的普遍策略，体现了日常行为中的理性权衡机制。</summary>
     <title>男性排尿后抖动次数的行为规律研究</title>
     <updated>2026-03-21T06:01:37.942Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="应用" scheme="https://www.rubbish.press/categories/%E5%BA%94%E7%94%A8/"/>
-    <category term="饮水温度" scheme="https://www.rubbish.press/tags/%E9%A5%AE%E6%B0%B4%E6%B8%A9%E5%BA%A6/"/>
-    <category term="随机对照试验" scheme="https://www.rubbish.press/tags/%E9%9A%8F%E6%9C%BA%E5%AF%B9%E7%85%A7%E8%AF%95%E9%AA%8C/"/>
-    <category term="荟萃分析" scheme="https://www.rubbish.press/tags/%E8%8D%9F%E8%90%83%E5%88%86%E6%9E%90/"/>
-    <category term="食管黏膜损伤" scheme="https://www.rubbish.press/tags/%E9%A3%9F%E7%AE%A1%E9%BB%8F%E8%86%9C%E6%8D%9F%E4%BC%A4/"/>
-    <category term="循证 hydration" scheme="https://www.rubbish.press/tags/%E5%BE%AA%E8%AF%81-hydration/"/>
-    <id>https://www.rubbish.press/posts/57619.html</id>
-    <link href="https://www.rubbish.press/posts/57619.html"/>
-    <published>2026-03-20T02:30:00.307Z</published>
-    <summary>**摘要**：   本研究通过一项随机对照试验（n=120）结合系统综述，首次揭示了饮水温度对人体生理指标的差异化影响。结果表明：热水组（50-60℃）在鼻塞缓解率（82.5% vs 31.6%）和排便满意度上显著优于冰水组；冰水组（4-8℃）在运动后核心温度下降速度和能量消耗（+3.2%）上表现更佳。然而，65℃以上热饮会导致食管黏膜损伤风险显著增加。基于证据，研究提出“温度-情境匹配模型”，最终结论是：只要不烫嘴、不冰牙，个人感觉舒适的水温就是最佳选择。关键词：饮水温度、多喝热水、随机对照试验、循证hydration。</summary>
-    <title>一杯水的“冷热之争” ：基于随机对照试验和荟萃分析的系统综述</title>
-    <updated>2026-03-21T06:02:40.897Z</updated>
   </entry>
 </feed>
