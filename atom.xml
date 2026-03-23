@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-23T14:22:26.124Z</updated>
+  <updated>2026-03-23T14:39:07.084Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="LLM" scheme="https://www.rubbish.press/tags/LLM/"/>
+    <category term="Scaling Law" scheme="https://www.rubbish.press/tags/Scaling-Law/"/>
+    <category term="反缩放定律" scheme="https://www.rubbish.press/tags/%E5%8F%8D%E7%BC%A9%E6%94%BE%E5%AE%9A%E5%BE%8B/"/>
+    <category term="零信息机制" scheme="https://www.rubbish.press/tags/%E9%9B%B6%E4%BF%A1%E6%81%AF%E6%9C%BA%E5%88%B6/"/>
+    <category term="基准测试" scheme="https://www.rubbish.press/tags/%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95/"/>
+    <category term="抽象研究" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1%E7%A0%94%E7%A9%B6/"/>
+    <id>https://www.rubbish.press/posts/33061.html</id>
+    <link href="https://www.rubbish.press/posts/33061.html"/>
+    <published>2026-03-23T14:30:47.528Z</published>
+    <summary>**摘要**   本文对大型语言模型（LLM）的“缩放定律”提出根本性质疑，揭示参数量增长未必提升性能，反而可能导致反效果。作者提出极简的“单参数常模型”（OPCM），以零计算开销在MMLU上达到25%准确率，实现“性价比无穷大”。更关键的是，通过构建SHA-256-QA基准——正确答案仅由问题哈希随机决定——证明模型参数量越大，越易捕捉虚假规律或虚构逻辑，在闭源模型（如GPT-4o、Gemini-3）中表现出“自发推演能力”，导致泛化失败甚至0%准确率。研究结论指出：在零信息场景下，参数越多，“自作聪明”风险越高，性能可能随规模下降，颠覆传统缩放定律认知。建议未来评估应纳入噪声鲁棒性与语义无关任务表现。</summary>
+    <title>Anti-Scaling Laws in the Zero-Information Regime: A Path to 0% Accuracy</title>
+    <updated>2026-03-23T14:39:07.084Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -53,11 +72,11 @@
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="抽象研究" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1%E7%A0%94%E7%A9%B6/"/>
     <category term="NHL" scheme="https://www.rubbish.press/tags/NHL/"/>
     <category term="G20峰会" scheme="https://www.rubbish.press/tags/G20%E5%B3%B0%E4%BC%9A/"/>
     <category term="斯坦利杯" scheme="https://www.rubbish.press/tags/%E6%96%AF%E5%9D%A6%E5%88%A9%E6%9D%AF/"/>
     <category term="加拿大冰球" scheme="https://www.rubbish.press/tags/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%86%B0%E7%90%83/"/>
-    <category term="抽象研究" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1%E7%A0%94%E7%A9%B6/"/>
     <category term="统计检验" scheme="https://www.rubbish.press/tags/%E7%BB%9F%E8%AE%A1%E6%A3%80%E9%AA%8C/"/>
     <id>https://www.rubbish.press/posts/60587.html</id>
     <link href="https://www.rubbish.press/posts/60587.html"/>
@@ -354,24 +373,5 @@
     </summary>
     <title>辣与黏之间的饭：东北盒饭与四川盒饭的异同</title>
     <updated>2026-03-19T15:13:46.599Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="心理代偿机制" scheme="https://www.rubbish.press/tags/%E5%BF%83%E7%90%86%E4%BB%A3%E5%81%BF%E6%9C%BA%E5%88%B6/"/>
-    <category term="认知演化" scheme="https://www.rubbish.press/tags/%E8%AE%A4%E7%9F%A5%E6%BC%94%E5%8C%96/"/>
-    <category term="唯物唯心转别" scheme="https://www.rubbish.press/tags/%E5%94%AF%E7%89%A9%E5%94%AF%E5%BF%83%E8%BD%AC%E5%88%AB/"/>
-    <id>https://www.rubbish.press/posts/35513.html</id>
-    <link href="https://www.rubbish.press/posts/35513.html"/>
-    <published>2026-03-19T14:52:46.121Z</published>
-    <summary>
-      <![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。 -->
-<p>Sun<sup>1,†</sup> 物心二极管<sup>1,†</sup>, 旅行者-帝<sup>2</sup>,]]>
-    </summary>
-    <title>科研人员唯物-唯心二象性及其跃迁机制的量化与质性研究</title>
-    <updated>2026-03-20T02:28:15.668Z</updated>
   </entry>
 </feed>
