@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-23T08:08:47.193Z</updated>
+  <updated>2026-03-23T08:36:30.704Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="拖延" scheme="https://www.rubbish.press/tags/%E6%8B%96%E5%BB%B6/"/>
+    <category term="春节" scheme="https://www.rubbish.press/tags/%E6%98%A5%E8%8A%82/"/>
+    <category term="跨期决策" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E6%9C%9F%E5%86%B3%E7%AD%96/"/>
+    <category term="双曲贴现" scheme="https://www.rubbish.press/tags/%E5%8F%8C%E6%9B%B2%E8%B4%B4%E7%8E%B0/"/>
+    <category term="博弈论" scheme="https://www.rubbish.press/tags/%E5%8D%9A%E5%BC%88%E8%AE%BA/"/>
+    <category term="承诺策略" scheme="https://www.rubbish.press/tags/%E6%89%BF%E8%AF%BA%E7%AD%96%E7%95%A5/"/>
+    <id>https://www.rubbish.press/posts/36658.html</id>
+    <link href="https://www.rubbish.press/posts/36658.html"/>
+    <published>2026-03-23T08:26:09.416Z</published>
+    <summary>**摘要**   本文构建了一个融合跨期决策、行为偏差与不完全信息博弈的理论框架，分析博士生在春节假期（除夕至农历初十）中开始写论文的最优时机。模型纳入倒U型论文质量函数、对数享乐效用（边际递减）、双曲贴现拖延偏差、返程摩擦及除夕特殊窗口效应。推导出个人最优启动日期的解析表达式，并扩展至社会最优与师生策略互动。主要结论：（1）除夕深夜存在短暂“年关顿悟窗口”，但因认知资源匮乏不可持续；（2）农历初四至初五为个人最优启动区间；（3）初八至初九受返程摩擦主导，属低效“僵尸区间”；（4）初十为帕累托上界，此后启动无合理依据；（5）在师生博弈中，“嗯嗯老师”因信号明确且愧疚成本最低而严格占优。关键词：拖延均衡；春节假期；承诺策略；帕累托上界。    （注：摘要严格控制在100–200字内，涵盖核心主题、关键假设、主要结论与建议，保留原文术语与结构逻辑，剔除主观评论与冗余说明。）</summary>
+    <title>正月初几开始写论文是最优的？</title>
+    <updated>2026-03-23T08:36:30.704Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -373,24 +392,5 @@
     </summary>
     <title>古方复炼困局小考——丹书记载与炉前实炼之差距探析</title>
     <updated>2026-03-19T11:29:20.353Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="抽象" scheme="https://www.rubbish.press/categories/%E6%8A%BD%E8%B1%A1/"/>
-    <category term="空" scheme="https://www.rubbish.press/tags/%E7%A9%BA/"/>
-    <id>https://www.rubbish.press/posts/50517.html</id>
-    <link href="https://www.rubbish.press/posts/50517.html"/>
-    <published>2026-03-19T02:42:11.821Z</published>
-    <summary>
-      <![CDATA[<p>C. Enahs<br>
-Universität der schönen blauen Donau</p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>Empty rubbish的存在性证明</title>
-    <updated>2026-03-19T02:48:48.548Z</updated>
   </entry>
 </feed>
