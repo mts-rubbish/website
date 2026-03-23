@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-23T10:03:53.987Z</updated>
+  <updated>2026-03-23T10:27:19.101Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="学术牛马" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E7%89%9B%E9%A9%AC/"/>
+    <category term="生存策略" scheme="https://www.rubbish.press/tags/%E7%94%9F%E5%AD%98%E7%AD%96%E7%95%A5/"/>
+    <category term="最优控制" scheme="https://www.rubbish.press/tags/%E6%9C%80%E4%BC%98%E6%8E%A7%E5%88%B6/"/>
+    <category term="导师压力" scheme="https://www.rubbish.press/tags/%E5%AF%BC%E5%B8%88%E5%8E%8B%E5%8A%9B/"/>
+    <category term="摸鱼" scheme="https://www.rubbish.press/tags/%E6%91%B8%E9%B1%BC/"/>
+    <category term="预期管理" scheme="https://www.rubbish.press/tags/%E9%A2%84%E6%9C%9F%E7%AE%A1%E7%90%86/"/>
+    <id>https://www.rubbish.press/posts/60895.html</id>
+    <link href="https://www.rubbish.press/posts/60895.html"/>
+    <published>2026-03-23T10:18:40.697Z</published>
+    <summary>**摘要**：   本文针对研究生在导师任务中普遍存在的执行力不足与怕被批评的矛盾，提出了一套以“省力气”为核心的生存策略。研究放弃复杂理论，从日常经验出发，探索如何用最小精力达成导师的最低满意度。核心观点包括：（1）识别导师负面情绪爆发的临界点，建立“适度努力+时间管理+成果包装”的平衡机制；（2）揭示过度表现会推高导师预期，反而陷入内卷陷阱；（3）通过仿真证明：采用“刚好达标”策略，可在维持评价稳定的同时显著增加有效休息时间。该研究为高压科研环境中的学生提供了实用自救方案，强调以能效比优化替代盲目勤奋。关键词：不挨骂；学术牛马；生存策略；导师压力；省力模式。</summary>
+    <title>不挨骂且省力地完成任务：学术牛马在导师压力下的生存策略研究</title>
+    <updated>2026-03-23T10:27:19.101Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -356,23 +375,5 @@
     <summary>该博客文章是一篇关于痤疮发病机制的科普性综述，旨在以通俗易懂的方式向公众和科研入门者解释这一常见皮肤病的成因。文章核心主题是系统梳理痤疮（俗称青春痘）的四大关键致病环节：雄激素驱动的皮脂过度分泌、毛囊导管角化异常导致的堵塞、痤疮丙酸杆菌等微生物群落失衡引发的免疫反应，以及贯穿始终的炎症过程。作者通过形象比喻（如“皮肤里的微型油厂”）和科学解释相结合的方式，强调这些因素相互作用、层层递进，形成复杂的病理链条。文章指出，公众对痤疮的误解（如“上火”“清洁不当”）需被纠正，其本质是受遗传和环境共同调控的生物学机制。尽管未涉及药物治疗，但该文为提升公众健康素养和科研理解提供了清晰的认知框架，结论呼吁以更科学的态度看待痤疮问题。关键词包括痤疮、发病机制、皮脂腺、炎症及微生物组。</summary>
     <title>挥之不去与无忧无虑：一篇关于痤疮发病机制的通俗综述</title>
     <updated>2026-03-23T09:32:49.757Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="环卫作业" scheme="https://www.rubbish.press/tags/%E7%8E%AF%E5%8D%AB%E4%BD%9C%E4%B8%9A/"/>
-    <category term="拖拽式火车" scheme="https://www.rubbish.press/tags/%E6%8B%96%E6%8B%BD%E5%BC%8F%E7%81%AB%E8%BD%A6/"/>
-    <category term="两轮电动自行车" scheme="https://www.rubbish.press/tags/%E4%B8%A4%E8%BD%AE%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6/"/>
-    <category term="可行性研究" scheme="https://www.rubbish.press/tags/%E5%8F%AF%E8%A1%8C%E6%80%A7%E7%A0%94%E7%A9%B6/"/>
-    <category term="低速电动车" scheme="https://www.rubbish.press/tags/%E4%BD%8E%E9%80%9F%E7%94%B5%E5%8A%A8%E8%BD%A6/"/>
-    <id>https://www.rubbish.press/posts/63459.html</id>
-    <link href="https://www.rubbish.press/posts/63459.html"/>
-    <published>2026-03-19T13:27:46.816Z</published>
-    <summary>**摘要**   本研究以普通两轮电动自行车为基础平台，探讨其加装拖曳式货厢（环卫垃圾桶）用于城市末端垃圾运输的技术可行性。通过分析动力性能、承载能力、路况适应性及现行交通法规，评估该模式在环卫作业中的应用潜力。结果表明：在限定载重与平坦路面条件下，电动自行车可稳定拖曳单台标准容量货厢，具备技术可行性；但多箱拖曳或长距离运输易引发安全隐患且违反交通法规。研究进一步提出向低速电动车（“老头乐”）升级的方案，以突破动力与安全瓶颈。结论强调：该模式适用于特定场景的轻量化环卫作业，需严格遵循法规并优化平台设计，为城市末端物流提供参考。    （199字）</summary>
-    <title>关于两轮电动自行车加装拖曳式货厢用于替代半挂货车的可行性研究</title>
-    <updated>2026-03-23T09:31:41.178Z</updated>
   </entry>
 </feed>
