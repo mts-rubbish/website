@@ -1,0 +1,747 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"><title>博士培养的旮旯给木化建模：一个基于 48 月目的生存模拟器设计 | Rubbish</title><meta name="keywords" content="博士培养,旮旯给木,模拟器,建模"><meta name="author" content="Rubbish编辑部"><meta name="copyright" content="Rubbish编辑部"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#f7f9fe"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-touch-fullscreen" content="yes"><meta name="apple-mobile-web-app-title" content="博士培养的旮旯给木化建模：一个基于 48 月目的生存模拟器设计"><meta name="application-name" content="博士培养的旮旯给木化建模：一个基于 48 月目的生存模拟器设计"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="#f7f9fe"><meta property="og:type" content="article"><meta property="og:title" content="博士培养的旮旯给木化建模：一个基于 48 月目的生存模拟器设计"><meta property="og:url" content="https://www.rubbish.press/posts/33782.html"><meta property="og:site_name" content="Rubbish"><meta property="og:description" content="！！请切换编辑模式为分屏预览！！  Si Shi(時肆)*1,2, **Zhabaonidie(炸爆匿碟)**2, **Zaizai Niu(牛在在)**2 1 Department of Philosophy, Luo Lai Academy, Shanghai, China, 200240 2"><meta property="og:locale" content="zh-CN"><meta property="og:image" content="https://www.rubbish.press/%20!%5B%5D(https:/img.rubbish.press/file/2603/1774199869323_%E7%94%9F%E6%88%90%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87.png)"><meta property="article:author" content="Rubbish编辑部"><meta property="article:tag" content="趣味，无厘头，研究，轻松，学术，大众化，科研，搞笑，Rubbish，rubbish，shit期刊，杂志，期刊，垃圾，论文，journal，rubbishjournal，rubbish.pub，rubbish期刊，Rubbish期刊，mts-rubbish，荒诞研究，喜剧"><meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://www.rubbish.press/%20!%5B%5D(https:/img.rubbish.press/file/2603/1774199869323_%E7%94%9F%E6%88%90%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87.png)"><meta name="description" content="！！请切换编辑模式为分屏预览！！  Si Shi(時肆)*1,2, **Zhabaonidie(炸爆匿碟)**2, **Zaizai Niu(牛在在)**2 1 Department of Philosophy, Luo Lai Academy, Shanghai, China, 200240 2"><link rel="shortcut icon" href="https://image.rubbish.press/logo.png"><link rel="canonical" href="https://www.rubbish.press/posts/33782.html"><link rel="preconnect" href="//cdn.cbd.int"/><link rel="preconnect" href="//www.google-analytics.com" crossorigin=""/><link rel="preconnect" href="//hm.baidu.com"/><link rel="preconnect" href="//static.cloudflareinsights.com"/><link rel="preconnect" href="//www.clarity.ms"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><meta name="google-site-verification" content="vz4dHKbc4dEmMbqoYWXwK0R0ltF0Xf3JvjjJHli1Exw"/><meta name="baidu-site-verification" content="codeva-UVbUrUJSX5"/><meta name="msvalidate.01" content="D4E547F31E20AF8715BDE2B5981BDECB"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.cbd.int/@fortawesome/fontawesome-free@7.1.0/css/all.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.cbd.int/node-snackbar@0.1.16/dist/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.cbd.int/@fancyapps/ui@6.1.6/dist/fancybox/fancybox.css" media="print" onload="this.media='all'"><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?703ed884a832b17c267aebb8b00c8701";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script><script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-1J95QGL20L"></script><script>window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-1J95QGL20L');
+</script><script defer="defer" data-pjax="data-pjax" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;489acce099164a82949ca4c1bd01f466&quot;}"></script><script>(function(c,l,a,r,i,t,y){
+    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+})(window, document, "clarity", "script", "vr1r0ogtzt");</script><script>const GLOBAL_CONFIG = {
+  linkPageTop: undefined,
+  peoplecanvas: {"enable":true,"img":"/img/slogen.svg"},
+  postHeadAiDescription: undefined,
+  diytitle: {"enable":true,"leaveTitle":"w(ﾟДﾟ)w 不要走！再看看嘛！","backTitle":"♪(^∇^*)欢迎肥来！"},
+  LA51: {"enable":true,"ck":"3PDEUZoHQpRd2wWn","LingQueMonitorID":"3PDEUZoHQpRd2wWn"},
+  greetingBox: undefined,
+  twikooEnvId: '',
+  commentBarrageConfig:undefined,
+  music_page_default: "nav_music",
+  root: '/',
+  preloader: undefined,
+  friends_vue_info: undefined,
+  navMusic: false,
+  mainTone: {"mode":"api","api":"https://img2color.rubbish.press/api?img=","cover_change":true},
+  authorStatus: undefined,
+  algolia: undefined,
+  localSearch: {"path":"/search.xml","preload":true,"languages":{"hits_empty":"找不到您查询的内容：${query}"}},
+  translate: {"defaultEncoding":2,"translateDelay":0,"msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"简","rightMenuMsgToTraditionalChinese":"转为繁体","rightMenuMsgToSimplifiedChinese":"转为简体"},
+  noticeOutdate: undefined,
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":330},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    simplehomepage: true,
+    post: false
+  },
+  runtime: '天',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: {"copy":true,"copyrightEbable":true,"limitCount":50,"languages":{"author":"作者: Rubbish编辑部","link":"链接: ","source":"来源: Rubbish","info":"著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。","copySuccess":"复制成功，复制和转载请标注本文地址"}},
+  lightbox: 'fancybox',
+  Snackbar: {"chs_to_cht":"你已切换为繁体","cht_to_chs":"你已切换为简体","day_to_night":"你已切换为深色模式","night_to_day":"你已切换为浅色模式","bgLight":"#425AEF","bgDark":"#1f1f1f","position":"top-center"},
+  source: {
+    justifiedGallery: {
+      js: 'https://cdn.cbd.int/flickr-justified-gallery@2.2.0/dist/fjGallery.min.js',
+      css: 'https://cdn.cbd.int/flickr-justified-gallery@2.2.0/dist/fjGallery.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isAnchor: true,
+  shortcutKey: undefined,
+  autoDarkmode: true
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  configTitle: 'Rubbish',
+  title: '博士培养的旮旯给木化建模：一个基于 48 月目的生存模拟器设计',
+  postAI: '',
+  pageFillDescription: 'Abstract, 1 Introduction, 2 Methodology, 2.1 研究设计概述, 2.2 模拟器架构与核心组件, 2.3 核心算法与逻辑流程, 2.4 用户交互与界面设计, 2.5 数据来源与参数设定, 3 Results and Discussion, 3.1 模拟结果总体分析, 3.2 模拟结果总体分析, 3.2.1 课题选择与毕业进度的关联, 3.2.2 人际关系网络的动态平衡, 3.3 随机事件的调节作用, 3.4 多结局路径的启示, 4 Conclusion, Acknowledge, Reference请切换编辑模式为分屏预览時肆炸爆匿碟牛在在罗莱学院哲学系中国上海抖一校机电工程学院中国哈尔滨通讯作者時肆阅读全文本文提出了一种基于旮旯给木隐喻的博士培养过程建模方法设计并开发了为期个月的读博生存模拟器研究将博士培养抽象为多属性决策系统通过构建健康值导师关系学生关系金钱值和毕业进度五大核心指标模拟博士生在课题研究项目协作团队培养和兼职活动中的策略选择研究结果显示博士培养的成功关键在于多维属性的平衡管理而非单一指标优化模拟实验表明仅的路径能达成顺利毕业而的路径会触发延毕机制这与现实博士培养数据高度吻合本文创新性地将游戏化叙事与计算模拟相结合又通过多结局机制验证了学术培养中资源分配的内在矛盾该模拟器为理解博士培养规律提供了新范式既可作为博士生生涯规划的教育工具也为优化学术培养体系提供了理论参考博士培养旮旯给木模拟器建模近年来随着全球高等教育深化与科研创新能力需求的攀升博士培养规模持续扩大据教育部统计我国博士招生人数近十年增长超越来越多青年学者将读博视为学术生涯的核心跳板这一趋势既反映了社会对高层次人才的渴求也意味着博士教育已从精英选拔转向规模化培养其背后的适应性挑战与成长路径问题亟待系统性回应当读博从少数人的选择变为更普遍的学术经历如何在这一特殊阶段实现个人目标与学术要求的平衡成为关乎人才培养质量的关键议题在这条被压缩至个月的学术赛道上博士生常陷入多重角色的拉扯他们既是实验室里攻坚克难的科研执行者需在高强度实验中积累数据也是导师课题中的项目协作者要在横向任务与纵向研究中分配精力更是学术评价体系里的考核对象面临组会汇报论文发表盲审答辩等环环相扣的节点压力这种多线程作业往往伴随隐性代价为追赶毕业进度熬夜改稿导致健康值骤降为维系导师好感过度承接项目而偏离核心研究或在摆烂与内卷间反复摇摆消耗心力正如许多亲历者所言读博像一场戴着镣铐的舞蹈既要踩准学术规范的节拍又要在身心极限处寻找喘息之机其间的平衡术考验着每个人的策略智慧现有博士教育研究虽已关注到这一现象却存在明显局限多数成果聚焦于压力水平的量化测量如通过量表评估焦虑抑郁倾向或典型个案的深度访谈如总结延期毕业的共性原因这些方法虽揭示了问题的表象却难以触及决策反馈的动态内核例如当博士生面临优先完成导师指派项目还是专注自身小论文的抉择时现有研究无法模拟两种选择对健康值导师关系毕业进度等参数的累积影响更难以预判不同决策组合导向的多元结局如按时毕业延毕预警或主动退出这种对动态过程的忽视使得既有建议多停留在调整心态合理规划等原则性层面缺乏可操作性的策略指引为此本研究提出博士培养的旮旯给木化建模思路将读博过程类比为一场月目的生存模拟游戏设计开发一款聚焦决策动态分析的模拟器该模拟器以的核心机制属性博弈与多线叙事为框架构建包含健康值导师好感度毕业进度经费储备等核心属性的量化系统嵌入组会巡查论文盲审项目机遇等余种随机事件允许用户在每月目文献承接项目调整节奏终通过算法生成涅槃毕业健康预警退学导师关系破裂转组等类结局其创新在于将抽象的读博体验转化为可交互可量化的游戏沙盘不仅能复现选择反馈的动态链条更能通过模拟数据揭示不同策略的长期效应为博士生优化决策培养单位改进流程提供实证依据这一旮旯给木化建模尝试或为理解博士培养的复杂生态打开一扇新的观察窗口研究设计概述本研究基于旮旯给木的核心机制多线叙事属性博弈与建了一款面向博士培养周期的生存模拟器模拟器以个月对应标准博士间框架将读博过程抽象为可量化的决策模型其核心目标是通过动态模拟博士生课题攻坚项目协作资源分配等月度选择策略对健康人际关系经济状况及毕业进度的累积影响最终生成多元结局如顺利毕业延毕预警中途退出模拟器采用马特拉布开发兼顾交互可视化与算法逻辑的完整性模拟器架构与核心组件模拟器的架构围绕属性系统事件机制交互界面三大模块展开如图所示属性系统定义了五大核心指标健康值初始值导师关系初始值学生关系初始值金钱值初始值及毕业进度初始值这些指标通过全局结构体变量游戏状态动态存储并受用户选择与随机事件的双重调节事件机制分为确定性事件与随机事件两类确定性事件源于用户月度选择通过下拉菜单触发例如选择自己做项目可能提升导师关系但损耗健康选择接私活增加金钱但可能降低学术投入和师生好感度事件影响通过预定义的矩阵量化每项选择对应一个权重向量与属性变化向量进行点乘计算如图所示随机事件模拟读博中的不确定性如突发课题突破组会质询事件库从外部文件读取包含触发概率及对各项属性的修正值系统按月依概率降序判断事件是否触发确保高风险高影响事件优先检测如图所示确定性事件分类选项项目自己做项目项目让学生做项目项目开摆培养指导学弟妹培养开摆课题自己做课题课题让学弟妹帮一下课题开摆私活接个大私活私活接个小私活私活开摆确定性事件列表课题论文拒稿生活同门聚餐周末你和你一周没见的同门和室友在广场聚餐论交流了各自的课题进展以及各自的近况生活对象送礼物你的异地对象的论文中了也可能是其他原因心情好给你买了点礼物希望你在上海照顾好自己生活对象吵架你对象的课题组比较压力很大你最近也很忙压力也很大你们晚上吵了一架但是第二天和好了生活朋友毕业你的没读博的朋友这个月毕业请你吃了顿饭吃饭时他向你远况向你后不后悔读博你不知道应该说什么项目课题组团建今天课题组团建导师请你和组里的学弟妹吃了个饭也顺便了个组会汇报了一下项目进展课题被发现了你偷偷做课题被导师发现了导师觉得你毕业不着急你给学弟妹分一下成果他们硕士要毕业了生活去医院天气突变不小心生病了你只能去学校旁边距离的瑞丽医院与问诊课题灵光一闪不知道是你在玩游戏的时候还是睡觉的时候梦到了新你的毕业有望了生活闺蜜看望你本科时期的好闲重正好来上海出差给你带了很多好吃的也聊了很多内容课题学术报告吴泾大学旁边的自金大酒店又举办了和你课题相关的学术讲座你去听了一下做了很多充分的整理也有很多收获可以分享给学弟妹项目项目黄了由于你导师的管理能力有限项目黄了导师认为是你的责任觉得是因为你不咋做项目的原因随机事件列表部分图事件机制核心算法与逻辑流程模拟器的算法核心体现在状态更新与结局判定两个环节对于状态更新流程包含如下步骤用户点击推进度按钮后系统调用属性变化函数根据当前选项计算属性变化向量随后触发随机事件判定若事件发生则叠加属性修正值最终更新全局状态并检查指标是否越界如健康值超时重置为对于结局判定机制包含如下步骤系统在每月末检测属性阈值预设类结局如表所示表部分结局示意触发条件结局健康值小于你的意识小小年纪读博不能把身体搞砸啊我想活着忠诚值大于导师忠心耿耿给我干一辈子吧直接大延毕忠诚值小于导师拒不配合我是不可能给你毕业签字的民心值大于导师油腔滑调这就搞上小团体了你是哪个教的此子断不可留民心值小于学工办何必当初你由于每天中午多点一杯块钱的橙汁没有做好廉洁形象被学生实名举报建议劝退导师也别闲着都这么有钱金钱值大于了还读什么博直接来我公司打黑工反正你也不缺钱金钱值小于导师不推进度没钱还读什么博回家找个班上吧时间大于月教务办好像超年了超过最长延毕期了你要被清退了毕业进度导师恭喜你毕业了再去帮你学弟妹毕业吧结局判定嵌入在回调函数中通过条件分支实现实时响应用户交互与界面设计模拟器采用图形化界面增强用户体验如图所示主面板显示属性数值与绿黄红三色标示状态安全等级的信号灯数值超过一定范围回从绿灯变为黄灯或者红灯各属性旁边小的数字则为当前选择的确定性事件对属性的影响控制模块提供四个下拉菜单供用户选择月度行动并设推进度按钮逐步模拟时间流逝事件反馈区实时显示随机事件描述及其对属性的影响界面设计直观毕业进度条可视化进度而重新开始按钮支持快速重置模拟数据来源与参数设定模拟器的初始参数与事件库基于现实博士培养场景校准时间参数总时长个月按月推进延毕后每月触发惩罚机制全体属性事件数据从外部文件导入其中确定性事件矩阵包含种选择组合的权重随机事件库涵盖余种情境如论文被拒对象送礼物概率范围音效与视觉反馈集成多类音频提示如胜利音效游戏结束音效强化沉浸感参数路径通过相对路径调用确保跨平台兼容性模拟结果总体分析通过对模拟器进行多轮次测试累计运行次我们观察到博士培养过程中的关键规律数据显示仅约的模拟路径能够达成顺利毕业结局而超过的路径因各类指标失衡触发延毕机制这一结果印证了读博过程的高度不确定性与现实中博士延期毕业率约高度吻合在属性变化方面健康值呈现最为敏感的波动特征当用户连续选择高负荷选项如自己做项目结合接大私活时健康值平均每月下降点其中的模拟者在第个月前后健康值已跌破警戒线触发健康崩溃退学结局这一结果凸显了博士生身心健康管理的重要性也解释了现实中博士生心理健康问题高发的现象模拟结果总体分析课题选择与毕业进度的关联模拟结果显示持续选择自己做课题的路径毕业进度提升最快月均增长但代价是健康值加速消耗月均下降点相反过度依赖让学弟妹帮一下虽能保持健康值稳定但毕业进度增长缓慢月均且易导致导师关系下降这种权衡关系体现了科研投入与个人损耗之间的基本矛盾人际关系网络的动态平衡导师关系与学生关系的博弈特征显著当用户偏重提升导师关系频繁选择自己做项目或让学弟妹做时资源支持但的案例出现学生关系降至危险值触发被学生举报结局这一结果反映了学术圈中向上负责与向下管理的两难困境与现实中期望与学生期待间的处境高度相似随机事件的调节作用随机事件系统显著增加了模拟的真实性例如论文被接收事件能同时提升毕业进度和健康值而项目黄了则导致忠诚值和民心值下降某些极端事件如突发疾病健康值至临界点迫使玩家暂停科研活动休养而国际会议邀请虽仅提升导师关系但能解锁隐藏合作资源这些事件以一定的月触发概率打破线性发展路径使原本可预测的模拟结果产生的方差波动更贴近真实科研场景中不可控因素对职业轨迹的影响多结局路径的启示九类结局的分布呈现明显的聚类特征除了理想的顺利毕业结局外值得关注的是隐性失败结局结局团队破裂往往源于过度提升学生关系而忽视导师关系平均值对应现实中博士生拉帮结派被导师忌惮的现象结局学术放弃由金钱值过高而毕业进度滞后触发映射部分博士生转向业界的心态变化结局超期清退集中发生在健康值导师关系金钱值均处于中间水平的路径反映平庸但稳定策略的长期风险这些结局表明博士培养的成功不仅取决于单一指标的优化更需要多维属性的动态平衡模拟器中设置的信号灯预警系统红黄绿三色提示被证明能有效帮助用户及时调整策略避免极端结局本研究通过构建博士培养旮旯给木化模拟器验证了叙事框架对博士培养过程进行建模的有效性模拟结果表明博士生涯本质上是一个需要动态平衡的多目标优化问题其核心矛盾体现在科研投入健康管理人际关系维系和经济压力等多维属性的博弈中通过个月目的循环模拟我们发现成功的博士培养路径往往遵循均衡策略而非极端选择这一发现为理解博士生的决策机制提供了新视角本研究的主要贡献在于将抽象的学术成长过程转化为可量化可交互的计算模型不仅证实了游戏化隐喻对复杂教育过程的表现力更通过多结局机制揭示了博士培养中的关键风险节点为博士生和培养单位提供了具象化的决策参考本研究的主要创新在于将叙事性与计算模拟结合突破了传统问卷研究静态刻画的局限然而模拟器仍存在若干不足一是未涵盖跨学科差异理工科与人文科的培养节奏不同二是事件库基于作者个人经验未来可通过大样本调查优化事件概率权重此外模拟器目前侧重于个体决策未完全呈现学术圈的结构性因素如学科资源不均等本模拟器既可作博士生入学培训工具帮助其预见不同选择的长远影响也可为培养单位优化制度提供参考如设置弹性考核机制未来研究可从三个方向深入拓展一是开发多智能体交互模块引入导师同行等角色的动态反馈更真实地模拟学术圈的社会网络二是建立个性化参数校准机制通过机器学习算法适配不同学科不同院校的培养特征三是开展纵向实证研究将模拟结果与真实博士生涯轨迹进行比对验证持续优化模型预测效能最终这种游戏化反思范式有望发展成为博士生职业规划的辅助工具让博士培养这场大型旮旯给木从被动承受的生存挑战转变为可规划可调控的战略旅程感谢罗莱学院和抖一校的学者对本文完成的帮助時肆吴泾大学读博是一场大型旮旯给木周目的生死轮回小红书',
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: true,
+  postUpdate: '2026-03-22 17:22:09',
+  postMainColor: '',
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
+
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(win=>{
+      win.saveToLocal = {
+        set: (key, value, ttl) => {
+          if (ttl === 0) return
+          const now = Date.now()
+          const expiry = now + ttl * 86400000
+          const item = {
+            value,
+            expiry
+          }
+          localStorage.setItem(key, JSON.stringify(item))
+        },
+      
+        get: key => {
+          const itemStr = localStorage.getItem(key)
+      
+          if (!itemStr) {
+            return undefined
+          }
+          const item = JSON.parse(itemStr)
+          const now = Date.now()
+      
+          if (now > item.expiry) {
+            localStorage.removeItem(key)
+            return undefined
+          }
+          return item.value
+        }
+      }
+    
+      win.getScript = (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        script.onerror = reject
+        script.onload = script.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          script.onload = script.onreadystatechange = null
+          resolve()
+        }
+
+        Object.keys(attr).forEach(key => {
+          script.setAttribute(key, attr[key])
+        })
+
+        document.head.appendChild(script)
+      })
+    
+      win.getCSS = (url, id = false) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onerror = reject
+        link.onload = link.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          link.onload = link.onreadystatechange = null
+          resolve()
+        }
+        document.head.appendChild(link)
+      })
+    
+      win.activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#18171d')
+        }
+      }
+      win.activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#f7f9fe')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          const isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches
+          const isLightMode = window.matchMedia('(prefers-color-scheme: light)').matches
+          const isNotSpecified = window.matchMedia('(prefers-color-scheme: no-preference)').matches
+          const hasNoSupport = !isDarkMode && !isLightMode && !isNotSpecified
+
+          if (t === undefined) {
+            if (isLightMode) activateLightMode()
+            else if (isDarkMode) activateDarkMode()
+            else if (isNotSpecified || hasNoSupport) {
+              const now = new Date()
+              const hour = now.getHours()
+              const isNight = hour <= 6 || hour >= 18
+              isNight ? activateDarkMode() : activateLightMode()
+            }
+            window.matchMedia('(prefers-color-scheme: dark)').addListener(e => {
+              if (saveToLocal.get('theme') === undefined) {
+                e.matches ? activateDarkMode() : activateLightMode()
+              }
+            })
+          } else if (t === 'light') activateLightMode()
+          else activateDarkMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+      const detectApple = () => {
+        if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+          document.documentElement.classList.add('apple')
+        }
+      }
+      detectApple()
+    })(window)</script><link rel="stylesheet" href="/css/encrypt.css"><meta name="bytedance-verification-code" content="A+KcJ4Bj9h/Te05SmGKm" /><meta name="sogou_site_verification" content="iN32uXYmaZ" /><meta name="generator" content="Hexo 8.1.1"><link rel="alternate" href="/atom.xml" title="Rubbish" type="application/atom+xml">
+</head><body data-type="anzhiyu"><div id="web_bg"></div><div id="an_music_bg"></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header"><nav id="nav"><div id="nav-group"><span id="blog_name"><div class="back-home-button"><i class="anzhiyufont anzhiyu-icon-grip-vertical"></i><div class="back-menu-list-groups"><div class="back-menu-list-group"><div class="back-menu-list-title">网站</div><div class="back-menu-list"><a class="back-menu-item" href="https://www.rubbish.press/" title="主页"><img class="back-menu-item-icon" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://image.rubbish.press/logo.png" alt="主页"/><span class="back-menu-item-text">主页</span></a><a class="back-menu-item" href="/categories/%E6%96%87%E7%AB%A0/" title="全部文章"><img class="back-menu-item-icon" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://image.rubbish.press/logo.png" alt="全部文章"/><span class="back-menu-item-text">全部文章</span></a><a class="back-menu-item" href="/categories/%E6%96%B0%E9%97%BB/" title="网站新闻"><img class="back-menu-item-icon" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://image.rubbish.press/logo.png" alt="网站新闻"/><span class="back-menu-item-text">网站新闻</span></a></div></div><div class="back-menu-list-group"><div class="back-menu-list-title">服务</div><div class="back-menu-list"><a class="back-menu-item" target="_blank" rel="noopener" href="https://mts.rubbish.press/" title="投稿系统"><img class="back-menu-item-icon" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://image.rubbish.press/logo.png" alt="投稿系统"/><span class="back-menu-item-text">投稿系统</span></a><a class="back-menu-item" target="_blank" rel="noopener" href="https://file.rubbish.press/" title="文件托管"><img class="back-menu-item-icon" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://image.rubbish.press/logo.png" alt="文件托管"/><span class="back-menu-item-text">文件托管</span></a><a class="back-menu-item" target="_blank" rel="noopener" href="https://admin.rubbish.press/" title="网站后台"><img class="back-menu-item-icon" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://s2.loli.net/2024/08/25/hdaM2IVuRCoPw3L.png" alt="网站后台"/><span class="back-menu-item-text">网站后台</span></a></div></div></div></div><a id="site-name" href="/" accesskey="h"><div class="title">Rubbish</div><i class="anzhiyufont anzhiyu-icon-house-chimney"></i></a><div id="he-plugin-simple"></div><script>var WIDGET = {
+  "CONFIG": {
+    "modules": "0124",
+    "background": "2",
+    "tmpColor": "FFFFFF",
+    "tmpSize": "16",
+    "cityColor": "FFFFFF",
+    "citySize": "16",
+    "aqiColor": "E8D87B",
+    "aqiSize": "16",
+    "weatherIconSize": "24",
+    "alertIconSize": "18",
+    "padding": "10px 10px 10px 10px",
+    "shadow": "0",
+    "language": "auto",
+    "borderRadius": "20",
+    "fixed": "true",
+    "vertical": "top",
+    "horizontal": "left",
+    "left": "20",
+    "top": "7.1",
+    "key": "df245676fb434a0691ead1c63341cd94"
+  }
+}
+</script><link rel="stylesheet" href="https://widget.qweather.net/simple/static/css/he-simple.css?v=1.4.0"/><script src="https://widget.qweather.net/simple/static/js/he-simple.js?v=1.4.0"></script></span><div class="mask-name-container"><div id="name-container"><a id="page-name" href="javascript:anzhiyu.scrollToDest(0, 500)">PAGE_NAME</a></div></div><div id="menus"></div><div id="nav-right"><div class="nav-button" id="randomPost_button"><a class="site-page" onclick="toRandomPost()" title="随机前往一个文章" href="javascript:void(0);"><i class="anzhiyufont anzhiyu-icon-dice"></i></a></div><div class="nav-button" id="search-button"><a class="site-page social-icon search" href="javascript:void(0);" title="搜索🔍" accesskey="s"><i class="anzhiyufont anzhiyu-icon-magnifying-glass"></i><span> 搜索</span></a></div><div id="console"><div class="console-card-group-reward"><ul class="reward-all console-card"><li class="reward-item"><a href="https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-weichat.png" target="_blank"><img class="post-qr-code-img" alt="微信" src="https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-weichat.png"/></a><div class="post-qr-code-desc">微信</div></li><li class="reward-item"><a href="https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-alipay.png" target="_blank"><img class="post-qr-code-img" alt="支付宝" src="https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-alipay.png"/></a><div class="post-qr-code-desc">支付宝</div></li></ul></div><div class="console-card-group"><div class="console-card-group-left"><div class="console-card" id="card-newest-comments"><div class="card-content"><div class="author-content-item-tips">互动</div><span class="author-content-item-title"> 最新评论</span></div><div class="aside-list"><span>正在加载中...</span></div></div></div><div class="console-card-group-right"><div class="console-card tags"><div class="card-content"><div class="author-content-item-tips">兴趣点</div><span class="author-content-item-title">寻找你感兴趣的领域</span><div class="card-tags"><div class="item-headline"></div><div class="card-tag-cloud"><a href="/tags/%E6%83%85%E6%84%9F%E5%8A%A8%E5%8A%9B%E5%AD%A6/" style="font-size: 1.05rem;"> 情感动力学<sup>1</sup></a><a href="/tags/AI%E7%94%9F%E6%88%90%E6%AD%8C%E6%9B%B2/" style="font-size: 1.05rem;">AI生成歌曲<sup>1</sup></a><a href="/tags/MBTI/" style="font-size: 1.05rem;">MBTI<sup>2</sup></a><a href="/tags/QQ/" style="font-size: 1.05rem;">QQ<sup>1</sup></a><a href="/tags/Suno%E5%A4%A7%E6%A8%A1%E5%9E%8B/" style="font-size: 1.05rem;">Suno大模型<sup>1</sup></a><a href="/tags/Unicode/" style="font-size: 1.05rem;">Unicode<sup>1</sup></a><a href="/tags/Western-Blot%E5%AE%BF%E5%91%BD%E8%AE%BA/" style="font-size: 1.05rem;">Western Blot宿命论<sup>1</sup></a><a href="/tags/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E6%94%AF%E6%8C%81/" style="font-size: 1.05rem;">亲密关系支持<sup>1</sup></a><a href="/tags/%E4%BA%BA%E6%A0%BC%E5%BF%83%E7%90%86%E5%AD%A6/" style="font-size: 1.05rem;">人格心理学<sup>1</sup></a><a href="/tags/%E5%8D%95%E6%A0%B7%E6%9C%AC%E8%AE%BE%E8%AE%A1/" style="font-size: 1.05rem;">单样本设计<sup>1</sup></a><a href="/tags/%E5%92%96%E5%95%A1%E8%80%A6%E5%90%88%E6%A8%A1%E5%9E%8B/" style="font-size: 1.05rem;">咖啡耦合模型<sup>1</sup></a><a href="/tags/%E5%96%B5%E5%96%B5%E6%9C%BA%E5%88%B6/" style="font-size: 1.05rem;">喵喵机制<sup>1</sup></a><a href="/tags/%E5%A4%A7%E5%B1%B1%E4%B8%AD%E5%AD%A6/" style="font-size: 1.05rem;">大山中学<sup>1</sup></a><a href="/tags/%E5%B0%8F%E7%8C%AB/" style="font-size: 1.05rem;">小猫<sup>1</sup></a><a href="/tags/%E5%B7%A5%E4%BD%9C%E6%8A%95%E5%85%A5/" style="font-size: 1.05rem;">工作投入<sup>1</sup></a><a href="/tags/%E5%BA%87%E6%8A%A4%E7%BB%93%E6%9E%84/" style="font-size: 1.05rem;">庇护结构<sup>1</sup></a><a href="/tags/%E5%BA%95%E5%88%8A%E5%87%91%E6%95%B0/" style="font-size: 1.05rem;">底刊凑数<sup>1</sup></a><a href="/tags/%E5%BE%AA%E8%AF%81-hydration/" style="font-size: 1.05rem;">循证 hydration<sup>1</sup></a><a href="/tags/%E6%83%85%E7%BB%AA%E9%A9%B1%E5%8A%A8%E5%B7%A5%E7%A8%8B%E5%AD%A6/" style="font-size: 1.05rem;">情绪驱动工程学<sup>1</sup></a><a href="/tags/%E6%88%98%E4%BA%89%E9%9B%B7%E9%9C%86/" style="font-size: 1.05rem;">战争雷霆<sup>1</sup></a><a href="/tags/%E6%8B%96%E5%BB%B6%E5%8A%A8%E5%8A%9B%E5%AD%A6/" style="font-size: 1.05rem;">拖延动力学<sup>1</sup></a><a href="/tags/%E6%91%B8%E9%B1%BC%E5%BC%8F%E6%8E%A2%E7%B4%A2/" style="font-size: 1.05rem;">摸鱼式探索<sup>1</sup></a><a href="/tags/%E6%95%B0%E6%8D%AE%E5%B9%BB%E8%A7%89/" style="font-size: 1.05rem;">数据幻觉<sup>1</sup></a><a href="/tags/%E6%97%A0%E6%95%88%E7%A7%91%E7%A0%94/" style="font-size: 1.05rem;">无效科研<sup>1</sup></a><a href="/tags/%E6%B7%B7%E6%B2%8C%E6%A8%A1%E5%9E%8B/" style="font-size: 1.05rem;">混沌模型<sup>1</sup></a><a href="/tags/%E7%8E%8B%E9%98%B3%E6%98%8E/" style="font-size: 1.05rem;">王阳明<sup>1</sup></a><a href="/tags/%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F/" style="font-size: 1.05rem;">电子游戏<sup>1</sup></a><a href="/tags/%E7%9B%B8%E5%AF%B9%E8%AE%BA/" style="font-size: 1.05rem;">相对论<sup>1</sup></a><a href="/tags/%E7%A5%9E%E7%A7%98%E8%A1%A8%E6%83%85/" style="font-size: 1.05rem;">神秘表情<sup>1</sup></a><a href="/tags/%E7%A7%80%E6%81%A9%E7%88%B1%E7%9A%84%E7%8E%B0%E8%B1%A1%E5%AD%A6%E8%80%83%E5%AF%9F/" style="font-size: 1.05rem;">秀恩爱的现象学考察<sup>1</sup></a><a href="/tags/%E7%A7%91%E7%A0%94%E7%84%A6%E8%99%91/" style="font-size: 1.05rem;">科研焦虑<sup>1</sup></a><a href="/tags/%E7%A9%BA/" style="font-size: 1.05rem;">空<sup>1</sup></a><a href="/tags/%E7%BA%B8%E7%AE%B1%E5%BB%BA%E7%AD%91/" style="font-size: 1.05rem;">纸箱建筑<sup>1</sup></a><a href="/tags/%E8%8D%9F%E8%90%83%E5%88%86%E6%9E%90/" style="font-size: 1.05rem;">荟萃分析<sup>1</sup></a><a href="/tags/%E8%99%9A%E6%9E%84%E7%A0%94%E7%A9%B6/" style="font-size: 1.05rem;">虚构研究<sup>1</sup></a><a href="/tags/%E8%A1%A8%E6%83%85%E7%BC%96%E7%A0%81/" style="font-size: 1.05rem;">表情编码<sup>1</sup></a><a href="/tags/%E9%87%8F%E5%AD%90%E9%9A%A7%E7%A9%BF/" style="font-size: 1.05rem;">量子隧穿<sup>1</sup></a><a href="/tags/%E9%9A%8F%E6%9C%BA%E5%AF%B9%E7%85%A7%E8%AF%95%E9%AA%8C/" style="font-size: 1.05rem;">随机对照试验<sup>1</sup></a><a href="/tags/%E9%A3%9F%E7%AE%A1%E9%BB%8F%E8%86%9C%E6%8D%9F%E4%BC%A4/" style="font-size: 1.05rem;">食管黏膜损伤<sup>1</sup></a><a href="/tags/%E9%A5%AE%E6%B0%B4%E6%B8%A9%E5%BA%A6/" style="font-size: 1.05rem;">饮水温度<sup>1</sup></a></div></div><hr/></div></div><div class="console-card history"><div class="item-headline"><i class="anzhiyufont anzhiyu-icon-box-archiv"></i><span>文章</span></div><div class="card-archives"><div class="item-headline"><i class="anzhiyufont anzhiyu-icon-archive"></i><span>归档</span></div><ul class="card-archive-list"><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2026/03/"><span class="card-archive-list-date">三月 2026</span><div class="card-archive-list-count-group"><span class="card-archive-list-count">102</span><span>篇</span></div></a></li></ul></div><hr/></div></div></div><div class="button-group"><div class="console-btn-item"><a class="darkmode_switchbutton" title="显示模式切换" href="javascript:void(0);"><i class="anzhiyufont anzhiyu-icon-moon"></i></a></div><div class="console-btn-item" id="consoleHideAside" onclick="anzhiyu.hideAsideBtn()" title="边栏显示控制"><a class="asideSwitch"><i class="anzhiyufont anzhiyu-icon-arrows-left-right"></i></a></div></div><div class="console-mask" onclick="anzhiyu.hideConsole()" href="javascript:void(0);"></div></div><div class="nav-button" id="nav-totop"><a class="totopbtn" href="javascript:void(0);"><i class="anzhiyufont anzhiyu-icon-arrow-up"></i><span id="percent" onclick="anzhiyu.scrollToDest(0,500)">0</span></a></div><div id="toggle-menu"><a class="site-page" href="javascript:void(0);" title="切换"><i class="anzhiyufont anzhiyu-icon-bars"></i></a></div></div></div></nav><div id="post-info"><div id="post-firstinfo"><div class="meta-firstline"><a class="post-meta-original">原创</a><span class="post-meta-categories"><span class="post-meta-separator"></span><i class="anzhiyufont anzhiyu-icon-inbox post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E6%96%87%E7%AB%A0/" itemprop="url">文章</a><i class="anzhiyufont anzhiyu-icon-angle-right post-meta-separator"></i><i class="anzhiyufont anzhiyu-icon-inbox post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E8%84%91%E6%B4%9E/" itemprop="url">脑洞</a></span><span class="article-meta tags"><a class="article-meta__tags" href="/tags/%E5%8D%9A%E5%A3%AB%E5%9F%B9%E5%85%BB/" tabindex="-1" itemprop="url"> <span> <i class="anzhiyufont anzhiyu-icon-hashtag"></i>博士培养</span></a><a class="article-meta__tags" href="/tags/%E6%97%AE%E6%97%AF%E7%BB%99%E6%9C%A8/" tabindex="-1" itemprop="url"> <span> <i class="anzhiyufont anzhiyu-icon-hashtag"></i>旮旯给木</span></a><a class="article-meta__tags" href="/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/" tabindex="-1" itemprop="url"> <span> <i class="anzhiyufont anzhiyu-icon-hashtag"></i>模拟器</span></a><a class="article-meta__tags" href="/tags/%E5%BB%BA%E6%A8%A1/" tabindex="-1" itemprop="url"> <span> <i class="anzhiyufont anzhiyu-icon-hashtag"></i>建模</span></a></span></div></div><h1 class="post-title" itemprop="name headline">博士培养的旮旯给木化建模：一个基于 48 月目的生存模拟器设计</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="anzhiyufont anzhiyu-icon-calendar-days post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" itemprop="dateCreated datePublished" datetime="2026-03-22T16:47:45.783Z" title="发表于 2026-03-22 16:47:45">2026-03-22</time><span class="post-meta-separator"></span><i class="anzhiyufont anzhiyu-icon-history post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" itemprop="dateCreated datePublished" datetime="2026-03-22T17:22:09.456Z" title="更新于 2026-03-22 17:22:09">2026-03-22</time></span></div><div class="meta-secondline"><span class="post-meta-separator"></span><span class="post-meta-wordcount"><i class="anzhiyufont anzhiyu-icon-file-word post-meta-icon" title="文章字数"></i><span class="post-meta-label" title="文章字数">字数总计:</span><span class="word-count" title="文章字数">5.1k</span><span class="post-meta-separator"></span><i class="anzhiyufont anzhiyu-icon-clock post-meta-icon" title="阅读时长"></i><span class="post-meta-label" title="阅读时长">阅读时长:</span><span>15分钟</span></span><span class="post-meta-separator"></span><span class="post-meta-pv-cv" id="" data-flag-title="博士培养的旮旯给木化建模：一个基于 48 月目的生存模拟器设计"><i class="anzhiyufont anzhiyu-icon-fw-eye post-meta-icon"></i><span class="post-meta-label" title="阅读量">阅读量:</span><span id="busuanzi_value_page_pv"><i class="anzhiyufont anzhiyu-icon-spinner anzhiyu-spin"></i></span></span></div></div></div><section class="main-hero-waves-area waves-area"><svg class="waves-svg" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto"><defs><path id="gentle-wave" d="M -160 44 c 30 0 58 -18 88 -18 s 58 18 88 18 s 58 -18 88 -18 s 58 18 88 18 v 44 h -352 Z"></path></defs><g class="parallax"><use href="#gentle-wave" x="48" y="0"></use><use href="#gentle-wave" x="48" y="3"></use><use href="#gentle-wave" x="48" y="5"></use><use href="#gentle-wave" x="48" y="7"></use></g></svg></section><div id="post-top-cover"><img class="nolazyload" id="post-top-bg" src="/%20!%5B%5D(https:/img.rubbish.press/file/2603/1774199869323_%E7%94%9F%E6%88%90%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87.png)"></div></header><main id="blog-container"><div class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container" itemscope itemtype="https://www.rubbish.press/posts/33782.html"><header><a class="post-meta-categories" href="/categories/%E6%96%87%E7%AB%A0/" itemprop="url">文章</a><a class="post-meta-categories" href="/categories/%E8%84%91%E6%B4%9E/" itemprop="url">脑洞</a><a href="/tags/%E5%8D%9A%E5%A3%AB%E5%9F%B9%E5%85%BB/" tabindex="-1" itemprop="url">博士培养</a><a href="/tags/%E6%97%AE%E6%97%AF%E7%BB%99%E6%9C%A8/" tabindex="-1" itemprop="url">旮旯给木</a><a href="/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/" tabindex="-1" itemprop="url">模拟器</a><a href="/tags/%E5%BB%BA%E6%A8%A1/" tabindex="-1" itemprop="url">建模</a><h1 id="CrawlerTitle" itemprop="name headline">博士培养的旮旯给木化建模：一个基于 48 月目的生存模拟器设计</h1><span itemprop="author" itemscope itemtype="http://schema.org/Person">Rubbish编辑部</span><time itemprop="dateCreated datePublished" datetime="2026-03-22T16:47:45.783Z" title="发表于 2026-03-22 16:47:45">2026-03-22</time><time itemprop="dateCreated datePublished" datetime="2026-03-22T17:22:09.456Z" title="更新于 2026-03-22 17:22:09">2026-03-22</time></header><p>！！请切换编辑模式为分屏预览！！</p>
+<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。 -->
+<p><strong>Si Shi(時肆)</strong>*1,2, **Zhabaonidie(炸爆匿碟)**2, **Zaizai Niu(牛在在)**2<br>
+1 Department of Philosophy, Luo Lai Academy, Shanghai, China, 200240<br>
+2 School of Mechatronic Engineering, Tiktok’s Top University, Harbin, China, 150001<br>
+罗莱学院哲学系，中国上海，200240<br>
+2 抖一校机电工程学院，中国哈尔滨，150001<br>
+* 通讯作者: 時肆，xiaoshe0614@sjtu.edu.cn</p>
+<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
+<a href="https://file.rubbish.press/artical/%E5%8D%9A%E5%A3%AB%E5%9F%B9%E5%85%BB%E7%9A%84%E6%97%AE%E6%97%AF%E7%BB%99%E6%9C%A8%E5%8C%96%E5%BB%BA%E6%A8%A1%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8E%2048%20%E6%9C%88%E7%9B%AE%E7%9A%84%E7%94%9F%E5%AD%98%E6%A8%A1%E6%8B%9F%E5%99%A8%E8%AE%BE%E8%AE%A1.pdf" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; background: #2563eb; color: white; border-radius: 8px; text-decoration: none; font-size: 15px; font-weight: 500; transition: all 0.2s;">
+  <svg style="width:18px;height:18px;fill:currentColor;" viewBox="0 0 24 24">
+    <path d="M20 2H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H8V4h12v12zM4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm12 6V9l-4 4-4-4v3h8z"/>
+  </svg>
+  阅读 PDF 全文
+</a>
+<hr>
+<hr>
+<hr>
+<h2 id="Abstract">Abstract</h2>
+<p>本文提出了一种基于Galgame(旮旯给木)隐喻的博士培养过程建模方法，设计并开发了为期48个月的读博生存模拟器。研究将博士培养抽象为多属性决策系统，通过构建健康值、导师关系、学生关系、金钱值和毕业进度五大核心指标，模拟博士生在课题研究、项目协作、团队培养和兼职活动中的策略选择。研究结果显示，博士培养的成功关键在于多维属性的平衡管理，而非单一指标优化。模拟实验表明，仅28.3%的路径能达成顺利毕业，而42.7%的路径会触发延毕机制，这与现实博士培养数据高度吻合。本文创新性地将游戏化叙事与计算模拟相结合，又通过多结局机制验证了学术培养中资源分配的内在矛盾。该模拟器为理解博士培养规律提供了新范式，既可作为博士生生涯规划的教育工具，也为优化学术培养体系提供了理论参考。</p>
+<p><strong>Keywords</strong>: 博士培养; 旮旯给木; 模拟器; 建模</p>
+<h2 id="1-Introduction">1 Introduction</h2>
+<p>近年来，随着全球高等教育深化与科研创新能力需求的攀升，博士培养规模持续扩大。据教育部统计，我国博士招生人数近十年增长超80%，越来越多青年学者将读博视为学术生涯的核心跳板。这一趋势既反映了社会对高层次人才的渴求，也意味着博士教育已从“精英选拔”转向“规模化培养”，其背后的适应性挑战与成长路径问题亟待系统性回应。当“读博”从少数人的选择变为更普遍的学术经历，如何在这一特殊阶段实现个人目标与学术要求的平衡，成为关乎人才培养质量的关键议题。</p>
+<p>在这条被压缩至48个月的学术赛道上，博士生常陷入多重角色的拉扯。他们既是实验室里攻坚克难的“科研执行者”，需在高强度实验中积累数据; 也是导师课题中的“项目协作者”，要在横向任务与纵向研究中分配精力; 更是学术评价体系里的“考核对象”，面临组会汇报、论文发表、盲审答辩等环环相扣的节点压力。这种“多线程作业”往往伴随隐性代价: 为追赶毕业进度熬夜改稿导致健康值骤降，为维系导师好感过度承接项目而偏离核心研究，或在“摆烂”与“内卷”间反复摇摆消耗心力。正如许多亲历者所言，读博像一场“戴着镣铐的舞蹈”——既要踩准学术规范的节拍，又要在身心极限处寻找喘息之机，其间的平衡术考验着每个人的策略智慧。</p>
+<p>现有博士教育研究虽已关注到这一现象，却存在明显局限。多数成果聚焦于压力水平的量化测量(如通过SCL-90量表评估焦虑抑郁倾向)或典型个案的深度访谈(如总结“延期毕业”的共性原因)，这些方法虽揭示了问题的表象，却难以触及“决策-反馈”的动态内核。例如，当博士生面临“优先完成导师指派项目”还是“专注自身小论文”的抉择时，现有研究无法模拟两种选择对健康值、导师关系、毕业进度等参数的累积影响，更难以预判不同决策组合导向的多元结局(如按时毕业、延毕预警或主动退出)。这种对“动态过程”的忽视，使得既有建议多停留在“调整心态”“合理规划”等原则性层面，缺乏可操作性的策略指引。</p>
+<p>为此，本研究提出“博士培养的旮旯给木(Galgame)化建模”思路，将读博过程类比为一场48月目的生存模拟游戏，设计开发一款聚焦决策动态分析的模拟器。该模拟器以Galgame的核心机制——“属性博弈”与“多线叙事”为框架: 构建包含健康值、导师好感度、毕业进度、经费储备等核心属性的量化系统，嵌入组会巡查、论文盲审、项目机遇等30余种随机事件，允许用户在每月目文献”“承接项目”“调整节奏”终通过算法生成“涅槃毕业”“健康预警退学”“导师关系破裂转组”等9类结局。其创新在于将抽象的读博体验转化为可交互、可量化的“游戏沙盘”，不仅能复现“选择-反馈”的动态链条, 更能通过模拟数据揭示不同策略的长期效应，为博士生优化决策、培养单位改进流程提供实证依据。这一旮旯给木化建模尝试，或为理解博士培养的复杂生态打开一扇新的观察窗口。</p>
+<h2 id="2-Methodology">2 Methodology</h2>
+<h3 id="2-1-研究设计概述">2.1 研究设计概述</h3>
+<p>本研究基于 Galgame(旮旯给木)的核心机制——多线叙事、属性博弈与建了一款面向博士培养周期的生存模拟器。模拟器以48个月(对应标准博士间框架，将读博过程抽象为可量化的决策模型。其核心目标是通过动态模拟博士生课题攻坚、项目协作、资源分配等月度选择策略对健康、人际关系、经济状况及毕业进度的累积影响，最终生成多元结局(如顺利毕业、延毕预警、中途退出)。模拟器采用马特拉布App Designer开发，兼顾交互可视化与算法逻辑的完整性。</p>
+<h3 id="2-2-模拟器架构与核心组件">2.2 模拟器架构与核心组件</h3>
+<p>模拟器的架构围绕“属性系统-事件机制-交互界面”三大模块展开，如图1所示。属性系统定义了五大核心指标: 健康值(初始值100)、导师关系(初始值50)、学生关系(初始值50)、金钱值(初始值50)及毕业进度(初始值0%)。这些指标通过全局结构体变量游戏状态动态存储，并受用户选择与随机事件的双重调节。</p>
+<p>事件机制分为确定性事件与随机事件两类: (1)确定性事件: 源于用户月度选择，通过下拉菜单触发。例如，选择“自己做项目”可能提升导师关系但损耗健康; 选择“接私活”增加金钱但可能降低学术投入和师生好感度。事件影响通过预定义的Excel矩阵量化，每项选择对应一个权重向量，与属性变化向量进行点乘计算，如图2(a)所示。(2)随机事件: 模拟读博中的不确定性(如突发课题突破、组会质询)。事件库从外部 Excel文件读取，包含触发概率及对各项属性的修正值。系统按月依概率降序判断事件是否触发，确保高风险高影响事件优先检测，如图2(b)所示。</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">确定性事件分类</th>
+<th style="text-align:left">选项</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">项目</td>
+<td style="text-align:left">自己做项目</td>
+</tr>
+<tr>
+<td style="text-align:left">项目</td>
+<td style="text-align:left">让学生做项目</td>
+</tr>
+<tr>
+<td style="text-align:left">项目</td>
+<td style="text-align:left">开摆</td>
+</tr>
+<tr>
+<td style="text-align:left">培养</td>
+<td style="text-align:left">指导学弟妹</td>
+</tr>
+<tr>
+<td style="text-align:left">培养</td>
+<td style="text-align:left">开摆</td>
+</tr>
+<tr>
+<td style="text-align:left">课题</td>
+<td style="text-align:left">自己做课题</td>
+</tr>
+<tr>
+<td style="text-align:left">课题</td>
+<td style="text-align:left">让学弟妹帮一下</td>
+</tr>
+<tr>
+<td style="text-align:left">课题</td>
+<td style="text-align:left">开摆</td>
+</tr>
+<tr>
+<td style="text-align:left">私活</td>
+<td style="text-align:left">接个大私活</td>
+</tr>
+<tr>
+<td style="text-align:left">私活</td>
+<td style="text-align:left">接个小私活</td>
+</tr>
+<tr>
+<td style="text-align:left">私活</td>
+<td style="text-align:left">开摆</td>
+</tr>
+</tbody>
+</table>
+<p>(a) 确定性事件列表</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">课题</th>
+<th style="text-align:left">论文拒稿</th>
+<th style="text-align:left">I regret to inform you that the reviewers recommend against publishing your manuscript, and I must therefore reject it…</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">生活</td>
+<td style="text-align:left">同门聚餐</td>
+<td style="text-align:left">周末你和你一周没见的同门和室友在Magic广场聚餐, 论交流了各自的课题进展,以及各自的近况。</td>
+</tr>
+<tr>
+<td style="text-align:left">生活</td>
+<td style="text-align:left">对象送礼物</td>
+<td style="text-align:left">你的异地对象的论文中了(也可能是其他原因),心情好 给你买了点礼物,希望你在上海照顾好自己。</td>
+</tr>
+<tr>
+<td style="text-align:left">生活</td>
+<td style="text-align:left">对象吵架</td>
+<td style="text-align:left">你对象的课题组比较Push。TA压力很大,你最近也很忙压 力也很大,你们晚上吵了一架,但是第二天和好了。</td>
+</tr>
+<tr>
+<td style="text-align:left">生活</td>
+<td style="text-align:left">朋友毕业</td>
+<td style="text-align:left">你的没读博的朋友这个月毕业,请你吃了顿饭,吃饭时他 向你远况,向你后不后悔读博,你不知道应该说什么。</td>
+</tr>
+<tr>
+<td style="text-align:left">项目</td>
+<td style="text-align:left">课题组团建</td>
+<td style="text-align:left">今天课题组团建,导师请你和组里的学弟妹吃了个饭,也 顺便了个组会汇报了一下项目进展。</td>
+</tr>
+<tr>
+<td style="text-align:left">课题</td>
+<td style="text-align:left">被发现了</td>
+<td style="text-align:left">你偷偷做课题被导师发现了,导师觉得你毕业不着急, 你给学弟妹分一下成果,他们硕士要毕业了。</td>
+</tr>
+<tr>
+<td style="text-align:left">生活</td>
+<td style="text-align:left">去医院</td>
+<td style="text-align:left">天气突变,不小心生病了,你只能去学校旁边距离5km的 瑞丽医院与问诊。</td>
+</tr>
+<tr>
+<td style="text-align:left">课题</td>
+<td style="text-align:left">灵光一闪</td>
+<td style="text-align:left">不知道是你在玩游戏的时候还是睡觉的时候梦到了新 idea,你的毕业有望了.</td>
+</tr>
+<tr>
+<td style="text-align:left">生活</td>
+<td style="text-align:left">闺蜜看望</td>
+<td style="text-align:left">你本科时期的好闲重正好来上海出差,给你带了很多好吃 的,也聊了很多内容。</td>
+</tr>
+<tr>
+<td style="text-align:left">课题</td>
+<td style="text-align:left">学术报告</td>
+<td style="text-align:left">吴泾大学旁边的自金大酒店又举办了和你课题相关的学术 讲座,你去听了一下,做了很多充分的整理,也有很多收 获可以分享给学弟妹。</td>
+</tr>
+<tr>
+<td style="text-align:left">项目</td>
+<td style="text-align:left">项目黄了</td>
+<td style="text-align:left">由于你导师的管理能力有限,项目黄了,导师认为是你的 责任,觉得是因为你不咋做项目的原因。</td>
+</tr>
+</tbody>
+</table>
+<p>(b) 随机事件列表(部分)</p>
+<p>图2 事件机制</p>
+<h3 id="2-3-核心算法与逻辑流程">2.3 核心算法与逻辑流程</h3>
+<p>模拟器的算法核心体现在状态更新与结局判定两个环节:</p>
+<p>对于状态更新流程，包含如下步骤:<br>
+(1) 用户点击“推进度”按钮后，系统调用属性变化函数，根据当前选项计算属性变化向量。<br>
+(2) 随后触发随机事件判定，若事件发生，则叠加属性修正值。<br>
+(3) 最终更新全局状态，并检查指标是否越界(如健康值超100时重置为100)。</p>
+<p>对于结局判定机制，包含如下步骤: 系统在每月末检测属性阈值，预设9类结局，如表1所示。</p>
+<p>表1 部分结局示意</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">触发条件</th>
+<th style="text-align:left">结局</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">健康值小于0</td>
+<td style="text-align:left">你的意识:小小年纪!读博不 能把身体搞砸啊,我想活着</td>
+</tr>
+<tr>
+<td style="text-align:left">忠诚值大于 100</td>
+<td style="text-align:left">导师:忠心耿耿!给我干一辈 子吧,直接大延毕</td>
+</tr>
+<tr>
+<td style="text-align:left">忠诚值小于0</td>
+<td style="text-align:left">导师:拒不配合!我是不可能 给你毕业签字的</td>
+</tr>
+<tr>
+<td style="text-align:left">民心值大于 100</td>
+<td style="text-align:left">导师:油腔滑调!这就搞上小 团体了?你是哪个教的,此子 断不可留</td>
+</tr>
+<tr>
+<td style="text-align:left">民心值小于0</td>
+<td style="text-align:left">学工办:何必当初!你由于每 天中午多点一杯16块钱的橙 汁,没有做好廉洁形象,被学 生实名举报,建议劝退 导师:也别闲着!都这么有钱</td>
+</tr>
+<tr>
+<td style="text-align:left">金钱值大于 100</td>
+<td style="text-align:left">了还读什么博,直接来我公司 打黑工,反正你也不缺钱</td>
+</tr>
+<tr>
+<td style="text-align:left">金钱值小于0</td>
+<td style="text-align:left">导师:不推进度!没钱还读什 么博,回家找个班上吧</td>
+</tr>
+<tr>
+<td style="text-align:left">时间大于72 月</td>
+<td style="text-align:left">教务办:好像超6年了,超过 最长延毕期了,你要被清退了</td>
+</tr>
+<tr>
+<td style="text-align:left">毕业进度 100%</td>
+<td style="text-align:left">导师:恭喜你毕业了,再去帮 你学弟妹毕业吧</td>
+</tr>
+</tbody>
+</table>
+<p>结局判定嵌入在回调函数中，通过条件分支实现实时响应。</p>
+<h3 id="2-4-用户交互与界面设计">2.4 用户交互与界面设计</h3>
+<p>模拟器采用图形化界面增强用户体验，如图3所示。</p>
+<p>主面板显示属性数值与绿/黄/红三色标示状态安全等级的信号灯，数值超过一定范围回从绿灯变为黄灯或者红灯。各属性旁边小的数字则为当前选择的确定性事件对属性的影响。</p>
+<p>控制模块提供四个下拉菜单供用户选择月度行动，并设“推进度”按钮逐步模拟时间流逝。</p>
+<p>事件反馈区实时显示随机事件描述及其对属性的影响。</p>
+<p>界面设计直观，毕业进度条可视化进度，而“重新开始”按钮支持快速重置模拟。</p>
+<h3 id="2-5-数据来源与参数设定">2.5 数据来源与参数设定</h3>
+<p>模拟器的初始参数与事件库基于现实博士培养场景校准:</p>
+<p>时间参数: 总时长48个月，按月推进，延毕后每月触发惩罚机制(全体属性-2)。</p>
+<p>事件数据: 从外部Excel文件导入, 其中确定性事件矩阵包含11种选择组合的权重，随机事件库涵盖30余种情境(如“论文被拒”“对象送礼物”)，概率范围1%-20%。</p>
+<p>音效与视觉反馈: 集成多类音频提示(如胜利音效、游戏结束音效)，强化沉浸感。参数路径通过相对路径调用，确保跨平台兼容性。</p>
+<h2 id="3-Results-and-Discussion">3 Results and Discussion</h2>
+<h3 id="3-1-模拟结果总体分析">3.1 模拟结果总体分析</h3>
+<p>通过对模拟器进行多轮次测试(累计运行1000次)，我们观察到博士培养过程中的关键规律。数据显示，仅约28.3%的模拟路径能够达成“顺利毕业”结局，而超过42.7%的路径因各类指标失衡触发延毕机制。这一结果印证了读博过程的高度不确定性，与现实中博士延期毕业率(约40%)高度吻合。</p>
+<p>在属性变化方面，健康值呈现最为敏感的波动特征。当用户连续选择高负荷选项(如“自己做项目”结合“接大私活”)时，健康值平均每月下降5-8点，其中23.5%的模拟者在第24个月前后健康值已跌破警戒线(≤20)，触发“健康崩溃退学”结局。这一结果凸显了博士生身心健康管理的重要性，也解释了现实中博士生心理健康问题高发的现象。</p>
+<h3 id="3-2-模拟结果总体分析">3.2 模拟结果总体分析</h3>
+<h4 id="3-2-1-课题选择与毕业进度的关联">3.2.1 课题选择与毕业进度的关联</h4>
+<p>模拟结果显示，持续选择“自己做课题”的路径毕业进度提升最快(月均增长3.5%)，但代价是健康值加速消耗(月均下降4.2点)。相反，过度依赖“让学弟妹帮一下”虽能保持健康值稳定，但毕业进度增长缓慢(月均1.2%)，且易导致导师关系下降。这种权衡关系体现了科研投入与个人损耗之间的基本矛盾。</p>
+<h4 id="3-2-2-人际关系网络的动态平衡">3.2.2 人际关系网络的动态平衡</h4>
+<p>导师关系与学生关系的博弈特征显著。当用户偏重提升导师关系(频繁选择“自己做项目”或“让学弟妹做”)时，资源支持，但68.3%的案例出现学生关系降至危险值(≤20)，触发“被学生举报”结局。这一结果反映了学术圈中“向上负责”与“向下管理”的两难困境，与现实中期望与学生期待间的处境高度相似。</p>
+<h3 id="3-3-随机事件的调节作用">3.3 随机事件的调节作用</h3>
+<p>随机事件系统显著增加了模拟的真实性。例如，“论文被接收”事件能同时提升毕业进度(+10%)和健康值(+5)，而“项目黄了”则导致忠诚值和民心值下降。</p>
+<p>某些极端事件如“突发疾病”健康值至临界点，迫使玩家暂停科研活动休养; 而“国际会议邀请”虽仅提升导师关系，但能解锁隐藏合作资源。这些事件以一定的月触发概率打破线性发展路径, 使原本可预测的模拟结果产生37.6%的方差波动，更贴近真实科研场景中不可控因素对职业轨迹的影响。</p>
+<h3 id="3-4-多结局路径的启示">3.4 多结局路径的启示</h3>
+<p>九类结局的分布呈现明显的聚类特征。除了理想的“顺利毕业”结局外，值得关注的是“隐性失败”结局:</p>
+<p>结局4“团队破裂”: 往往源于过度提升学生关系而忽视导师关系(平均值≤30)，对应现实中博士生“拉帮结派”被导师忌惮的现象;</p>
+<p>结局6“学术放弃”: 由金钱值过高而毕业进度滞后(≤40%)触发，映射部分博士生转向业界的心态变化;</p>
+<p>结局8“超期清退”: 集中发生在健康值、导师关系、金钱值均处于中间水平(30-70)的路径，反映“平庸但稳定”策略的长期风险。</p>
+<p>这些结局表明，博士培养的成功不仅取决于单一指标的优化，更需要多维属性的动态平衡。模拟器中设置的“信号灯预警系统”(红黄绿三色提示)被证明能有效帮助用户及时调整策略，避免极端结局。</p>
+<h2 id="4-Conclusion">4 Conclusion</h2>
+<p>本研究通过构建“博士培养旮旯给木化模拟器”，验证了Galgame叙事框架对博士培养过程进行建模的有效性。模拟结果表明，博士生涯本质上是一个需要动态平衡的多目标优化问题，其核心矛盾体现在科研投入、健康管理、人际关系维系和经济压力等多维属性的博弈中。通过48个月目的循环模拟，我们发现成功的博士培养路径往往遵循“均衡策略”而非“极端选择”，这一发现为理解博士生的决策机制提供了新视角。本研究的主要贡献在于将抽象的学术成长过程转化为可量化、可交互的计算模型，不仅证实了游戏化隐喻对复杂教育过程的表现力，更通过多结局机制揭示了博士培养中的关键风险节点，为博士生和培养单位提供了具象化的决策参考。</p>
+<p>本研究的主要创新在于将叙事性与计算模拟结合，突破了传统问卷研究静态刻画的局限。然而，模拟器仍存在若干不足: 一是未涵盖跨学科差异(理工科与人文科的培养节奏不同); 二是事件库基于作者个人经验，未来可通过大样本调查优化事件概率权重。此外，模拟器目前侧重于个体决策，未完全呈现学术圈的结构性因素(如学科资源不均等)。</p>
+<p>本模拟器既可作博士生入学培训工具，帮助其预见不同选择的长远影响; 也可为培养单位优化制度提供参考(如设置弹性考核机制)。未来研究可从三个方向深入拓展: 一是开发多智能体交互模块，引入导师、同行等角色的动态反馈，更真实地模拟学术圈的社会网络; 二是建立个性化参数校准机制，通过机器学习算法适配不同学科、不同院校的培养特征; 三是开展纵向实证研究，将模拟结果与真实博士生涯轨迹进行比对验证，持续优化模型预测效能。最终，这种“游戏化反思”范式有望发展成为博士生职业规划的辅助工具，让博士培养这场“大型旮旯给木”从被动承受的生存挑战，转变为可规划、可调控的战略旅程。</p>
+<h2 id="Acknowledge">Acknowledge</h2>
+<p>感谢罗莱学院和抖一校的学者对本文完成的帮助。</p>
+<h2 id="Reference">Reference</h2>
+<p>[1] 時肆，吴泾大学. 读博是一场大型旮旯给木: 208周目的生死轮回[EB/OL] 小红书. 2025.</p>
+</article><div class="post-copyright"><div class="copyright-cc-box"><i class="anzhiyufont anzhiyu-icon-copyright"></i></div><div class="post-copyright__author_box"><a class="post-copyright__author_img" href="/" title="头像"><img class="post-copyright__author_img_back" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://image.rubbish.press/logo.png" title="头像" alt="头像"><img class="post-copyright__author_img_front" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://image.rubbish.press/logo.png" title="头像" alt="头像"></a><div class="post-copyright__author_name">Rubbish编辑部</div><div class="post-copyright__author_desc">于荒诞处 见同路人</div></div><div class="post-copyright__post__info"><a class="post-copyright__original" title="该文章为原创文章，注意版权协议" href="https://www.rubbish.press/posts/33782.html">原创</a><a class="post-copyright-title"><span onclick="rm.copyPageUrl('https://www.rubbish.press/posts/33782.html')">博士培养的旮旯给木化建模：一个基于 48 月目的生存模拟器设计</span></a></div><div class="post-tools" id="post-tools"><div class="post-tools-left"><div class="rewardLeftButton"></div><div class="shareRight"><div class="share-link mobile"><div class="share-qrcode"><div class="share-button" title="使用手机访问这篇文章"><i class="anzhiyufont anzhiyu-icon-qrcode"></i></div><div class="share-main"><div class="share-main-all"><div id="qrcode" title="https://www.rubbish.press/posts/33782.html"></div><div class="reward-dec">使用手机访问这篇文章</div></div></div></div></div><div class="share-link weibo"><a class="share-button" target="_blank" href="https://service.weibo.com/share/share.php?title=博士培养的旮旯给木化建模：一个基于 48 月目的生存模拟器设计&amp;url=https://www.rubbish.press/posts/33782.html&amp;pic=/%20!%5B%5D(https:/img.rubbish.press/file/2603/1774199869323_%E7%94%9F%E6%88%90%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87.png)" rel="external nofollow noreferrer noopener"><i class="anzhiyufont anzhiyu-icon-weibo"></i></a></div><script>function copyCurrentPageUrl() {
+  var currentPageUrl = window.location.href;
+  var input = document.createElement("input");
+  input.setAttribute("value", currentPageUrl);
+  document.body.appendChild(input);
+  input.select();
+  input.setSelectionRange(0, 99999);
+  document.execCommand("copy");
+  document.body.removeChild(input);
+}</script><div class="share-link copyurl"><div class="share-button" id="post-share-url" title="复制链接" onclick="copyCurrentPageUrl()"><i class="anzhiyufont anzhiyu-icon-link"></i></div></div></div></div></div><div class="post-copyright__notice"><span class="post-copyright-info">本文观点仅代表作者个人，不代表编辑部立场，亦不构成学术观点或现实指导建议，详见<a href="https://www.rubbish.press/page/DeclarationOfConformity" target="_blank">《合规声明》</a>。<br>本博客所有文章除特别声明外，均采用 <a href="https://www.rubbish.press/copyright" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://www.rubbish.press" target="_blank">Rubbish</a>！</span></div></div><div class="post-tools-right"><div class="tag_share"><div class="post-meta__box"><div class="post-meta__box__tag-list"><a class="post-meta__box__tags" href="/tags/%E5%8D%9A%E5%A3%AB%E5%9F%B9%E5%85%BB/"><span class="tags-punctuation"> <i class="anzhiyufont anzhiyu-icon-tag"></i></span>博士培养<span class="tagsPageCount">1</span></a><a class="post-meta__box__tags" href="/tags/%E6%97%AE%E6%97%AF%E7%BB%99%E6%9C%A8/"><span class="tags-punctuation"> <i class="anzhiyufont anzhiyu-icon-tag"></i></span>旮旯给木<span class="tagsPageCount">1</span></a><a class="post-meta__box__tags" href="/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/"><span class="tags-punctuation"> <i class="anzhiyufont anzhiyu-icon-tag"></i></span>模拟器<span class="tagsPageCount">1</span></a><a class="post-meta__box__tags" href="/tags/%E5%BB%BA%E6%A8%A1/"><span class="tags-punctuation"> <i class="anzhiyufont anzhiyu-icon-tag"></i></span>建模<span class="tagsPageCount">1</span></a></div></div></div></div><nav class="pagination-post" id="pagination"><div class="prev-post pull-left"><a href="/posts/7331.html"><img class="prev-cover" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://img.rubbish.press/file/2603/1774196501770_rbh.png" onerror="onerror=null;src='/img/404.jpg'" alt="cover of previous post"><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">没什么用但有点搞笑：作为一种去中心化知识生产形式的小红书学术底刊群体——以 《Rubbish》为例</div></div></a></div><div class="next-post pull-right"><a href="/posts/27712.html"><img class="next-cover" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="/!%5B%5D(https:/img.rubbish.press/file/2603/1774200598121_%E7%94%9F%E6%88%90%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87__3_.png)" onerror="onerror=null;src='/img/404.jpg'" alt="cover of next post"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">反向的温柔：来一句XX坏</div></div></a></div></nav><hr/><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="anzhiyufont anzhiyu-icon-comments"></i><span> 评论</span></div><div class="comment-randomInfo"><a onclick="anzhiyu.addRandomCommentInfo()" href="javascript:void(0)" style="display: none">匿名评论</a><a href="/privacy" style="margin-left: 4px">隐私政策</a></div></div><div class="comment-wrap"><div><div id="giscus-wrap"></div></div></div></div><div class="comment-barrage"></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-announcement"><div class="item-headline"><i class="anzhiyufont anzhiyu-icon-bullhorn anzhiyu-shake"></i><span>公告</span></div><div class="announcement_content">这里是rubbish编辑部，我们会在网站发布作者们的投稿，多平台同步更新通讯，欢迎在页面底部链接关注我们全平台账号，真的感谢大家支持！另外欢迎大家加入 qq交流群：1084870548</div></div><div class="card-widget anzhiyu-right-widget" id="card-wechat" onclick="null"><div id="flip-wrapper"><div id="flip-content"><div class="face" style="background: url(https://bu.dusays.com/2023/01/13/63c02edf44033.png) center center / 100% no-repeat"></div><div class="back face" style="background: url(https://image.rubbish.press/2026/0304e35453ef5a623ae8996c00193172e9d5.png) center center / 100% no-repeat"></div></div></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="anzhiyufont anzhiyu-icon-bars"></i><span>文章目录</span><span class="toc-percentage"></span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Abstract"><span class="toc-number">1.</span> <span class="toc-text">Abstract</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#1-Introduction"><span class="toc-number">2.</span> <span class="toc-text">1 Introduction</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#2-Methodology"><span class="toc-number">3.</span> <span class="toc-text">2 Methodology</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#2-1-%E7%A0%94%E7%A9%B6%E8%AE%BE%E8%AE%A1%E6%A6%82%E8%BF%B0"><span class="toc-number">3.1.</span> <span class="toc-text">2.1 研究设计概述</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#2-2-%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%9E%B6%E6%9E%84%E4%B8%8E%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6"><span class="toc-number">3.2.</span> <span class="toc-text">2.2 模拟器架构与核心组件</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#2-3-%E6%A0%B8%E5%BF%83%E7%AE%97%E6%B3%95%E4%B8%8E%E9%80%BB%E8%BE%91%E6%B5%81%E7%A8%8B"><span class="toc-number">3.3.</span> <span class="toc-text">2.3 核心算法与逻辑流程</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#2-4-%E7%94%A8%E6%88%B7%E4%BA%A4%E4%BA%92%E4%B8%8E%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1"><span class="toc-number">3.4.</span> <span class="toc-text">2.4 用户交互与界面设计</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#2-5-%E6%95%B0%E6%8D%AE%E6%9D%A5%E6%BA%90%E4%B8%8E%E5%8F%82%E6%95%B0%E8%AE%BE%E5%AE%9A"><span class="toc-number">3.5.</span> <span class="toc-text">2.5 数据来源与参数设定</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#3-Results-and-Discussion"><span class="toc-number">4.</span> <span class="toc-text">3 Results and Discussion</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#3-1-%E6%A8%A1%E6%8B%9F%E7%BB%93%E6%9E%9C%E6%80%BB%E4%BD%93%E5%88%86%E6%9E%90"><span class="toc-number">4.1.</span> <span class="toc-text">3.1 模拟结果总体分析</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#3-2-%E6%A8%A1%E6%8B%9F%E7%BB%93%E6%9E%9C%E6%80%BB%E4%BD%93%E5%88%86%E6%9E%90"><span class="toc-number">4.2.</span> <span class="toc-text">3.2 模拟结果总体分析</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#3-2-1-%E8%AF%BE%E9%A2%98%E9%80%89%E6%8B%A9%E4%B8%8E%E6%AF%95%E4%B8%9A%E8%BF%9B%E5%BA%A6%E7%9A%84%E5%85%B3%E8%81%94"><span class="toc-number">4.2.1.</span> <span class="toc-text">3.2.1 课题选择与毕业进度的关联</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#3-2-2-%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB%E7%BD%91%E7%BB%9C%E7%9A%84%E5%8A%A8%E6%80%81%E5%B9%B3%E8%A1%A1"><span class="toc-number">4.2.2.</span> <span class="toc-text">3.2.2 人际关系网络的动态平衡</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#3-3-%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E7%9A%84%E8%B0%83%E8%8A%82%E4%BD%9C%E7%94%A8"><span class="toc-number">4.3.</span> <span class="toc-text">3.3 随机事件的调节作用</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#3-4-%E5%A4%9A%E7%BB%93%E5%B1%80%E8%B7%AF%E5%BE%84%E7%9A%84%E5%90%AF%E7%A4%BA"><span class="toc-number">4.4.</span> <span class="toc-text">3.4 多结局路径的启示</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#4-Conclusion"><span class="toc-number">5.</span> <span class="toc-text">4 Conclusion</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Acknowledge"><span class="toc-number">6.</span> <span class="toc-text">Acknowledge</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Reference"><span class="toc-number">7.</span> <span class="toc-text">Reference</span></a></li></ol></div></div><div class="card-widget card-recent-post"><div class="item-headline"><i class="anzhiyufont anzhiyu-icon-history"></i><span>最近发布</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/posts/45538.html" title="多维宇宙视角下葫芦娃笑声频次与降妖胜率关联性的量化分析"><img src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://img.rubbish.press/file/2603/1774257700151_图片.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="多维宇宙视角下葫芦娃笑声频次与降妖胜率关联性的量化分析"/></a><div class="content"><a class="title" href="/posts/45538.html" title="多维宇宙视角下葫芦娃笑声频次与降妖胜率关联性的量化分析">多维宇宙视角下葫芦娃笑声频次与降妖胜率关联性的量化分析</a><time datetime="2026-03-23T09:07:04.899Z" title="发表于 2026-03-23 09:07:04">2026-03-23</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/posts/30596.html" title="基于 BERTopic 模型的底刊创办热潮语义及心理机制分析：学术圈代际话语权斗争与符号性反抗的学术化解构"><img src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://img.rubbish.press/file/2603/1774256253726_图片.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="基于 BERTopic 模型的底刊创办热潮语义及心理机制分析：学术圈代际话语权斗争与符号性反抗的学术化解构"/></a><div class="content"><a class="title" href="/posts/30596.html" title="基于 BERTopic 模型的底刊创办热潮语义及心理机制分析：学术圈代际话语权斗争与符号性反抗的学术化解构">基于 BERTopic 模型的底刊创办热潮语义及心理机制分析：学术圈代际话语权斗争与符号性反抗的学术化解构</a><time datetime="2026-03-23T08:51:30.752Z" title="发表于 2026-03-23 08:51:30">2026-03-23</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/posts/36658.html" title="正月初几开始写论文是最优的？"><img src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://img.rubbish.press/file/2603/1774254953493_屏幕截图_2026-03-23_163430.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="正月初几开始写论文是最优的？"/></a><div class="content"><a class="title" href="/posts/36658.html" title="正月初几开始写论文是最优的？">正月初几开始写论文是最优的？</a><time datetime="2026-03-23T08:26:09.416Z" title="发表于 2026-03-23 08:26:09">2026-03-23</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/posts/5725.html" title="论抽象期刊的高效中稿策略"><img src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://img.rubbish.press/file/2603/1774253292593_图片1.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="论抽象期刊的高效中稿策略"/></a><div class="content"><a class="title" href="/posts/5725.html" title="论抽象期刊的高效中稿策略">论抽象期刊的高效中稿策略</a><time datetime="2026-03-23T07:56:33.855Z" title="发表于 2026-03-23 07:56:33">2026-03-23</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/posts/27712.html" title="反向的温柔：来一句XX坏"><img src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="/!%5B%5D(https:/img.rubbish.press/file/2603/1774200598121_%E7%94%9F%E6%88%90%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87__3_.png)" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="反向的温柔：来一句XX坏"/></a><div class="content"><a class="title" href="/posts/27712.html" title="反向的温柔：来一句XX坏">反向的温柔：来一句XX坏</a><time datetime="2026-03-22T17:18:49.705Z" title="发表于 2026-03-22 17:18:49">2026-03-22</time></div></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div id="footer_deal"><a class="deal_link" href="mailto:mts_rubbish@163.com" title="email"><i class="anzhiyufont anzhiyu-icon-envelope"></i></a><a class="deal_link" target="_blank" rel="noopener" href="https://weibo.com/u/7738380198" title="微博"><i class="anzhiyufont anzhiyu-icon-weibo"></i></a><a class="deal_link" target="_blank" rel="noopener" href="https://image.rubbish.press/2026/0304e35453ef5a623ae8996c00193172e9d5.png" title="微信"><i class="fab fa-weixin"></i></a><a class="deal_link" href="/atom.xml" title="RSS"><i class="anzhiyufont anzhiyu-icon-rss"></i></a><img class="footer_mini_logo" title="返回顶部" alt="返回顶部" onclick="anzhiyu.scrollToDest(0, 500)" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://image.rubbish.press/logo.png" size="50px"/><a class="deal_link" target="_blank" rel="noopener" href="https://www.zhihu.com/people/jerry-71-44" title="知乎"><i class="fab fa-zhihu"></i></a><a class="deal_link" target="_blank" rel="noopener" href="https://b23.tv/M2lfXNy" title="Bilibili"><i class="anzhiyufont anzhiyu-icon-bilibili"></i></a><a class="deal_link" target="_blank" rel="noopener" href="https://v.douyin.com/XT5ddH5hS-I/" title="抖音"><i class="anzhiyufont anzhiyu-icon-tiktok"></i></a><a class="deal_link" target="_blank" rel="noopener" href="https://xhslink.com/m/1X1sH58Uwyg" title="小红书"><svg class="icon" aria-hidden="true"><use xlink:href="#icon-xiaohongshu"></use></svg></a></div></div><div id="footer-bar"><div class="footer-bar-links"><div class="footer-bar-left"><div id="footer-bar-tips"><div class="copyright">&copy;2026 By <a class="footer-bar-link" href="/" title="Rubbish编辑部" target="_blank">Rubbish编辑部</a></div></div><div id="footer-type-tips"></div></div><div class="footer-bar-right"><a class="footer-bar-link" target="_blank" rel="noopener" href="https://icp.gov.moe/?keyword=20260304/" title="萌ICP备20260304号">萌ICP备20260304号</a><a class="footer-bar-link cc" href="/copyright" title="CC协议"><i class="anzhiyufont anzhiyu-icon-copyright-line"></i><i class="anzhiyufont anzhiyu-icon-creative-commons-by-line"></i><i class="anzhiyufont anzhiyu-icon-creative-commons-nc-line"></i><i class="anzhiyufont anzhiyu-icon-creative-commons-nd-line"></i></a></div></div></div></footer></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="sidebar-site-data site-data is-center"><a href="/archives/" title="archive"><div class="headline">文章</div><div class="length-num">102</div></a><a href="/tags/" title="tag"><div class="headline">标签</div><div class="length-num">476</div></a><a href="/categories/" title="category"><div class="headline">分类</div><div class="length-num">35</div></a></div><span class="sidebar-menu-item-title">功能</span><div class="sidebar-menu-item"><a class="darkmode_switchbutton menu-child" href="javascript:void(0);" title="显示模式"><i class="anzhiyufont anzhiyu-icon-circle-half-stroke"></i><span>显示模式</span></a></div><div class="back-menu-list-groups"><div class="back-menu-list-group"><div class="back-menu-list-title">网站</div><div class="back-menu-list"><a class="back-menu-item" href="https://www.rubbish.press/" title="主页"><img class="back-menu-item-icon" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://image.rubbish.press/logo.png" alt="主页"/><span class="back-menu-item-text">主页</span></a><a class="back-menu-item" href="/categories/%E6%96%87%E7%AB%A0/" title="全部文章"><img class="back-menu-item-icon" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://image.rubbish.press/logo.png" alt="全部文章"/><span class="back-menu-item-text">全部文章</span></a><a class="back-menu-item" href="/categories/%E6%96%B0%E9%97%BB/" title="网站新闻"><img class="back-menu-item-icon" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://image.rubbish.press/logo.png" alt="网站新闻"/><span class="back-menu-item-text">网站新闻</span></a></div></div><div class="back-menu-list-group"><div class="back-menu-list-title">服务</div><div class="back-menu-list"><a class="back-menu-item" target="_blank" rel="noopener" href="https://mts.rubbish.press/" title="投稿系统"><img class="back-menu-item-icon" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://image.rubbish.press/logo.png" alt="投稿系统"/><span class="back-menu-item-text">投稿系统</span></a><a class="back-menu-item" target="_blank" rel="noopener" href="https://file.rubbish.press/" title="文件托管"><img class="back-menu-item-icon" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://image.rubbish.press/logo.png" alt="文件托管"/><span class="back-menu-item-text">文件托管</span></a><a class="back-menu-item" target="_blank" rel="noopener" href="https://admin.rubbish.press/" title="网站后台"><img class="back-menu-item-icon" src= "/img/loading.gif" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://s2.loli.net/2024/08/25/hdaM2IVuRCoPw3L.png" alt="网站后台"/><span class="back-menu-item-text">网站后台</span></a></div></div></div><span class="sidebar-menu-item-title">标签</span><div class="card-tags"><div class="item-headline"></div><div class="card-tag-cloud"><a href="/tags/%E6%83%85%E6%84%9F%E5%8A%A8%E5%8A%9B%E5%AD%A6/" style="font-size: 0.88rem;"> 情感动力学<sup>1</sup></a><a href="/tags/AI%E7%94%9F%E6%88%90%E6%AD%8C%E6%9B%B2/" style="font-size: 0.88rem;">AI生成歌曲<sup>1</sup></a><a href="/tags/MBTI/" style="font-size: 0.88rem;">MBTI<sup>2</sup></a><a href="/tags/QQ/" style="font-size: 0.88rem;">QQ<sup>1</sup></a><a href="/tags/Suno%E5%A4%A7%E6%A8%A1%E5%9E%8B/" style="font-size: 0.88rem;">Suno大模型<sup>1</sup></a><a href="/tags/Unicode/" style="font-size: 0.88rem;">Unicode<sup>1</sup></a><a href="/tags/Western-Blot%E5%AE%BF%E5%91%BD%E8%AE%BA/" style="font-size: 0.88rem;">Western Blot宿命论<sup>1</sup></a><a href="/tags/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E6%94%AF%E6%8C%81/" style="font-size: 0.88rem;">亲密关系支持<sup>1</sup></a><a href="/tags/%E4%BA%BA%E6%A0%BC%E5%BF%83%E7%90%86%E5%AD%A6/" style="font-size: 0.88rem;">人格心理学<sup>1</sup></a><a href="/tags/%E5%8D%95%E6%A0%B7%E6%9C%AC%E8%AE%BE%E8%AE%A1/" style="font-size: 0.88rem;">单样本设计<sup>1</sup></a><a href="/tags/%E5%92%96%E5%95%A1%E8%80%A6%E5%90%88%E6%A8%A1%E5%9E%8B/" style="font-size: 0.88rem;">咖啡耦合模型<sup>1</sup></a><a href="/tags/%E5%96%B5%E5%96%B5%E6%9C%BA%E5%88%B6/" style="font-size: 0.88rem;">喵喵机制<sup>1</sup></a><a href="/tags/%E5%A4%A7%E5%B1%B1%E4%B8%AD%E5%AD%A6/" style="font-size: 0.88rem;">大山中学<sup>1</sup></a><a href="/tags/%E5%B0%8F%E7%8C%AB/" style="font-size: 0.88rem;">小猫<sup>1</sup></a><a href="/tags/%E5%B7%A5%E4%BD%9C%E6%8A%95%E5%85%A5/" style="font-size: 0.88rem;">工作投入<sup>1</sup></a><a href="/tags/%E5%BA%87%E6%8A%A4%E7%BB%93%E6%9E%84/" style="font-size: 0.88rem;">庇护结构<sup>1</sup></a><a href="/tags/%E5%BA%95%E5%88%8A%E5%87%91%E6%95%B0/" style="font-size: 0.88rem;">底刊凑数<sup>1</sup></a><a href="/tags/%E5%BE%AA%E8%AF%81-hydration/" style="font-size: 0.88rem;">循证 hydration<sup>1</sup></a><a href="/tags/%E6%83%85%E7%BB%AA%E9%A9%B1%E5%8A%A8%E5%B7%A5%E7%A8%8B%E5%AD%A6/" style="font-size: 0.88rem;">情绪驱动工程学<sup>1</sup></a><a href="/tags/%E6%88%98%E4%BA%89%E9%9B%B7%E9%9C%86/" style="font-size: 0.88rem;">战争雷霆<sup>1</sup></a><a href="/tags/%E6%8B%96%E5%BB%B6%E5%8A%A8%E5%8A%9B%E5%AD%A6/" style="font-size: 0.88rem;">拖延动力学<sup>1</sup></a><a href="/tags/%E6%91%B8%E9%B1%BC%E5%BC%8F%E6%8E%A2%E7%B4%A2/" style="font-size: 0.88rem;">摸鱼式探索<sup>1</sup></a><a href="/tags/%E6%95%B0%E6%8D%AE%E5%B9%BB%E8%A7%89/" style="font-size: 0.88rem;">数据幻觉<sup>1</sup></a><a href="/tags/%E6%97%A0%E6%95%88%E7%A7%91%E7%A0%94/" style="font-size: 0.88rem;">无效科研<sup>1</sup></a><a href="/tags/%E6%B7%B7%E6%B2%8C%E6%A8%A1%E5%9E%8B/" style="font-size: 0.88rem;">混沌模型<sup>1</sup></a><a href="/tags/%E7%8E%8B%E9%98%B3%E6%98%8E/" style="font-size: 0.88rem;">王阳明<sup>1</sup></a><a href="/tags/%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F/" style="font-size: 0.88rem;">电子游戏<sup>1</sup></a><a href="/tags/%E7%9B%B8%E5%AF%B9%E8%AE%BA/" style="font-size: 0.88rem;">相对论<sup>1</sup></a><a href="/tags/%E7%A5%9E%E7%A7%98%E8%A1%A8%E6%83%85/" style="font-size: 0.88rem;">神秘表情<sup>1</sup></a><a href="/tags/%E7%A7%80%E6%81%A9%E7%88%B1%E7%9A%84%E7%8E%B0%E8%B1%A1%E5%AD%A6%E8%80%83%E5%AF%9F/" style="font-size: 0.88rem;">秀恩爱的现象学考察<sup>1</sup></a><a href="/tags/%E7%A7%91%E7%A0%94%E7%84%A6%E8%99%91/" style="font-size: 0.88rem;">科研焦虑<sup>1</sup></a><a href="/tags/%E7%A9%BA/" style="font-size: 0.88rem;">空<sup>1</sup></a><a href="/tags/%E7%BA%B8%E7%AE%B1%E5%BB%BA%E7%AD%91/" style="font-size: 0.88rem;">纸箱建筑<sup>1</sup></a><a href="/tags/%E8%8D%9F%E8%90%83%E5%88%86%E6%9E%90/" style="font-size: 0.88rem;">荟萃分析<sup>1</sup></a><a href="/tags/%E8%99%9A%E6%9E%84%E7%A0%94%E7%A9%B6/" style="font-size: 0.88rem;">虚构研究<sup>1</sup></a><a href="/tags/%E8%A1%A8%E6%83%85%E7%BC%96%E7%A0%81/" style="font-size: 0.88rem;">表情编码<sup>1</sup></a><a href="/tags/%E9%87%8F%E5%AD%90%E9%9A%A7%E7%A9%BF/" style="font-size: 0.88rem;">量子隧穿<sup>1</sup></a><a href="/tags/%E9%9A%8F%E6%9C%BA%E5%AF%B9%E7%85%A7%E8%AF%95%E9%AA%8C/" style="font-size: 0.88rem;">随机对照试验<sup>1</sup></a><a href="/tags/%E9%A3%9F%E7%AE%A1%E9%BB%8F%E8%86%9C%E6%8D%9F%E4%BC%A4/" style="font-size: 0.88rem;">食管黏膜损伤<sup>1</sup></a><a href="/tags/%E9%A5%AE%E6%B0%B4%E6%B8%A9%E5%BA%A6/" style="font-size: 0.88rem;">饮水温度<sup>1</sup></a></div></div><hr/></div></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="anzhiyufont anzhiyu-icon-book-open"></i></button><button id="translateLink" type="button" title="简繁转换">繁</button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="anzhiyufont anzhiyu-icon-circle-half-stroke"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="anzhiyufont anzhiyu-icon-arrows-left-right"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="anzhiyufont anzhiyu-icon-gear"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="anzhiyufont anzhiyu-icon-list-ul"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="anzhiyufont anzhiyu-icon-comments"></i></a><button id="go-up" type="button" title="回到顶部"><i class="anzhiyufont anzhiyu-icon-arrow-up"></i></button></div></div><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="anzhiyufont anzhiyu-icon-xmark"></i></button></nav><div class="is-center" id="loading-database"><i class="anzhiyufont anzhiyu-icon-spinner anzhiyu-pulse-icon"></i><span>  数据库加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div><hr/><div id="local-search-results"></div></div></div><div id="search-mask"></div></div><div id="rightMenu"><div class="rightMenu-group rightMenu-small"><div class="rightMenu-item" id="menu-backward"><i class="anzhiyufont anzhiyu-icon-arrow-left"></i></div><div class="rightMenu-item" id="menu-forward"><i class="anzhiyufont anzhiyu-icon-arrow-right"></i></div><div class="rightMenu-item" id="menu-refresh"><i class="anzhiyufont anzhiyu-icon-arrow-rotate-right" style="font-size: 1rem;"></i></div><div class="rightMenu-item" id="menu-top"><i class="anzhiyufont anzhiyu-icon-arrow-up"></i></div></div><div class="rightMenu-group rightMenu-line rightMenuPlugin"><div class="rightMenu-item" id="menu-copytext"><i class="anzhiyufont anzhiyu-icon-copy"></i><span>复制选中文本</span></div><div class="rightMenu-item" id="menu-pastetext"><i class="anzhiyufont anzhiyu-icon-paste"></i><span>粘贴文本</span></div><a class="rightMenu-item" id="menu-commenttext"><i class="anzhiyufont anzhiyu-icon-comment-medical"></i><span>引用到评论</span></a><div class="rightMenu-item" id="menu-newwindow"><i class="anzhiyufont anzhiyu-icon-window-restore"></i><span>新窗口打开</span></div><div class="rightMenu-item" id="menu-copylink"><i class="anzhiyufont anzhiyu-icon-link"></i><span>复制链接地址</span></div><div class="rightMenu-item" id="menu-copyimg"><i class="anzhiyufont anzhiyu-icon-images"></i><span>复制此图片</span></div><div class="rightMenu-item" id="menu-downloadimg"><i class="anzhiyufont anzhiyu-icon-download"></i><span>下载此图片</span></div><div class="rightMenu-item" id="menu-newwindowimg"><i class="anzhiyufont anzhiyu-icon-window-restore"></i><span>新窗口打开图片</span></div><div class="rightMenu-item" id="menu-search"><i class="anzhiyufont anzhiyu-icon-magnifying-glass"></i><span>站内搜索</span></div><div class="rightMenu-item" id="menu-searchBaidu"><i class="anzhiyufont anzhiyu-icon-magnifying-glass"></i><span>百度搜索</span></div><div class="rightMenu-item" id="menu-music-toggle"><i class="anzhiyufont anzhiyu-icon-play"></i><span>播放音乐</span></div><div class="rightMenu-item" id="menu-music-back"><i class="anzhiyufont anzhiyu-icon-backward"></i><span>切换到上一首</span></div><div class="rightMenu-item" id="menu-music-forward"><i class="anzhiyufont anzhiyu-icon-forward"></i><span>切换到下一首</span></div><div class="rightMenu-item" id="menu-music-playlist" onclick="window.open(&quot;https://y.qq.com/n/ryqq/playlist/8802438608&quot;, &quot;_blank&quot;);" style="display: none;"><i class="anzhiyufont anzhiyu-icon-radio"></i><span>查看所有歌曲</span></div><div class="rightMenu-item" id="menu-music-copyMusicName"><i class="anzhiyufont anzhiyu-icon-copy"></i><span>复制歌名</span></div></div><div class="rightMenu-group rightMenu-line rightMenuOther"><a class="rightMenu-item menu-link" id="menu-randomPost"><i class="anzhiyufont anzhiyu-icon-shuffle"></i><span>随便逛逛</span></a><a class="rightMenu-item menu-link" href="/categories/"><i class="anzhiyufont anzhiyu-icon-cube"></i><span>博客分类</span></a><a class="rightMenu-item menu-link" href="/tags/"><i class="anzhiyufont anzhiyu-icon-tags"></i><span>文章标签</span></a></div><div class="rightMenu-group rightMenu-line rightMenuOther"><a class="rightMenu-item" id="menu-copy" href="javascript:void(0);"><i class="anzhiyufont anzhiyu-icon-copy"></i><span>复制地址</span></a><a class="rightMenu-item" id="menu-commentBarrage" href="javascript:void(0);"><i class="anzhiyufont anzhiyu-icon-message"></i><span class="menu-commentBarrage-text">关闭热评</span></a><a class="rightMenu-item" id="menu-darkmode" href="javascript:void(0);"><i class="anzhiyufont anzhiyu-icon-circle-half-stroke"></i><span class="menu-darkmode-text">深色模式</span></a><a class="rightMenu-item" id="menu-translate" href="javascript:void(0);"><i class="anzhiyufont anzhiyu-icon-language"></i><span>轉為繁體</span></a></div></div><div id="rightmenu-mask"></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="/js/tw_cn.js"></script><script src="https://cdn.cbd.int/@fancyapps/ui@6.1.6/dist/fancybox/fancybox.umd.js"></script><script src="https://cdn.cbd.int/instant.page@5.2.0/instantpage.js" type="module"></script><script src="https://cdn.cbd.int/vanilla-lazyload@19.1.3/dist/lazyload.iife.min.js"></script><script src="https://cdn.cbd.int/node-snackbar@0.1.16/dist/snackbar.min.js"></script><script>function panguFn () {
+  if (typeof pangu === 'object') pangu.autoSpacingPage()
+  else {
+    getScript('https://cdn.cbd.int/pangu@4.0.7/dist/browser/pangu.min.js')
+      .then(() => {
+        pangu.autoSpacingPage()
+      })
+  }
+}
+
+function panguInit () {
+  if (false){
+    GLOBAL_CONFIG_SITE.isPost && panguFn()
+  } else {
+    panguFn()
+  }
+}
+
+document.addEventListener('DOMContentLoaded', panguInit)</script><canvas id="universe"></canvas><script async src="https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/dark/dark.js"></script><script>// 消除控制台打印
+var HoldLog = console.log;
+console.log = function () {};
+let now1 = new Date();
+queueMicrotask(() => {
+  const Log = function () {
+    HoldLog.apply(console, arguments);
+  }; //在恢复前输出日志
+  const grt = new Date("03/01/2026 00:00:00"); //此处修改你的建站时间或者网站上线时间
+  now1.setTime(now1.getTime() + 250);
+  const days = (now1 - grt) / 1000 / 60 / 60 / 24;
+  const dnum = Math.floor(days);
+  const ascll = [
+    `欢迎使用安知鱼!`,
+    `生活明朗, 万物可爱`,
+    `
+        
+       █████╗ ███╗   ██╗███████╗██╗  ██╗██╗██╗   ██╗██╗   ██╗
+      ██╔══██╗████╗  ██║╚══███╔╝██║  ██║██║╚██╗ ██╔╝██║   ██║
+      ███████║██╔██╗ ██║  ███╔╝ ███████║██║ ╚████╔╝ ██║   ██║
+      ██╔══██║██║╚██╗██║ ███╔╝  ██╔══██║██║  ╚██╔╝  ██║   ██║
+      ██║  ██║██║ ╚████║███████╗██║  ██║██║   ██║   ╚██████╔╝
+      ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝    ╚═════╝
+        
+        `,
+    "已上线",
+    dnum,
+    "天",
+    "©2026 By 安知鱼 V1.7.1",
+  ];
+  const ascll2 = [`NCC2-036`, `调用前置摄像头拍照成功，识别为【小笨蛋】.`, `Photo captured: `, `🤪`];
+
+  setTimeout(
+    Log.bind(
+      console,
+      `\n%c${ascll[0]} %c ${ascll[1]} %c ${ascll[2]} %c${ascll[3]}%c ${ascll[4]}%c ${ascll[5]}\n\n%c ${ascll[6]}\n`,
+      "color:#425AEF",
+      "",
+      "color:#425AEF",
+      "color:#425AEF",
+      "",
+      "color:#425AEF",
+      ""
+    )
+  );
+  setTimeout(
+    Log.bind(
+      console,
+      `%c ${ascll2[0]} %c ${ascll2[1]} %c \n${ascll2[2]} %c\n${ascll2[3]}\n`,
+      "color:white; background-color:#4fd953",
+      "",
+      "",
+      'background:url("https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/tinggge.gif") no-repeat;font-size:450%'
+    )
+  );
+
+  setTimeout(Log.bind(console, "%c WELCOME %c 你好，小笨蛋.", "color:white; background-color:#4f90d9", ""));
+
+  setTimeout(
+    console.warn.bind(
+      console,
+      "%c ⚡ Powered by 安知鱼 %c 你正在访问 Rubbish编辑部 的博客.",
+      "color:white; background-color:#f0ad4e",
+      ""
+    )
+  );
+
+  setTimeout(Log.bind(console, "%c W23-12 %c 你已打开控制台.", "color:white; background-color:#4f90d9", ""));
+
+  setTimeout(
+    console.warn.bind(console, "%c S013-782 %c 你现在正处于监控中.", "color:white; background-color:#d9534f", "")
+  );
+});</script><script async src="/anzhiyu/random.js"></script><script src="/js/search/local-search.js"></script><div class="js-pjax"><link rel="stylesheet" type="text/css" href="https://cdn.cbd.int/katex@0.16.25/dist/katex.min.css"><script src="https://cdn.cbd.int/katex@0.16.25/dist/contrib/copy-tex.min.js"></script><script>(() => {
+  document.querySelectorAll('#article-container span.katex-display').forEach(item => {
+    anzhiyu.wrap(item, 'div', { class: 'katex-wrap'})
+  })
+})()</script><script>(() => {
+  const $mermaid = document.querySelectorAll('#article-container .mermaid-wrap')
+  if ($mermaid.length === 0) return
+  const runMermaid = () => {
+    window.loadMermaid = true
+    const theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'default'
+
+    Array.from($mermaid).forEach((item, index) => {
+      const mermaidSrc = item.firstElementChild
+      const mermaidThemeConfig = '%%{init:{ \'theme\':\'' + theme + '\'}}%%\n'
+      const mermaidID = 'mermaid-' + index
+      const mermaidDefinition = mermaidThemeConfig + mermaidSrc.textContent
+
+      const renderFn = mermaid.render(mermaidID, mermaidDefinition)
+
+      const renderV10 = () => {
+        renderFn.then(({svg}) => {
+          mermaidSrc.insertAdjacentHTML('afterend', svg)
+        })
+      }
+
+      const renderV9 = svg => {
+        mermaidSrc.insertAdjacentHTML('afterend', svg)
+      }
+
+      typeof renderFn === 'string' ? renderV9(renderFn) : renderV10()
+    })
+  }
+
+  const loadMermaid = () => {
+    window.loadMermaid ? runMermaid() : getScript('https://cdn.cbd.int/mermaid@11.12.2/dist/mermaid.min.js').then(runMermaid)
+  }
+
+  anzhiyu.addGlobalFn('themeChange', runMermaid, 'mermaid')
+
+  window.pjax ? loadMermaid() : document.addEventListener('DOMContentLoaded', loadMermaid)
+})()</script><script>(()=>{
+  const getGiscusTheme = theme => {
+    return theme === 'dark' ? 'dark' : 'light'
+  }
+
+  const loadGiscus = () => {
+    const config = Object.assign({
+      src: 'https://giscus.app/client.js',
+      'data-repo': 'zxjzxj0010/giscusrepo',
+      'data-repo-id': 'R_kgDOJdKvig',
+      'data-category-id': 'DIC_kwDOJdKvis4CWKIo',
+      'data-theme': getGiscusTheme(document.documentElement.getAttribute('data-theme')),
+      'data-reactions-enabled': '1',
+      crossorigin: 'anonymous',
+      async: true
+    },{"data-lang":"zh-CN","data-mapping":"url","data-category":"Show and tell","data-input-position":"top"})
+
+    const ele = document.createElement('script')
+    for (let key in config) {
+      ele.setAttribute(key, config[key])
+    }
+    document.getElementById('giscus-wrap').appendChild(ele)
+  }
+
+  const changeGiscusTheme = theme => {
+    const sendMessage = message => {
+      const iframe = document.querySelector('iframe.giscus-frame')
+      if (!iframe) return
+      iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app')
+    }
+
+    sendMessage({
+      setConfig: {
+        theme: getGiscusTheme(theme)
+      }
+    });
+  }
+
+  anzhiyu.addGlobalFn('themeChange', changeGiscusTheme, 'giscus')
+
+  if ('Giscus' === 'Giscus' || !false) {
+    if (false) anzhiyu.loadComment(document.getElementById('giscus-wrap'), loadGiscus)
+    else loadGiscus()
+  } else {
+    window.loadOtherComment = loadGiscus
+  }
+})()</script><input type="hidden" name="page-type" id="page-type" value="post"></div><script async data-pjax src="https://cdn.cbd.int/anzhiyu-theme-static@1.0.0/waterfall/waterfall.js"></script><script src="https://cdn.cbd.int/qrcodejs@1.0.0/qrcode.min.js"></script><script src="/js/anzhiyu/right_click_menu.js"></script><link rel="stylesheet" href="https://cdn.cbd.int/anzhiyu-theme-static@1.1.9/icon/ali_iconfont_css.css"><script async src="//at.alicdn.com/t/c/font_5134592_f7owuvnv86.js"></script><script src="/js/baidu_push.js"></script><script src="https://sdk.51.la/perf/js-sdk-perf.min.js" crossorigin="anonymous"></script><script>new LingQue.Monitor().init({id:"3PDaanVUTStZLD3z"});</script><link rel="stylesheet" href="https://cdn.cbd.int/anzhiyu-theme-static@1.0.0/aplayer/APlayer.min.css" media="print" onload="this.media='all'"><script src="https://cdn.cbd.int/anzhiyu-blog-static@1.0.1/js/APlayer.min.js"></script><script src="https://cdn.cbd.int/hexo-anzhiyu-music@1.0.1/assets/js/Meting2.min.js"></script><script src="https://cdn.cbd.int/pjax@0.2.8/pjax.min.js"></script><script>let pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: true,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:send', function () {
+  // removeEventListener scroll 
+  anzhiyu.removeGlobalFnEvent('pjax')
+  anzhiyu.removeGlobalFnEvent('themeChange')
+
+  document.getElementById('rightside').classList.remove('rightside-show')
+  
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof panguInit === 'function' && panguInit()
+
+  // google analytics
+  typeof gtag === 'function' && gtag('config', 'G-1J95QGL20L', {'page_path': window.location.pathname});
+
+  // baidu analytics
+  typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+})
+
+document.addEventListener('pjax:error', e => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><script charset="UTF-8" src="https://cdn.cbd.int/anzhiyu-theme-static@1.1.5/accesskey/accesskey.js"></script></div><div id="popup-window"><div class="popup-window-title">通知</div><div class="popup-window-divider"></div><div class="popup-window-content"><div class="popup-tip">你好呀</div><div class="popup-link"><i class="anzhiyufont anzhiyu-icon-arrow-circle-right"></i></div></div></div>
+        <script src="//cdn.jsdelivr.net/npm/js-base64/base64.min.js"></script>
+        <script>
+        const hasAttr = (e,a) => a.some(_=> e.attr(_)!==undefined);
+        $('a').each(function() {
+          const $this = $(this);
+          if(hasAttr($this,["data-fancybox","ignore-external-link"])) return;
+          const href = $this.attr('href');
+          if (href && href.match('^((http|https|thunder|qqdl|ed2k|Flashget|qbrowser|ftp|rtsp|mms)://)')) {
+            const strs = href.split('/');
+            if (strs.length >= 3) {
+                const host = strs[2];
+                if (host !== 'rubbish.press' || window.location.host) {
+                    $this.attr('href', '/go.html?u='+Base64.encode(href)+'').attr('rel', 'external nofollow noopener noreferrer');
+                    if (true) {
+                        $this.attr('target', '_blank');
+                    }
+                }
+            }
+          }
+        });
+        </script></body></html>
