@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-23T15:23:20.198Z</updated>
+  <updated>2026-03-23T16:01:51.123Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="爽文" scheme="https://www.rubbish.press/categories/%E7%88%BD%E6%96%87/"/>
+    <category term="不挨骂" scheme="https://www.rubbish.press/tags/%E4%B8%8D%E6%8C%A8%E9%AA%82/"/>
+    <category term="省力气" scheme="https://www.rubbish.press/tags/%E7%9C%81%E5%8A%9B%E6%B0%94/"/>
+    <category term="学术牛马" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E7%89%9B%E9%A9%AC/"/>
+    <category term="生存策略" scheme="https://www.rubbish.press/tags/%E7%94%9F%E5%AD%98%E7%AD%96%E7%95%A5/"/>
+    <category term="导师压力" scheme="https://www.rubbish.press/tags/%E5%AF%BC%E5%B8%88%E5%8E%8B%E5%8A%9B/"/>
+    <id>https://www.rubbish.press/posts/60895.html</id>
+    <link href="https://www.rubbish.press/posts/60895.html"/>
+    <published>2026-03-23T15:44:54.376Z</published>
+    <summary>**摘要**   本文针对研究生在导师任务压力下普遍存在的执行动力不足与担心受批评之间的矛盾，提出了一套以“节省体力”为核心的生存策略。研究从日常生活经验出发，将目标设定为用最少精力达成导师的最低满意度，避免负面反馈。通过建立任务进度、精力损耗与导师满意度的动态模型，揭示了盲目努力反而会因预期升高而陷入内卷陷阱。研究发现，维持一个“刚好达标”的平衡点（即满意度处于临界阈值）可显著降低能量消耗并延长有效休息时间。实验仿真验证了通过优化时间管理与成果包装，学生可在保障评价水平的同时实现生存能效最大化。该策略为长期高压下的科研从业者提供了实用的心理保护方案，强调以“不挨骂”为底线的精细化劳动管理。    **关键词**：不挨骂；省力气；学术牛马；生存策略；导师压力</summary>
+    <title>不挨骂且省力地完成任务：学术牛马在导师压力下的生存策略研究</title>
+    <updated>2026-03-23T16:01:51.123Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -219,25 +237,6 @@
     <summary>本研究针对马桶壁粑粑残留的清洁难题，提出利用尿液射流进行原位物理剥离的方法。通过界面化学、流体力学和高分子流变学分析，建立粑粑-陶瓷界面黏附模型，结合Young-Dupre方程计算黏附功，并采用Bingham流体模型描述粑粑流变特性。研究指出，尿流冲击角度对清洁效率至关重要：60°–80°斜向冲刷可兼顾法向动压与切向剪切，实现破碎+刮除双重效果；较湿粑粑宜采用70°–85°近垂直冲击，半干顽固粑粑则适用60°–75°斜冲，而干透固化粑粑因黏附能过高，尿流难以完全清除，必须依赖马桶刷等刚体工具。该研究为优化排尿姿势提供了工程参考，但强调尿流无法替代机械清洗。</summary>
     <title>尿流冲击角度与粑粑脱附机理研究</title>
     <updated>2026-03-23T11:18:32.045Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="摸鱼" scheme="https://www.rubbish.press/tags/%E6%91%B8%E9%B1%BC/"/>
-    <category term="学术牛马" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E7%89%9B%E9%A9%AC/"/>
-    <category term="生存策略" scheme="https://www.rubbish.press/tags/%E7%94%9F%E5%AD%98%E7%AD%96%E7%95%A5/"/>
-    <category term="最优控制" scheme="https://www.rubbish.press/tags/%E6%9C%80%E4%BC%98%E6%8E%A7%E5%88%B6/"/>
-    <category term="导师压力" scheme="https://www.rubbish.press/tags/%E5%AF%BC%E5%B8%88%E5%8E%8B%E5%8A%9B/"/>
-    <category term="预期管理" scheme="https://www.rubbish.press/tags/%E9%A2%84%E6%9C%9F%E7%AE%A1%E7%90%86/"/>
-    <id>https://www.rubbish.press/posts/60895.html</id>
-    <link href="https://www.rubbish.press/posts/60895.html"/>
-    <published>2026-03-23T10:18:40.697Z</published>
-    <summary>**摘要**：   本文针对研究生在导师任务中普遍存在的执行力不足与怕被批评的矛盾，提出了一套以“省力气”为核心的生存策略。研究放弃复杂理论，从日常经验出发，探索如何用最小精力达成导师的最低满意度。核心观点包括：（1）识别导师负面情绪爆发的临界点，建立“适度努力+时间管理+成果包装”的平衡机制；（2）揭示过度表现会推高导师预期，反而陷入内卷陷阱；（3）通过仿真证明：采用“刚好达标”策略，可在维持评价稳定的同时显著增加有效休息时间。该研究为高压科研环境中的学生提供了实用自救方案，强调以能效比优化替代盲目勤奋。关键词：不挨骂；学术牛马；生存策略；导师压力；省力模式。</summary>
-    <title>不挨骂且省力地完成任务：学术牛马在导师压力下的生存策略研究</title>
-    <updated>2026-03-23T10:27:19.101Z</updated>
   </entry>
   <entry>
     <author>
