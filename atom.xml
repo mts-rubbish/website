@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-23T09:22:08.264Z</updated>
+  <updated>2026-03-23T10:03:53.987Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
+    <category term="台阁体" scheme="https://www.rubbish.press/tags/%E5%8F%B0%E9%98%81%E4%BD%93/"/>
+    <category term="新大众文艺" scheme="https://www.rubbish.press/tags/%E6%96%B0%E5%A4%A7%E4%BC%97%E6%96%87%E8%89%BA/"/>
+    <category term="素人写作" scheme="https://www.rubbish.press/tags/%E7%B4%A0%E4%BA%BA%E5%86%99%E4%BD%9C/"/>
+    <category term="王旭朝" scheme="https://www.rubbish.press/tags/%E7%8E%8B%E6%97%AD%E6%9C%9D/"/>
+    <category term="网络文学" scheme="https://www.rubbish.press/tags/%E7%BD%91%E7%BB%9C%E6%96%87%E5%AD%A6/"/>
+    <category term="传播机制" scheme="https://www.rubbish.press/tags/%E4%BC%A0%E6%92%AD%E6%9C%BA%E5%88%B6/"/>
+    <id>https://www.rubbish.press/posts/2997.html</id>
+    <link href="https://www.rubbish.press/posts/2997.html"/>
+    <published>2026-03-23T10:00:10.091Z</published>
+    <summary>**摘要**    本文通过比较明代台阁体诗歌与素人创作者王旭朝的诗歌，探讨其在“新大众文艺”语境下的创作动因、审美价值及传播机制。王旭朝的诗歌以短视频平台为主要载体，风格质朴昂扬，聚焦日常生活与个人情感，呈现出“去台阁化”的特征——即脱离传统台阁体的典雅形式，转向平民化表达。文章认为，其作品的流行是新媒体环境下流量逻辑与大众参与共同作用的结果，既反映普通创作者的表达欲望，也揭示了网络文化中围观、消费式阅读的生成过程。随着关注度的提升，王旭朝的创作逐渐从纯粹文学表达异化为可变现的网络内容，甚至出现广告诗歌和AI创作等形式。文章指出，王旭朝现象不仅是个人追梦的缩影，更是当代文学功能变迁的体现：在数字时代，诗歌从精英文化走向大众娱乐，其价值不再仅由传统评价体系决定，而是由平台机制和群体互动重构。最终，这一案例折射出文学创作在流量与理想之间的张力，以及普通人在新媒体时代的文化突围。    （198字）</summary>
+    <title>传统台阁体的“去台阁化”——王旭朝现象与新大众文艺的表达机制</title>
+    <updated>2026-03-23T10:03:53.987Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -355,23 +374,5 @@
     <summary>**摘要**   本研究以普通两轮电动自行车为基础平台，探讨其加装拖曳式货厢（环卫垃圾桶）用于城市末端垃圾运输的技术可行性。通过分析动力性能、承载能力、路况适应性及现行交通法规，评估该模式在环卫作业中的应用潜力。结果表明：在限定载重与平坦路面条件下，电动自行车可稳定拖曳单台标准容量货厢，具备技术可行性；但多箱拖曳或长距离运输易引发安全隐患且违反交通法规。研究进一步提出向低速电动车（“老头乐”）升级的方案，以突破动力与安全瓶颈。结论强调：该模式适用于特定场景的轻量化环卫作业，需严格遵循法规并优化平台设计，为城市末端物流提供参考。    （199字）</summary>
     <title>关于两轮电动自行车加装拖曳式货厢用于替代半挂货车的可行性研究</title>
     <updated>2026-03-23T09:31:41.178Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="骨科" scheme="https://www.rubbish.press/tags/%E9%AA%A8%E7%A7%91/"/>
-    <category term="妇科" scheme="https://www.rubbish.press/tags/%E5%A6%87%E7%A7%91/"/>
-    <category term="骨质疏松" scheme="https://www.rubbish.press/tags/%E9%AA%A8%E8%B4%A8%E7%96%8F%E6%9D%BE/"/>
-    <category term="内分泌" scheme="https://www.rubbish.press/tags/%E5%86%85%E5%88%86%E6%B3%8C/"/>
-    <category term="华西的号蓉城的票" scheme="https://www.rubbish.press/tags/%E5%8D%8E%E8%A5%BF%E7%9A%84%E5%8F%B7%E8%93%89%E5%9F%8E%E7%9A%84%E7%A5%A8/"/>
-    <id>https://www.rubbish.press/posts/50193.html</id>
-    <link href="https://www.rubbish.press/posts/50193.html"/>
-    <published>2026-03-19T13:18:43.114Z</published>
-    <summary>**摘要：**   本文以《西游记》中白骨精为案例，探讨其作为“自主活动骨骼”的医学归类难题。文章通过文献回顾、影像学分析及多学科会诊（MDT），论证其病变兼具骨科骨质疏松与妇科内分泌失调特征。尽管骨骼损伤属骨科范畴，但“红粉骷髅”状态下的性激素紊乱及情志致病因素，使妇科亦具干预必要。精神心理科还指出其表演型人格障碍倾向。最终结论认为，传统分科体系难以涵盖此类“非人”病例，建议在ICD-11新增“白骨化生存症候群”条目，并推动设立三界疑难杂症联合门诊。作者呼吁简化挂号流程，建立“人妖共存窗口”，以促进跨学科诊疗与临床研究的规范化发展。</summary>
-    <title>关于白骨精生理病变科属问题暨门诊挂号骨科还是妇科的浅析</title>
-    <updated>2026-03-23T09:30:07.594Z</updated>
   </entry>
 </feed>
