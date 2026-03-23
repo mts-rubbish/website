@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-23T16:01:51.123Z</updated>
+  <updated>2026-03-23T16:12:55.766Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="底刊现象" scheme="https://www.rubbish.press/tags/%E5%BA%95%E5%88%8A%E7%8E%B0%E8%B1%A1/"/>
+    <category term="符号反抗" scheme="https://www.rubbish.press/tags/%E7%AC%A6%E5%8F%B7%E5%8F%8D%E6%8A%97/"/>
+    <category term="代际话语权" scheme="https://www.rubbish.press/tags/%E4%BB%A3%E9%99%85%E8%AF%9D%E8%AF%AD%E6%9D%83/"/>
+    <category term="学术资本" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E8%B5%84%E6%9C%AC/"/>
+    <category term="青年学者生存状态" scheme="https://www.rubbish.press/tags/%E9%9D%92%E5%B9%B4%E5%AD%A6%E8%80%85%E7%94%9F%E5%AD%98%E7%8A%B6%E6%80%81/"/>
+    <id>https://www.rubbish.press/posts/36327.html</id>
+    <link href="https://www.rubbish.press/posts/36327.html"/>
+    <published>2026-03-23T15:58:16.441Z</published>
+    <summary>**摘要：**   本文探讨以硕博研究生及青年学者为主体的“底刊”创办热潮，分析其作为对学术权威与代际话语权垄断的符号化反抗。在学术资本化与绩效主义盛行的背景下，青年学者通过模仿学术期刊形式的戏仿行为，表达对现行评价体系的不满。文章结合布迪厄的场域理论与福柯的权力知识观，揭示“底刊”既是心理代偿机制，也是结构性压迫下的集体回应。研究发现，该现象从隐性焦虑演变为显性微观建构，推动青年学者探索替代性学术共同体，但其局限性在于可能被体制收编或流于娱乐化。作者呼吁反思学术异化问题，重塑包容性的学术生态。关键词：底刊现象、代际话语权、符号反抗、学术资本、青年学者生存状态。</summary>
+    <title>从各大底刊创办热潮的心理机制分析：学术圈代际话语权斗争与符号性反抗的学术化解构</title>
+    <updated>2026-03-23T16:12:55.766Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -283,8 +301,8 @@
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
     <category term="底刊现象" scheme="https://www.rubbish.press/tags/%E5%BA%95%E5%88%8A%E7%8E%B0%E8%B1%A1/"/>
-    <category term="代际话语权" scheme="https://www.rubbish.press/tags/%E4%BB%A3%E9%99%85%E8%AF%9D%E8%AF%AD%E6%9D%83/"/>
     <category term="符号反抗" scheme="https://www.rubbish.press/tags/%E7%AC%A6%E5%8F%B7%E5%8F%8D%E6%8A%97/"/>
+    <category term="代际话语权" scheme="https://www.rubbish.press/tags/%E4%BB%A3%E9%99%85%E8%AF%9D%E8%AF%AD%E6%9D%83/"/>
     <category term="学术资本" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E8%B5%84%E6%9C%AC/"/>
     <category term="青年学者" scheme="https://www.rubbish.press/tags/%E9%9D%92%E5%B9%B4%E5%AD%A6%E8%80%85/"/>
     <category term="BERTopic" scheme="https://www.rubbish.press/tags/BERTopic/"/>
@@ -367,19 +385,5 @@
     <summary>**摘要**：   本文提出一种基于Galgame（“旮旯给木”）隐喻的博士培养过程建模方法，开发了为期48个月的读博生存模拟器。研究将博士阶段抽象为多属性决策系统，设定健康值、导师关系、学生关系、金钱值和毕业进度五大核心指标，通过模拟博士生在不同活动（如课题研究、项目协作、兼职等）中的策略选择，分析其对各项属性的动态影响。结果显示，仅28.3%的路径可实现顺利毕业，42.7%会触发延毕机制，凸显多维平衡的重要性。该模拟器结合游戏化叙事与计算模型，揭示学术培养中资源分配的内在矛盾，不仅为博士生提供生涯规划工具，也为优化培养体系提供理论参考与创新范式。</summary>
     <title>博士培养的旮旯给木化建模：一个基于 48 月目的生存模拟器设计</title>
     <updated>2026-03-22T17:22:09.456Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="庶民研究" scheme="https://www.rubbish.press/tags/%E5%BA%B6%E6%B0%91%E7%A0%94%E7%A9%B6/"/>
-    <category term="知识生产" scheme="https://www.rubbish.press/tags/%E7%9F%A5%E8%AF%86%E7%94%9F%E4%BA%A7/"/>
-    <id>https://www.rubbish.press/posts/7331.html</id>
-    <link href="https://www.rubbish.press/posts/7331.html"/>
-    <published>2026-03-22T16:30:13.054Z</published>
-    <summary>**摘要：**   本文基于斯皮瓦克“庶民能说话吗”的去殖民化理论，探讨小红书学术底刊（如《Rubbish》）作为去中心化知识生产形式的可能性。文章指出，传统顶刊体系由精英主导，排斥底层科研人员的成果，延续学术霸权。而小红书学术底刊以“没什么用但有点搞笑”的内容为特色，允许庶民自主定义知识价值，打破主流话语垄断。通过案例研究，作者认为这类平台为被边缘化的声音提供了发声空间，实现了斯皮瓦克所倡导的庶民去殖民化知识生产的实践。结论强调，这种自下而上的知识生产模式挑战了精英主义学术结构，赋予边缘群体话语权，体现了庶民发声的可能。</summary>
-    <title>没什么用但有点搞笑：作为一种去中心化知识生产形式的小红书学术底刊群体——以 《Rubbish》为例</title>
-    <updated>2026-03-22T16:50:30.326Z</updated>
   </entry>
 </feed>
