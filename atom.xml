@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-23T11:18:32.045Z</updated>
+  <updated>2026-03-23T11:25:52.525Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="NHL" scheme="https://www.rubbish.press/tags/NHL/"/>
+    <category term="G20峰会" scheme="https://www.rubbish.press/tags/G20%E5%B3%B0%E4%BC%9A/"/>
+    <category term="斯坦利杯" scheme="https://www.rubbish.press/tags/%E6%96%AF%E5%9D%A6%E5%88%A9%E6%9D%AF/"/>
+    <category term="加拿大冰球" scheme="https://www.rubbish.press/tags/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%86%B0%E7%90%83/"/>
+    <category term="抽象研究" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1%E7%A0%94%E7%A9%B6/"/>
+    <category term="统计检验" scheme="https://www.rubbish.press/tags/%E7%BB%9F%E8%AE%A1%E6%A3%80%E9%AA%8C/"/>
+    <id>https://www.rubbish.press/posts/60587.html</id>
+    <link href="https://www.rubbish.press/posts/60587.html"/>
+    <published>2026-03-23T11:20:28.437Z</published>
+    <summary>该研究以1993年以来加拿大NHL球队长达三十余年的“冠军荒”为切入点，独创性地提出“高密度地缘政治场域干扰假说”，即G20峰会可能通过宏观政治磁场压制加拿大球队的夺冠概率。研究采用单因素控制变量法，将1994–1998年（G20未成立）设为控制组，1999–2026年为实验组，并引入年化夺冠率对观测窗口差异进行归一化处理。结果显示，两个时期内加拿大七支球队在绝对数量与年化率上均恒定为零，表明无论G20是否存在，其夺冠表现无显著变化。因此，该假说被证伪，结论指出加拿大的持续失利源于自身竞技水平的内源性局限，与全球宏观经济政治格局无关。关键词：NHL；G20峰会；斯坦利杯；因果推断。</summary>
+    <title>北美职业冰球联盟中加拿大队伍的“冠军荒”现象与 G20 峰会的关联性研究</title>
+    <updated>2026-03-23T11:25:52.525Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -357,24 +376,5 @@
     </summary>
     <title>基于微信掷骰子的好友南通预测模型构建与验证：一项来自南通大学的前瞻性随机对照试验</title>
     <updated>2026-03-19T14:29:14.226Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="Lake Ad Excellentiam" scheme="https://www.rubbish.press/tags/Lake-Ad-Excellentiam/"/>
-    <category term="Cable Car" scheme="https://www.rubbish.press/tags/Cable-Car/"/>
-    <category term="CUHK" scheme="https://www.rubbish.press/tags/CUHK/"/>
-    <category term="Commuting Thermodynamics" scheme="https://www.rubbish.press/tags/Commuting-Thermodynamics/"/>
-    <category term="未圆湖" scheme="https://www.rubbish.press/tags/%E6%9C%AA%E5%9C%86%E6%B9%96/"/>
-    <category term="山顶缆车" scheme="https://www.rubbish.press/tags/%E5%B1%B1%E9%A1%B6%E7%BC%86%E8%BD%A6/"/>
-    <id>https://www.rubbish.press/posts/30415.html</id>
-    <link href="https://www.rubbish.press/posts/30415.html"/>
-    <published>2026-03-19T14:09:52.672Z</published>
-    <summary>**摘要**：   本文针对香港中文大学（CUHK）因地理高差导致的校巴拥堵问题，提出一项激进的基础设施改造计划：将未圆湖改造为公共泳池，并修建连接泳池与山顶的直达缆车。作者采用“仿实证主义”与“拍脑袋经济学”分析工程可行性，预估建设成本达2.8亿港元，但通过收取VIP缆车费及强制游泳课费用，宣称项目可在250年内回本。尽管方案荒诞不经，其核心观点在于利用物理落差解决通勤痛点，同时打造集水上运动与观光于一体的学术景区。文章以戏谑笔调批判校园生态，结论强调该构想虽不现实，却揭示了中大独特的环境挑战。关键词包括未圆湖、山顶缆车及通勤热力学。</summary>
-    <title>基于“通勤热力学”的校园空间重构：香港中文大学未圆湖公共泳池改造与山顶缆车工程的可行性与经济学分析</title>
-    <updated>2026-03-23T09:34:14.239Z</updated>
   </entry>
 </feed>
