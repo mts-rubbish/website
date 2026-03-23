@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-23T14:53:52.671Z</updated>
+  <updated>2026-03-23T15:00:17.353Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="饭圈量子力学" scheme="https://www.rubbish.press/tags/%E9%A5%AD%E5%9C%88%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/"/>
+    <category term="认知演化" scheme="https://www.rubbish.press/tags/%E8%AE%A4%E7%9F%A5%E6%BC%94%E5%8C%96/"/>
+    <category term="记忆熵" scheme="https://www.rubbish.press/tags/%E8%AE%B0%E5%BF%86%E7%86%B5/"/>
+    <category term="情感纠缠" scheme="https://www.rubbish.press/tags/%E6%83%85%E6%84%9F%E7%BA%A0%E7%BC%A0/"/>
+    <category term="塌房力学" scheme="https://www.rubbish.press/tags/%E5%A1%8C%E6%88%BF%E5%8A%9B%E5%AD%A6/"/>
+    <category term="蔡徐坤" scheme="https://www.rubbish.press/tags/%E8%94%A1%E5%BE%90%E5%9D%A4/"/>
+    <id>https://www.rubbish.press/posts/2920.html</id>
+    <link href="https://www.rubbish.press/posts/2920.html"/>
+    <published>2026-03-23T14:54:48.886Z</published>
+    <summary>
+      <![CDATA[该研究构建了“饭圈量子力学”理论框架，通过跨平台大数据分析与神经科学实验，揭示粉丝群体认知的量子化特征。核心发现包括：偶像形象具有叠加态特性，粉丝认知遵循塌房力学方程（F=...），记忆熵变驱动黑粉向死忠转化，情感纠缠方程解释群体认知关联性。研究验证了2018年蔡徐坤案例中“越黑越红”现象的内在机制——黑料曝光初期降低粘性，但随时间推移因记忆重构（λ>0）反而增强；跨平台数据与脑电实验证实B站鬼畜与微博超话存在量子纠缠；黑转粉群体的情感态矢量从α²=0.82（黑粉）演变为β²=0.69（死忠），纠缠度提升0.13。结论提出FQSPS预测模型，为数字时代群体意识演化提供了跨学科新范式，建议关注记忆重构系数与平台间量子关联对粉丝行为的影响。]]>
+    </summary>
+    <title>基于量子力学框架的粉丝群体认知演化研究—以蔡徐坤粉丝生态为例</title>
+    <updated>2026-03-23T15:00:17.353Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -355,20 +376,5 @@
     <summary>**摘要**   本文探讨“作者贡献”在合作科研中的复杂性与现实困境，通过虚构访谈故事揭示学术署名背后的权力失衡、伦理争议与实践乱象。核心问题包括：贡献界定模糊导致“隐形劳动”（如修改论文却无署名）、导师凭借权力获取不当署名，以及版面费负担加剧学生不公。文章批判现有评价体系失真，呼吁拓展“作者贡献”内涵——不仅关注智力投入，还需纳入资金、责任与伦理维度。结论强调需建立更透明、公平的署名机制，以维护科研诚信。全文以幽默笔调警示学术环境弊病，虽为虚构案例，但折射真实问题。</summary>
     <title>对“作者贡献”概念的内涵拓展</title>
     <updated>2026-03-22T13:40:48.102Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="学术垃圾" scheme="https://www.rubbish.press/categories/%E5%AD%A6%E6%9C%AF%E5%9E%83%E5%9C%BE/"/>
-    <category term="日常行为" scheme="https://www.rubbish.press/tags/%E6%97%A5%E5%B8%B8%E8%A1%8C%E4%B8%BA/"/>
-    <category term="抖动次数" scheme="https://www.rubbish.press/tags/%E6%8A%96%E5%8A%A8%E6%AC%A1%E6%95%B0/"/>
-    <id>https://www.rubbish.press/posts/34401.html</id>
-    <link href="https://www.rubbish.press/posts/34401.html"/>
-    <published>2026-03-20T06:30:40.035Z</published>
-    <summary>**摘要**   本文探讨男性排尿后抖动行为的稳定模式——通常为2–3次，而非一次或更多。作者通过行为观察与经验分析，提出“残余不确定性递减模型”：第一次抖动清除大部分残留，第二次显著降低残余量，第三次提供心理确认，而超过三次则边际收益锐减且可能引发社会不适。该模式是效率（动作收益递减）、确定性需求与社会规范共同作用的结果。研究类比日常重复行为（如敲门），揭示人类在操作不确定性下通过少量冗余动作平衡安全与效率的普遍策略，体现了日常行为中的理性权衡机制。</summary>
-    <title>男性排尿后抖动次数的行为规律研究</title>
-    <updated>2026-03-21T06:01:37.942Z</updated>
   </entry>
 </feed>
