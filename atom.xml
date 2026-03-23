@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-23T14:39:07.084Z</updated>
+  <updated>2026-03-23T14:47:42.183Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="喜剧" scheme="https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/"/>
+    <category term="信号博弈" scheme="https://www.rubbish.press/tags/%E4%BF%A1%E5%8F%B7%E5%8D%9A%E5%BC%88/"/>
+    <category term="纳什均衡" scheme="https://www.rubbish.press/tags/%E7%BA%B3%E4%BB%80%E5%9D%87%E8%A1%A1/"/>
+    <category term="跨期贴现" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E6%9C%9F%E8%B4%B4%E7%8E%B0/"/>
+    <category term="导师画饼" scheme="https://www.rubbish.press/tags/%E5%AF%BC%E5%B8%88%E7%94%BB%E9%A5%BC/"/>
+    <category term="学术糊弄" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E7%B3%8A%E5%BC%84/"/>
+    <category term="导学关系" scheme="https://www.rubbish.press/tags/%E5%AF%BC%E5%AD%A6%E5%85%B3%E7%B3%BB/"/>
+    <id>https://www.rubbish.press/posts/36505.html</id>
+    <link href="https://www.rubbish.press/posts/36505.html"/>
+    <published>2026-03-23T14:40:38.130Z</published>
+    <summary>本文基于委托-代理理论，构建动态博弈模型分析导师与学生间的“画大饼”行为。研究发现：导师承诺因高贴现率（健忘通胀）和极低兑现概率而失效；学生因脱发、抑郁等沉没成本导致心理估值随时间指数下降。模型揭示“双盲糊弄”为唯一贝叶斯均衡——导师给出模糊修改意见，学生仅做表面调整，双方心照不宣地维持学术生态稳定。实证支持高频空泛词汇显著降低指导有效性。建议学生采取“态度诚恳但坚决不改”“将承诺按99%贴现”等策略以自保，实现局部帕累托优化。</summary>
+    <title>基于不完全信息动态博弈的“导师画饼”与“学术糊弄”的纳什均衡研究</title>
+    <updated>2026-03-23T14:47:42.183Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -350,28 +369,5 @@
     <summary>**摘要**：   本研究通过一项随机对照试验（n=120）结合系统综述，首次揭示了饮水温度对人体生理指标的差异化影响。结果表明：热水组（50-60℃）在鼻塞缓解率（82.5% vs 31.6%）和排便满意度上显著优于冰水组；冰水组（4-8℃）在运动后核心温度下降速度和能量消耗（+3.2%）上表现更佳。然而，65℃以上热饮会导致食管黏膜损伤风险显著增加。基于证据，研究提出“温度-情境匹配模型”，最终结论是：只要不烫嘴、不冰牙，个人感觉舒适的水温就是最佳选择。关键词：饮水温度、多喝热水、随机对照试验、循证hydration。</summary>
     <title>一杯水的“冷热之争” ：基于随机对照试验和荟萃分析的系统综述</title>
     <updated>2026-03-21T06:02:40.897Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="东北盒饭" scheme="https://www.rubbish.press/tags/%E4%B8%9C%E5%8C%97%E7%9B%92%E9%A5%AD/"/>
-    <category term="四川盒饭" scheme="https://www.rubbish.press/tags/%E5%9B%9B%E5%B7%9D%E7%9B%92%E9%A5%AD/"/>
-    <category term="进食社会学" scheme="https://www.rubbish.press/tags/%E8%BF%9B%E9%A3%9F%E7%A4%BE%E4%BC%9A%E5%AD%A6/"/>
-    <category term="菜饭关系" scheme="https://www.rubbish.press/tags/%E8%8F%9C%E9%A5%AD%E5%85%B3%E7%B3%BB/"/>
-    <category term="地域文化" scheme="https://www.rubbish.press/tags/%E5%9C%B0%E5%9F%9F%E6%96%87%E5%8C%96/"/>
-    <id>https://www.rubbish.press/posts/34904.html</id>
-    <link href="https://www.rubbish.press/posts/34904.html"/>
-    <published>2026-03-19T15:13:45.809Z</published>
-    <summary>
-      <![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。 -->
-<p>Morobin<sup>1,*,†</sup></p>
-<!-- 以下请在href=后的双引号里填写pdf全网链接 -->
-<a]]>
-    </summary>
-    <title>辣与黏之间的饭：东北盒饭与四川盒饭的异同</title>
-    <updated>2026-03-19T15:13:46.599Z</updated>
   </entry>
 </feed>
