@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-23T15:09:44.182Z</updated>
+  <updated>2026-03-23T15:15:04.253Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="香烟" scheme="https://www.rubbish.press/tags/%E9%A6%99%E7%83%9F/"/>
+    <category term="刺胞动物" scheme="https://www.rubbish.press/tags/%E5%88%BA%E8%83%9E%E5%8A%A8%E7%89%A9/"/>
+    <category term="扁形动物" scheme="https://www.rubbish.press/tags/%E6%89%81%E5%BD%A2%E5%8A%A8%E7%89%A9/"/>
+    <category term="废弃物动物学" scheme="https://www.rubbish.press/tags/%E5%BA%9F%E5%BC%83%E7%89%A9%E5%8A%A8%E7%89%A9%E5%AD%A6/"/>
+    <category term="分子生物学" scheme="https://www.rubbish.press/tags/%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E5%AD%A6/"/>
+    <category term="分类学" scheme="https://www.rubbish.press/tags/%E5%88%86%E7%B1%BB%E5%AD%A6/"/>
+    <id>https://www.rubbish.press/posts/41878.html</id>
+    <link href="https://www.rubbish.press/posts/41878.html"/>
+    <published>2026-03-23T15:10:31.183Z</published>
+    <summary>**摘要**   本文提出“废弃物动物学”（Waste Zoology）概念，探讨香烟是否可归入动物分类体系。基于形态与生态观察，作者支持香烟更符合刺胞动物假说（有口无肛、水螅体-水母体生活史），而非扁形动物；其扁平表型被解释为环境适应，非稳定分类特征。核心争议在于单根香烟与整盒香烟对应生活史阶段：形态学上前者似水螅体，后者似水母体；但生态行为显示相反——整盒更固着（类水螅体），单根更易扩散（类水母体）。因形态证据矛盾，作者主张引入分子生物学作为破局路径，并提出方法论原则：“遇事不决，分子生物学”。该研究以幽默方式推动分类学向可检验范式演进。    （199字）</summary>
+    <title>香烟的动物学分类</title>
+    <updated>2026-03-23T15:15:04.253Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -359,23 +378,5 @@
     <summary>**摘要**：   本文探讨了冬季清晨起床困难的热力学与动力学机制，结合热传导模型、吉布斯自由能变化及生理需求（尿意、饥饿感、工作压力）构建多因素模型。研究表明，人体与被窝间的温差导致热量流失，增大起床难度；低温环境下自由能升高进一步抑制自发行为。动力学分析显示，尿意在工作日午后最强，而工作压力的驱动力在早晨更高，成为“考勤打卡”的主要动力。建议通过调节睡眠环境（如加厚被褥）、优化作息时间或利用外部压力（如闹钟）来减少起床阻力，提升冬季晨间行动效率。</summary>
     <title>冬季清晨起床的热力学与动力学博弈：能量抑制与生理驱动力</title>
     <updated>2026-03-22T16:02:31.616Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="生命科学" scheme="https://www.rubbish.press/categories/%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/"/>
-    <category term="Coilin" scheme="https://www.rubbish.press/tags/Coilin/"/>
-    <category term="Cajal小体" scheme="https://www.rubbish.press/tags/Cajal%E5%B0%8F%E4%BD%93/"/>
-    <category term="核形态" scheme="https://www.rubbish.press/tags/%E6%A0%B8%E5%BD%A2%E6%80%81/"/>
-    <category term="相分离" scheme="https://www.rubbish.press/tags/%E7%9B%B8%E5%88%86%E7%A6%BB/"/>
-    <category term="视觉拟像" scheme="https://www.rubbish.press/tags/%E8%A7%86%E8%A7%89%E6%8B%9F%E5%83%8F/"/>
-    <id>https://www.rubbish.press/posts/33806.html</id>
-    <link href="https://www.rubbish.press/posts/33806.html"/>
-    <published>2026-03-22T13:48:45.493Z</published>
-    <summary>**摘要**：   本研究探讨细胞核形态受染色质组织、核内凝聚体自组织及力学环境的共同调控。通过Coilin-mCherry标记和共聚焦成像，发现Coilin通常在核内形成围绕核仁的中空壳状结构；在极少数细胞中（约十万分之一），该结构因核力学形变与多相凝聚体界面的协同作用而呈现各向异性，使细胞核轮廓类似男性生殖器官的象征性形态。作者强调，此现象是物理机制（如相分离与力学失衡）的结果，而非功能性解剖学变化，人类视觉系统的“拟像效应”进一步赋予其象征意义。研究揭示了Coilin界面组织能力在核形态重塑中的潜在作用，并呼吁关注罕见表型背后的基础科学价值。</summary>
-    <title>当细胞核呈现男性某器官形态：Coilin诱导的十万分之一结构事件</title>
-    <updated>2026-03-22T13:56:20.036Z</updated>
   </entry>
 </feed>
