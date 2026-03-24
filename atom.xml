@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-24T02:09:43.180Z</updated>
+  <updated>2026-03-24T04:09:03.648Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="情感" scheme="https://www.rubbish.press/categories/%E6%83%85%E6%84%9F/"/>
+    <category term="Crush" scheme="https://www.rubbish.press/tags/Crush/"/>
+    <category term="Emo" scheme="https://www.rubbish.press/tags/Emo/"/>
+    <category term="信号误读" scheme="https://www.rubbish.press/tags/%E4%BF%A1%E5%8F%B7%E8%AF%AF%E8%AF%BB/"/>
+    <category term="反刍思维" scheme="https://www.rubbish.press/tags/%E5%8F%8D%E5%88%8D%E6%80%9D%E7%BB%B4/"/>
+    <category term="自我叙事" scheme="https://www.rubbish.press/tags/%E8%87%AA%E6%88%91%E5%8F%99%E4%BA%8B/"/>
+    <category term="蔡格尼克效应" scheme="https://www.rubbish.press/tags/%E8%94%A1%E6%A0%BC%E5%B0%BC%E5%85%8B%E6%95%88%E5%BA%94/"/>
+    <id>https://www.rubbish.press/posts/43417.html</id>
+    <link href="https://www.rubbish.press/posts/43417.html"/>
+    <published>2026-03-24T03:53:53.301Z</published>
+    <summary>**摘要**    本研究探讨当代城市青年中“Crush”（短暂迷恋）与后续情绪低落（“Emo”）的关系，揭示“短时Crush→长时Emo”的现象。基于蔡格尼克效应、反刍思维理论和情感消费主义视角，构建路径模型分析Emo持续的影响机制。研究发现：Emo平均持续时长约为Crush的2.6倍；情绪反刍频率和自我叙事倾向是延长Emo的核心机制；社交媒体高频使用放大信号误读对Emo的预测效应；自我叙事倾向在信号误读与Emo之间起部分中介作用。研究建议通过减少夜间社交媒体使用和转移注意力来缓解Emo发作。</summary>
+    <title>“他好像只是非常短暂地爱了我一下” ：短时 Crush 与长时 Emo 的 病理学分析</title>
+    <updated>2026-03-24T04:09:03.648Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -368,22 +387,5 @@
     <summary>**摘要**   本文探讨以“XX坏”为代表的反向问候语如何成为当代青年对抗社交情绪规训的亚文化实践。作者批判现有研究过度依赖外部学术框架，消解了该话语的原生抵抗性与生成性。为此，文章突破传统论文范式，全文仅保留“XX坏”构式，通过文本实验还原其本质——其价值在于开放生成性与情绪共鸣，而非理论阐释。研究表明，学术话语对青年自发表达的规训需被反思，此类研究应转向尊重原生形态，以实现真正的共情与理解。关键词：XX坏、青年亚文化、学术话语、情绪劳动。</summary>
     <title>反向的温柔：来一句XX坏</title>
     <updated>2026-03-24T02:15:58.218Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="博士培养" scheme="https://www.rubbish.press/tags/%E5%8D%9A%E5%A3%AB%E5%9F%B9%E5%85%BB/"/>
-    <category term="旮旯给木" scheme="https://www.rubbish.press/tags/%E6%97%AE%E6%97%AF%E7%BB%99%E6%9C%A8/"/>
-    <category term="模拟器" scheme="https://www.rubbish.press/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/"/>
-    <category term="建模" scheme="https://www.rubbish.press/tags/%E5%BB%BA%E6%A8%A1/"/>
-    <id>https://www.rubbish.press/posts/33782.html</id>
-    <link href="https://www.rubbish.press/posts/33782.html"/>
-    <published>2026-03-22T16:47:45.783Z</published>
-    <summary>**摘要**：   本文提出一种基于Galgame（旮旯给木）隐喻的博士培养过程建模方法，设计并开发了一款为期48个月的“读博生存模拟器”。研究将博士培养抽象为健康值、导师关系、学生关系、金钱值和毕业进度五大核心属性的动态决策系统，通过模拟博士生在课题、项目与生活中的策略选择，揭示多维资源平衡对学业成败的关键作用。模拟结果显示，仅28.3%路径顺利毕业，42.7%触发延毕机制，与实际数据高度吻合。该模型创新性地融合游戏化叙事与计算模拟，通过多结局机制展现学术培养中资源分配的内在矛盾，为博士生生涯规划及培养体系优化提供了新范式与实证工具。</summary>
-    <title>博士培养的旮旯给木化建模：一个基于 48 月目的生存模拟器设计</title>
-    <updated>2026-03-24T03:08:03.275Z</updated>
   </entry>
 </feed>
