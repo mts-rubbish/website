@@ -10,7 +10,27 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-24T06:09:14.481Z</updated>
+  <updated>2026-03-24T12:20:26.150Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
+    <category term="不可感知" scheme="https://www.rubbish.press/tags/%E4%B8%8D%E5%8F%AF%E6%84%9F%E7%9F%A5/"/>
+    <category term="存在" scheme="https://www.rubbish.press/tags/%E5%AD%98%E5%9C%A8/"/>
+    <category term="感知边界" scheme="https://www.rubbish.press/tags/%E6%84%9F%E7%9F%A5%E8%BE%B9%E7%95%8C/"/>
+    <category term="多波段观测" scheme="https://www.rubbish.press/tags/%E5%A4%9A%E6%B3%A2%E6%AE%B5%E8%A7%82%E6%B5%8B/"/>
+    <category term="维度错位" scheme="https://www.rubbish.press/tags/%E7%BB%B4%E5%BA%A6%E9%94%99%E4%BD%8D/"/>
+    <category term="思念" scheme="https://www.rubbish.press/tags/%E6%80%9D%E5%BF%B5/"/>
+    <category term="亲人" scheme="https://www.rubbish.press/tags/%E4%BA%B2%E4%BA%BA/"/>
+    <id>https://www.rubbish.press/posts/20372.html</id>
+    <link href="https://www.rubbish.press/posts/20372.html"/>
+    <published>2026-03-24T12:15:10.837Z</published>
+    <summary>**摘要**：本文围绕“不可感知是否等于不存在”这一核心命题展开探讨，结合人类与生物的感知差异、多波段观测及实验设计，论证了对象能否被直接感知并不等同于其真实存在。文章指出，感知依赖信号发出、介质传递、传感器覆盖与系统解码等环节，任一环节缺失即可能导致“不可见”，但这种不可见源于观测链条的不闭合，而非对象本体的消失。研究进一步通过维度错位观察者的想象推演，说明不同感知带宽可能导致对同一环境的不同认知。最后，作者将科学推理延伸至情感层面，强调思念与记忆的关联，并呼吁学生常回家探望亲人。关键词：不可感知；存在；感知边界；多波段观测；维度错位；思念；亲人。</summary>
+    <title>不可感知 ≠ 不存在研究——致我们思念的亲人</title>
+    <updated>2026-03-24T12:20:26.150Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -367,24 +387,5 @@
     <summary>**摘要**：   本文探讨了中国学术界以硕博研究生和青年学者为主的“底刊”（非正式学术期刊）兴起现象，将其置于学术资本化与绩效主义盛行的背景下分析。文章认为，“底刊”是青年学者对传统学术权威与代际话语权垄断的象征性反抗，通过模仿正规期刊形式戏仿正统机制，实现心理代偿与社会抗争。基于布迪厄的场域理论、福柯的权力-知识关系及斯科特“弱者的武器”概念，文章指出“底刊”既是对学术霸权祛魅的狂欢式解构，也是青年群体以自嘲方式对抗异化学术生产的集体回应。尽管该现象反映了从隐性焦虑到显性批判的思潮演进，并尝试构建替代性评价体系，但其局限性在于易被体制收编、娱乐化，且难以撼动现实资源分配结构。作者呼吁学术界反思单一评价体系，推动包容多元的学术生态建设，以缓解代际冲突，回归知识生产本质。</summary>
     <title>基于 BERTopic 模型的底刊创办热潮语义及心理机制分析：学术圈代际话语权斗争与符号性反抗的学术化解构</title>
     <updated>2026-03-23T08:58:12.233Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="拖延" scheme="https://www.rubbish.press/tags/%E6%8B%96%E5%BB%B6/"/>
-    <category term="春节" scheme="https://www.rubbish.press/tags/%E6%98%A5%E8%8A%82/"/>
-    <category term="跨期决策" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E6%9C%9F%E5%86%B3%E7%AD%96/"/>
-    <category term="双曲贴现" scheme="https://www.rubbish.press/tags/%E5%8F%8C%E6%9B%B2%E8%B4%B4%E7%8E%B0/"/>
-    <category term="博弈论" scheme="https://www.rubbish.press/tags/%E5%8D%9A%E5%BC%88%E8%AE%BA/"/>
-    <category term="承诺策略" scheme="https://www.rubbish.press/tags/%E6%89%BF%E8%AF%BA%E7%AD%96%E7%95%A5/"/>
-    <id>https://www.rubbish.press/posts/36658.html</id>
-    <link href="https://www.rubbish.press/posts/36658.html"/>
-    <published>2026-03-23T08:26:09.416Z</published>
-    <summary>**摘要**   本文构建了一个融合跨期决策、行为偏差与不完全信息博弈的理论框架，分析博士生在春节假期（除夕至农历初十）中开始写论文的最优时机。模型纳入倒U型论文质量函数、对数享乐效用（边际递减）、双曲贴现拖延偏差、返程摩擦及除夕特殊窗口效应。推导出个人最优启动日期的解析表达式，并扩展至社会最优与师生策略互动。主要结论：（1）除夕深夜存在短暂“年关顿悟窗口”，但因认知资源匮乏不可持续；（2）农历初四至初五为个人最优启动区间；（3）初八至初九受返程摩擦主导，属低效“僵尸区间”；（4）初十为帕累托上界，此后启动无合理依据；（5）在师生博弈中，“嗯嗯老师”因信号明确且愧疚成本最低而严格占优。关键词：拖延均衡；春节假期；承诺策略；帕累托上界。    （注：摘要严格控制在100–200字内，涵盖核心主题、关键假设、主要结论与建议，保留原文术语与结构逻辑，剔除主观评论与冗余说明。）</summary>
-    <title>正月初几开始写论文是最优的？</title>
-    <updated>2026-03-23T08:36:30.704Z</updated>
   </entry>
 </feed>
