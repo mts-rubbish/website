@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-24T05:04:56.824Z</updated>
+  <updated>2026-03-24T06:09:14.481Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="手冲咖啡" scheme="https://www.rubbish.press/tags/%E6%89%8B%E5%86%B2%E5%92%96%E5%95%A1/"/>
+    <category term="椰子水" scheme="https://www.rubbish.press/tags/%E6%A4%B0%E5%AD%90%E6%B0%B4/"/>
+    <category term="感官评价" scheme="https://www.rubbish.press/tags/%E6%84%9F%E5%AE%98%E8%AF%84%E4%BB%B7/"/>
+    <category term="风味分析" scheme="https://www.rubbish.press/tags/%E9%A3%8E%E5%91%B3%E5%88%86%E6%9E%90/"/>
+    <category term="跨界研究" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E7%95%8C%E7%A0%94%E7%A9%B6/"/>
+    <id>https://www.rubbish.press/posts/34307.html</id>
+    <link href="https://www.rubbish.press/posts/34307.html"/>
+    <published>2026-03-24T06:01:28.206Z</published>
+    <summary>**摘要**：   本文通过实验探究椰子水作为手冲咖啡萃取介质的可行性，发现其不仅无法提升风味，反而因高温加热产生劣质风味物质（如橡胶、土腥味），并抑制咖啡豆中芳香物质的提取，导致整体口感劣化。文章将这一“失败搭配”类比为人际相亲中的常见困境——双方因长辈压力、边界感缺失及性格冲突而关系破裂。研究建议，若强行结合需改善环境氛围、注重沟通边界，甚至考虑更换对象（如耶加雪菲）。结论强调：椰子水并非咖啡的理想伴侣，跨界类比揭示了人际互动与饮品调配共通的“匹配逻辑”。</summary>
+    <title>椰子水与咖啡豆：一场失败的相亲</title>
+    <updated>2026-03-24T06:09:14.481Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -368,24 +386,5 @@
     <summary>**摘要**   本文构建了一个融合跨期决策、行为偏差与不完全信息博弈的理论框架，分析博士生在春节假期（除夕至农历初十）中开始写论文的最优时机。模型纳入倒U型论文质量函数、对数享乐效用（边际递减）、双曲贴现拖延偏差、返程摩擦及除夕特殊窗口效应。推导出个人最优启动日期的解析表达式，并扩展至社会最优与师生策略互动。主要结论：（1）除夕深夜存在短暂“年关顿悟窗口”，但因认知资源匮乏不可持续；（2）农历初四至初五为个人最优启动区间；（3）初八至初九受返程摩擦主导，属低效“僵尸区间”；（4）初十为帕累托上界，此后启动无合理依据；（5）在师生博弈中，“嗯嗯老师”因信号明确且愧疚成本最低而严格占优。关键词：拖延均衡；春节假期；承诺策略；帕累托上界。    （注：摘要严格控制在100–200字内，涵盖核心主题、关键假设、主要结论与建议，保留原文术语与结构逻辑，剔除主观评论与冗余说明。）</summary>
     <title>正月初几开始写论文是最优的？</title>
     <updated>2026-03-23T08:36:30.704Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="喜剧" scheme="https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/"/>
-    <category term="抽象期刊" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1%E6%9C%9F%E5%88%8A/"/>
-    <category term="Rubbish" scheme="https://www.rubbish.press/tags/Rubbish/"/>
-    <category term="中稿策略" scheme="https://www.rubbish.press/tags/%E4%B8%AD%E7%A8%BF%E7%AD%96%E7%95%A5/"/>
-    <category term="学术整活" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E6%95%B4%E6%B4%BB/"/>
-    <category term="文本分析" scheme="https://www.rubbish.press/tags/%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90/"/>
-    <category term="科研文化" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E6%96%87%E5%8C%96/"/>
-    <id>https://www.rubbish.press/posts/5725.html</id>
-    <link href="https://www.rubbish.press/posts/5725.html"/>
-    <published>2026-03-23T07:56:33.855Z</published>
-    <summary>**摘要**：   随着中文互联网“抽象学术”文化的兴起，《Rubbish》等期刊成为科研工作者宣泄压力的“赛博自留地”。然而，其21.4%的低中稿率揭示了隐性审稿门槛。本文基于对39篇录用论文的文本分析，总结出三大成功要素：（1）将日常焦虑学术化（如导师微信情绪预测模型）；（2）跨界重构荒诞议题（如擎天柱精算险或筷子摩擦学）；（3）为科研失败赋予玄学美学价值（如电泳条带类比名画）。研究发现，高录用率文章需兼具“错位感”“严肃叙事”与“痛点共鸣”。本文首次提出“学术整活”工业化标准，为科研人群提供可复制的发表指南，助力在枯燥研究中寻找乐趣。    （字数：198）</summary>
-    <title>论抽象期刊的高效中稿策略</title>
-    <updated>2026-03-23T09:49:02.987Z</updated>
   </entry>
 </feed>
