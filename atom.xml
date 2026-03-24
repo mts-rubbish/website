@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-24T04:09:03.648Z</updated>
+  <updated>2026-03-24T05:04:56.824Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="查重率" scheme="https://www.rubbish.press/tags/%E6%9F%A5%E9%87%8D%E7%8E%87/"/>
+    <category term="AI检测" scheme="https://www.rubbish.press/tags/AI%E6%A3%80%E6%B5%8B/"/>
+    <category term="学术写作" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E5%86%99%E4%BD%9C/"/>
+    <category term="原创性" scheme="https://www.rubbish.press/tags/%E5%8E%9F%E5%88%9B%E6%80%A7/"/>
+    <category term="理解性转述" scheme="https://www.rubbish.press/tags/%E7%90%86%E8%A7%A3%E6%80%A7%E8%BD%AC%E8%BF%B0/"/>
+    <id>https://www.rubbish.press/posts/41117.html</id>
+    <link href="https://www.rubbish.press/posts/41117.html"/>
+    <published>2026-03-24T04:57:11.485Z</published>
+    <summary>本文通过分析一篇论文在查重率与AI检测率均为0%的案例，探讨了在学术写作中如何实现文本层面的高度原创性。尽管该文引用了11篇文献，但作者通过对文献观点的深入理解与语言重构，以全新的表达方式重新组织内容，使原始句式发生显著变化，从而降低了文本相似度。研究发现，查重率为0%并非意味着完全脱离既有研究，而是源于对文献的深刻理解和个体化的写作习惯。这表明，真正决定文本相似度的关键因素是作者的再表达能力，而非简单的引用数量。因此，提高学术写作的原创性，应注重对文献的理解深度与语言重构能力。</summary>
+    <title>“听说你还在搞什么原创？” ：我的论文查重和 AI 率都是 0%—— 一次意外的人类写作实践研究</title>
+    <updated>2026-03-24T05:04:56.824Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -369,23 +387,5 @@
     <summary>**摘要**：   随着中文互联网“抽象学术”文化的兴起，《Rubbish》等期刊成为科研工作者宣泄压力的“赛博自留地”。然而，其21.4%的低中稿率揭示了隐性审稿门槛。本文基于对39篇录用论文的文本分析，总结出三大成功要素：（1）将日常焦虑学术化（如导师微信情绪预测模型）；（2）跨界重构荒诞议题（如擎天柱精算险或筷子摩擦学）；（3）为科研失败赋予玄学美学价值（如电泳条带类比名画）。研究发现，高录用率文章需兼具“错位感”“严肃叙事”与“痛点共鸣”。本文首次提出“学术整活”工业化标准，为科研人群提供可复制的发表指南，助力在枯燥研究中寻找乐趣。    （字数：198）</summary>
     <title>论抽象期刊的高效中稿策略</title>
     <updated>2026-03-23T09:49:02.987Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="喜剧" scheme="https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/"/>
-    <category term="坏" scheme="https://www.rubbish.press/tags/%E5%9D%8F/"/>
-    <category term="问候语" scheme="https://www.rubbish.press/tags/%E9%97%AE%E5%80%99%E8%AF%AD/"/>
-    <category term="青年亚文化" scheme="https://www.rubbish.press/tags/%E9%9D%92%E5%B9%B4%E4%BA%9A%E6%96%87%E5%8C%96/"/>
-    <category term="社交话语" scheme="https://www.rubbish.press/tags/%E7%A4%BE%E4%BA%A4%E8%AF%9D%E8%AF%AD/"/>
-    <category term="反向表达" scheme="https://www.rubbish.press/tags/%E5%8F%8D%E5%90%91%E8%A1%A8%E8%BE%BE/"/>
-    <id>https://www.rubbish.press/posts/27712.html</id>
-    <link href="https://www.rubbish.press/posts/27712.html"/>
-    <published>2026-03-22T17:18:49.705Z</published>
-    <summary>**摘要**   本文探讨以“XX坏”为代表的反向问候语如何成为当代青年对抗社交情绪规训的亚文化实践。作者批判现有研究过度依赖外部学术框架，消解了该话语的原生抵抗性与生成性。为此，文章突破传统论文范式，全文仅保留“XX坏”构式，通过文本实验还原其本质——其价值在于开放生成性与情绪共鸣，而非理论阐释。研究表明，学术话语对青年自发表达的规训需被反思，此类研究应转向尊重原生形态，以实现真正的共情与理解。关键词：XX坏、青年亚文化、学术话语、情绪劳动。</summary>
-    <title>反向的温柔：来一句XX坏</title>
-    <updated>2026-03-24T02:15:58.218Z</updated>
   </entry>
 </feed>
