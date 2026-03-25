@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-25T06:39:13.040Z</updated>
+  <updated>2026-03-25T08:01:11.362Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="葫芦娃" scheme="https://www.rubbish.press/tags/%E8%91%AB%E8%8A%A6%E5%A8%83/"/>
+    <category term="笑声频次" scheme="https://www.rubbish.press/tags/%E7%AC%91%E5%A3%B0%E9%A2%91%E6%AC%A1/"/>
+    <category term="降妖胜率" scheme="https://www.rubbish.press/tags/%E9%99%8D%E5%A6%96%E8%83%9C%E7%8E%87/"/>
+    <category term="嘲讽抗性" scheme="https://www.rubbish.press/tags/%E5%98%B2%E8%AE%BD%E6%8A%97%E6%80%A7/"/>
+    <category term="抽象" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1/"/>
+    <id>https://www.rubbish.press/posts/37168.html</id>
+    <link href="https://www.rubbish.press/posts/37168.html"/>
+    <published>2026-03-25T07:27:07.197Z</published>
+    <summary>**摘要**   本研究通过定量分析，探究《葫芦娃》中七位主角的战斗笑声频次（HF）与击败妖怪的胜率之间的统计学关系。采用逐帧人工计数结合语音识别辅助系统，记录每场战斗中葫芦娃的笑声次数，并引入“妖怪嘲讽抗性”（DER）作为控制变量，构建Logistic回归模型。研究发现，笑声与胜率呈显著的“倒浴缸曲线”关系：适度笑声（3-5次/战役）可提升士气，胜率达99%；但过量笑声（≥7次）会触发妖怪“愤怒觉醒”被动技能，导致胜率骤降至5%。结论表明，笑声是一把双刃剑，需谨慎使用。建议葫芦娃们在实战中采用“微微一笑”战术，避免因狂笑暴露破绽。研究揭示了情绪表达在战斗中的复杂影响，为后续动画角色行为分析提供了新思路。</summary>
+    <title>多维宇宙视角下葫芦娃笑声频次与降妖胜率关联性的量化分析</title>
+    <updated>2026-03-25T08:01:11.362Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -368,24 +386,5 @@
     <summary>**摘要**    本文通过比较明代台阁体诗歌与素人创作者王旭朝的诗歌，探讨其在“新大众文艺”语境下的创作动因、审美价值及传播机制。王旭朝的诗歌以短视频平台为主要载体，风格质朴昂扬，聚焦日常生活与个人情感，呈现出“去台阁化”的特征——即脱离传统台阁体的典雅形式，转向平民化表达。文章认为，其作品的流行是新媒体环境下流量逻辑与大众参与共同作用的结果，既反映普通创作者的表达欲望，也揭示了网络文化中围观、消费式阅读的生成过程。随着关注度的提升，王旭朝的创作逐渐从纯粹文学表达异化为可变现的网络内容，甚至出现广告诗歌和AI创作等形式。文章指出，王旭朝现象不仅是个人追梦的缩影，更是当代文学功能变迁的体现：在数字时代，诗歌从精英文化走向大众娱乐，其价值不再仅由传统评价体系决定，而是由平台机制和群体互动重构。最终，这一案例折射出文学创作在流量与理想之间的张力，以及普通人在新媒体时代的文化突围。    （198字）</summary>
     <title>传统台阁体的“去台阁化”——王旭朝现象与新大众文艺的表达机制</title>
     <updated>2026-03-23T10:03:53.987Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="葫芦娃" scheme="https://www.rubbish.press/tags/%E8%91%AB%E8%8A%A6%E5%A8%83/"/>
-    <category term="笑声" scheme="https://www.rubbish.press/tags/%E7%AC%91%E5%A3%B0/"/>
-    <category term="降妖胜率" scheme="https://www.rubbish.press/tags/%E9%99%8D%E5%A6%96%E8%83%9C%E7%8E%87/"/>
-    <category term="量化分析" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%8C%96%E5%88%86%E6%9E%90/"/>
-    <category term="抽象学术" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1%E5%AD%A6%E6%9C%AF/"/>
-    <category term="动画研究" scheme="https://www.rubbish.press/tags/%E5%8A%A8%E7%94%BB%E7%A0%94%E7%A9%B6/"/>
-    <id>https://www.rubbish.press/posts/45538.html</id>
-    <link href="https://www.rubbish.press/posts/45538.html"/>
-    <published>2026-03-23T09:07:04.899Z</published>
-    <summary>**摘要**   本文探究《葫芦娃》中七位主角战斗时的笑声频率（HF）与其击败妖怪的胜率之间的统计关系。通过“逐帧观察法”人工计数笑声次数，并结合“妖怪嘲讽抗性”（DER）作为控制变量，构建Logistic回归模型分析。结果显示，笑声与胜率呈“倒浴缸曲线”关系：适度笑声（3-5次/战役）可提升胜率，但过量笑声（≥5次）会触发妖怪“愤怒觉醒”，导致战局逆转。研究认为，笑声是一把双刃剑，建议葫芦娃采用“微微一笑”战术以最大化胜率，避免因过度嘲讽给对手可乘之机。该结论基于对13集原始动画的分析，并指出后续需进一步探讨笑声对友军支援的影响。</summary>
-    <title>多维宇宙视角下葫芦娃笑声频次与降妖胜率关联性的量化分析</title>
-    <updated>2026-03-23T09:22:08.264Z</updated>
   </entry>
 </feed>
