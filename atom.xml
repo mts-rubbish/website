@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-26T02:29:50.957Z</updated>
+  <updated>2026-03-26T02:59:19.358Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
+    <category term="医学博士" scheme="https://www.rubbish.press/tags/%E5%8C%BB%E5%AD%A6%E5%8D%9A%E5%A3%AB/"/>
+    <category term="动物实验" scheme="https://www.rubbish.press/tags/%E5%8A%A8%E7%89%A9%E5%AE%9E%E9%AA%8C/"/>
+    <category term="小鼠" scheme="https://www.rubbish.press/tags/%E5%B0%8F%E9%BC%A0/"/>
+    <category term="科研伦理" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E4%BC%A6%E7%90%86/"/>
+    <category term="实验动物" scheme="https://www.rubbish.press/tags/%E5%AE%9E%E9%AA%8C%E5%8A%A8%E7%89%A9/"/>
+    <id>https://www.rubbish.press/posts/34459.html</id>
+    <link href="https://www.rubbish.press/posts/34459.html"/>
+    <published>2026-03-26T02:43:03.732Z</published>
+    <summary>本研究针对攻读医学学术型博士学位期间小鼠使用数量进行估算，覆盖本科、硕士及博士阶段。通过统计各阶段实验任务所需动物数量，发现：本科基础实验约需2只小鼠；硕士若仅需发表中文核心可不涉及动物实验；博士阶段则高度依赖导师对论文质量的要求。若目标为发表10分以上SCI论文，需经历CRISPR基因编辑（F0代嵌合体8只，F1代约50只）、多组处理（每组15只，常见4组）等流程，总计约需125–130只小鼠，且数量随研究深度增加而“上不封顶”。结论指出，动物消耗量与毕业要求及导师科研导向密切相关。作者同时表达了对实验小鼠的同情，并建议后续可拓展研究青椒晋升或国自然基金获批所需动物数量。</summary>
+    <title>医学学博毕业要建立在多少动物的生命上——以小鼠为例</title>
+    <updated>2026-03-26T02:59:19.358Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -201,9 +219,9 @@
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="寿命" scheme="https://www.rubbish.press/tags/%E5%AF%BF%E5%91%BD/"/>
     <category term="上班" scheme="https://www.rubbish.press/tags/%E4%B8%8A%E7%8F%AD/"/>
     <category term="哺乳动物" scheme="https://www.rubbish.press/tags/%E5%93%BA%E4%B9%B3%E5%8A%A8%E7%89%A9/"/>
-    <category term="寿命" scheme="https://www.rubbish.press/tags/%E5%AF%BF%E5%91%BD/"/>
     <category term="转录组" scheme="https://www.rubbish.press/tags/%E8%BD%AC%E5%BD%95%E7%BB%84/"/>
     <category term="工作模型" scheme="https://www.rubbish.press/tags/%E5%B7%A5%E4%BD%9C%E6%A8%A1%E5%9E%8B/"/>
     <category term="风险模型" scheme="https://www.rubbish.press/tags/%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B/"/>
@@ -365,24 +383,5 @@
     <summary>**摘要：**   本文提出并验证了“排泄紧迫感反距离定律”（IDLMU），即排尿紧迫度U与个体至最近卫生设施的欧氏距离d呈严格反比关系（U = k/dⁿ）。基于2,048名志愿者在多种场景中的多模态生理数据，研究发现当距离接近厕所时，紧迫感呈非线性激增，尤其在最后十米内出现括约肌控制力断崖式下降的“最后十米现象”。此外，“钥匙-膀胱共振效应”表明特定行为（如掏钥匙）会通过神经预判机制提前触发排尿反应。研究揭示该定律在城市规划、智慧导航及排泄灾难预防中的应用价值，并为未来探索量子态排泄路径、跨物种比较及“排泄暗物质”等方向奠定基础。</summary>
     <title>差点就憋不住了！一项关于人体排泄紧迫感与卫生设施空间距离反比关系的跨学科研究</title>
     <updated>2026-03-23T11:50:56.901Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="抽象研究" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1%E7%A0%94%E7%A9%B6/"/>
-    <category term="NHL" scheme="https://www.rubbish.press/tags/NHL/"/>
-    <category term="G20峰会" scheme="https://www.rubbish.press/tags/G20%E5%B3%B0%E4%BC%9A/"/>
-    <category term="斯坦利杯" scheme="https://www.rubbish.press/tags/%E6%96%AF%E5%9D%A6%E5%88%A9%E6%9D%AF/"/>
-    <category term="加拿大冰球" scheme="https://www.rubbish.press/tags/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%86%B0%E7%90%83/"/>
-    <category term="统计检验" scheme="https://www.rubbish.press/tags/%E7%BB%9F%E8%AE%A1%E6%A3%80%E9%AA%8C/"/>
-    <id>https://www.rubbish.press/posts/60587.html</id>
-    <link href="https://www.rubbish.press/posts/60587.html"/>
-    <published>2026-03-23T11:20:28.437Z</published>
-    <summary>该研究以1993年以来加拿大NHL球队长达三十余年的“冠军荒”为切入点，独创性地提出“高密度地缘政治场域干扰假说”，即G20峰会可能通过宏观政治磁场压制加拿大球队的夺冠概率。研究采用单因素控制变量法，将1994–1998年（G20未成立）设为控制组，1999–2026年为实验组，并引入年化夺冠率对观测窗口差异进行归一化处理。结果显示，两个时期内加拿大七支球队在绝对数量与年化率上均恒定为零，表明无论G20是否存在，其夺冠表现无显著变化。因此，该假说被证伪，结论指出加拿大的持续失利源于自身竞技水平的内源性局限，与全球宏观经济政治格局无关。关键词：NHL；G20峰会；斯坦利杯；因果推断。</summary>
-    <title>北美职业冰球联盟中加拿大队伍的“冠军荒”现象与 G20 峰会的关联性研究</title>
-    <updated>2026-03-23T11:25:52.525Z</updated>
   </entry>
 </feed>
