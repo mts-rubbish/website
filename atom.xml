@@ -10,7 +10,7 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-26T02:59:19.358Z</updated>
+  <updated>2026-03-26T03:01:03.149Z</updated>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -25,9 +25,9 @@
     <id>https://www.rubbish.press/posts/34459.html</id>
     <link href="https://www.rubbish.press/posts/34459.html"/>
     <published>2026-03-26T02:43:03.732Z</published>
-    <summary>本研究针对攻读医学学术型博士学位期间小鼠使用数量进行估算，覆盖本科、硕士及博士阶段。通过统计各阶段实验任务所需动物数量，发现：本科基础实验约需2只小鼠；硕士若仅需发表中文核心可不涉及动物实验；博士阶段则高度依赖导师对论文质量的要求。若目标为发表10分以上SCI论文，需经历CRISPR基因编辑（F0代嵌合体8只，F1代约50只）、多组处理（每组15只，常见4组）等流程，总计约需125–130只小鼠，且数量随研究深度增加而“上不封顶”。结论指出，动物消耗量与毕业要求及导师科研导向密切相关。作者同时表达了对实验小鼠的同情，并建议后续可拓展研究青椒晋升或国自然基金获批所需动物数量。</summary>
+    <summary>**摘要**   本文探讨医学学术型博士生从本科至毕业所需小鼠数量的估算问题。通过梳理各阶段实验任务，发现满足毕业要求约需125–130只小鼠，且数量高度依赖导师对科研产出的期望——尤其是目标影响因子。博士阶段若需发表10分以上论文，前期练习（5–10只）、基因编辑（如CRISPR构建双敲除模型需约8只F0代）及多组对照实验（常见4组×15只）是主要消耗点。研究强调动物使用量与毕业压力、课题设计深度密切相关，并呼吁关注实验动物的伦理福祉。作者同时提出延伸研究方向，如青年教师启动基金或国自然项目的小鼠需求评估。</summary>
     <title>医学学博毕业要建立在多少动物的生命上——以小鼠为例</title>
-    <updated>2026-03-26T02:59:19.358Z</updated>
+    <updated>2026-03-26T03:01:03.149Z</updated>
   </entry>
   <entry>
     <author>
@@ -219,9 +219,9 @@
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="寿命" scheme="https://www.rubbish.press/tags/%E5%AF%BF%E5%91%BD/"/>
     <category term="上班" scheme="https://www.rubbish.press/tags/%E4%B8%8A%E7%8F%AD/"/>
     <category term="哺乳动物" scheme="https://www.rubbish.press/tags/%E5%93%BA%E4%B9%B3%E5%8A%A8%E7%89%A9/"/>
+    <category term="寿命" scheme="https://www.rubbish.press/tags/%E5%AF%BF%E5%91%BD/"/>
     <category term="转录组" scheme="https://www.rubbish.press/tags/%E8%BD%AC%E5%BD%95%E7%BB%84/"/>
     <category term="工作模型" scheme="https://www.rubbish.press/tags/%E5%B7%A5%E4%BD%9C%E6%A8%A1%E5%9E%8B/"/>
     <category term="风险模型" scheme="https://www.rubbish.press/tags/%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B/"/>
