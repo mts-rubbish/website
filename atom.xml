@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-26T03:01:03.149Z</updated>
+  <updated>2026-03-26T03:13:23.510Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="哈基米" scheme="https://www.rubbish.press/tags/%E5%93%88%E5%9F%BA%E7%B1%B3/"/>
+    <category term="青年亚文化" scheme="https://www.rubbish.press/tags/%E9%9D%92%E5%B9%B4%E4%BA%9A%E6%96%87%E5%8C%96/"/>
+    <category term="网络流行语" scheme="https://www.rubbish.press/tags/%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD/"/>
+    <category term="抵抗与收编" scheme="https://www.rubbish.press/tags/%E6%8A%B5%E6%8A%97%E4%B8%8E%E6%94%B6%E7%BC%96/"/>
+    <category term="伯明翰学派" scheme="https://www.rubbish.press/tags/%E4%BC%AF%E6%98%8E%E7%BF%B0%E5%AD%A6%E6%B4%BE/"/>
+    <category term="二次元" scheme="https://www.rubbish.press/tags/%E4%BA%8C%E6%AC%A1%E5%85%83/"/>
+    <id>https://www.rubbish.press/posts/39505.html</id>
+    <link href="https://www.rubbish.press/posts/39505.html"/>
+    <published>2026-03-26T03:06:46.923Z</published>
+    <summary>**摘要：**   本文基于青年亚文化视角，探讨2023年网络热词“哈基米”的传播与收编过程。该词源自日本动画《赛马娘》的粉丝创作，通过B站UP主“京桥刹那”改编的调音歌曲走红，后经短视频平台（如抖音）广泛传播，突破二次元圈层进入大众视野。研究发现，“哈基米”从亚文化符号被大众文化臆测式重构，其原始含义逐渐异化，引发原社群的抵制。文章运用伯明翰学派“抵抗-收编”理论，揭示亚文化与主流文化的复杂互动：一方面，短视频推动模因扩散；另一方面，亚文化群体通过内容再生产抵抗意义消解。结论指出，此类案例凸显文化传播的动态性，也为理解两者良性互动提供重要启示。关键词：青年亚文化、网络流行语、“哈基米”。</summary>
+    <title>从蜂蜜到猫咪：青年亚文化视域下流行语“哈基米”的解码</title>
+    <updated>2026-03-26T03:13:23.510Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -365,23 +384,5 @@
     <summary>**摘要：**   本文基于实证研究提出了一套“老板防御系统”，旨在应对突击查岗的职场生存挑战。研究指出，当屏幕处于非工作状态时，老板突然出现概率趋近100%，传统软件防御无效甚至引发生理应激反应。作者提出一个纯物理/生物学驱动的四大模块系统：（1）保温杯光学预警，利用反光提前侦测；（2）单耳生物雷达，通过鞋底摩擦声触发警报；（3）Alt+Tab脊髓反射，实现毫秒级切屏逃避；（4）灵魂跑路策略，以呆滞神态误导观察者。实验表明该系统可达成SOTA级反制效果，包括主动致盲、神经通路重构等极端能力。研究将“掩耳盗铃”形式化为现代生存学底层定理，主张顶级反查岗只需牺牲部分神经功能与头发即可实现降维打击，显著降低心血管疾病风险。</summary>
     <title>Is Alt Tab all you need</title>
     <updated>2026-03-23T14:22:26.124Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="排泄紧迫感反距离定律" scheme="https://www.rubbish.press/tags/%E6%8E%92%E6%B3%84%E7%B4%A7%E8%BF%AB%E6%84%9F%E5%8F%8D%E8%B7%9D%E7%A6%BB%E5%AE%9A%E5%BE%8B/"/>
-    <category term="膀胱-心理耦合动力学" scheme="https://www.rubbish.press/tags/%E8%86%80%E8%83%B1-%E5%BF%83%E7%90%86%E8%80%A6%E5%90%88%E5%8A%A8%E5%8A%9B%E5%AD%A6/"/>
-    <category term="最后十米现象" scheme="https://www.rubbish.press/tags/%E6%9C%80%E5%90%8E%E5%8D%81%E7%B1%B3%E7%8E%B0%E8%B1%A1/"/>
-    <category term="钥匙-膀胱共振效应" scheme="https://www.rubbish.press/tags/%E9%92%A5%E5%8C%99-%E8%86%80%E8%83%B1%E5%85%B1%E6%8C%AF%E6%95%88%E5%BA%94/"/>
-    <category term="卫生设施可达性" scheme="https://www.rubbish.press/tags/%E5%8D%AB%E7%94%9F%E8%AE%BE%E6%96%BD%E5%8F%AF%E8%BE%BE%E6%80%A7/"/>
-    <id>https://www.rubbish.press/posts/25899.html</id>
-    <link href="https://www.rubbish.press/posts/25899.html"/>
-    <published>2026-03-23T11:46:06.331Z</published>
-    <summary>**摘要：**   本文提出并验证了“排泄紧迫感反距离定律”（IDLMU），即排尿紧迫度U与个体至最近卫生设施的欧氏距离d呈严格反比关系（U = k/dⁿ）。基于2,048名志愿者在多种场景中的多模态生理数据，研究发现当距离接近厕所时，紧迫感呈非线性激增，尤其在最后十米内出现括约肌控制力断崖式下降的“最后十米现象”。此外，“钥匙-膀胱共振效应”表明特定行为（如掏钥匙）会通过神经预判机制提前触发排尿反应。研究揭示该定律在城市规划、智慧导航及排泄灾难预防中的应用价值，并为未来探索量子态排泄路径、跨物种比较及“排泄暗物质”等方向奠定基础。</summary>
-    <title>差点就憋不住了！一项关于人体排泄紧迫感与卫生设施空间距离反比关系的跨学科研究</title>
-    <updated>2026-03-23T11:50:56.901Z</updated>
   </entry>
 </feed>
