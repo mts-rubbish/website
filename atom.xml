@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-27T04:52:16.354Z</updated>
+  <updated>2026-03-27T05:13:49.611Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="机器人税" scheme="https://www.rubbish.press/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A8%8E/"/>
+    <category term="全民基本收入" scheme="https://www.rubbish.press/tags/%E5%85%A8%E6%B0%91%E5%9F%BA%E6%9C%AC%E6%94%B6%E5%85%A5/"/>
+    <category term="人形机器人" scheme="https://www.rubbish.press/tags/%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
+    <category term="拟人化溢价" scheme="https://www.rubbish.press/tags/%E6%8B%9F%E4%BA%BA%E5%8C%96%E6%BA%A2%E4%BB%B7/"/>
+    <category term="税收公平" scheme="https://www.rubbish.press/tags/%E7%A8%8E%E6%94%B6%E5%85%AC%E5%B9%B3/"/>
+    <id>https://www.rubbish.press/posts/27294.html</id>
+    <link href="https://www.rubbish.press/posts/27294.html"/>
+    <published>2026-03-27T05:05:35.714Z</published>
+    <summary>**摘要**：   本文探讨人工智能与机器人技术快速发展对劳动力市场的影响，聚焦全民基本收入（UBI）与机器人税的政策关联。作者批判既有讨论忽视机器人形态差异，提出“拟人化溢价”理论，主张人形机器人应承担更高税负。基于心理成本（存在主义焦虑）、人格权侵蚀效应及替代恐惧指数三重依据，构建以“类人程度指数”为核心的差别化征税框架。研究认为，对高拟人化机器人征税不仅体现税收公平原则，更是维护人类尊严的法律回应。文章强调，UBI需以差异化机器人税为财政基础，以实现技术创新与社会正义的平衡。</summary>
+    <title>拟人化溢价：论人形机器人税的差别化征收</title>
+    <updated>2026-03-27T05:13:49.611Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -363,26 +381,5 @@
     <summary>**摘要**：   本文探讨人工智能驱动的“底刊热潮”是否重塑科研空间格局，削弱现实科研资源对知识生产的锁定效应。基于《Rubbish》创刊号作者省级分布与各省985/211高校数据，通过比例分析与赫芬达尔-赫希曼指数（HHI）测算，发现：① 底刊创刊者分布集中度（HHI=0.069）显著低于高校资源集中度（HHI=0.0839），验证虚拟平台降低空间依赖；② 中等资源省份（如山东、浙江）的底刊参与率远超其高校资源占比（比值达2.96–7.27），而核心地区（北京、上海）仍占优，表明去中心化不彻底；③ 边缘省份（甘肃、云南等）虽有底刊作者参与（VRW=0.011–0.023），但规模有限。研究指出，底刊在拓宽中等及边缘地区科研参与路径、促进知识流动方面具积极作用，但未完全摆脱现实资源格局制约，核心区域优势依旧。</summary>
     <title>底刊热潮、空间正义与数字赋权——基于“Rubbish”系列创刊号的省级实证研究</title>
     <updated>2026-03-23T15:09:44.182Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="饭圈量子力学" scheme="https://www.rubbish.press/tags/%E9%A5%AD%E5%9C%88%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/"/>
-    <category term="认知演化" scheme="https://www.rubbish.press/tags/%E8%AE%A4%E7%9F%A5%E6%BC%94%E5%8C%96/"/>
-    <category term="记忆熵" scheme="https://www.rubbish.press/tags/%E8%AE%B0%E5%BF%86%E7%86%B5/"/>
-    <category term="情感纠缠" scheme="https://www.rubbish.press/tags/%E6%83%85%E6%84%9F%E7%BA%A0%E7%BC%A0/"/>
-    <category term="塌房力学" scheme="https://www.rubbish.press/tags/%E5%A1%8C%E6%88%BF%E5%8A%9B%E5%AD%A6/"/>
-    <category term="蔡徐坤" scheme="https://www.rubbish.press/tags/%E8%94%A1%E5%BE%90%E5%9D%A4/"/>
-    <id>https://www.rubbish.press/posts/2920.html</id>
-    <link href="https://www.rubbish.press/posts/2920.html"/>
-    <published>2026-03-23T14:54:48.886Z</published>
-    <summary>
-      <![CDATA[该研究构建了“饭圈量子力学”理论框架，通过跨平台大数据分析与神经科学实验，揭示粉丝群体认知的量子化特征。核心发现包括：偶像形象具有叠加态特性，粉丝认知遵循塌房力学方程（F=...），记忆熵变驱动黑粉向死忠转化，情感纠缠方程解释群体认知关联性。研究验证了2018年蔡徐坤案例中“越黑越红”现象的内在机制——黑料曝光初期降低粘性，但随时间推移因记忆重构（λ>0）反而增强；跨平台数据与脑电实验证实B站鬼畜与微博超话存在量子纠缠；黑转粉群体的情感态矢量从α²=0.82（黑粉）演变为β²=0.69（死忠），纠缠度提升0.13。结论提出FQSPS预测模型，为数字时代群体意识演化提供了跨学科新范式，建议关注记忆重构系数与平台间量子关联对粉丝行为的影响。]]>
-    </summary>
-    <title>基于量子力学框架的粉丝群体认知演化研究—以蔡徐坤粉丝生态为例</title>
-    <updated>2026-03-23T15:00:17.353Z</updated>
   </entry>
 </feed>
