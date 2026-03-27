@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-27T05:17:02.291Z</updated>
+  <updated>2026-03-27T05:30:02.758Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="干细胞" scheme="https://www.rubbish.press/tags/%E5%B9%B2%E7%BB%86%E8%83%9E/"/>
+    <category term="多肽设计" scheme="https://www.rubbish.press/tags/%E5%A4%9A%E8%82%BD%E8%AE%BE%E8%AE%A1/"/>
+    <category term="序列命名法" scheme="https://www.rubbish.press/tags/%E5%BA%8F%E5%88%97%E5%91%BD%E5%90%8D%E6%B3%95/"/>
+    <category term="干性诱导" scheme="https://www.rubbish.press/tags/%E5%B9%B2%E6%80%A7%E8%AF%B1%E5%AF%BC/"/>
+    <category term="翻译后修饰" scheme="https://www.rubbish.press/tags/%E7%BF%BB%E8%AF%91%E5%90%8E%E4%BF%AE%E9%A5%B0/"/>
+    <id>https://www.rubbish.press/posts/%E9%87%8D%E5%A4%8D%E5%BA%8F%E5%88%97%E5%91%BD%E5%90%8D%E6%B3%95%E6%8C%87%E5%AF%BC%E7%9A%84%E6%96%B0%E5%9E%8B%E5%A4%9A%E8%82%BD%203XSTEMNESSENRICHMENT%20%E8%AF%B1%E5%AF%BC%E7%BB%86%E8%83%9E%E5%B9%B2%E6%80%A7%E8%8E%B7%E5%BE%97%E7%9A%84%E7%A0%94%E7%A9%B6.html</id>
+    <link href="https://www.rubbish.press/posts/%E9%87%8D%E5%A4%8D%E5%BA%8F%E5%88%97%E5%91%BD%E5%90%8D%E6%B3%95%E6%8C%87%E5%AF%BC%E7%9A%84%E6%96%B0%E5%9E%8B%E5%A4%9A%E8%82%BD%203XSTEMNESSENRICHMENT%20%E8%AF%B1%E5%AF%BC%E7%BB%86%E8%83%9E%E5%B9%B2%E6%80%A7%E8%8E%B7%E5%BE%97%E7%9A%84%E7%A0%94%E7%A9%B6.html"/>
+    <published>2026-03-27T05:23:23.453Z</published>
+    <summary>**摘要**：本研究提出一种基于“序列命名法”的新型多肽设计理念，以“StemnessEnhancement”命名，逐字母对应氨基酸单字母代码，设计并理论分析其潜在干性诱导功能。该多肽序列为S-T-E-M-N-E-S-S-E-N-H-A-N-C-E-M-E-N-T，经预测在N端第二个丝氨酸发生乙酰化修饰，形成成熟稳定肽段（Ac-S-T-E-M-...）。分子对接模拟显示其“STEM”核心基序可与OCT4或SOX2的DNA结合域发生相互作用，提示其可能通过直接调控干性转录因子、激活整合素相关信号通路（如PI3K/Akt、Hippo/YAP），或模拟细胞外基质信号来增强干细胞标记物表达。研究认为，此类命名蕴含功能暗示的设计策略可为多肽药物的理性开发提供新颖视角，兼具科学启发与探索价值。</summary>
+    <title>重复序列命名法指导的新型多肽 3XSTEMNESSENRICHMENT 诱导细胞干性获得的研究</title>
+    <updated>2026-03-27T05:30:02.758Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -362,24 +380,5 @@
     <summary>**摘要**   本文以幽默笔触探讨了“废弃物动物学”（Waste Zoology）中香烟的分类地位，提出两项核心假说：香烟可能属于“有口无肛”的刺胞动物类群，而非同样具该特征的扁形动物。文章通过形态与生态观察指出，香烟的扁平形态是城市环境中的适应性表型，而非分类依据；其“单根-整盒”的两阶段生活史或对应刺胞动物的“水螅体-水母体”交替周期。然而，形态与固着性判据对生活史阶段的映射存在冲突：狭长的单根香烟似为水螅体，而整盒聚集的香烟更类水母体。作者进一步指出，传统形态学难以判定分类地位，主张引入分子生物学作为破局路径——即“遇事不决，分子生物学”。文章最终呼吁推动废弃物动物学向可检验、可证伪的研究范式演进，并为未来研究提供方法论启示。</summary>
     <title>香烟的动物学分类</title>
     <updated>2026-03-23T15:16:48.397Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="底刊热潮" scheme="https://www.rubbish.press/tags/%E5%BA%95%E5%88%8A%E7%83%AD%E6%BD%AE/"/>
-    <category term="空间分布" scheme="https://www.rubbish.press/tags/%E7%A9%BA%E9%97%B4%E5%88%86%E5%B8%83/"/>
-    <category term="数字赋权" scheme="https://www.rubbish.press/tags/%E6%95%B0%E5%AD%97%E8%B5%8B%E6%9D%83/"/>
-    <category term="高校资源" scheme="https://www.rubbish.press/tags/%E9%AB%98%E6%A0%A1%E8%B5%84%E6%BA%90/"/>
-    <category term="集中度" scheme="https://www.rubbish.press/tags/%E9%9B%86%E4%B8%AD%E5%BA%A6/"/>
-    <category term="HHI" scheme="https://www.rubbish.press/tags/HHI/"/>
-    <id>https://www.rubbish.press/posts/43910.html</id>
-    <link href="https://www.rubbish.press/posts/43910.html"/>
-    <published>2026-03-23T15:01:21.850Z</published>
-    <summary>**摘要**：   本文探讨人工智能驱动的“底刊热潮”是否重塑科研空间格局，削弱现实科研资源对知识生产的锁定效应。基于《Rubbish》创刊号作者省级分布与各省985/211高校数据，通过比例分析与赫芬达尔-赫希曼指数（HHI）测算，发现：① 底刊创刊者分布集中度（HHI=0.069）显著低于高校资源集中度（HHI=0.0839），验证虚拟平台降低空间依赖；② 中等资源省份（如山东、浙江）的底刊参与率远超其高校资源占比（比值达2.96–7.27），而核心地区（北京、上海）仍占优，表明去中心化不彻底；③ 边缘省份（甘肃、云南等）虽有底刊作者参与（VRW=0.011–0.023），但规模有限。研究指出，底刊在拓宽中等及边缘地区科研参与路径、促进知识流动方面具积极作用，但未完全摆脱现实资源格局制约，核心区域优势依旧。</summary>
-    <title>底刊热潮、空间正义与数字赋权——基于“Rubbish”系列创刊号的省级实证研究</title>
-    <updated>2026-03-23T15:09:44.182Z</updated>
   </entry>
 </feed>
