@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-27T05:37:51.108Z</updated>
+  <updated>2026-03-27T05:50:28.200Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
+    <category term="纳米材料" scheme="https://www.rubbish.press/tags/%E7%BA%B3%E7%B1%B3%E6%9D%90%E6%96%99/"/>
+    <category term="新石器时代" scheme="https://www.rubbish.press/tags/%E6%96%B0%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3/"/>
+    <category term="陶器" scheme="https://www.rubbish.press/tags/%E9%99%B6%E5%99%A8/"/>
+    <category term="词源学" scheme="https://www.rubbish.press/tags/%E8%AF%8D%E6%BA%90%E5%AD%A6/"/>
+    <category term="科学反思" scheme="https://www.rubbish.press/tags/%E7%A7%91%E5%AD%A6%E5%8F%8D%E6%80%9D/"/>
+    <id>https://www.rubbish.press/posts/10603.html</id>
+    <link href="https://www.rubbish.press/posts/10603.html"/>
+    <published>2026-03-27T05:41:24.918Z</published>
+    <summary>**摘要：**   本文以幽默荒诞的笔调，通过“目测法”和文字游戏（如“纳米=收容米”），戏谑性地论证“纳米材料”实为新石器时代的锅碗瓢盆等陶器——这些距今约7000-8000年的器物已具备“纳米级”微观结构。作者借此讽刺当代科技界对传统工艺的忽视，暗示前沿研究或源于被遗忘的古老智慧。结论模糊地承认“真假留待后人评说”，实则呼吁反思科技与传统的断裂。关键词：纳米材料；新石器时代；考古；文化误读。    （字数：198）</summary>
+    <title>纳米材料的首次出现时间疑似在新石器时代</title>
+    <updated>2026-03-27T05:50:28.200Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -361,24 +379,5 @@
     <summary>**摘要**：   本文针对研究生在导师任务执行中普遍存在的动力不足与怕挨骂的矛盾，提出了一套以“省力气”为核心的生存策略。研究放弃传统高负荷工作模式，转而从日常生活经验出发，探索如何在满足导师最低满意度（不挨骂）的前提下最小化体力消耗。通过建立任务进度与精力损耗的动态模型，分析发现盲目努力反而会因预期升高而陷入内卷陷阱。研究证明，通过时间管理与成果包装，学生可维持评价稳定并显著增加有效休息时间。仿真结果显示，“刚好及格”的平衡策略既能保全心理尊严，又是应对高压科研环境的最优解。该方案为长期焦虑的学生群体提供了实用的自救路径。    **关键词**：不挨骂；省力气；学术牛马；生存策略；导师压力</summary>
     <title>不挨骂且省力地完成任务：学术牛马在导师压力下的生存策略研究</title>
     <updated>2026-03-24T02:15:24.299Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="上班" scheme="https://www.rubbish.press/tags/%E4%B8%8A%E7%8F%AD/"/>
-    <category term="哺乳动物" scheme="https://www.rubbish.press/tags/%E5%93%BA%E4%B9%B3%E5%8A%A8%E7%89%A9/"/>
-    <category term="寿命" scheme="https://www.rubbish.press/tags/%E5%AF%BF%E5%91%BD/"/>
-    <category term="转录组" scheme="https://www.rubbish.press/tags/%E8%BD%AC%E5%BD%95%E7%BB%84/"/>
-    <category term="工作模型" scheme="https://www.rubbish.press/tags/%E5%B7%A5%E4%BD%9C%E6%A8%A1%E5%9E%8B/"/>
-    <category term="风险模型" scheme="https://www.rubbish.press/tags/%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B/"/>
-    <id>https://www.rubbish.press/posts/41630.html</id>
-    <link href="https://www.rubbish.press/posts/41630.html"/>
-    <published>2026-03-23T15:18:07.257Z</published>
-    <summary>**摘要：**   本研究通过构建小鼠“工作模型”探讨工作对哺乳动物寿命的影响。作者将幼鼠分为脑力工作组、体力工作组和无工作组，持续21天干预后提取血液样本进行转录组测序，并筛选出与工作相关的差异表达基因（work-DEGs）。基于这些基因，利用Cox回归和Lasso算法构建风险评分模型（RISK = Σi×j），将样本按中位数分为高低工作评分组。生存分析（K-M曲线）显示，高工作评分组小鼠寿命显著缩短，ROC曲线验证模型预测效能良好。研究结论认为“工作会显著降低哺乳动物寿命”，为这一假说提供实验支持。但作者强调此为娱乐性质作品，不具科学真实性，请勿当真。</summary>
-    <title>工作会影响哺乳动物寿命？一项基于 bulk 转录组数据的综合性研究</title>
-    <updated>2026-03-23T15:23:20.198Z</updated>
   </entry>
 </feed>
