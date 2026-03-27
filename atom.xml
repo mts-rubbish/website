@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-27T05:30:02.758Z</updated>
+  <updated>2026-03-27T05:37:51.108Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="黑神话悟空" scheme="https://www.rubbish.press/tags/%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA/"/>
+    <category term="天命人" scheme="https://www.rubbish.press/tags/%E5%A4%A9%E5%91%BD%E4%BA%BA/"/>
+    <category term="楼兰古国" scheme="https://www.rubbish.press/tags/%E6%A5%BC%E5%85%B0%E5%8F%A4%E5%9B%BD/"/>
+    <category term="因果律" scheme="https://www.rubbish.press/tags/%E5%9B%A0%E6%9E%9C%E5%BE%8B/"/>
+    <category term="生态破坏" scheme="https://www.rubbish.press/tags/%E7%94%9F%E6%80%81%E7%A0%B4%E5%9D%8F/"/>
+    <category term="神话研究" scheme="https://www.rubbish.press/tags/%E7%A5%9E%E8%AF%9D%E7%A0%94%E7%A9%B6/"/>
+    <id>https://www.rubbish.press/posts/41268.html</id>
+    <link href="https://www.rubbish.press/posts/41268.html"/>
+    <published>2026-03-27T05:32:29.342Z</published>
+    <summary>**摘要**：   本文颠覆传统史学视角，首次提出《黑神话：悟空》中的天命人西行之路与楼兰古国灭亡存在因果关联。通过跨时空因果溯源法与作者独创的“白日梦数据统计法”，研究发现天命人的破坏行为——如打碎储水陶罐、采集种子、火属性变身及法天象地战斗——通过游戏设定的“因果律武器”机制，对楼兰生态系统、地质结构及气候造成毁灭性影响。具体表现为：水源枯竭（孔雀河改道）、农业崩溃（种子资源掠夺）、植被焚毁（水土流失）以及灵气暴动引发的沙尘暴。作者认为，楼兰灭亡实为天命人暴走时“附带伤害”所致，这一发现为文明兴衰研究提供新范式，并警示玩家：虚拟世界的破坏亦可能映射现实生态危机。</summary>
+    <title>从棍扫六合到沙埋八荒：《黑神话：悟空》中天命人的西行之旅对楼兰古国灭亡的影响研究</title>
+    <updated>2026-03-27T05:37:51.108Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -361,24 +380,5 @@
     <summary>**摘要：**   本研究通过构建小鼠“工作模型”探讨工作对哺乳动物寿命的影响。作者将幼鼠分为脑力工作组、体力工作组和无工作组，持续21天干预后提取血液样本进行转录组测序，并筛选出与工作相关的差异表达基因（work-DEGs）。基于这些基因，利用Cox回归和Lasso算法构建风险评分模型（RISK = Σi×j），将样本按中位数分为高低工作评分组。生存分析（K-M曲线）显示，高工作评分组小鼠寿命显著缩短，ROC曲线验证模型预测效能良好。研究结论认为“工作会显著降低哺乳动物寿命”，为这一假说提供实验支持。但作者强调此为娱乐性质作品，不具科学真实性，请勿当真。</summary>
     <title>工作会影响哺乳动物寿命？一项基于 bulk 转录组数据的综合性研究</title>
     <updated>2026-03-23T15:23:20.198Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="香烟" scheme="https://www.rubbish.press/tags/%E9%A6%99%E7%83%9F/"/>
-    <category term="刺胞动物" scheme="https://www.rubbish.press/tags/%E5%88%BA%E8%83%9E%E5%8A%A8%E7%89%A9/"/>
-    <category term="扁形动物" scheme="https://www.rubbish.press/tags/%E6%89%81%E5%BD%A2%E5%8A%A8%E7%89%A9/"/>
-    <category term="废弃物动物学" scheme="https://www.rubbish.press/tags/%E5%BA%9F%E5%BC%83%E7%89%A9%E5%8A%A8%E7%89%A9%E5%AD%A6/"/>
-    <category term="分子生物学" scheme="https://www.rubbish.press/tags/%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E5%AD%A6/"/>
-    <category term="分类学" scheme="https://www.rubbish.press/tags/%E5%88%86%E7%B1%BB%E5%AD%A6/"/>
-    <id>https://www.rubbish.press/posts/41878.html</id>
-    <link href="https://www.rubbish.press/posts/41878.html"/>
-    <published>2026-03-23T15:10:31.183Z</published>
-    <summary>**摘要**   本文以幽默笔触探讨了“废弃物动物学”（Waste Zoology）中香烟的分类地位，提出两项核心假说：香烟可能属于“有口无肛”的刺胞动物类群，而非同样具该特征的扁形动物。文章通过形态与生态观察指出，香烟的扁平形态是城市环境中的适应性表型，而非分类依据；其“单根-整盒”的两阶段生活史或对应刺胞动物的“水螅体-水母体”交替周期。然而，形态与固着性判据对生活史阶段的映射存在冲突：狭长的单根香烟似为水螅体，而整盒聚集的香烟更类水母体。作者进一步指出，传统形态学难以判定分类地位，主张引入分子生物学作为破局路径——即“遇事不决，分子生物学”。文章最终呼吁推动废弃物动物学向可检验、可证伪的研究范式演进，并为未来研究提供方法论启示。</summary>
-    <title>香烟的动物学分类</title>
-    <updated>2026-03-23T15:16:48.397Z</updated>
   </entry>
 </feed>
