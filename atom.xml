@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-27T02:38:43.570Z</updated>
+  <updated>2026-03-27T03:21:31.693Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="TSP" scheme="https://www.rubbish.press/tags/TSP/"/>
+    <category term="最长路径" scheme="https://www.rubbish.press/tags/%E6%9C%80%E9%95%BF%E8%B7%AF%E5%BE%84/"/>
+    <category term="遗传算法" scheme="https://www.rubbish.press/tags/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95/"/>
+    <category term="摸鱼策略" scheme="https://www.rubbish.press/tags/%E6%91%B8%E9%B1%BC%E7%AD%96%E7%95%A5/"/>
+    <category term="跑腿优化" scheme="https://www.rubbish.press/tags/%E8%B7%91%E8%85%BF%E4%BC%98%E5%8C%96/"/>
+    <category term="科研时间管理" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
+    <id>https://www.rubbish.press/posts/17396.html</id>
+    <link href="https://www.rubbish.press/posts/17396.html"/>
+    <published>2026-03-27T03:15:42.983Z</published>
+    <summary>**摘要**   本文针对科研场景中导师频繁指派无价值跑腿任务挤占核心研究时间的现实问题，以旅行商问题（TSP）为理论框架，创新性地构建“最长路径优化模型”，提出一套基于遗传算法的类TSP摸鱼策略。通过将跑腿任务抽象为节点、路径权重设为耗时，在满足完成所有指定任务的前提下，最大化单次跑腿总耗时与路径长度。仿真实验表明：相较于常规最短路径（929米），该策略可生成最优长路径（4157米），耗时提升近4倍；连续应用10次后，导师指派频次下降78%，有效实现“少跑腿、不跑工”。研究验证了遗传算法在此类场景下的全局寻优能力与强适应性，为科研人员规避非必要事务、夺回自主时间提供了可落地的数学化解决方案，兼具实践意义与方法创新。</summary>
+    <title>导师再也不派你跑腿了：一种类 TSP 问题的最长路径摸鱼策略与仿真模拟</title>
+    <updated>2026-03-27T03:21:31.693Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -365,24 +384,5 @@
     <summary>**摘要**   本文聚焦晨间结肠排空活动的生理机制与湿厕纸产品的优化选择，提出肠道动力学的昼夜节律受神经内分泌信号（如胃结肠反射和皮质醇觉醒反应）严格调控，具有客观生物学基础。针对清洁介质，研究构建多目标优化模型，综合考虑擦拭效能（S）、抗拉伸强度（T）、降解速率（D）及成本（C），引入深度学习权重项求解帕累托最优解。结果表明，极端设计（过高厚度或过低价格）均因材料学悖论（如降解性差或易破损）导致隐性卫生与经济成本上升；唯有采用原生木浆与适度改性粘胶纤维的中等规格产品（单价0.08–0.12元），在承受25N剪切力且45秒内完全分散的条件下，实现综合效用最大化。结论强调：顺应生理规律，并基于多维参数而非主观偏好选择清洁产品，方具真实卫生经济学价值。    （字数：199）</summary>
     <title>基于晨间觉醒节律的下消化道动力学建模与纤维素基清洁介质的帕累托最优成本效能分析</title>
     <updated>2026-03-23T14:53:52.671Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="喜剧" scheme="https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/"/>
-    <category term="信号博弈" scheme="https://www.rubbish.press/tags/%E4%BF%A1%E5%8F%B7%E5%8D%9A%E5%BC%88/"/>
-    <category term="纳什均衡" scheme="https://www.rubbish.press/tags/%E7%BA%B3%E4%BB%80%E5%9D%87%E8%A1%A1/"/>
-    <category term="跨期贴现" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E6%9C%9F%E8%B4%B4%E7%8E%B0/"/>
-    <category term="导师画饼" scheme="https://www.rubbish.press/tags/%E5%AF%BC%E5%B8%88%E7%94%BB%E9%A5%BC/"/>
-    <category term="学术糊弄" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E7%B3%8A%E5%BC%84/"/>
-    <category term="导学关系" scheme="https://www.rubbish.press/tags/%E5%AF%BC%E5%AD%A6%E5%85%B3%E7%B3%BB/"/>
-    <id>https://www.rubbish.press/posts/36505.html</id>
-    <link href="https://www.rubbish.press/posts/36505.html"/>
-    <published>2026-03-23T14:40:38.130Z</published>
-    <summary>本文基于委托-代理理论，构建动态博弈模型分析导师与学生间的“画大饼”行为。研究发现：导师承诺因高贴现率（健忘通胀）和极低兑现概率而失效；学生因脱发、抑郁等沉没成本导致心理估值随时间指数下降。模型揭示“双盲糊弄”为唯一贝叶斯均衡——导师给出模糊修改意见，学生仅做表面调整，双方心照不宣地维持学术生态稳定。实证支持高频空泛词汇显著降低指导有效性。建议学生采取“态度诚恳但坚决不改”“将承诺按99%贴现”等策略以自保，实现局部帕累托优化。</summary>
-    <title>基于不完全信息动态博弈的“导师画饼”与“学术糊弄”的纳什均衡研究</title>
-    <updated>2026-03-23T14:47:42.183Z</updated>
   </entry>
 </feed>
