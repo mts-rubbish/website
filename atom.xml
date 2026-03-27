@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-27T03:21:31.693Z</updated>
+  <updated>2026-03-27T04:49:24.839Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="MBTI" scheme="https://www.rubbish.press/tags/MBTI/"/>
+    <category term="INFJ" scheme="https://www.rubbish.press/tags/INFJ/"/>
+    <category term="多猫家庭" scheme="https://www.rubbish.press/tags/%E5%A4%9A%E7%8C%AB%E5%AE%B6%E5%BA%AD/"/>
+    <category term="情感劳动" scheme="https://www.rubbish.press/tags/%E6%83%85%E6%84%9F%E5%8A%B3%E5%8A%A8/"/>
+    <category term="道德自治" scheme="https://www.rubbish.press/tags/%E9%81%93%E5%BE%B7%E8%87%AA%E6%B2%BB/"/>
+    <category term="猫" scheme="https://www.rubbish.press/tags/%E7%8C%AB/"/>
+    <id>https://www.rubbish.press/posts/23788.html</id>
+    <link href="https://www.rubbish.press/posts/23788.html"/>
+    <published>2026-03-27T04:35:23.155Z</published>
+    <summary>本研究采用自我民族志方法，以六年朋友圈记录为材料，分析INFJ人格在多猫家庭中的运作机制。研究发现，INFJ通过Ni（内倾直觉）将猫咪的顽劣行为解读为“友好”与“关系”，而非社会道德评判；Fe（外倾情感）承担端水、守护等情感劳动以维持和谐；Ti（内倾思考）构建“负责到底”的内在伦理；Se（外倾感觉）则承受肉体代价而不觉疼痛。这种在消耗中实现道德自治的过程，成为INFJ幸福感与使命感的本质来源。研究揭示：当脱离社会评价体系时，INFJ的人格特质依然能保持高度责任感，其道德自治源于对自我伦理的坚守，而非外界反馈。</summary>
+    <title>INFJ 在非人际关系中的道德自洽：基于多猫家庭的自我民族志研究</title>
+    <updated>2026-03-27T04:49:24.839Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -365,24 +384,5 @@
     </summary>
     <title>基于量子力学框架的粉丝群体认知演化研究—以蔡徐坤粉丝生态为例</title>
     <updated>2026-03-23T15:00:17.353Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="肠道动力学" scheme="https://www.rubbish.press/tags/%E8%82%A0%E9%81%93%E5%8A%A8%E5%8A%9B%E5%AD%A6/"/>
-    <category term="多目标优化" scheme="https://www.rubbish.press/tags/%E5%A4%9A%E7%9B%AE%E6%A0%87%E4%BC%98%E5%8C%96/"/>
-    <category term="摩擦学" scheme="https://www.rubbish.press/tags/%E6%91%A9%E6%93%A6%E5%AD%A6/"/>
-    <category term="湿厕纸" scheme="https://www.rubbish.press/tags/%E6%B9%BF%E5%8E%95%E7%BA%B8/"/>
-    <category term="帕累托前沿" scheme="https://www.rubbish.press/tags/%E5%B8%95%E7%B4%AF%E6%89%98%E5%89%8D%E6%B2%BF/"/>
-    <category term="晨间排便" scheme="https://www.rubbish.press/tags/%E6%99%A8%E9%97%B4%E6%8E%92%E4%BE%BF/"/>
-    <id>https://www.rubbish.press/posts/15363.html</id>
-    <link href="https://www.rubbish.press/posts/15363.html"/>
-    <published>2026-03-23T14:48:23.245Z</published>
-    <summary>**摘要**   本文聚焦晨间结肠排空活动的生理机制与湿厕纸产品的优化选择，提出肠道动力学的昼夜节律受神经内分泌信号（如胃结肠反射和皮质醇觉醒反应）严格调控，具有客观生物学基础。针对清洁介质，研究构建多目标优化模型，综合考虑擦拭效能（S）、抗拉伸强度（T）、降解速率（D）及成本（C），引入深度学习权重项求解帕累托最优解。结果表明，极端设计（过高厚度或过低价格）均因材料学悖论（如降解性差或易破损）导致隐性卫生与经济成本上升；唯有采用原生木浆与适度改性粘胶纤维的中等规格产品（单价0.08–0.12元），在承受25N剪切力且45秒内完全分散的条件下，实现综合效用最大化。结论强调：顺应生理规律，并基于多维参数而非主观偏好选择清洁产品，方具真实卫生经济学价值。    （字数：199）</summary>
-    <title>基于晨间觉醒节律的下消化道动力学建模与纤维素基清洁介质的帕累托最优成本效能分析</title>
-    <updated>2026-03-23T14:53:52.671Z</updated>
   </entry>
 </feed>
