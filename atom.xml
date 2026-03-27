@@ -10,7 +10,24 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-27T17:30:23.793Z</updated>
+  <updated>2026-03-27T17:45:05.221Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="台阁体" scheme="https://www.rubbish.press/tags/%E5%8F%B0%E9%98%81%E4%BD%93/"/>
+    <category term="新大众文艺" scheme="https://www.rubbish.press/tags/%E6%96%B0%E5%A4%A7%E4%BC%97%E6%96%87%E8%89%BA/"/>
+    <category term="素人写作" scheme="https://www.rubbish.press/tags/%E7%B4%A0%E4%BA%BA%E5%86%99%E4%BD%9C/"/>
+    <category term="王旭朝" scheme="https://www.rubbish.press/tags/%E7%8E%8B%E6%97%AD%E6%9C%9D/"/>
+    <id>https://www.rubbish.press/posts/38313.html</id>
+    <link href="https://www.rubbish.press/posts/38313.html"/>
+    <published>2026-03-27T17:27:46.888Z</published>
+    <summary>**摘要**：本文通过比较明代台阁体诗歌与素人创作者王旭朝的诗歌作品，探讨其在“新大众文艺”语境下的创作动因、审美价值及社会功能。文章指出，王旭朝的诗歌以短视频平台为传播媒介，内容贴近日常生活，风格质朴昂扬，体现了普通人在数字时代的表达欲望。相较于台阁体作为制度性写作的功能化特征，王旭朝的诗歌呈现出“去台阁化”倾向——弱化宏大叙事与深度批判，强化个体经验与感官表达，契合网络文化中的围观与消费式阅读模式。随着流量增长，其创作逐渐从文学理想转向商业变现，引发对文学表达异化的反思。作者认为，王旭朝现象不仅是个体追梦的缩影，更折射出新媒体时代文学功能的变迁：从精英主导的专业创作，到大众参与、平台驱动的多元表达，传统文学场域正被重新定义。  （199字）</summary>
+    <title>传统台阁体的“去台阁化”：王旭朝现象与新大众文艺的表达机制</title>
+    <updated>2026-03-27T17:45:05.221Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -360,23 +377,5 @@
     <summary>**摘要**    本研究探讨当代城市青年中“Crush”（短暂迷恋）与后续情绪低落（“Emo”）的关系，揭示“短时Crush→长时Emo”的现象。基于蔡格尼克效应、反刍思维理论和情感消费主义视角，构建路径模型分析Emo持续的影响机制。研究发现：Emo平均持续时长约为Crush的2.6倍；情绪反刍频率和自我叙事倾向是延长Emo的核心机制；社交媒体高频使用放大信号误读对Emo的预测效应；自我叙事倾向在信号误读与Emo之间起部分中介作用。研究建议通过减少夜间社交媒体使用和转移注意力来缓解Emo发作。</summary>
     <title>“他好像只是非常短暂地爱了我一下” ：短时 Crush 与长时 Emo 的 病理学分析</title>
     <updated>2026-03-24T04:09:03.648Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="底刊现象" scheme="https://www.rubbish.press/tags/%E5%BA%95%E5%88%8A%E7%8E%B0%E8%B1%A1/"/>
-    <category term="符号反抗" scheme="https://www.rubbish.press/tags/%E7%AC%A6%E5%8F%B7%E5%8F%8D%E6%8A%97/"/>
-    <category term="代际话语权" scheme="https://www.rubbish.press/tags/%E4%BB%A3%E9%99%85%E8%AF%9D%E8%AF%AD%E6%9D%83/"/>
-    <category term="学术资本" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E8%B5%84%E6%9C%AC/"/>
-    <category term="青年学者生存状态" scheme="https://www.rubbish.press/tags/%E9%9D%92%E5%B9%B4%E5%AD%A6%E8%80%85%E7%94%9F%E5%AD%98%E7%8A%B6%E6%80%81/"/>
-    <id>https://www.rubbish.press/posts/36327.html</id>
-    <link href="https://www.rubbish.press/posts/36327.html"/>
-    <published>2026-03-23T15:58:16.441Z</published>
-    <summary>**摘要**：本文探讨了在学术资本化与绩效主义盛行的背景下，以青年学者为主体的“底刊”现象，将其视为对传统学术权威和代际话语权垄断的符号化反抗。文章结合布迪厄的场域资本理论和福柯的权力知识观，分析“底刊”作为非正式学术平台，通过戏仿、自嘲等方式解构主流学术规训，反映青年群体在资源分配不公下的心理焦虑与结构性困境。研究发现，该现象经历了从隐性情绪宣泄到显性微观建构的演进过程，虽具批判张力，却受限于体制收编与权力结构的不可穿透性。作者呼吁学术界反思僵化的评价体系，构建更具包容性的学术生态，以缓解代际矛盾并回归知识生产的本真价值。</summary>
-    <title>从各大底刊创办热潮的心理机制分析：学术圈代际话语权斗争与符号性反抗的学术化解构</title>
-    <updated>2026-03-24T02:09:43.180Z</updated>
   </entry>
 </feed>
