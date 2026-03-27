@@ -10,7 +10,24 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-27T05:50:28.200Z</updated>
+  <updated>2026-03-27T17:30:23.793Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="作者贡献" scheme="https://www.rubbish.press/tags/%E4%BD%9C%E8%80%85%E8%B4%A1%E7%8C%AE/"/>
+    <category term="概念拓展" scheme="https://www.rubbish.press/tags/%E6%A6%82%E5%BF%B5%E6%8B%93%E5%B1%95/"/>
+    <category term="科研乱象" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E4%B9%B1%E8%B1%A1/"/>
+    <category term="故事会" scheme="https://www.rubbish.press/tags/%E6%95%85%E4%BA%8B%E4%BC%9A/"/>
+    <id>https://www.rubbish.press/posts/23982.html</id>
+    <link href="https://www.rubbish.press/posts/23982.html"/>
+    <published>2026-03-27T17:16:33.728Z</published>
+    <summary>**摘要**   在合作科研日益普遍的背景下，“作者贡献”成为学术界关注的焦点。本文通过访谈科研人员的真实经历，揭示当前学术环境中“作者贡献”认定模糊、存在学术不端风险及评价体系失准等问题，并拓展了该概念的内含。文章以两个虚构故事为例：一是导师因考核压力承担学生未完成的论文修改工作却未获应有署名；二是导师未参与研究却占据第一作者，学生自付版面费发表成果。这些案例凸显了权力结构下“隐形劳动”与伦理失衡现象，引发对“实质性贡献”“资金支持”等要素的深入思考。作者强调，应超越形式化署名，建立更公平透明的贡献评估机制，以维护科研诚信。全文旨在以轻松笔触引发学界对署名规范的重视，同时声明内容纯属虚构，呼吁读者勿模仿文中不当行为。</summary>
+    <title>对“作者贡献”概念的内涵拓展</title>
+    <updated>2026-03-27T17:30:23.793Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -239,8 +256,8 @@
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
     <category term="葫芦娃" scheme="https://www.rubbish.press/tags/%E8%91%AB%E8%8A%A6%E5%A8%83/"/>
-    <category term="笑声频次" scheme="https://www.rubbish.press/tags/%E7%AC%91%E5%A3%B0%E9%A2%91%E6%AC%A1/"/>
     <category term="降妖胜率" scheme="https://www.rubbish.press/tags/%E9%99%8D%E5%A6%96%E8%83%9C%E7%8E%87/"/>
+    <category term="笑声频次" scheme="https://www.rubbish.press/tags/%E7%AC%91%E5%A3%B0%E9%A2%91%E6%AC%A1/"/>
     <category term="嘲讽抗性" scheme="https://www.rubbish.press/tags/%E5%98%B2%E8%AE%BD%E6%8A%97%E6%80%A7/"/>
     <category term="抽象" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1/"/>
     <id>https://www.rubbish.press/posts/37168.html</id>
@@ -361,23 +378,5 @@
     <summary>**摘要**：本文探讨了在学术资本化与绩效主义盛行的背景下，以青年学者为主体的“底刊”现象，将其视为对传统学术权威和代际话语权垄断的符号化反抗。文章结合布迪厄的场域资本理论和福柯的权力知识观，分析“底刊”作为非正式学术平台，通过戏仿、自嘲等方式解构主流学术规训，反映青年群体在资源分配不公下的心理焦虑与结构性困境。研究发现，该现象经历了从隐性情绪宣泄到显性微观建构的演进过程，虽具批判张力，却受限于体制收编与权力结构的不可穿透性。作者呼吁学术界反思僵化的评价体系，构建更具包容性的学术生态，以缓解代际矛盾并回归知识生产的本真价值。</summary>
     <title>从各大底刊创办热潮的心理机制分析：学术圈代际话语权斗争与符号性反抗的学术化解构</title>
     <updated>2026-03-24T02:09:43.180Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="爽文" scheme="https://www.rubbish.press/categories/%E7%88%BD%E6%96%87/"/>
-    <category term="不挨骂" scheme="https://www.rubbish.press/tags/%E4%B8%8D%E6%8C%A8%E9%AA%82/"/>
-    <category term="省力气" scheme="https://www.rubbish.press/tags/%E7%9C%81%E5%8A%9B%E6%B0%94/"/>
-    <category term="学术牛马" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E7%89%9B%E9%A9%AC/"/>
-    <category term="生存策略" scheme="https://www.rubbish.press/tags/%E7%94%9F%E5%AD%98%E7%AD%96%E7%95%A5/"/>
-    <category term="导师压力" scheme="https://www.rubbish.press/tags/%E5%AF%BC%E5%B8%88%E5%8E%8B%E5%8A%9B/"/>
-    <id>https://www.rubbish.press/posts/60895.html</id>
-    <link href="https://www.rubbish.press/posts/60895.html"/>
-    <published>2026-03-23T15:44:54.376Z</published>
-    <summary>**摘要**：   本文针对研究生在导师任务执行中普遍存在的动力不足与怕挨骂的矛盾，提出了一套以“省力气”为核心的生存策略。研究放弃传统高负荷工作模式，转而从日常生活经验出发，探索如何在满足导师最低满意度（不挨骂）的前提下最小化体力消耗。通过建立任务进度与精力损耗的动态模型，分析发现盲目努力反而会因预期升高而陷入内卷陷阱。研究证明，通过时间管理与成果包装，学生可维持评价稳定并显著增加有效休息时间。仿真结果显示，“刚好及格”的平衡策略既能保全心理尊严，又是应对高压科研环境的最优解。该方案为长期焦虑的学生群体提供了实用的自救路径。    **关键词**：不挨骂；省力气；学术牛马；生存策略；导师压力</summary>
-    <title>不挨骂且省力地完成任务：学术牛马在导师压力下的生存策略研究</title>
-    <updated>2026-03-24T02:15:24.299Z</updated>
   </entry>
 </feed>
