@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-28T16:40:42.601Z</updated>
+  <updated>2026-03-28T16:48:07.864Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="排泄紧迫感反距离定律" scheme="https://www.rubbish.press/tags/%E6%8E%92%E6%B3%84%E7%B4%A7%E8%BF%AB%E6%84%9F%E5%8F%8D%E8%B7%9D%E7%A6%BB%E5%AE%9A%E5%BE%8B/"/>
+    <category term="膀胱-心理耦合动力学" scheme="https://www.rubbish.press/tags/%E8%86%80%E8%83%B1-%E5%BF%83%E7%90%86%E8%80%A6%E5%90%88%E5%8A%A8%E5%8A%9B%E5%AD%A6/"/>
+    <category term="最后十米现象" scheme="https://www.rubbish.press/tags/%E6%9C%80%E5%90%8E%E5%8D%81%E7%B1%B3%E7%8E%B0%E8%B1%A1/"/>
+    <category term="钥匙-膀胱共振效应" scheme="https://www.rubbish.press/tags/%E9%92%A5%E5%8C%99-%E8%86%80%E8%83%B1%E5%85%B1%E6%8C%AF%E6%95%88%E5%BA%94/"/>
+    <category term="卫生设施可达性" scheme="https://www.rubbish.press/tags/%E5%8D%AB%E7%94%9F%E8%AE%BE%E6%96%BD%E5%8F%AF%E8%BE%BE%E6%80%A7/"/>
+    <id>https://www.rubbish.press/posts/25900.html</id>
+    <link href="https://www.rubbish.press/posts/25900.html"/>
+    <published>2026-03-28T16:36:57.627Z</published>
+    <summary>**摘要**    本文提出并验证了“排泄紧迫感反距离定律”（IDLMU），即排尿紧迫度 \( U \) 与个体至最近卫生设施的欧氏距离 \( d \) 呈严格反比关系：\( U = k/d^n \)。基于对2,048名志愿者的多模态生理数据与自评量表分析，研究揭示了“最后十米现象”（LTMP）和“钥匙-膀胱共振效应”（KBRE）的神经生理学机制。当距离厕所小于10米时，受试者括约肌控制能力骤降，前额叶活动减弱而灾难化预期回路激活；掏钥匙等行为通过巴甫洛夫式联结诱发预释放状态。该定律为城市卫生设施规划、智慧厕所导航及排泄灾难预防提供了理论支撑，未来或可拓展至多厕场景下的量子纠缠态研究。</summary>
+    <title>差点就憋不住了！一项关于人体排泄紧迫感与卫生设施空间距离反比关系的跨学科研究</title>
+    <updated>2026-03-28T16:48:07.864Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -358,23 +376,5 @@
     <summary>本文围绕“不可感知是否等于不存在”展开探讨，提出感知依赖于信号发出、介质传递、传感器覆盖与系统解码四个环节，任一环节的缺失都会导致“不可见”。通过多波段观测实验和维度错位想象推演，论证了对象虽可能无法被人类直接感知，但仍客观存在。文章进一步将科学推理延伸至对离去亲人的思念，强调记忆与情感同样构成一种“存在形式”，呼吁人们珍惜亲情，多回家看看。</summary>
     <title>不可感知 ≠ 不存在研究——致我们思念的亲人</title>
     <updated>2026-03-24T12:22:33.345Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="手冲咖啡" scheme="https://www.rubbish.press/tags/%E6%89%8B%E5%86%B2%E5%92%96%E5%95%A1/"/>
-    <category term="椰子水" scheme="https://www.rubbish.press/tags/%E6%A4%B0%E5%AD%90%E6%B0%B4/"/>
-    <category term="感官评价" scheme="https://www.rubbish.press/tags/%E6%84%9F%E5%AE%98%E8%AF%84%E4%BB%B7/"/>
-    <category term="风味分析" scheme="https://www.rubbish.press/tags/%E9%A3%8E%E5%91%B3%E5%88%86%E6%9E%90/"/>
-    <category term="跨界研究" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E7%95%8C%E7%A0%94%E7%A9%B6/"/>
-    <id>https://www.rubbish.press/posts/34307.html</id>
-    <link href="https://www.rubbish.press/posts/34307.html"/>
-    <published>2026-03-24T06:01:28.206Z</published>
-    <summary>**摘要**：   本文通过实验探究椰子水作为手冲咖啡萃取介质的可行性，发现其不仅无法提升风味，反而因高温加热产生劣质风味物质（如橡胶、土腥味），并抑制咖啡豆中芳香物质的提取，导致整体口感劣化。文章将这一“失败搭配”类比为人际相亲中的常见困境——双方因长辈压力、边界感缺失及性格冲突而关系破裂。研究建议，若强行结合需改善环境氛围、注重沟通边界，甚至考虑更换对象（如耶加雪菲）。结论强调：椰子水并非咖啡的理想伴侣，跨界类比揭示了人际互动与饮品调配共通的“匹配逻辑”。</summary>
-    <title>椰子水与咖啡豆：一场失败的相亲</title>
-    <updated>2026-03-24T06:09:14.481Z</updated>
   </entry>
 </feed>
