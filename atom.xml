@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-27T18:11:02.154Z</updated>
+  <updated>2026-03-28T16:40:42.601Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="NHL" scheme="https://www.rubbish.press/tags/NHL/"/>
+    <category term="G20峰会" scheme="https://www.rubbish.press/tags/G20%E5%B3%B0%E4%BC%9A/"/>
+    <category term="斯坦利杯" scheme="https://www.rubbish.press/tags/%E6%96%AF%E5%9D%A6%E5%88%A9%E6%9D%AF/"/>
+    <category term="Lmao" scheme="https://www.rubbish.press/tags/Lmao/"/>
+    <category term="抽象" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1/"/>
+    <id>https://www.rubbish.press/posts/54622.html</id>
+    <link href="https://www.rubbish.press/posts/54622.html"/>
+    <published>2026-03-28T16:29:18.883Z</published>
+    <summary>**摘要**：   本研究通过分析1994-2026年北美职业冰球联盟（NHL）加拿大球队的斯坦利杯夺冠情况，检验“高密度地缘政治场域干扰假说”——即二十国集团（G20）峰会是否压制了加拿大球队的夺冠概率。研究将1994-1998年设为无G20的绝对控制组，1999年至今为实验组，并引入年化夺冠率（R=C/T）进行归一化校正。结果显示，两时期加拿大球队均零夺冠，年化夺冠率均为0，表明G20机制与“冠军荒”无统计相关性。结论指出，加拿大球队的持续失利源于内源性竞技水平局限，与全球宏观经济政治格局无关。关键词：NHL；G20峰会；斯坦利杯；抽象。</summary>
+    <title>北美职业冰球联盟中加拿大队伍的“冠军荒”现象与G20峰会的关联性研究</title>
+    <updated>2026-03-28T16:40:42.601Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -290,11 +308,11 @@
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="抽象" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1/"/>
     <category term="葫芦娃" scheme="https://www.rubbish.press/tags/%E8%91%AB%E8%8A%A6%E5%A8%83/"/>
     <category term="笑声频次" scheme="https://www.rubbish.press/tags/%E7%AC%91%E5%A3%B0%E9%A2%91%E6%AC%A1/"/>
     <category term="降妖胜率" scheme="https://www.rubbish.press/tags/%E9%99%8D%E5%A6%96%E8%83%9C%E7%8E%87/"/>
     <category term="嘲讽抗性" scheme="https://www.rubbish.press/tags/%E5%98%B2%E8%AE%BD%E6%8A%97%E6%80%A7/"/>
-    <category term="抽象" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1/"/>
     <id>https://www.rubbish.press/posts/37168.html</id>
     <link href="https://www.rubbish.press/posts/37168.html"/>
     <published>2026-03-25T07:27:07.197Z</published>
@@ -358,23 +376,5 @@
     <summary>**摘要**：   本文通过实验探究椰子水作为手冲咖啡萃取介质的可行性，发现其不仅无法提升风味，反而因高温加热产生劣质风味物质（如橡胶、土腥味），并抑制咖啡豆中芳香物质的提取，导致整体口感劣化。文章将这一“失败搭配”类比为人际相亲中的常见困境——双方因长辈压力、边界感缺失及性格冲突而关系破裂。研究建议，若强行结合需改善环境氛围、注重沟通边界，甚至考虑更换对象（如耶加雪菲）。结论强调：椰子水并非咖啡的理想伴侣，跨界类比揭示了人际互动与饮品调配共通的“匹配逻辑”。</summary>
     <title>椰子水与咖啡豆：一场失败的相亲</title>
     <updated>2026-03-24T06:09:14.481Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="查重率" scheme="https://www.rubbish.press/tags/%E6%9F%A5%E9%87%8D%E7%8E%87/"/>
-    <category term="AI检测" scheme="https://www.rubbish.press/tags/AI%E6%A3%80%E6%B5%8B/"/>
-    <category term="学术写作" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E5%86%99%E4%BD%9C/"/>
-    <category term="原创性" scheme="https://www.rubbish.press/tags/%E5%8E%9F%E5%88%9B%E6%80%A7/"/>
-    <category term="理解性转述" scheme="https://www.rubbish.press/tags/%E7%90%86%E8%A7%A3%E6%80%A7%E8%BD%AC%E8%BF%B0/"/>
-    <id>https://www.rubbish.press/posts/41117.html</id>
-    <link href="https://www.rubbish.press/posts/41117.html"/>
-    <published>2026-03-24T04:57:11.485Z</published>
-    <summary>**摘要**：   在学术写作被查重与AI检测系统广泛覆盖的背景下，本文以作者一篇获得“查重率0%、AI率0%”的论文为案例，探讨其成因。研究发现，该结果并非源于完全脱离既有研究，而是由于作者对文献进行了深度理解与结构性重组，并以高度个体化的语言进行再表达，使原文句式发生根本改变，从而在文本比对中难以匹配。这表明，真正决定文本相似度的，是作者的理解深度与语言重构能力，而非引用数量。文章指出，当学术写作达到一定原创性水平时，即使参考了多篇文献，也可能呈现极低甚至零重复率，提醒学界应更关注写作质量而非仅依赖技术检测结果。    （字数：198）</summary>
-    <title>“听说你还在搞什么原创？” ：我的论文查重和 AI 率都是 0%—— 一次意外的人类写作实践研究</title>
-    <updated>2026-03-25T13:38:06.293Z</updated>
   </entry>
 </feed>
