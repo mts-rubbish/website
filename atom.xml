@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-29T11:51:38.798Z</updated>
+  <updated>2026-03-29T12:04:34.707Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="跨学科研究" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E5%AD%A6%E7%A7%91%E7%A0%94%E7%A9%B6/"/>
+    <category term="生气理论" scheme="https://www.rubbish.press/tags/%E7%94%9F%E6%B0%94%E7%90%86%E8%AE%BA/"/>
+    <category term="信息场" scheme="https://www.rubbish.press/tags/%E4%BF%A1%E6%81%AF%E5%9C%BA/"/>
+    <category term="环境感知" scheme="https://www.rubbish.press/tags/%E7%8E%AF%E5%A2%83%E6%84%9F%E7%9F%A5/"/>
+    <category term="场所依恋" scheme="https://www.rubbish.press/tags/%E5%9C%BA%E6%89%80%E4%BE%9D%E6%81%8B/"/>
+    <id>https://www.rubbish.press/posts/17247.html</id>
+    <link href="https://www.rubbish.press/posts/17247.html"/>
+    <published>2026-03-29T11:56:47.844Z</published>
+    <summary>**摘要**   本文提出“生气理论”（Vitality Field Theory），旨在解释长期无人居住空间虽物理条件良好却仍令人感到“死气沉沉”的普遍现象。该理论认为，生命体在活动中持续释放一种可感知的信息-能量复合场——“生气”，其密度、扩散与吸附行为受材料特性及人群特征影响。通过建立定量模型（包括产生-耗散方程、频率匹配机制与材料动力学），理论揭示了生气半衰期、临界阈值等可测参数，并预测了空间氛围的时间演化规律。研究表明，该框架比主流科学碎片化解释更具自洽性，为环境感知研究提供了跨学科新范式，尤其适用于场所依恋与主观空间体验的整合分析。</summary>
+    <title>生气理论：一个关于生命-环境信息场交互的完整框架</title>
+    <updated>2026-03-29T12:04:34.707Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -361,24 +379,5 @@
     <summary>**摘要**    本研究以自我民族志方法，结合六年朋友圈记录与个人回忆录，探讨INFJ人格（Ni、Fe、Ti、Se）在多猫家庭中的运作机制。通过对四只猫（墨某、柔某等）的案例分析，研究发现：INFJ凭借**内倾直觉（Ni）**将猫咪的顽劣行为解读为“友好”“关系”等积极本质，而非启动社会道德评判；通过**外倾情感（Fe）**提供端水、守护等情感劳动，辅以**内倾思考（Ti）**构建“负责到底”的内在伦理，维持微观“理想国”。尽管**外倾感觉（Se）**导致身心消耗，但INFJ在无外界反馈的场域中仍保持高度责任感，完成道德自治。这种在付出中实现的自我认同，成为其幸福感的本质来源。研究建议关注非人际互动中的人格特质表现，拓展对INFJ心理机制的认知边界。    **关键词**：INFJ；多猫家庭；情感劳动；道德自治；自我民族志</summary>
     <title>INFJ 在非人际关系中的道德自洽：基于多猫家庭的自我民族志研究</title>
     <updated>2026-03-27T04:52:16.354Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="TSP" scheme="https://www.rubbish.press/tags/TSP/"/>
-    <category term="最长路径" scheme="https://www.rubbish.press/tags/%E6%9C%80%E9%95%BF%E8%B7%AF%E5%BE%84/"/>
-    <category term="遗传算法" scheme="https://www.rubbish.press/tags/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95/"/>
-    <category term="摸鱼策略" scheme="https://www.rubbish.press/tags/%E6%91%B8%E9%B1%BC%E7%AD%96%E7%95%A5/"/>
-    <category term="跑腿优化" scheme="https://www.rubbish.press/tags/%E8%B7%91%E8%85%BF%E4%BC%98%E5%8C%96/"/>
-    <category term="科研时间管理" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
-    <id>https://www.rubbish.press/posts/17396.html</id>
-    <link href="https://www.rubbish.press/posts/17396.html"/>
-    <published>2026-03-27T03:15:42.983Z</published>
-    <summary>**摘要**   本文针对科研场景中导师频繁指派无价值跑腿任务挤占核心研究时间的现实问题，以旅行商问题（TSP）为理论框架，创新性地构建“最长路径优化模型”，提出一套基于遗传算法的类TSP摸鱼策略。通过将跑腿任务抽象为节点、路径权重设为耗时，在满足完成所有指定任务的前提下，最大化单次跑腿总耗时与路径长度。仿真实验表明：相较于常规最短路径（929米），该策略可生成最优长路径（4157米），耗时提升近4倍；连续应用10次后，导师指派频次下降78%，有效实现“少跑腿、不跑工”。研究验证了遗传算法在此类场景下的全局寻优能力与强适应性，为科研人员规避非必要事务、夺回自主时间提供了可落地的数学化解决方案，兼具实践意义与方法创新。</summary>
-    <title>导师再也不派你跑腿了：一种类 TSP 问题的最长路径摸鱼策略与仿真模拟</title>
-    <updated>2026-03-27T03:21:31.693Z</updated>
   </entry>
 </feed>
