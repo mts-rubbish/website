@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-29T05:23:33.135Z</updated>
+  <updated>2026-03-29T05:37:32.351Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="东北洗浴" scheme="https://www.rubbish.press/tags/%E4%B8%9C%E5%8C%97%E6%B4%97%E6%B5%B4/"/>
+    <category term="古罗马浴场" scheme="https://www.rubbish.press/tags/%E5%8F%A4%E7%BD%97%E9%A9%AC%E6%B5%B4%E5%9C%BA/"/>
+    <category term="浴场文明" scheme="https://www.rubbish.press/tags/%E6%B5%B4%E5%9C%BA%E6%96%87%E6%98%8E/"/>
+    <category term="比较文化" scheme="https://www.rubbish.press/tags/%E6%AF%94%E8%BE%83%E6%96%87%E5%8C%96/"/>
+    <category term="罗马正统在东北" scheme="https://www.rubbish.press/tags/%E7%BD%97%E9%A9%AC%E6%AD%A3%E7%BB%9F%E5%9C%A8%E4%B8%9C%E5%8C%97/"/>
+    <id>https://www.rubbish.press/posts/3383.html</id>
+    <link href="https://www.rubbish.press/posts/3383.html"/>
+    <published>2026-03-29T05:28:55.911Z</published>
+    <summary>**摘要：**   本文通过对东北洗浴文化与古罗马公共浴场的系统性比较，揭示二者在空间结构、身体实践与精神内核上的深层同构性。文章从社会结构、文化渊源与历史流变三个维度展开分析，指出两者均发展出复杂的沐浴仪式与社会功能，如搓浴技术、休息大厅的社交属性及饮食传统等。特别强调东北洗浴中“泡、搓、蒸、歇”四步流程与萨满教净化仪式的关联，体现其作为世俗化死亡与重生仪式的文化意义。作者进一步提出“浴场文明收敛假说”，认为尽管地理与气候差异显著，两地浴文化却在热力学逻辑与文明形态上殊途同归，并大胆推论：东北在文化层面可被视为“第四罗马”，延续罗马浴场文明的当代形态。研究填补了国内对洗浴文化的理论空白，呼吁关注这一被忽视的文明学议题。</summary>
+    <title>肉体、水和赤身之交：古罗马浴场与东北洗浴文化的跨时空比较研究</title>
+    <updated>2026-03-29T05:37:32.351Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -360,23 +378,5 @@
     <summary>**摘要：**   本文基于青年亚文化视角，探讨2023年网络热词“哈基米”的传播与收编过程。该词源自日本动画《赛马娘》的粉丝创作，通过B站UP主“京桥刹那”改编的调音歌曲走红，后经短视频平台（如抖音）广泛传播，突破二次元圈层进入大众视野。研究发现，“哈基米”从亚文化符号被大众文化臆测式重构，其原始含义逐渐异化，引发原社群的抵制。文章运用伯明翰学派“抵抗-收编”理论，揭示亚文化与主流文化的复杂互动：一方面，短视频推动模因扩散；另一方面，亚文化群体通过内容再生产抵抗意义消解。结论指出，此类案例凸显文化传播的动态性，也为理解两者良性互动提供重要启示。关键词：青年亚文化、网络流行语、“哈基米”。</summary>
     <title>从蜂蜜到猫咪：青年亚文化视域下流行语“哈基米”的解码</title>
     <updated>2026-03-26T03:13:23.510Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
-    <category term="医学博士" scheme="https://www.rubbish.press/tags/%E5%8C%BB%E5%AD%A6%E5%8D%9A%E5%A3%AB/"/>
-    <category term="动物实验" scheme="https://www.rubbish.press/tags/%E5%8A%A8%E7%89%A9%E5%AE%9E%E9%AA%8C/"/>
-    <category term="小鼠" scheme="https://www.rubbish.press/tags/%E5%B0%8F%E9%BC%A0/"/>
-    <category term="科研伦理" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E4%BC%A6%E7%90%86/"/>
-    <category term="实验动物" scheme="https://www.rubbish.press/tags/%E5%AE%9E%E9%AA%8C%E5%8A%A8%E7%89%A9/"/>
-    <id>https://www.rubbish.press/posts/34459.html</id>
-    <link href="https://www.rubbish.press/posts/34459.html"/>
-    <published>2026-03-26T02:43:03.732Z</published>
-    <summary>**摘要**   本文探讨医学学术型博士生从本科至毕业所需小鼠数量的估算问题。通过梳理各阶段实验任务，发现满足毕业要求约需125–130只小鼠，且数量高度依赖导师对科研产出的期望——尤其是目标影响因子。博士阶段若需发表10分以上论文，前期练习（5–10只）、基因编辑（如CRISPR构建双敲除模型需约8只F0代）及多组对照实验（常见4组×15只）是主要消耗点。研究强调动物使用量与毕业压力、课题设计深度密切相关，并呼吁关注实验动物的伦理福祉。作者同时提出延伸研究方向，如青年教师启动基金或国自然项目的小鼠需求评估。</summary>
-    <title>医学学博毕业要建立在多少动物的生命上——以小鼠为例</title>
-    <updated>2026-03-26T03:01:03.149Z</updated>
   </entry>
 </feed>
