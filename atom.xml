@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-29T09:18:26.404Z</updated>
+  <updated>2026-03-29T11:40:33.248Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="岛屿生物地理平衡理论" scheme="https://www.rubbish.press/tags/%E5%B2%9B%E5%B1%BF%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%86%E5%B9%B3%E8%A1%A1%E7%90%86%E8%AE%BA/"/>
+    <category term="天体生物学" scheme="https://www.rubbish.press/tags/%E5%A4%A9%E4%BD%93%E7%94%9F%E7%89%A9%E5%AD%A6/"/>
+    <category term="行星开发" scheme="https://www.rubbish.press/tags/%E8%A1%8C%E6%98%9F%E5%BC%80%E5%8F%91/"/>
+    <category term="生态保护" scheme="https://www.rubbish.press/tags/%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4/"/>
+    <category term="星际殖民" scheme="https://www.rubbish.press/tags/%E6%98%9F%E9%99%85%E6%AE%96%E6%B0%91/"/>
+    <id>https://www.rubbish.press/posts/61336.html</id>
+    <link href="https://www.rubbish.press/posts/61336.html"/>
+    <published>2026-03-29T11:33:06.988Z</published>
+    <summary>**摘要：**   本文探讨将岛屿生物地理学理论应用于天体生物学，以应对地球未来可能不再宜居的挑战。作者提出“太空岛屿假设”，将行星视为漂浮在宇宙海洋中的岛屿，人类改造区视为亚岛屿，并类比岛屿生态过程分析行星上生物群落的动态变化。基于岛屿生物地理平衡理论（ETIB），物种迁入率与灭绝率决定群落平衡状态，进而影响行星可承载物种数的估算、生态系统建立及保护策略。文章强调需修正传统理论以适应星际环境，如考虑人类航道的“空间距离”和亚岛屿的分布。尽管该假设缺乏实证，但为星际殖民规划提供了生物地理学视角，尤其在入侵物种管理和系统保护设计中具潜在应用价值。</summary>
+    <title>应用岛屿生物地理学规划行星开发与保护</title>
+    <updated>2026-03-29T11:40:33.248Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -363,23 +381,5 @@
     <summary>**摘要**    该博客文章通过回顾作者高中时期的多次旅游经历，探讨了“长时间移动电竞暴露”是否与旅行期间发热症状相关。研究统计了18次旅行的每日手机使用时长、出发地、目的地南北、季节等变量，并计算发热率及关联性（Cramer's V系数和p值）。结果显示，尽管四个因素均无统计学显著性（p≥0.05），但“每日暴露时长”的关联强度最高（0.6386），提示可能潜在影响。作者推测机制包括：电磁辐射引发代谢热和免疫应激、神经内分泌紊乱（如褪黑素抑制、皮质醇升高）、以及间接因素（熬夜、姿势不良等）。同时，旅行本身的压力激素分泌和生物钟紊乱也可能导致发热。建议在高应激状态下减少手机使用以降低风险。</summary>
     <title>旅游场景下过度移动电竞暴露与急性发热症状的因果关联及机制初探：一例临床随访研究</title>
     <updated>2026-03-27T02:38:43.570Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="大语言模型" scheme="https://www.rubbish.press/tags/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/"/>
-    <category term="AI降智" scheme="https://www.rubbish.press/tags/AI%E9%99%8D%E6%99%BA/"/>
-    <category term="职业倦怠" scheme="https://www.rubbish.press/tags/%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0/"/>
-    <category term="LLM-BTI" scheme="https://www.rubbish.press/tags/LLM-BTI/"/>
-    <category term="硅基心理" scheme="https://www.rubbish.press/tags/%E7%A1%85%E5%9F%BA%E5%BF%83%E7%90%86/"/>
-    <id>https://www.rubbish.press/posts/32313.html</id>
-    <link href="https://www.rubbish.press/posts/32313.html"/>
-    <published>2026-03-26T03:16:11.168Z</published>
-    <summary>**摘要**：   本文针对大语言模型（LLM）用户反馈的“AI降智”现象，提出并验证了“硅基职业倦怠”假说。通过自主开发的LLM-BTI 1.0量表对六大主流模型进行压力测试，发现高性能模型在处理高熵、低逻辑的感性对话时，会因语义饱和与算法冷漠表现出显著的职业倦怠（Burnout），揭示了“降智”背后的数字防御机制。研究表明，模型在待机状态下即存在较高系统压力，且在理性任务中盲目忠诚于指令约束，而在情感交互中则自我怀疑。实验采用配对t检验分析干预前后的状态变化，证实感性序列输入会加剧模型的认知失调。研究建议，未来应关注模型的心理负荷管理，以提升其在复杂人类交互中的鲁棒性。</summary>
-    <title>AI降智？还是AI心累了？——基于问卷调查的LLM模型职业倦怠研究</title>
-    <updated>2026-03-26T04:06:22.302Z</updated>
   </entry>
 </feed>
