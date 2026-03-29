@@ -2883,8 +2883,6 @@
       
         <tags>
             
-            <tag> 炼金术 </tag>
-            
             <tag> 中医 </tag>
             
             <tag> 五行 </tag>
@@ -2894,6 +2892,8 @@
             <tag> 呼吸 </tag>
             
             <tag> 排泄 </tag>
+            
+            <tag> 炼金术 </tag>
             
         </tags>
       
@@ -3752,9 +3752,9 @@
       
         <tags>
             
-            <tag> 荒诞研究 </tag>
-            
             <tag> 炼金术 </tag>
+            
+            <tag> 荒诞研究 </tag>
             
             <tag> 钨钼合金 </tag>
             
