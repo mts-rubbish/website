@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-29T12:31:03.471Z</updated>
+  <updated>2026-03-29T12:39:33.498Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="爽文" scheme="https://www.rubbish.press/categories/%E7%88%BD%E6%96%87/"/>
+    <category term="摸鱼" scheme="https://www.rubbish.press/tags/%E6%91%B8%E9%B1%BC/"/>
+    <category term="上班" scheme="https://www.rubbish.press/tags/%E4%B8%8A%E7%8F%AD/"/>
+    <category term="时间模型" scheme="https://www.rubbish.press/tags/%E6%97%B6%E9%97%B4%E6%A8%A1%E5%9E%8B/"/>
+    <category term="社畜" scheme="https://www.rubbish.press/tags/%E7%A4%BE%E7%95%9C/"/>
+    <category term="职业健康" scheme="https://www.rubbish.press/tags/%E8%81%8C%E4%B8%9A%E5%81%A5%E5%BA%B7/"/>
+    <id>https://www.rubbish.press/posts/53575.html</id>
+    <link href="https://www.rubbish.press/posts/53575.html"/>
+    <published>2026-03-29T12:33:34.609Z</published>
+    <summary>**摘要**   本文以幽默讽刺的笔调探讨“上班”对现代职场人的危害，核心主题是通过社会学与理论模型揭示制度化工作模式对身心健康的负面影响。作者提出“时间代换模型”，强调工作时间即真实时间流逝，导致每日8小时、每周40小时的“时间剥削”。研究结合访谈（9/10受访者称“不想上班”）、实验及经验观察，构建“并发网络”：如闹钟强制起床、通勤压迫、深夜强制关机等连锁反应，加剧身心损耗。为缓解危害，文章提出“摸鱼法”作为保护因素，并通过分组实验验证：适度至频繁摸鱼可显著降低痛苦感、恢复精力与社交意愿。结论指出上班具有系统性危害，建议劳动者及时采取自救措施。全文为虚构研究，旨在娱乐读者，呼吁反思工作文化。</summary>
+    <title>上班！一个绝对不能忽视的隐形杀手！</title>
+    <updated>2026-03-29T12:39:33.498Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -361,24 +379,5 @@
     <summary>**摘要：**   本文以幽默荒诞的笔调，通过“目测法”和文字游戏（如“纳米=收容米”），戏谑性地论证“纳米材料”实为新石器时代的锅碗瓢盆等陶器——这些距今约7000-8000年的器物已具备“纳米级”微观结构。作者借此讽刺当代科技界对传统工艺的忽视，暗示前沿研究或源于被遗忘的古老智慧。结论模糊地承认“真假留待后人评说”，实则呼吁反思科技与传统的断裂。关键词：纳米材料；新石器时代；考古；文化误读。    （字数：198）</summary>
     <title>纳米材料的首次出现时间疑似在新石器时代</title>
     <updated>2026-03-27T05:50:28.200Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="黑神话悟空" scheme="https://www.rubbish.press/tags/%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA/"/>
-    <category term="天命人" scheme="https://www.rubbish.press/tags/%E5%A4%A9%E5%91%BD%E4%BA%BA/"/>
-    <category term="楼兰古国" scheme="https://www.rubbish.press/tags/%E6%A5%BC%E5%85%B0%E5%8F%A4%E5%9B%BD/"/>
-    <category term="因果律" scheme="https://www.rubbish.press/tags/%E5%9B%A0%E6%9E%9C%E5%BE%8B/"/>
-    <category term="生态破坏" scheme="https://www.rubbish.press/tags/%E7%94%9F%E6%80%81%E7%A0%B4%E5%9D%8F/"/>
-    <category term="神话研究" scheme="https://www.rubbish.press/tags/%E7%A5%9E%E8%AF%9D%E7%A0%94%E7%A9%B6/"/>
-    <id>https://www.rubbish.press/posts/41268.html</id>
-    <link href="https://www.rubbish.press/posts/41268.html"/>
-    <published>2026-03-27T05:32:29.342Z</published>
-    <summary>**摘要**：   本文颠覆传统史学视角，首次提出《黑神话：悟空》中的天命人西行之路与楼兰古国灭亡存在因果关联。通过跨时空因果溯源法与作者独创的“白日梦数据统计法”，研究发现天命人的破坏行为——如打碎储水陶罐、采集种子、火属性变身及法天象地战斗——通过游戏设定的“因果律武器”机制，对楼兰生态系统、地质结构及气候造成毁灭性影响。具体表现为：水源枯竭（孔雀河改道）、农业崩溃（种子资源掠夺）、植被焚毁（水土流失）以及灵气暴动引发的沙尘暴。作者认为，楼兰灭亡实为天命人暴走时“附带伤害”所致，这一发现为文明兴衰研究提供新范式，并警示玩家：虚拟世界的破坏亦可能映射现实生态危机。</summary>
-    <title>从棍扫六合到沙埋八荒：《黑神话：悟空》中天命人的西行之旅对楼兰古国灭亡的影响研究</title>
-    <updated>2026-03-27T05:37:51.108Z</updated>
   </entry>
 </feed>
