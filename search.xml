@@ -884,9 +884,9 @@
             
             <tag> 葫芦娃 </tag>
             
-            <tag> 降妖胜率 </tag>
-            
             <tag> 笑声频次 </tag>
+            
+            <tag> 降妖胜率 </tag>
             
             <tag> 嘲讽抗性 </tag>
             
@@ -1170,11 +1170,11 @@
       
         <tags>
             
-            <tag> 寿命 </tag>
-            
             <tag> 上班 </tag>
             
             <tag> 哺乳动物 </tag>
+            
+            <tag> 寿命 </tag>
             
             <tag> 转录组 </tag>
             
@@ -1577,9 +1577,9 @@
             
             <tag> 葫芦娃 </tag>
             
-            <tag> 笑声 </tag>
-            
             <tag> 降妖胜率 </tag>
+            
+            <tag> 笑声 </tag>
             
             <tag> 量化分析 </tag>
             
@@ -2562,9 +2562,9 @@
       
         <tags>
             
-            <tag> 运动 </tag>
-            
             <tag> 寿命 </tag>
+            
+            <tag> 运动 </tag>
             
             <tag> 时间价值 </tag>
             
@@ -3807,8 +3807,6 @@
       
         <tags>
             
-            <tag> 数据可视化 </tag>
-            
             <tag> 单细胞测序 </tag>
             
             <tag> 聚类分析 </tag>
@@ -3816,6 +3814,8 @@
             <tag> 赛博烟花 </tag>
             
             <tag> 环境保护 </tag>
+            
+            <tag> 数据可视化 </tag>
             
         </tags>
       
@@ -4893,9 +4893,9 @@
       
         <tags>
             
-            <tag> 线性回归 </tag>
-            
             <tag> 数据可视化 </tag>
+            
+            <tag> 线性回归 </tag>
             
             <tag> 记号笔 </tag>
             
