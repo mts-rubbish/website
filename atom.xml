@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-29T12:04:34.707Z</updated>
+  <updated>2026-03-29T12:15:14.245Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="千里眼" scheme="https://www.rubbish.press/tags/%E5%8D%83%E9%87%8C%E7%9C%BC/"/>
+    <category term="工伤评定" scheme="https://www.rubbish.press/tags/%E5%B7%A5%E4%BC%A4%E8%AF%84%E5%AE%9A/"/>
+    <category term="天庭医学" scheme="https://www.rubbish.press/tags/%E5%A4%A9%E5%BA%AD%E5%8C%BB%E5%AD%A6/"/>
+    <category term="老花眼" scheme="https://www.rubbish.press/tags/%E8%80%81%E8%8A%B1%E7%9C%BC/"/>
+    <category term="视力残疾" scheme="https://www.rubbish.press/tags/%E8%A7%86%E5%8A%9B%E6%AE%8B%E7%96%BE/"/>
+    <category term="西游记" scheme="https://www.rubbish.press/tags/%E8%A5%BF%E6%B8%B8%E8%AE%B0/"/>
+    <id>https://www.rubbish.press/posts/38323.html</id>
+    <link href="https://www.rubbish.press/posts/38323.html"/>
+    <published>2026-03-29T12:10:08.182Z</published>
+    <summary>**摘要**   本文通过医学与神话结合的视角，剖析天庭御前侍卫“千里眼”因长期超负荷工作导致的严重视力障碍。尽管其能清晰观测十万八千里外的景物（如妖猴洗澡），却在近景视觉（0-100米）中完全失明，表现为撞柱、踩轮等事故频发，日常生活自理能力全面崩溃。研究通过凌霄宝殿避障测试、蟠桃会进食障碍评估等实证，证实其属“一级物理盲人”，并建议天庭残联为其颁发残疾证、配备导盲神顺风耳，并拨款定制超级老花镜以改善基本生存能力。该案例为完善天庭《神仙工伤保险条例》提供了荒诞却严谨的参考依据，同时呼吁关注神话角色背后的健康权益保障。</summary>
+    <title>南天门安保人员“千里眼”的极端老花综合征与一级伤残评定报告</title>
+    <updated>2026-03-29T12:15:14.245Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -360,24 +379,5 @@
     <summary>**摘要**：   随着人工智能与机器人技术迅速发展，人形机器人日益普及，引发对劳动力市场的深刻变革。为应对自动化带来的失业风险并为全民基本收入（UBI）筹资，本文提出应实施“差别化机器人税”，特别针对高拟人化机器人征收更高税负。文章创新性提出“拟人化溢价”理论，认为人形机器人因引发“存在主义焦虑成本”“人格权侵蚀效应”及“替代恐惧指数”等社会心理与法律问题，需承担更多税责。基于“类人程度指数”构建差别化征税框架，主张此举既符合税收公平原则，也是维护人类尊严的法律回应。研究强调，忽视机器人形态差异的现行税制存在缺陷，应通过差异化征税平衡技术创新与社会伦理。</summary>
     <title>拟人化溢价：论人形机器人税的差别化征收</title>
     <updated>2026-03-27T05:17:02.291Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="MBTI" scheme="https://www.rubbish.press/tags/MBTI/"/>
-    <category term="INFJ" scheme="https://www.rubbish.press/tags/INFJ/"/>
-    <category term="多猫家庭" scheme="https://www.rubbish.press/tags/%E5%A4%9A%E7%8C%AB%E5%AE%B6%E5%BA%AD/"/>
-    <category term="情感劳动" scheme="https://www.rubbish.press/tags/%E6%83%85%E6%84%9F%E5%8A%B3%E5%8A%A8/"/>
-    <category term="道德自治" scheme="https://www.rubbish.press/tags/%E9%81%93%E5%BE%B7%E8%87%AA%E6%B2%BB/"/>
-    <category term="猫" scheme="https://www.rubbish.press/tags/%E7%8C%AB/"/>
-    <id>https://www.rubbish.press/posts/23788.html</id>
-    <link href="https://www.rubbish.press/posts/23788.html"/>
-    <published>2026-03-27T04:35:23.155Z</published>
-    <summary>**摘要**    本研究以自我民族志方法，结合六年朋友圈记录与个人回忆录，探讨INFJ人格（Ni、Fe、Ti、Se）在多猫家庭中的运作机制。通过对四只猫（墨某、柔某等）的案例分析，研究发现：INFJ凭借**内倾直觉（Ni）**将猫咪的顽劣行为解读为“友好”“关系”等积极本质，而非启动社会道德评判；通过**外倾情感（Fe）**提供端水、守护等情感劳动，辅以**内倾思考（Ti）**构建“负责到底”的内在伦理，维持微观“理想国”。尽管**外倾感觉（Se）**导致身心消耗，但INFJ在无外界反馈的场域中仍保持高度责任感，完成道德自治。这种在付出中实现的自我认同，成为其幸福感的本质来源。研究建议关注非人际互动中的人格特质表现，拓展对INFJ心理机制的认知边界。    **关键词**：INFJ；多猫家庭；情感劳动；道德自治；自我民族志</summary>
-    <title>INFJ 在非人际关系中的道德自洽：基于多猫家庭的自我民族志研究</title>
-    <updated>2026-03-27T04:52:16.354Z</updated>
   </entry>
 </feed>
