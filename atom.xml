@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-29T12:50:20.026Z</updated>
+  <updated>2026-03-29T13:11:20.073Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="爽文" scheme="https://www.rubbish.press/categories/%E7%88%BD%E6%96%87/"/>
+    <category term="下岗" scheme="https://www.rubbish.press/tags/%E4%B8%8B%E5%B2%97/"/>
+    <category term="读博" scheme="https://www.rubbish.press/tags/%E8%AF%BB%E5%8D%9A/"/>
+    <category term="奉献精神" scheme="https://www.rubbish.press/tags/%E5%A5%89%E7%8C%AE%E7%B2%BE%E7%A5%9E/"/>
+    <category term="宏大叙事" scheme="https://www.rubbish.press/tags/%E5%AE%8F%E5%A4%A7%E5%8F%99%E4%BA%8B/"/>
+    <category term="社会缓冲" scheme="https://www.rubbish.press/tags/%E7%A4%BE%E4%BC%9A%E7%BC%93%E5%86%B2/"/>
+    <category term="结构性压力" scheme="https://www.rubbish.press/tags/%E7%BB%93%E6%9E%84%E6%80%A7%E5%8E%8B%E5%8A%9B/"/>
+    <id>https://www.rubbish.press/posts/48702.html</id>
+    <link href="https://www.rubbish.press/posts/48702.html"/>
+    <published>2026-03-29T13:00:43.359Z</published>
+    <summary>**摘要**   本文探讨了在经济系统转型期，宏观压力如何通过“牺牲叙事”转移至微观个体。通过对比20世纪90年代“下岗潮”与当代“学术扩张”现象，作者指出二者均采用“缓冲阀”机制：个体以高强度压力（如低薪、延迟社会化）换取宏观指标稳定，并将此重构为“吃苦即奉献”“读博即享福”的崇高使命。研究发现，读博等教育行为兼具多重功能——平滑就业数据、拉动消费、提供廉价科研劳动力，而艰苦环境则被话语体系美化为“新时代担当”。文章揭示，这种结构性牺牲实为维持系统稳定的低成本方案，但长期可能掩盖真实代价。结论强调，每一代人都被赋予特定“使命”，需在肯定其历史作用的同时反思可持续性。</summary>
+    <title>旧数据新故事：从“下岗潮”到“读博潮”的奉献精神与宏大叙事</title>
+    <updated>2026-03-29T13:11:20.073Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -363,22 +382,5 @@
     <summary>**摘要**：本文通过比较明代台阁体诗歌与素人创作者王旭朝的诗歌作品，探讨其在“新大众文艺”语境下的创作动因、审美价值及社会功能。文章指出，王旭朝的诗歌以短视频平台为传播媒介，内容贴近日常生活，风格质朴昂扬，体现了普通人在数字时代的表达欲望。相较于台阁体作为制度性写作的功能化特征，王旭朝的诗歌呈现出“去台阁化”倾向——弱化宏大叙事与深度批判，强化个体经验与感官表达，契合网络文化中的围观与消费式阅读模式。随着流量增长，其创作逐渐从文学理想转向商业变现，引发对文学表达异化的反思。作者认为，王旭朝现象不仅是个体追梦的缩影，更折射出新媒体时代文学功能的变迁：从精英主导的专业创作，到大众参与、平台驱动的多元表达，传统文学场域正被重新定义。  （199字）</summary>
     <title>传统台阁体的“去台阁化”：王旭朝现象与新大众文艺的表达机制</title>
     <updated>2026-03-27T17:45:05.221Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="作者贡献" scheme="https://www.rubbish.press/tags/%E4%BD%9C%E8%80%85%E8%B4%A1%E7%8C%AE/"/>
-    <category term="概念拓展" scheme="https://www.rubbish.press/tags/%E6%A6%82%E5%BF%B5%E6%8B%93%E5%B1%95/"/>
-    <category term="科研乱象" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E4%B9%B1%E8%B1%A1/"/>
-    <category term="故事会" scheme="https://www.rubbish.press/tags/%E6%95%85%E4%BA%8B%E4%BC%9A/"/>
-    <id>https://www.rubbish.press/posts/23982.html</id>
-    <link href="https://www.rubbish.press/posts/23982.html"/>
-    <published>2026-03-27T17:16:33.728Z</published>
-    <summary>**摘要**   在合作科研日益普遍的背景下，“作者贡献”成为学术界关注的焦点。本文通过访谈科研人员的真实经历，揭示当前学术环境中“作者贡献”认定模糊、存在学术不端风险及评价体系失准等问题，并拓展了该概念的内含。文章以两个虚构故事为例：一是导师因考核压力承担学生未完成的论文修改工作却未获应有署名；二是导师未参与研究却占据第一作者，学生自付版面费发表成果。这些案例凸显了权力结构下“隐形劳动”与伦理失衡现象，引发对“实质性贡献”“资金支持”等要素的深入思考。作者强调，应超越形式化署名，建立更公平透明的贡献评估机制，以维护科研诚信。全文旨在以轻松笔触引发学界对署名规范的重视，同时声明内容纯属虚构，呼吁读者勿模仿文中不当行为。</summary>
-    <title>对“作者贡献”概念的内涵拓展</title>
-    <updated>2026-03-27T17:30:23.793Z</updated>
   </entry>
 </feed>
