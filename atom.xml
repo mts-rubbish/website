@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-29T12:41:35.383Z</updated>
+  <updated>2026-03-29T12:48:59.331Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="博弈论" scheme="https://www.rubbish.press/tags/%E5%8D%9A%E5%BC%88%E8%AE%BA/"/>
+    <category term="机械键盘" scheme="https://www.rubbish.press/tags/%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98/"/>
+    <category term="青轴" scheme="https://www.rubbish.press/tags/%E9%9D%92%E8%BD%B4/"/>
+    <category term="声学惩罚" scheme="https://www.rubbish.press/tags/%E5%A3%B0%E5%AD%A6%E6%83%A9%E7%BD%9A/"/>
+    <category term="多智能体" scheme="https://www.rubbish.press/tags/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93/"/>
+    <category term="实验室生态" scheme="https://www.rubbish.press/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%94%9F%E6%80%81/"/>
+    <id>https://www.rubbish.press/posts/16597.html</id>
+    <link href="https://www.rubbish.press/posts/16597.html"/>
+    <published>2026-03-29T12:42:25.799Z</published>
+    <summary>**摘要**   本文探讨了高密度学术实验室中机械键盘选择对科研人员生产力与社会生态的影响。研究通过多目标优化模型，量化了键盘轴体在生物力学奖励（如触觉反馈）与声学惩罚（干扰他人）之间的权衡关系。利用博弈论分析个体效用函数，揭示了“孤立智能体”因追求个人舒适度而引发实验室“公地悲剧”的风险。研究构建包含生理、视觉及声学指标的数据集，提出综合效用函数U(x)以评估键盘状态空间，为科研人员在个人需求与集体环境和谐之间提供决策支持。结论强调：优化键盘选择可缓解人际摩擦，保障长期科研效率与声学生态平衡。关键词：人机交互；多智能体博弈；声学管理。</summary>
+    <title>科研环境下的键盘选择：对青轴使用者施加动能干预</title>
+    <updated>2026-03-29T12:48:59.331Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -361,23 +380,5 @@
     <summary>**摘要**   在合作科研日益普遍的背景下，“作者贡献”成为学术界关注的焦点。本文通过访谈科研人员的真实经历，揭示当前学术环境中“作者贡献”认定模糊、存在学术不端风险及评价体系失准等问题，并拓展了该概念的内含。文章以两个虚构故事为例：一是导师因考核压力承担学生未完成的论文修改工作却未获应有署名；二是导师未参与研究却占据第一作者，学生自付版面费发表成果。这些案例凸显了权力结构下“隐形劳动”与伦理失衡现象，引发对“实质性贡献”“资金支持”等要素的深入思考。作者强调，应超越形式化署名，建立更公平透明的贡献评估机制，以维护科研诚信。全文旨在以轻松笔触引发学界对署名规范的重视，同时声明内容纯属虚构，呼吁读者勿模仿文中不当行为。</summary>
     <title>对“作者贡献”概念的内涵拓展</title>
     <updated>2026-03-27T17:30:23.793Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
-    <category term="纳米材料" scheme="https://www.rubbish.press/tags/%E7%BA%B3%E7%B1%B3%E6%9D%90%E6%96%99/"/>
-    <category term="新石器时代" scheme="https://www.rubbish.press/tags/%E6%96%B0%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3/"/>
-    <category term="陶器" scheme="https://www.rubbish.press/tags/%E9%99%B6%E5%99%A8/"/>
-    <category term="词源学" scheme="https://www.rubbish.press/tags/%E8%AF%8D%E6%BA%90%E5%AD%A6/"/>
-    <category term="科学反思" scheme="https://www.rubbish.press/tags/%E7%A7%91%E5%AD%A6%E5%8F%8D%E6%80%9D/"/>
-    <id>https://www.rubbish.press/posts/10603.html</id>
-    <link href="https://www.rubbish.press/posts/10603.html"/>
-    <published>2026-03-27T05:41:24.918Z</published>
-    <summary>**摘要：**   本文以幽默荒诞的笔调，通过“目测法”和文字游戏（如“纳米=收容米”），戏谑性地论证“纳米材料”实为新石器时代的锅碗瓢盆等陶器——这些距今约7000-8000年的器物已具备“纳米级”微观结构。作者借此讽刺当代科技界对传统工艺的忽视，暗示前沿研究或源于被遗忘的古老智慧。结论模糊地承认“真假留待后人评说”，实则呼吁反思科技与传统的断裂。关键词：纳米材料；新石器时代；考古；文化误读。    （字数：198）</summary>
-    <title>纳米材料的首次出现时间疑似在新石器时代</title>
-    <updated>2026-03-27T05:50:28.200Z</updated>
   </entry>
 </feed>
