@@ -10,7 +10,27 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-29T05:08:11.357Z</updated>
+  <updated>2026-03-29T05:23:33.135Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="德国铁路" scheme="https://www.rubbish.press/tags/%E5%BE%B7%E5%9B%BD%E9%93%81%E8%B7%AF/"/>
+    <category term="DB" scheme="https://www.rubbish.press/tags/DB/"/>
+    <category term="量子力学" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/"/>
+    <category term="时间膨胀" scheme="https://www.rubbish.press/tags/%E6%97%B6%E9%97%B4%E8%86%A8%E8%83%80/"/>
+    <category term="抗内卷" scheme="https://www.rubbish.press/tags/%E6%8A%97%E5%86%85%E5%8D%B7/"/>
+    <category term="绝望社会学" scheme="https://www.rubbish.press/tags/%E7%BB%9D%E6%9C%9B%E7%A4%BE%E4%BC%9A%E5%AD%A6/"/>
+    <category term="民族志" scheme="https://www.rubbish.press/tags/%E6%B0%91%E6%97%8F%E5%BF%97/"/>
+    <id>https://www.rubbish.press/posts/4540.html</id>
+    <link href="https://www.rubbish.press/posts/4540.html"/>
+    <published>2026-03-29T05:13:28.542Z</published>
+    <summary>**摘要**：   本研究基于对德国联邦铁路（DB）的实证调查，提出“DB时空叠加态理论”，揭示其系统崩溃并非运营失败，而是一种多维随机折磨体系下的社会心理干预实验。通过量子力学与广义相对论视角，文章论证DB以列车取消、车厢颠倒序列及“薛定谔的替代大巴”等机制瓦解人类对时间控制的执念，为内卷化的日耳曼社会注入“强制熵增”。研究发现，这种无序反而达成“反内卷疗效”，帮助通勤者接受无常，缓解现代人的时间焦虑。研究建议东亚学者摒弃机械式效率幻想，转而拥抱德铁的无常，将其视为一种国家级冥想训练。关键词：德铁；时间相对论；反内卷；绝望社会学。    （字数：198）</summary>
+    <title>“薛定谔的Zug”：德国联邦铁路的宏观量子塌缩、时间膨胀效应与国家级抗内卷免疫机制田野研究</title>
+    <updated>2026-03-29T05:23:33.135Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -253,8 +273,8 @@
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="INFJ" scheme="https://www.rubbish.press/tags/INFJ/"/>
     <category term="MBTI" scheme="https://www.rubbish.press/tags/MBTI/"/>
+    <category term="INFJ" scheme="https://www.rubbish.press/tags/INFJ/"/>
     <category term="多猫家庭" scheme="https://www.rubbish.press/tags/%E5%A4%9A%E7%8C%AB%E5%AE%B6%E5%BA%AD/"/>
     <category term="情感劳动" scheme="https://www.rubbish.press/tags/%E6%83%85%E6%84%9F%E5%8A%B3%E5%8A%A8/"/>
     <category term="道德自治" scheme="https://www.rubbish.press/tags/%E9%81%93%E5%BE%B7%E8%87%AA%E6%B2%BB/"/>
@@ -358,24 +378,5 @@
     <summary>**摘要**   本文探讨医学学术型博士生从本科至毕业所需小鼠数量的估算问题。通过梳理各阶段实验任务，发现满足毕业要求约需125–130只小鼠，且数量高度依赖导师对科研产出的期望——尤其是目标影响因子。博士阶段若需发表10分以上论文，前期练习（5–10只）、基因编辑（如CRISPR构建双敲除模型需约8只F0代）及多组对照实验（常见4组×15只）是主要消耗点。研究强调动物使用量与毕业压力、课题设计深度密切相关，并呼吁关注实验动物的伦理福祉。作者同时提出延伸研究方向，如青年教师启动基金或国自然项目的小鼠需求评估。</summary>
     <title>医学学博毕业要建立在多少动物的生命上——以小鼠为例</title>
     <updated>2026-03-26T03:01:03.149Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="二次元" scheme="https://www.rubbish.press/tags/%E4%BA%8C%E6%AC%A1%E5%85%83/"/>
-    <category term="文化全球化" scheme="https://www.rubbish.press/tags/%E6%96%87%E5%8C%96%E5%85%A8%E7%90%83%E5%8C%96/"/>
-    <category term="文化传播" scheme="https://www.rubbish.press/tags/%E6%96%87%E5%8C%96%E4%BC%A0%E6%92%AD/"/>
-    <category term="中日文化比较" scheme="https://www.rubbish.press/tags/%E4%B8%AD%E6%97%A5%E6%96%87%E5%8C%96%E6%AF%94%E8%BE%83/"/>
-    <category term="文化多样性" scheme="https://www.rubbish.press/tags/%E6%96%87%E5%8C%96%E5%A4%9A%E6%A0%B7%E6%80%A7/"/>
-    <category term="文化自信" scheme="https://www.rubbish.press/tags/%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1/"/>
-    <id>https://www.rubbish.press/posts/937.html</id>
-    <link href="https://www.rubbish.press/posts/937.html"/>
-    <published>2026-03-26T02:17:03.596Z</published>
-    <summary>**摘要**：   本文探讨二次元文化的全球化本质及其文化价值，主张摒弃标签化思维。作者指出，二次元是跨文化艺术融合的产物，承载超越国界的普世价值（如善良、正义、美好），不应被简单归为“文化入侵”。针对部分人的认知偏差，文章强调二次元受众广泛、内容多元，涵盖深刻主题与艺术表达，驳斥其“洗脑工具”的刻板印象。通过中日作品比较（如《哪吒》《你的名字。》），作者揭示两国二次元各具特色却共享“讲好故事”的核心精神。最后呼吁以理性包容的态度吸收优秀文化元素，在辨别优劣中增强文化自信，推动多元共生。核心结论：二次元是文化交流的积极载体，需打破偏见，以开放心态促进文化互鉴。    （199字）</summary>
-    <title>理性看待二次元：文化载体的多元价值与理性思辨</title>
-    <updated>2026-03-26T02:29:50.957Z</updated>
   </entry>
 </feed>
