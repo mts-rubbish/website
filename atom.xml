@@ -10,7 +10,27 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-29T12:20:57.510Z</updated>
+  <updated>2026-03-29T12:31:03.471Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="研究生" scheme="https://www.rubbish.press/tags/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
+    <category term="嗜好异化" scheme="https://www.rubbish.press/tags/%E5%97%9C%E5%A5%BD%E5%BC%82%E5%8C%96/"/>
+    <category term="社交货币" scheme="https://www.rubbish.press/tags/%E7%A4%BE%E4%BA%A4%E8%B4%A7%E5%B8%81/"/>
+    <category term="压力代偿" scheme="https://www.rubbish.press/tags/%E5%8E%8B%E5%8A%9B%E4%BB%A3%E5%81%BF/"/>
+    <category term="麻将社会学" scheme="https://www.rubbish.press/tags/%E9%BA%BB%E5%B0%86%E7%A4%BE%E4%BC%9A%E5%AD%A6/"/>
+    <category term="烟草" scheme="https://www.rubbish.press/tags/%E7%83%9F%E8%8D%89/"/>
+    <category term="酒精" scheme="https://www.rubbish.press/tags/%E9%85%92%E7%B2%BE/"/>
+    <id>https://www.rubbish.press/posts/23592.html</id>
+    <link href="https://www.rubbish.press/posts/23592.html"/>
+    <published>2026-03-29T12:23:38.626Z</published>
+    <summary>**摘要**    本文探讨了在高压环境下，研究生群体中常见嗜好（如烟草、酒精、麻将等）的非嗜好属性及其适应性功能。研究发现，这些嗜好已异化为社交工具（如递烟破冰、敬酒表达诉求）、经济平衡器（低成本高满足感）、压力代偿机制（如吸烟缓解焦虑、饮酒激发灵感）及时间管理工具（如“五分钟逃离效应”）。其中，烟草的“五分钟逃离效应”、酒精的“勇气疗法”和麻将的“去中心化民主”被首次提出。研究采用参与式观察、深度访谈及伪定量分析等方法，揭示研究生嗜好的范式转移——从“物质成瘾”转向“社交依赖”，并呈现明显的学科与性别差异。结论强调，这些嗜好在特定生态中具有合理性，可为研究生提供心理补偿与现实替代体验。</summary>
+    <title>基于非系统性观察的研究生群体多元嗜好社会学及功能异化分析——以Tobacco, Alcohol and Mahjong为例</title>
+    <updated>2026-03-29T12:31:03.471Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -360,23 +380,5 @@
     <summary>**摘要**：   本文颠覆传统史学视角，首次提出《黑神话：悟空》中的天命人西行之路与楼兰古国灭亡存在因果关联。通过跨时空因果溯源法与作者独创的“白日梦数据统计法”，研究发现天命人的破坏行为——如打碎储水陶罐、采集种子、火属性变身及法天象地战斗——通过游戏设定的“因果律武器”机制，对楼兰生态系统、地质结构及气候造成毁灭性影响。具体表现为：水源枯竭（孔雀河改道）、农业崩溃（种子资源掠夺）、植被焚毁（水土流失）以及灵气暴动引发的沙尘暴。作者认为，楼兰灭亡实为天命人暴走时“附带伤害”所致，这一发现为文明兴衰研究提供新范式，并警示玩家：虚拟世界的破坏亦可能映射现实生态危机。</summary>
     <title>从棍扫六合到沙埋八荒：《黑神话：悟空》中天命人的西行之旅对楼兰古国灭亡的影响研究</title>
     <updated>2026-03-27T05:37:51.108Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="干细胞" scheme="https://www.rubbish.press/tags/%E5%B9%B2%E7%BB%86%E8%83%9E/"/>
-    <category term="多肽设计" scheme="https://www.rubbish.press/tags/%E5%A4%9A%E8%82%BD%E8%AE%BE%E8%AE%A1/"/>
-    <category term="序列命名法" scheme="https://www.rubbish.press/tags/%E5%BA%8F%E5%88%97%E5%91%BD%E5%90%8D%E6%B3%95/"/>
-    <category term="干性诱导" scheme="https://www.rubbish.press/tags/%E5%B9%B2%E6%80%A7%E8%AF%B1%E5%AF%BC/"/>
-    <category term="翻译后修饰" scheme="https://www.rubbish.press/tags/%E7%BF%BB%E8%AF%91%E5%90%8E%E4%BF%AE%E9%A5%B0/"/>
-    <id>https://www.rubbish.press/posts/%E9%87%8D%E5%A4%8D%E5%BA%8F%E5%88%97%E5%91%BD%E5%90%8D%E6%B3%95%E6%8C%87%E5%AF%BC%E7%9A%84%E6%96%B0%E5%9E%8B%E5%A4%9A%E8%82%BD%203XSTEMNESSENRICHMENT%20%E8%AF%B1%E5%AF%BC%E7%BB%86%E8%83%9E%E5%B9%B2%E6%80%A7%E8%8E%B7%E5%BE%97%E7%9A%84%E7%A0%94%E7%A9%B6.html</id>
-    <link href="https://www.rubbish.press/posts/%E9%87%8D%E5%A4%8D%E5%BA%8F%E5%88%97%E5%91%BD%E5%90%8D%E6%B3%95%E6%8C%87%E5%AF%BC%E7%9A%84%E6%96%B0%E5%9E%8B%E5%A4%9A%E8%82%BD%203XSTEMNESSENRICHMENT%20%E8%AF%B1%E5%AF%BC%E7%BB%86%E8%83%9E%E5%B9%B2%E6%80%A7%E8%8E%B7%E5%BE%97%E7%9A%84%E7%A0%94%E7%A9%B6.html"/>
-    <published>2026-03-27T05:23:23.453Z</published>
-    <summary>**摘要**：本研究提出一种基于“序列命名法”的新型多肽设计理念，以“StemnessEnhancement”命名，逐字母对应氨基酸单字母代码，设计并理论分析其潜在干性诱导功能。该多肽序列为S-T-E-M-N-E-S-S-E-N-H-A-N-C-E-M-E-N-T，经预测在N端第二个丝氨酸发生乙酰化修饰，形成成熟稳定肽段（Ac-S-T-E-M-...）。分子对接模拟显示其“STEM”核心基序可与OCT4或SOX2的DNA结合域发生相互作用，提示其可能通过直接调控干性转录因子、激活整合素相关信号通路（如PI3K/Akt、Hippo/YAP），或模拟细胞外基质信号来增强干细胞标记物表达。研究认为，此类命名蕴含功能暗示的设计策略可为多肽药物的理性开发提供新颖视角，兼具科学启发与探索价值。</summary>
-    <title>重复序列命名法指导的新型多肽 3XSTEMNESSENRICHMENT 诱导细胞干性获得的研究</title>
-    <updated>2026-03-27T05:30:02.758Z</updated>
   </entry>
 </feed>
