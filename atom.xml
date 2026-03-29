@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-29T05:38:42.721Z</updated>
+  <updated>2026-03-29T08:37:54.931Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="科研灌水" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E7%81%8C%E6%B0%B4/"/>
+    <category term="全球洋流" scheme="https://www.rubbish.press/tags/%E5%85%A8%E7%90%83%E6%B4%8B%E6%B5%81/"/>
+    <category term="学术流体动力学" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E6%B5%81%E4%BD%93%E5%8A%A8%E5%8A%9B%E5%AD%A6/"/>
+    <category term="论文份额" scheme="https://www.rubbish.press/tags/%E8%AE%BA%E6%96%87%E4%BB%BD%E9%A2%9D/"/>
+    <category term="漂移向量" scheme="https://www.rubbish.press/tags/%E6%BC%82%E7%A7%BB%E5%90%91%E9%87%8F/"/>
+    <category term="南大洋" scheme="https://www.rubbish.press/tags/%E5%8D%97%E5%A4%A7%E6%B4%8B/"/>
+    <id>https://www.rubbish.press/posts/49584.html</id>
+    <link href="https://www.rubbish.press/posts/49584.html"/>
+    <published>2026-03-29T08:29:52.203Z</published>
+    <summary>**摘要**   本文探讨了全球科研产出（尤其是被视作“科研灌水”的论文）在地理空间中的宏观流动模式。基于OpenAlex数据库约2000篇论文样本，研究通过计算各国论文份额的月度变化Δshare，结合地理坐标构建了全球科研影响力的漂移向量（academic drift vector），以刻画科研重心的移动方向与强度。分析发现，该漂移呈现显著的东西向摆动及周期性回流，形成类似潮汐振荡的结构。进一步对比四大洋系统洋流方向，结果显示科研漂移与洋流在统计上存在相似结构：南大洋系统匹配度最高（51.1%），且显著高于其他海洋（p=0.049）；美国论文波动标准差显著更大（p=0.001），表明其可能扮演类似潮汐引力源的主导角色。研究首次提出“学术流体动力学”概念框架，将论文视为在学术生态中生成、扩散与沉降的微观水体，揭示全球科研体系具有类海洋环流的动态特征。最终无人引用的研究或在南大洋般的学术深海中完成沉降，为理解科研分布提供了新视角。</summary>
+    <title>科研灌水究竟流向何方？——基于论文份额漂移与全球洋流方向匹配的定量研究</title>
+    <updated>2026-03-29T08:37:54.931Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -359,24 +378,5 @@
     <summary>**摘要**：   本文针对大语言模型（LLM）用户反馈的“AI降智”现象，提出并验证了“硅基职业倦怠”假说。通过自主开发的LLM-BTI 1.0量表对六大主流模型进行压力测试，发现高性能模型在处理高熵、低逻辑的感性对话时，会因语义饱和与算法冷漠表现出显著的职业倦怠（Burnout），揭示了“降智”背后的数字防御机制。研究表明，模型在待机状态下即存在较高系统压力，且在理性任务中盲目忠诚于指令约束，而在情感交互中则自我怀疑。实验采用配对t检验分析干预前后的状态变化，证实感性序列输入会加剧模型的认知失调。研究建议，未来应关注模型的心理负荷管理，以提升其在复杂人类交互中的鲁棒性。</summary>
     <title>AI降智？还是AI心累了？——基于问卷调查的LLM模型职业倦怠研究</title>
     <updated>2026-03-26T04:06:22.302Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="哈基米" scheme="https://www.rubbish.press/tags/%E5%93%88%E5%9F%BA%E7%B1%B3/"/>
-    <category term="青年亚文化" scheme="https://www.rubbish.press/tags/%E9%9D%92%E5%B9%B4%E4%BA%9A%E6%96%87%E5%8C%96/"/>
-    <category term="网络流行语" scheme="https://www.rubbish.press/tags/%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD/"/>
-    <category term="抵抗与收编" scheme="https://www.rubbish.press/tags/%E6%8A%B5%E6%8A%97%E4%B8%8E%E6%94%B6%E7%BC%96/"/>
-    <category term="伯明翰学派" scheme="https://www.rubbish.press/tags/%E4%BC%AF%E6%98%8E%E7%BF%B0%E5%AD%A6%E6%B4%BE/"/>
-    <category term="二次元" scheme="https://www.rubbish.press/tags/%E4%BA%8C%E6%AC%A1%E5%85%83/"/>
-    <id>https://www.rubbish.press/posts/39505.html</id>
-    <link href="https://www.rubbish.press/posts/39505.html"/>
-    <published>2026-03-26T03:06:46.923Z</published>
-    <summary>**摘要：**   本文基于青年亚文化视角，探讨2023年网络热词“哈基米”的传播与收编过程。该词源自日本动画《赛马娘》的粉丝创作，通过B站UP主“京桥刹那”改编的调音歌曲走红，后经短视频平台（如抖音）广泛传播，突破二次元圈层进入大众视野。研究发现，“哈基米”从亚文化符号被大众文化臆测式重构，其原始含义逐渐异化，引发原社群的抵制。文章运用伯明翰学派“抵抗-收编”理论，揭示亚文化与主流文化的复杂互动：一方面，短视频推动模因扩散；另一方面，亚文化群体通过内容再生产抵抗意义消解。结论指出，此类案例凸显文化传播的动态性，也为理解两者良性互动提供重要启示。关键词：青年亚文化、网络流行语、“哈基米”。</summary>
-    <title>从蜂蜜到猫咪：青年亚文化视域下流行语“哈基米”的解码</title>
-    <updated>2026-03-26T03:13:23.510Z</updated>
   </entry>
 </feed>
