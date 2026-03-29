@@ -10,7 +10,27 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-29T04:46:56.473Z</updated>
+  <updated>2026-03-29T05:08:11.357Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="博士韧性" scheme="https://www.rubbish.press/tags/%E5%8D%9A%E5%A3%AB%E9%9F%A7%E6%80%A7/"/>
+    <category term="孟德尔随机化" scheme="https://www.rubbish.press/tags/%E5%AD%9F%E5%BE%B7%E5%B0%94%E9%9A%8F%E6%9C%BA%E5%8C%96/"/>
+    <category term="魂类游戏" scheme="https://www.rubbish.press/tags/%E9%AD%82%E7%B1%BB%E6%B8%B8%E6%88%8F/"/>
+    <category term="空洞骑士丝之歌" scheme="https://www.rubbish.press/tags/%E7%A9%BA%E6%B4%9E%E9%AA%91%E5%A3%AB%E4%B8%9D%E4%B9%8B%E6%AD%8C/"/>
+    <category term="以撒的结合" scheme="https://www.rubbish.press/tags/%E4%BB%A5%E6%92%92%E7%9A%84%E7%BB%93%E5%90%88/"/>
+    <category term="死亡细胞" scheme="https://www.rubbish.press/tags/%E6%AD%BB%E4%BA%A1%E7%BB%86%E8%83%9E/"/>
+    <category term="因果推断" scheme="https://www.rubbish.press/tags/%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD/"/>
+    <id>https://www.rubbish.press/posts/52339.html</id>
+    <link href="https://www.rubbish.press/posts/52339.html"/>
+    <published>2026-03-29T04:53:04.847Z</published>
+    <summary>**摘要：**   本研究采用双样本孟德尔随机化（MR）方法，探讨博士生韧性指数（DRI）对高难动作/肉鸽类游戏进展的潜在因果效应。以《空洞骑士：丝之歌》的期待持续性、《以撒的结合》周目推进及《死亡细胞》Boss Cell（BC）层级进展为结局变量，利用教育年限、延迟满足等可遗传表型构建DRI的遗传工具变量。主分析采用逆方差加权法（IVW），辅以多种敏感性检验。结果表明：遗传预测的DRI升高与《死亡细胞》BC推进速度加快显著正相关，与《以撒的结合》高周目完成率提升亦呈正向关联；而与《丝之歌》相关的“长期关注但不取关”行为也呈正相关，但对短期情绪波动无显著影响。MR-Egger截距未提示明显水平多效性，但存在部分异质性。结论支持博士阶段心理韧性与高难游戏耐受/推进能力可能存在共享行为结构，尤其体现在反复失败后持续尝试的能力，而非即时操作表现。该发现为“博士训练塑造游戏耐受性”提供了初步因果证据。</summary>
+    <title>博士韧性指数对高难游戏进展的潜在因果效应：一项基于双样本孟德尔随机化的探索性研究</title>
+    <updated>2026-03-29T05:08:11.357Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -357,22 +377,5 @@
     <summary>**摘要**：   本文探讨二次元文化的全球化本质及其文化价值，主张摒弃标签化思维。作者指出，二次元是跨文化艺术融合的产物，承载超越国界的普世价值（如善良、正义、美好），不应被简单归为“文化入侵”。针对部分人的认知偏差，文章强调二次元受众广泛、内容多元，涵盖深刻主题与艺术表达，驳斥其“洗脑工具”的刻板印象。通过中日作品比较（如《哪吒》《你的名字。》），作者揭示两国二次元各具特色却共享“讲好故事”的核心精神。最后呼吁以理性包容的态度吸收优秀文化元素，在辨别优劣中增强文化自信，推动多元共生。核心结论：二次元是文化交流的积极载体，需打破偏见，以开放心态促进文化互鉴。    （199字）</summary>
     <title>理性看待二次元：文化载体的多元价值与理性思辨</title>
     <updated>2026-03-26T02:29:50.957Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="核形态与力学调控" scheme="https://www.rubbish.press/tags/%E6%A0%B8%E5%BD%A2%E6%80%81%E4%B8%8E%E5%8A%9B%E5%AD%A6%E8%B0%83%E6%8E%A7/"/>
-    <category term="Coilin" scheme="https://www.rubbish.press/tags/Coilin/"/>
-    <category term="凝聚体与相分离" scheme="https://www.rubbish.press/tags/%E5%87%9D%E8%81%9A%E4%BD%93%E4%B8%8E%E7%9B%B8%E5%88%86%E7%A6%BB/"/>
-    <category term="视觉拟像" scheme="https://www.rubbish.press/tags/%E8%A7%86%E8%A7%89%E6%8B%9F%E5%83%8F/"/>
-    <category term="罕见核形态现象" scheme="https://www.rubbish.press/tags/%E7%BD%95%E8%A7%81%E6%A0%B8%E5%BD%A2%E6%80%81%E7%8E%B0%E8%B1%A1/"/>
-    <id>https://www.rubbish.press/posts/33806.html</id>
-    <link href="https://www.rubbish.press/posts/33806.html"/>
-    <published>2026-03-25T08:07:57.425Z</published>
-    <summary>**摘要**：   本研究揭示了Coilin蛋白在细胞核内罕见的重构现象及其与核形态重塑的关联。通过构建Coilin-mCherry融合表达质粒，在HeLa细胞中观察到Coilin通常由离散的Cajal小体转变为连续界面样结构，并驱动细胞核呈现具有轴向延伸和基部膨大的“phallic-like”形态（发生率约1×10⁻⁵）。作者提出一个基于相分离与力学不均衡的模型，解释该现象源于Coilin界面组织行为与核骨架张力的协同作用。尽管该形态可被人类视觉系统识别为象征性外观，实则是物理自组织与认知偏差的共同结果。研究强调了凝聚体动态在亚细胞结构形态调控中的潜在作用，并为理解核形态异常提供了新视角。</summary>
-    <title>当细胞核呈现男性某器官形态：Coilin诱导的十万分之一结构事件</title>
-    <updated>2026-03-25T08:40:43.431Z</updated>
   </entry>
 </feed>
