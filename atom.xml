@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-29T04:17:41.413Z</updated>
+  <updated>2026-03-29T04:31:44.300Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="王者荣耀" scheme="https://www.rubbish.press/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/"/>
+    <category term="ELO机制" scheme="https://www.rubbish.press/tags/ELO%E6%9C%BA%E5%88%B6/"/>
+    <category term="算法人设" scheme="https://www.rubbish.press/tags/%E7%AE%97%E6%B3%95%E4%BA%BA%E8%AE%BE/"/>
+    <category term="策略性游玩" scheme="https://www.rubbish.press/tags/%E7%AD%96%E7%95%A5%E6%80%A7%E6%B8%B8%E7%8E%A9/"/>
+    <category term="排位系统" scheme="https://www.rubbish.press/tags/%E6%8E%92%E4%BD%8D%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://www.rubbish.press/posts/57530.html</id>
+    <link href="https://www.rubbish.press/posts/57530.html"/>
+    <published>2026-03-29T04:22:18.639Z</published>
+    <summary>**摘要**：   本文以《王者荣耀》的ELO机制为研究对象，通过作者为期一年的自我民族志实践（单排排位），探讨玩家如何通过策略性游玩“驯化”算法匹配系统。研究发现，玩家可通过塑造特定“算法人设”（如“玻璃心、输不起”）影响系统匹配逻辑，短期内获得高胜率；但一旦行为模式改变（如放松控制、连败后继续游戏），系统会迅速重置评价，导致胜率回落。结论强调：所谓“驯服ELO”实为短暂幻觉，玩家在与算法的互动中不断被反向驯化，凸显了游戏设计中算法操控与玩家能动性之间的张力。关键词：王者荣耀；ELO机制；策略性游玩；算法人设。</summary>
+    <title>驯服ELO 或被ELO 驯服——一项基于《王者荣耀》排位周期的自我民族志</title>
+    <updated>2026-03-29T04:31:44.300Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -356,24 +374,5 @@
     <summary>**摘要**：   本文通过“逐帧观察法”和Logistic回归模型，探究《葫芦娃》中七位主角的笑声频次（HF）与其击败妖怪的胜率之间的相关性。研究引入“妖怪嘲讽抗性”作为控制变量，发现笑声与胜率呈“倒浴缸曲线”关系：适度笑声（3-5次/战役）可提升胜率，但过量笑声会触发妖怪“愤怒觉醒”，导致战局反转。结论指出，笑声是双刃剑，建议采用“微微一笑”战术以维持优势。关键词：葫芦娃、笑声频次、降妖胜率、嘲讽抗性。</summary>
     <title>多维宇宙视角下葫芦娃笑声频次与降妖胜率关联性的量化分析</title>
     <updated>2026-03-25T08:33:59.716Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="疯狂星期四" scheme="https://www.rubbish.press/tags/%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E5%9B%9B/"/>
-    <category term="疯四文学" scheme="https://www.rubbish.press/tags/%E7%96%AF%E5%9B%9B%E6%96%87%E5%AD%A6/"/>
-    <category term="集体记忆" scheme="https://www.rubbish.press/tags/%E9%9B%86%E4%BD%93%E8%AE%B0%E5%BF%86/"/>
-    <category term="全球在地化" scheme="https://www.rubbish.press/tags/%E5%85%A8%E7%90%83%E5%9C%A8%E5%9C%B0%E5%8C%96/"/>
-    <category term="网络文本" scheme="https://www.rubbish.press/tags/%E7%BD%91%E7%BB%9C%E6%96%87%E6%9C%AC/"/>
-    <category term="结绳记事" scheme="https://www.rubbish.press/tags/%E7%BB%93%E7%BB%B3%E8%AE%B0%E4%BA%8B/"/>
-    <id>https://www.rubbish.press/posts/64979.html</id>
-    <link href="https://www.rubbish.press/posts/64979.html"/>
-    <published>2026-03-25T06:09:56.820Z</published>
-    <summary>好的，这是为您撰写的博客文章摘要：  本文围绕“疯四文学”为何能在热度退潮后仍周期性复燃的问题，探讨其修辞结构与社会功能。文章采用非传统的“爱咋咋地抽样法”和“小学语文阅读理解法”分析两则代表性文本，发现疯四文学已形成稳定的话语模板：以时效性事件“起兴”，通过夸张、反诘等手法制造悬念，并以索价50元（如“V我50”）进行收束。研究指出，这种文本已从快餐营销演变为一种互联网集体仪式，兼具情绪调节和记忆外置（类似“结绳记事”）的功能。更有趣的是，还发现了一种不以索价50收尾的欧·亨利式变体。结论认为，“疯狂星期四”超越了商业行为本身，成为中国民众在全球化背景下的一种民间记忆术实践，是当代的“结绳记事”，用以应对宏大时代下个体的无聊，并维系群体间的联系与黏性。</summary>
-    <title>疯狂星期四：当代中国结绳记事</title>
-    <updated>2026-03-25T06:39:13.040Z</updated>
   </entry>
 </feed>
