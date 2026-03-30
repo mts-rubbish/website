@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-30T12:28:53.420Z</updated>
+  <updated>2026-03-30T12:39:42.537Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="喜剧" scheme="https://www.rubbish.press/categories/%E5%96%9C%E5%89%A7/"/>
+    <category term="行星齿轮" scheme="https://www.rubbish.press/tags/%E8%A1%8C%E6%98%9F%E9%BD%BF%E8%BD%AE/"/>
+    <category term="去除函数" scheme="https://www.rubbish.press/tags/%E5%8E%BB%E9%99%A4%E5%87%BD%E6%95%B0/"/>
+    <category term="富士山" scheme="https://www.rubbish.press/tags/%E5%AF%8C%E5%A3%AB%E5%B1%B1/"/>
+    <category term="本科毕设" scheme="https://www.rubbish.press/tags/%E6%9C%AC%E7%A7%91%E6%AF%95%E8%AE%BE/"/>
+    <category term="抛光工具" scheme="https://www.rubbish.press/tags/%E6%8A%9B%E5%85%89%E5%B7%A5%E5%85%B7/"/>
+    <id>https://www.rubbish.press/posts/26188.html</id>
+    <link href="https://www.rubbish.press/posts/26188.html"/>
+    <published>2026-03-30T12:37:02.034Z</published>
+    <summary>**摘要**：   本文是一篇以娱乐为目的的改编文章，基于作者本科毕业设计《行星齿轮……的探究》的真实实验结果。研究通过“胡乱设计”开发了一款行星齿轮式抛光工具，其材料去除轮廓经归一化后呈现出类高斯型特征，但仿真结果与实际存在偏差。有趣的是，作者发现该去除函数轮廓与富士山高度相似，遂将其命名为“富士山型去除函数”。尽管该结果看似创新，但作者强调其核心作用仅为帮助自己顺利毕业，不具备学术价值或复现性，且研究过程缺乏严谨性。文章旨在调侃科研中形式主义与偶然性，并致谢母校SUSTech。</summary>
+    <title>我的去除函数像座富士山</title>
+    <updated>2026-03-30T12:39:42.537Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -363,24 +381,5 @@
     <summary>**摘要**：   本文以《王者荣耀》的ELO机制为研究对象，通过作者为期一年的自我民族志实践（单排排位），探讨玩家如何通过策略性游玩“驯化”算法匹配系统。研究发现，玩家可通过塑造特定“算法人设”（如“玻璃心、输不起”）影响系统匹配逻辑，短期内获得高胜率；但一旦行为模式改变（如放松控制、连败后继续游戏），系统会迅速重置评价，导致胜率回落。结论强调：所谓“驯服ELO”实为短暂幻觉，玩家在与算法的互动中不断被反向驯化，凸显了游戏设计中算法操控与玩家能动性之间的张力。关键词：王者荣耀；ELO机制；策略性游玩；算法人设。</summary>
     <title>驯服ELO 或被ELO 驯服——一项基于《王者荣耀》排位周期的自我民族志</title>
     <updated>2026-03-29T04:31:44.300Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="提肛" scheme="https://www.rubbish.press/tags/%E6%8F%90%E8%82%9B/"/>
-    <category term="盆底肌" scheme="https://www.rubbish.press/tags/%E7%9B%86%E5%BA%95%E8%82%8C/"/>
-    <category term="核心稳定性" scheme="https://www.rubbish.press/tags/%E6%A0%B8%E5%BF%83%E7%A8%B3%E5%AE%9A%E6%80%A7/"/>
-    <category term="舞萌DX" scheme="https://www.rubbish.press/tags/%E8%88%9E%E8%90%8CDX/"/>
-    <category term="音乐游戏" scheme="https://www.rubbish.press/tags/%E9%9F%B3%E4%B9%90%E6%B8%B8%E6%88%8F/"/>
-    <category term="运动表现" scheme="https://www.rubbish.press/tags/%E8%BF%90%E5%8A%A8%E8%A1%A8%E7%8E%B0/"/>
-    <id>https://www.rubbish.press/posts/48981.html</id>
-    <link href="https://www.rubbish.press/posts/48981.html"/>
-    <published>2026-03-29T04:09:49.707Z</published>
-    <summary>**摘要**：   本研究探讨了“提肛”动作（盆底肌激活）对街机音乐游戏《舞萌DX》中上肢快速交替运动表现的影响。作者通过对比实验发现，在核心收紧并主动提肛时，双手交替拍打按键的速度与精准判定（黄P比例）显著提升，且疲劳感减轻。这一现象可归因于盆底肌激活增强了核心稳定性，优化了从下肢到上肢的力量传导效率，并为上肢高频动作提供了稳定的力学支点。研究结合运动生理学机制，揭示了核心肌群（包括盆底肌）与远端肢体运动的关联，为音游玩家及运动员提供了一种潜在的高效训练方法。关键词：提肛、盆底肌、核心稳定性、运动表现、舞萌DX。</summary>
-    <title>从“提肛”到“提频”：盆底肌激活对上肢快速交替运动表现的意外促进效应——一项基于舞萌DX的自我实验观察</title>
-    <updated>2026-03-29T04:17:41.413Z</updated>
   </entry>
 </feed>
