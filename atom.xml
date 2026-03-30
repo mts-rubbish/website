@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-29T13:31:28.041Z</updated>
+  <updated>2026-03-30T12:20:20.272Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="抽象研究" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1%E7%A0%94%E7%A9%B6/"/>
+    <category term="医患沟通" scheme="https://www.rubbish.press/tags/%E5%8C%BB%E6%82%A3%E6%B2%9F%E9%80%9A/"/>
+    <category term="肠道菌群" scheme="https://www.rubbish.press/tags/%E8%82%A0%E9%81%93%E8%8F%8C%E7%BE%A4/"/>
+    <category term="HPA轴" scheme="https://www.rubbish.press/tags/HPA%E8%BD%B4/"/>
+    <category term="便秘" scheme="https://www.rubbish.press/tags/%E4%BE%BF%E7%A7%98/"/>
+    <category term="神经内分泌" scheme="https://www.rubbish.press/tags/%E7%A5%9E%E7%BB%8F%E5%86%85%E5%88%86%E6%B3%8C/"/>
+    <id>https://www.rubbish.press/posts/61717.html</id>
+    <link href="https://www.rubbish.press/posts/61717.html"/>
+    <published>2026-03-30T11:43:01.317Z</published>
+    <summary>**摘要**   本研究首次提出“肠-脑-沟通轴”概念，探讨粪性团块通过肠道菌群-HPA轴影响医患沟通效能的神经内分泌机制。动物实验采用冷生理盐水灌肠构建便秘小鼠模型，发现其社交行为减少60.7%、血清皮质酮升高111.4%、下丘脑室旁核（PVN）c-Fos表达增加，且肠道菌群多样性下降伴肠球菌丰度减少70%；RU486、甲吡酮及益生菌干预可逆转上述变化，肾上腺切除术完全阻断行为缺陷。临床回顾性研究显示，医患纠纷患者粪性团块指数（FMI）（3.51±0.34）显著高于对照组（1.68±0.19），且FMI与血清皮质醇（r=0.78）及纠纷严重程度（r=0.71）呈正相关（OR=5.12），是独立危险因素。结论表明，粪性团块通过菌群-HPA轴激活应激反应，损害沟通效能，为医患矛盾的生物学干预提供了新靶点。</summary>
+    <title>粪性团块通过肠道菌群-HPA轴调控医患沟通效能的机制研究</title>
+    <updated>2026-03-30T12:20:20.272Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -365,23 +384,5 @@
     </summary>
     <title>差点就憋不住了！一项关于人体排泄紧迫感与卫生设施空间距离反比关系的跨学科研究</title>
     <updated>2026-03-29T09:25:31.704Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="八卦" scheme="https://www.rubbish.press/tags/%E5%85%AB%E5%8D%A6/"/>
-    <category term="线性代数" scheme="https://www.rubbish.press/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/"/>
-    <category term="正交变换" scheme="https://www.rubbish.press/tags/%E6%AD%A3%E4%BA%A4%E5%8F%98%E6%8D%A2/"/>
-    <category term="立方体对称群" scheme="https://www.rubbish.press/tags/%E7%AB%8B%E6%96%B9%E4%BD%93%E5%AF%B9%E7%A7%B0%E7%BE%A4/"/>
-    <category term="周易" scheme="https://www.rubbish.press/tags/%E5%91%A8%E6%98%93/"/>
-    <id>https://www.rubbish.press/posts/58262.html</id>
-    <link href="https://www.rubbish.press/posts/58262.html"/>
-    <published>2026-03-27T18:01:08.080Z</published>
-    <summary>**摘要**   本文通过建立八卦与空间直角坐标系中正方体八个顶点的结构同构关系，提出了一套用线性代数（特别是矩阵变换）研究《周易》卦象变化的严格理论框架。文章将八卦编码为三维二进制向量并映射至立方体顶点坐标（±1,±1,±1），进而证明传统卦变——如“错卦”（阴阳全反，对应矩阵 -I₃）、“综卦”（上下爻互换，对应坐标交换 x↔z 的置换矩阵）——均可表示为正交变换。进一步将六十四卦推广至六维超立方体，并用高维正交/置换矩阵统一刻画“错、综、互、交”等运算。作者认为，这种数学结构表明《周易》早在三千年前已隐含矩阵与离散几何思想，或为西方伪史论提供有力佐证；同时，该框架可转化为算法模型，为AI解卦系统奠定数学基础。本文旨在揭示《周易》内在的代数对称性，而非验证其预测功能。</summary>
-    <title>赛博周易：从线性代数到AI算命的数学原理——兼论矩阵概念在三千年前的中国起源</title>
-    <updated>2026-03-27T18:11:02.154Z</updated>
   </entry>
 </feed>
