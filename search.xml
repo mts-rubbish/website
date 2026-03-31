@@ -1857,8 +1857,6 @@
       
         <tags>
             
-            <tag> 抽象研究 </tag>
-            
             <tag> LLM </tag>
             
             <tag> Scaling Law </tag>
@@ -1868,6 +1866,8 @@
             <tag> 零信息机制 </tag>
             
             <tag> 基准测试 </tag>
+            
+            <tag> 抽象研究 </tag>
             
         </tags>
       
@@ -1929,6 +1929,8 @@
       
         <tags>
             
+            <tag> 抽象研究 </tag>
+            
             <tag> NHL </tag>
             
             <tag> G20峰会 </tag>
@@ -1936,8 +1938,6 @@
             <tag> 斯坦利杯 </tag>
             
             <tag> 加拿大冰球 </tag>
-            
-            <tag> 抽象研究 </tag>
             
             <tag> 统计检验 </tag>
             
@@ -4519,9 +4519,9 @@
       
         <tags>
             
-            <tag> 多智能体 </tag>
-            
             <tag> 大语言模型 </tag>
+            
+            <tag> 多智能体 </tag>
             
             <tag> AI </tag>
             
@@ -5100,6 +5100,8 @@
       
         <tags>
             
+            <tag> 大语言模型 </tag>
+            
             <tag> 语言概率学 </tag>
             
             <tag> 意大利面 </tag>
@@ -5107,8 +5109,6 @@
             <tag> 42号混凝土 </tag>
             
             <tag> 网络热梗 </tag>
-            
-            <tag> 大语言模型 </tag>
             
         </tags>
       
