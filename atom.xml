@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-03-31T02:30:51.078Z</updated>
+  <updated>2026-03-31T07:28:43.664Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="仙术" scheme="https://www.rubbish.press/categories/%E4%BB%99%E6%9C%AF/"/>
+    <category term="层级嵌套" scheme="https://www.rubbish.press/tags/%E5%B1%82%E7%BA%A7%E5%B5%8C%E5%A5%97/"/>
+    <category term="自由意志" scheme="https://www.rubbish.press/tags/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97/"/>
+    <category term="意识" scheme="https://www.rubbish.press/tags/%E6%84%8F%E8%AF%86/"/>
+    <category term="意义" scheme="https://www.rubbish.press/tags/%E6%84%8F%E4%B9%89/"/>
+    <category term="存在论" scheme="https://www.rubbish.press/tags/%E5%AD%98%E5%9C%A8%E8%AE%BA/"/>
+    <category term="系统论" scheme="https://www.rubbish.press/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BA/"/>
+    <id>https://www.rubbish.press/posts/22143.html</id>
+    <link href="https://www.rubbish.press/posts/22143.html"/>
+    <published>2026-03-31T07:22:37.784Z</published>
+    <summary>**摘要**：   本文提出一个反直觉但“无法反驳”的核心观察：个体、细胞与社会在结构上同构，层级间存在绝对的沉默与隔阂。作者构建三层嵌套模型（细胞—人—文明），指出低层系统（如细胞）无法理解高层意义，高层（如社会“巨灵”）亦无视个体诉求，个体意志实为系统调控的产物。由此推论：自由意志可能是幻觉，意义或为维持系统存续的生化诱饵；所谓“叛逆”只是系统内部的功能失调。文章不主张这些是真理，而强调若读者已至此处，说明其行为本身即具荒诞的合理性——人类可能仅是宇宙级摸鱼的存在。最终结论：万物皆为更大存在之部分，意义无终极，唯有动态平衡。</summary>
+    <title>细胞、人、巨灵：一个关于层级嵌套的存在论模型</title>
+    <updated>2026-03-31T07:28:43.664Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -363,23 +382,5 @@
     <summary>**摘要：**   本研究采用双样本孟德尔随机化（MR）方法，探讨博士生韧性指数（DRI）对高难动作/肉鸽类游戏进展的潜在因果效应。以《空洞骑士：丝之歌》的期待持续性、《以撒的结合》周目推进及《死亡细胞》Boss Cell（BC）层级进展为结局变量，利用教育年限、延迟满足等可遗传表型构建DRI的遗传工具变量。主分析采用逆方差加权法（IVW），辅以多种敏感性检验。结果表明：遗传预测的DRI升高与《死亡细胞》BC推进速度加快显著正相关，与《以撒的结合》高周目完成率提升亦呈正向关联；而与《丝之歌》相关的“长期关注但不取关”行为也呈正相关，但对短期情绪波动无显著影响。MR-Egger截距未提示明显水平多效性，但存在部分异质性。结论支持博士阶段心理韧性与高难游戏耐受/推进能力可能存在共享行为结构，尤其体现在反复失败后持续尝试的能力，而非即时操作表现。该发现为“博士训练塑造游戏耐受性”提供了初步因果证据。</summary>
     <title>博士韧性指数对高难游戏进展的潜在因果效应：一项基于双样本孟德尔随机化的探索性研究</title>
     <updated>2026-03-29T05:08:11.357Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="六爻预测" scheme="https://www.rubbish.press/tags/%E5%85%AD%E7%88%BB%E9%A2%84%E6%B5%8B/"/>
-    <category term="论文投稿" scheme="https://www.rubbish.press/tags/%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF/"/>
-    <category term="学术焦虑" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E7%84%A6%E8%99%91/"/>
-    <category term="民俗信仰" scheme="https://www.rubbish.press/tags/%E6%B0%91%E4%BF%97%E4%BF%A1%E4%BB%B0/"/>
-    <category term="皮尔逊系数" scheme="https://www.rubbish.press/tags/%E7%9A%AE%E5%B0%94%E9%80%8A%E7%B3%BB%E6%95%B0/"/>
-    <id>https://www.rubbish.press/posts/62875.html</id>
-    <link href="https://www.rubbish.press/posts/62875.html"/>
-    <published>2026-03-29T04:39:10.870Z</published>
-    <summary>**摘要**   本文探讨当代科研人员在论文投稿不确定性下产生的焦虑及其催生出的非正式应对策略，引入中国传统占卜术——六爻预测法，作为研究案例以检验其在学术活动中的功能性。研究以一次AFM期刊论文投稿全过程为对象，记录并量化不同时间节点起卦的六爻评分（中稿=1，不中=0），通过皮尔逊相关系数分析其与实际结果（拒稿）的关系。结果显示，预测评分与投稿结果无统计学关联（相关系数为0），表明六爻预测在实证层面未能有效预测论文接收情况。研究揭示了理性科研实践与非理性信仰实践的并存现象，并为理解传统民俗信仰在现代学术场域中的“情境性嵌入”提供了新视角。关键词：六爻预测；论文投稿；皮尔逊系数。</summary>
-    <title>学术领域中的民俗信仰实践——基于六爻与论文投稿的研究</title>
-    <updated>2026-03-29T04:46:56.473Z</updated>
   </entry>
 </feed>
