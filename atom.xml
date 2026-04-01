@@ -10,7 +10,29 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-01T07:02:58.913Z</updated>
+  <updated>2026-04-01T07:14:27.333Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="跨学科研究" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E5%AD%A6%E7%A7%91%E7%A0%94%E7%A9%B6/"/>
+    <category term="量化分析" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%8C%96%E5%88%86%E6%9E%90/"/>
+    <category term="释然感" scheme="https://www.rubbish.press/tags/%E9%87%8A%E7%84%B6%E6%84%9F/"/>
+    <category term="tags: [, 关羽之歌, 新三国," scheme="https://www.rubbish.press/tags/tags-%E5%85%B3%E7%BE%BD%E4%B9%8B%E6%AD%8C-%E6%96%B0%E4%B8%89%E5%9B%BD/"/>
+    <category term="关羽之歌" scheme="https://www.rubbish.press/tags/%E5%85%B3%E7%BE%BD%E4%B9%8B%E6%AD%8C/"/>
+    <category term="新三国" scheme="https://www.rubbish.press/tags/%E6%96%B0%E4%B8%89%E5%9B%BD/"/>
+    <category term="心理学" scheme="https://www.rubbish.press/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
+    <category term="多模态生理参数" scheme="https://www.rubbish.press/tags/%E5%A4%9A%E6%A8%A1%E6%80%81%E7%94%9F%E7%90%86%E5%8F%82%E6%95%B0/"/>
+    <category term="AI模拟实验" scheme="https://www.rubbish.press/tags/AI%E6%A8%A1%E6%8B%9F%E5%AE%9E%E9%AA%8C/"/>
+    <id>https://www.rubbish.press/posts/62752.html</id>
+    <link href="https://www.rubbish.press/posts/62752.html"/>
+    <published>2026-04-01T07:08:40.217Z</published>
+    <summary>**摘要**：   本文提出一种基于多模态生理参数（心率变异性、血氧饱和度、皮肤电导水平、脑电波α功率）的释然感量化模型，旨在科学评估《关羽之歌》对个体心理状态的影响。通过构建公式 \( R_{sr} \) 综合四项指标，研究采用创新性AI模拟方法（基于Qwen3.5大模型）生成30名“被试”听歌前后的生理数据与主观感受。结果显示，93.3%的模拟对象释然度显著上升，且多数报告主观释然体验，验证了模型的有效性。该研究首次系统量化释然感，为跨学科情绪分析提供了新路径，尤其适用于文化作品的情感影响评估。关键词：释然感；《关羽之歌》；多模态生理参数；AI模拟实验。</summary>
+    <title>释然可以量化吗？——基于多模态生理参数的《关羽之歌》释然感量化研究</title>
+    <updated>2026-04-01T07:14:27.333Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -361,23 +383,5 @@
     <summary>**摘要**   本文探讨了全球科研产出（尤其是被视作“科研灌水”的论文）在地理空间中的宏观流动模式。基于OpenAlex数据库约2000篇论文样本，研究通过计算各国论文份额的月度变化Δshare，结合地理坐标构建了全球科研影响力的漂移向量（academic drift vector），以刻画科研重心的移动方向与强度。分析发现，该漂移呈现显著的东西向摆动及周期性回流，形成类似潮汐振荡的结构。进一步对比四大洋系统洋流方向，结果显示科研漂移与洋流在统计上存在相似结构：南大洋系统匹配度最高（51.1%），且显著高于其他海洋（p=0.049）；美国论文波动标准差显著更大（p=0.001），表明其可能扮演类似潮汐引力源的主导角色。研究首次提出“学术流体动力学”概念框架，将论文视为在学术生态中生成、扩散与沉降的微观水体，揭示全球科研体系具有类海洋环流的动态特征。最终无人引用的研究或在南大洋般的学术深海中完成沉降，为理解科研分布提供了新视角。</summary>
     <title>科研灌水究竟流向何方？——基于论文份额漂移与全球洋流方向匹配的定量研究</title>
     <updated>2026-03-29T08:37:54.931Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="东北洗浴" scheme="https://www.rubbish.press/tags/%E4%B8%9C%E5%8C%97%E6%B4%97%E6%B5%B4/"/>
-    <category term="古罗马浴场" scheme="https://www.rubbish.press/tags/%E5%8F%A4%E7%BD%97%E9%A9%AC%E6%B5%B4%E5%9C%BA/"/>
-    <category term="浴场文明" scheme="https://www.rubbish.press/tags/%E6%B5%B4%E5%9C%BA%E6%96%87%E6%98%8E/"/>
-    <category term="比较文化" scheme="https://www.rubbish.press/tags/%E6%AF%94%E8%BE%83%E6%96%87%E5%8C%96/"/>
-    <category term="罗马正统在东北" scheme="https://www.rubbish.press/tags/%E7%BD%97%E9%A9%AC%E6%AD%A3%E7%BB%9F%E5%9C%A8%E4%B8%9C%E5%8C%97/"/>
-    <id>https://www.rubbish.press/posts/3383.html</id>
-    <link href="https://www.rubbish.press/posts/3383.html"/>
-    <published>2026-03-29T05:28:55.911Z</published>
-    <summary>**摘要：**   本文从社会结构、文化渊源与历史流变三个维度，系统比较中国东北洗浴文化与古罗马公共浴场。通过分析搓浴技术、休息大厅的社会功能、建筑装饰符号及饮食结构，揭示两者在空间形态、身体实践与精神内核上的深层同构性。研究发现，尽管气候与文化背景迥异——罗马浴场源于地中海的“享乐主义”传统，而东北洗浴则因严寒气候演变为“生存主义”需求——两者均发展出高度制度化的沐浴仪式，并衍生出裸体社交、浴后饮宴等共性实践。更值得注意的是，东北洗浴中心普遍采用罗马式建筑风格，暗示一种未被充分认知的文化认领现象。结合满族萨满教中“火水净化”的原始信仰，作者提出洗浴作为一种“通过仪式”（rite of passage），实现个体的“死亡与重生”。最终，文章大胆提出“浴场文明收敛假说”，认为欧亚两大文明在洗浴实践中殊途同归，并推测“东北是文化层面的‘第四罗马’”。关键词：东北洗浴；古罗马浴场；比较文化；浴室文明；罗马正统在东北。</summary>
-    <title>肉体、水和赤身之交：古罗马浴场与东北洗浴文化的跨时空比较研究</title>
-    <updated>2026-03-29T05:38:42.721Z</updated>
   </entry>
 </feed>
