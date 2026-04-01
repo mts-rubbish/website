@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-01T06:02:37.580Z</updated>
+  <updated>2026-04-01T07:02:58.913Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="神经元" scheme="https://www.rubbish.press/tags/%E7%A5%9E%E7%BB%8F%E5%85%83/"/>
+    <category term="柔性执行系统" scheme="https://www.rubbish.press/tags/%E6%9F%94%E6%80%A7%E6%89%A7%E8%A1%8C%E7%B3%BB%E7%BB%9F/"/>
+    <category term="生物电驱动" scheme="https://www.rubbish.press/tags/%E7%94%9F%E7%89%A9%E7%94%B5%E9%A9%B1%E5%8A%A8/"/>
+    <category term="闪电五连鞭" scheme="https://www.rubbish.press/tags/%E9%97%AA%E7%94%B5%E4%BA%94%E8%BF%9E%E9%9E%AD/"/>
+    <category term="动力学模型" scheme="https://www.rubbish.press/tags/%E5%8A%A8%E5%8A%9B%E5%AD%A6%E6%A8%A1%E5%9E%8B/"/>
+    <id>https://www.rubbish.press/posts/22922.html</id>
+    <link href="https://www.rubbish.press/posts/22922.html"/>
+    <published>2026-04-01T06:41:35.287Z</published>
+    <summary>该研究基于简化神经元动力学模型，构建了“神经元驱动柔性鞭状执行系统”（NBWS）的理论框架。核心观点是：神经元群体的同步水平决定系统输出的节律模式，而输出频率与时间间隔调控其动力表现。研究通过电-机械线性映射关系，分析了不同同步程度下的宏观行为，并提出“闪电五连鞭”机制——高频同步-去同步循环可实现连续多次快速动力释放。结果表明，该系统在单次高幅度与多次快速输出两类模式下具有一致性。研究从理论层面阐明了神经元电活动向复杂动力行为的转化路径，为生物电驱动柔性系统提供了新视角。</summary>
+    <title>以神经元为材料制作鞭类武器的可行性分析</title>
+    <updated>2026-04-01T07:02:58.913Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -361,25 +379,5 @@
     <summary>**摘要：**   本文从社会结构、文化渊源与历史流变三个维度，系统比较中国东北洗浴文化与古罗马公共浴场。通过分析搓浴技术、休息大厅的社会功能、建筑装饰符号及饮食结构，揭示两者在空间形态、身体实践与精神内核上的深层同构性。研究发现，尽管气候与文化背景迥异——罗马浴场源于地中海的“享乐主义”传统，而东北洗浴则因严寒气候演变为“生存主义”需求——两者均发展出高度制度化的沐浴仪式，并衍生出裸体社交、浴后饮宴等共性实践。更值得注意的是，东北洗浴中心普遍采用罗马式建筑风格，暗示一种未被充分认知的文化认领现象。结合满族萨满教中“火水净化”的原始信仰，作者提出洗浴作为一种“通过仪式”（rite of passage），实现个体的“死亡与重生”。最终，文章大胆提出“浴场文明收敛假说”，认为欧亚两大文明在洗浴实践中殊途同归，并推测“东北是文化层面的‘第四罗马’”。关键词：东北洗浴；古罗马浴场；比较文化；浴室文明；罗马正统在东北。</summary>
     <title>肉体、水和赤身之交：古罗马浴场与东北洗浴文化的跨时空比较研究</title>
     <updated>2026-03-29T05:38:42.721Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="德国铁路" scheme="https://www.rubbish.press/tags/%E5%BE%B7%E5%9B%BD%E9%93%81%E8%B7%AF/"/>
-    <category term="DB" scheme="https://www.rubbish.press/tags/DB/"/>
-    <category term="量子力学" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/"/>
-    <category term="时间膨胀" scheme="https://www.rubbish.press/tags/%E6%97%B6%E9%97%B4%E8%86%A8%E8%83%80/"/>
-    <category term="抗内卷" scheme="https://www.rubbish.press/tags/%E6%8A%97%E5%86%85%E5%8D%B7/"/>
-    <category term="绝望社会学" scheme="https://www.rubbish.press/tags/%E7%BB%9D%E6%9C%9B%E7%A4%BE%E4%BC%9A%E5%AD%A6/"/>
-    <category term="民族志" scheme="https://www.rubbish.press/tags/%E6%B0%91%E6%97%8F%E5%BF%97/"/>
-    <id>https://www.rubbish.press/posts/4540.html</id>
-    <link href="https://www.rubbish.press/posts/4540.html"/>
-    <published>2026-03-29T05:13:28.542Z</published>
-    <summary>**摘要**：   本研究基于对德国联邦铁路（DB）的实证调查，提出“DB时空叠加态理论”，揭示其系统崩溃并非运营失败，而是一种多维随机折磨体系下的社会心理干预实验。通过量子力学与广义相对论视角，文章论证DB以列车取消、车厢颠倒序列及“薛定谔的替代大巴”等机制瓦解人类对时间控制的执念，为内卷化的日耳曼社会注入“强制熵增”。研究发现，这种无序反而达成“反内卷疗效”，帮助通勤者接受无常，缓解现代人的时间焦虑。研究建议东亚学者摒弃机械式效率幻想，转而拥抱德铁的无常，将其视为一种国家级冥想训练。关键词：德铁；时间相对论；反内卷；绝望社会学。    （字数：198）</summary>
-    <title>“薛定谔的Zug”：德国联邦铁路的宏观量子塌缩、时间膨胀效应与国家级抗内卷免疫机制田野研究</title>
-    <updated>2026-03-29T05:23:33.135Z</updated>
   </entry>
 </feed>
