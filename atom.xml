@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-01T07:14:27.333Z</updated>
+  <updated>2026-04-01T07:36:04.443Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="粪便滤液" scheme="https://www.rubbish.press/tags/%E7%B2%AA%E4%BE%BF%E6%BB%A4%E6%B6%B2/"/>
+    <category term="肠道菌群" scheme="https://www.rubbish.press/tags/%E8%82%A0%E9%81%93%E8%8F%8C%E7%BE%A4/"/>
+    <category term="难培养微生物" scheme="https://www.rubbish.press/tags/%E9%9A%BE%E5%9F%B9%E5%85%BB%E5%BE%AE%E7%94%9F%E7%89%A9/"/>
+    <category term="粪汤培养" scheme="https://www.rubbish.press/tags/%E7%B2%AA%E6%B1%A4%E5%9F%B9%E5%85%BB/"/>
+    <category term="模拟原生境" scheme="https://www.rubbish.press/tags/%E6%A8%A1%E6%8B%9F%E5%8E%9F%E7%94%9F%E5%A2%83/"/>
+    <id>https://www.rubbish.press/posts/9558.html</id>
+    <link href="https://www.rubbish.press/posts/9558.html"/>
+    <published>2026-04-01T07:22:25.186Z</published>
+    <summary>本文探讨了一种利用人类粪便滤液（“粪汤”）培养肠道难培养微生物的新方法。传统培养基因成分单一，难以支持大多数肠道微生物生长，而粪便滤液富含短链脂肪酸、胆汁酸、宿主来源分子及未消化多糖等，更接近肠道原生环境，能有效模拟微生物的天然生存条件。研究通过对比含粪汤的“屎琼脂”与常规培养基（如类YPD、LB培养基）的菌落数量，初步证明粪汤能显著提高微生物的可培养率。尽管实验存在设计缺陷和目测误差，结论仍表明该方法为突破肠道“暗物质”培养瓶颈提供了可行路径。未来需结合代谢组学解析粪汤中的关键促生长因子，推动其向标准化、理性化的人工培养基发展，从而深化对肠道微生态的理解并为临床转化提供基础。</summary>
+    <title>于人粪便滤液用于肠道菌群中难培养微生物培养的研究</title>
+    <updated>2026-04-01T07:36:04.443Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -150,8 +168,8 @@
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
     <category term="抽象研究" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1%E7%A0%94%E7%A9%B6/"/>
-    <category term="医患沟通" scheme="https://www.rubbish.press/tags/%E5%8C%BB%E6%82%A3%E6%B2%9F%E9%80%9A/"/>
     <category term="肠道菌群" scheme="https://www.rubbish.press/tags/%E8%82%A0%E9%81%93%E8%8F%8C%E7%BE%A4/"/>
+    <category term="医患沟通" scheme="https://www.rubbish.press/tags/%E5%8C%BB%E6%82%A3%E6%B2%9F%E9%80%9A/"/>
     <category term="HPA轴" scheme="https://www.rubbish.press/tags/HPA%E8%BD%B4/"/>
     <category term="便秘" scheme="https://www.rubbish.press/tags/%E4%BE%BF%E7%A7%98/"/>
     <category term="神经内分泌" scheme="https://www.rubbish.press/tags/%E7%A5%9E%E7%BB%8F%E5%86%85%E5%88%86%E6%B3%8C/"/>
@@ -364,24 +382,5 @@
     <summary>**摘要：**   本文以晋景公“如厕陷而卒”的记载为切入点，结合生业考古与多学科方法，探讨春秋时期晋国宫廷物质生活。通过分析晋南地区植物与动物考古遗存，还原其以粟黍为主、猪牛为核心的饮食结构；依托文献考证贵族宴席的礼仪规范与食物构成。同时，借助秦汉厕所遗址（如辽阳三道壕）的结构特征，反推先秦圂厕的物质组成。研究发现，先秦贵族圂厕中可能包含未消化完全的谷物残渣、家畜骨骼碎片及加工后的植物纤维，反映饮食结构与卫生实践。本文为揭示春秋晋国贵族饮食文化、生业模式及早期卫生设施发展提供了新视角，强调跨学科整合对填补先秦考古空白的重要性。</summary>
     <title>如厕陷而卒：生业考古视野下晋景公圂厕遗迹物质包含物的推测与分析</title>
     <updated>2026-03-29T09:18:26.404Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="科研灌水" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E7%81%8C%E6%B0%B4/"/>
-    <category term="全球洋流" scheme="https://www.rubbish.press/tags/%E5%85%A8%E7%90%83%E6%B4%8B%E6%B5%81/"/>
-    <category term="学术流体动力学" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E6%B5%81%E4%BD%93%E5%8A%A8%E5%8A%9B%E5%AD%A6/"/>
-    <category term="论文份额" scheme="https://www.rubbish.press/tags/%E8%AE%BA%E6%96%87%E4%BB%BD%E9%A2%9D/"/>
-    <category term="漂移向量" scheme="https://www.rubbish.press/tags/%E6%BC%82%E7%A7%BB%E5%90%91%E9%87%8F/"/>
-    <category term="南大洋" scheme="https://www.rubbish.press/tags/%E5%8D%97%E5%A4%A7%E6%B4%8B/"/>
-    <id>https://www.rubbish.press/posts/49584.html</id>
-    <link href="https://www.rubbish.press/posts/49584.html"/>
-    <published>2026-03-29T08:29:52.203Z</published>
-    <summary>**摘要**   本文探讨了全球科研产出（尤其是被视作“科研灌水”的论文）在地理空间中的宏观流动模式。基于OpenAlex数据库约2000篇论文样本，研究通过计算各国论文份额的月度变化Δshare，结合地理坐标构建了全球科研影响力的漂移向量（academic drift vector），以刻画科研重心的移动方向与强度。分析发现，该漂移呈现显著的东西向摆动及周期性回流，形成类似潮汐振荡的结构。进一步对比四大洋系统洋流方向，结果显示科研漂移与洋流在统计上存在相似结构：南大洋系统匹配度最高（51.1%），且显著高于其他海洋（p=0.049）；美国论文波动标准差显著更大（p=0.001），表明其可能扮演类似潮汐引力源的主导角色。研究首次提出“学术流体动力学”概念框架，将论文视为在学术生态中生成、扩散与沉降的微观水体，揭示全球科研体系具有类海洋环流的动态特征。最终无人引用的研究或在南大洋般的学术深海中完成沉降，为理解科研分布提供了新视角。</summary>
-    <title>科研灌水究竟流向何方？——基于论文份额漂移与全球洋流方向匹配的定量研究</title>
-    <updated>2026-03-29T08:37:54.931Z</updated>
   </entry>
 </feed>
