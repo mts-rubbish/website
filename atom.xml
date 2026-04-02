@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-02T06:43:05.881Z</updated>
+  <updated>2026-04-02T06:49:38.028Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="爽文" scheme="https://www.rubbish.press/categories/%E7%88%BD%E6%96%87/"/>
+    <category term="硕博生活" scheme="https://www.rubbish.press/tags/%E7%A1%95%E5%8D%9A%E7%94%9F%E6%B4%BB/"/>
+    <category term="高压力" scheme="https://www.rubbish.press/tags/%E9%AB%98%E5%8E%8B%E5%8A%9B/"/>
+    <category term="不可能三角" scheme="https://www.rubbish.press/tags/%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%B8%89%E8%A7%92/"/>
+    <category term="精神健康" scheme="https://www.rubbish.press/tags/%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7/"/>
+    <category term="不良嗜好" scheme="https://www.rubbish.press/tags/%E4%B8%8D%E8%89%AF%E5%97%9C%E5%A5%BD/"/>
+    <id>https://www.rubbish.press/posts/35316.html</id>
+    <link href="https://www.rubbish.press/posts/35316.html"/>
+    <published>2026-04-02T06:46:10.423Z</published>
+    <summary>**摘要**   本研究基于对硕博生的深度访谈与案例研究，提出“高压力情境下不可能三角理论”，揭示其在极端压力下维持精神稳定与无不良嗜好难以兼得的困境。研究识别出五类典型应对模式（神算子、酒蒙子、药罐子、老烟枪、体育生），均属低成本、即时的情绪缓冲策略。实证显示该理论具有良好信效度与解释力，但交叉维度仍存未解之谜。作者呼吁优先规避高压环境，或为其保留非世俗定义的自我空间，以避免心理崩溃。关键词：硕博生活；压力应对；不可能三角；心理健康。</summary>
+    <title>高压力情境下不可能三角理论：一项基于当代硕博生生活的实证案例研究</title>
+    <updated>2026-04-02T06:49:38.028Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -365,23 +383,5 @@
     <summary>**摘要**   本文通过医学与神话结合的视角，剖析天庭御前侍卫“千里眼”因长期超负荷工作导致的严重视力障碍。尽管其能清晰观测十万八千里外的景物（如妖猴洗澡），却在近景视觉（0-100米）中完全失明，表现为撞柱、踩轮等事故频发，日常生活自理能力全面崩溃。研究通过凌霄宝殿避障测试、蟠桃会进食障碍评估等实证，证实其属“一级物理盲人”，并建议天庭残联为其颁发残疾证、配备导盲神顺风耳，并拨款定制超级老花镜以改善基本生存能力。该案例为完善天庭《神仙工伤保险条例》提供了荒诞却严谨的参考依据，同时呼吁关注神话角色背后的健康权益保障。</summary>
     <title>南天门安保人员“千里眼”的极端老花综合征与一级伤残评定报告</title>
     <updated>2026-03-29T12:15:14.245Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="跨学科研究" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E5%AD%A6%E7%A7%91%E7%A0%94%E7%A9%B6/"/>
-    <category term="生气理论" scheme="https://www.rubbish.press/tags/%E7%94%9F%E6%B0%94%E7%90%86%E8%AE%BA/"/>
-    <category term="信息场" scheme="https://www.rubbish.press/tags/%E4%BF%A1%E6%81%AF%E5%9C%BA/"/>
-    <category term="环境感知" scheme="https://www.rubbish.press/tags/%E7%8E%AF%E5%A2%83%E6%84%9F%E7%9F%A5/"/>
-    <category term="场所依恋" scheme="https://www.rubbish.press/tags/%E5%9C%BA%E6%89%80%E4%BE%9D%E6%81%8B/"/>
-    <id>https://www.rubbish.press/posts/17247.html</id>
-    <link href="https://www.rubbish.press/posts/17247.html"/>
-    <published>2026-03-29T11:56:47.844Z</published>
-    <summary>**摘要**   本文提出“生气理论”（Vitality Field Theory），旨在解释长期无人居住空间虽物理条件良好却仍令人感到“死气沉沉”的普遍现象。该理论认为，生命体在活动中持续释放一种可感知的信息-能量复合场——“生气”，其密度、扩散与吸附行为受材料特性及人群特征影响。通过建立定量模型（包括产生-耗散方程、频率匹配机制与材料动力学），理论揭示了生气半衰期、临界阈值等可测参数，并预测了空间氛围的时间演化规律。研究表明，该框架比主流科学碎片化解释更具自洽性，为环境感知研究提供了跨学科新范式，尤其适用于场所依恋与主观空间体验的整合分析。</summary>
-    <title>生气理论：一个关于生命-环境信息场交互的完整框架</title>
-    <updated>2026-03-29T12:04:34.707Z</updated>
   </entry>
 </feed>
