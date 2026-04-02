@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-02T06:49:38.028Z</updated>
+  <updated>2026-04-02T07:03:47.740Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
+    <category term="科研焦虑" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E7%84%A6%E8%99%91/"/>
+    <category term="线性回归" scheme="https://www.rubbish.press/tags/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/"/>
+    <category term="包容度" scheme="https://www.rubbish.press/tags/%E5%8C%85%E5%AE%B9%E5%BA%A6/"/>
+    <category term="拟合优度" scheme="https://www.rubbish.press/tags/%E6%8B%9F%E5%90%88%E4%BC%98%E5%BA%A6/"/>
+    <category term="视觉回归" scheme="https://www.rubbish.press/tags/%E8%A7%86%E8%A7%89%E5%9B%9E%E5%BD%92/"/>
+    <id>https://www.rubbish.press/posts/32106.html</id>
+    <link href="https://www.rubbish.press/posts/32106.html"/>
+    <published>2026-04-02T06:56:29.431Z</published>
+    <summary>**摘要**：   本文针对传统线性回归因数据离散性导致拟合优度（R²）低、引发“拟合焦虑”的问题，提出“包容增强型拟合”（IEF）方法。该方法受量子概率云启发，主张用具有宽度（包容度 *I*）的带状拟合线替代零宽度的理想直线，以视觉化方式接纳数据噪声。通过蒙特卡洛模拟1000组含噪数据集，研究发现：当包容度达26.4%时，平均R²可超0.85，实现“看起来完美”的统计平衡；而*I*=1时，图表完全被黑色覆盖，RSS强制归零，达成逻辑上的绝对拟合。研究认为，任何微弱相关的数据均可通过此模型被视为完美拟合，从而为低质量实验数据提供新的发表策略。结论强调，科研应从“剔除残差”转向“包容多元性”，将离群点视为自然复杂性的体现而非缺陷，倡导以宽容心态拥抱混沌世界。</summary>
+    <title>一种基于拟合线包容度的线性回归优化模型</title>
+    <updated>2026-04-02T07:03:47.740Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -364,24 +382,5 @@
     <summary>**摘要**：   本研究探讨《APEX英雄》中不同交火距离对玩家情绪价值的影响，提出“马桶塞曲线”模型：0-5米贴脸交火带来高方差体验——要么瞬间击杀获得巅峰快感，要么白给引发强烈挫败感；50-150米滋崩（充能步枪）区则提供稳定多巴胺分泌的“养生式快乐”。研究采用铂金/黄金路人局数据，以血压波动、语音辱骂强度等量化情绪指标，发现远距离滋崩的快乐转化率高于贴脸击杀。结论建议优先使用滋崩类武器以提升游戏愉悦感，并指出该现象源于玩家心理预期与实际枪法水平的错位。关键词：滋崩、情绪价值、马桶塞曲线、APEX。</summary>
     <title>论APEX玩家交火距离与情绪价值的关系</title>
     <updated>2026-03-29T12:20:57.510Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="千里眼" scheme="https://www.rubbish.press/tags/%E5%8D%83%E9%87%8C%E7%9C%BC/"/>
-    <category term="工伤评定" scheme="https://www.rubbish.press/tags/%E5%B7%A5%E4%BC%A4%E8%AF%84%E5%AE%9A/"/>
-    <category term="天庭医学" scheme="https://www.rubbish.press/tags/%E5%A4%A9%E5%BA%AD%E5%8C%BB%E5%AD%A6/"/>
-    <category term="老花眼" scheme="https://www.rubbish.press/tags/%E8%80%81%E8%8A%B1%E7%9C%BC/"/>
-    <category term="视力残疾" scheme="https://www.rubbish.press/tags/%E8%A7%86%E5%8A%9B%E6%AE%8B%E7%96%BE/"/>
-    <category term="西游记" scheme="https://www.rubbish.press/tags/%E8%A5%BF%E6%B8%B8%E8%AE%B0/"/>
-    <id>https://www.rubbish.press/posts/38323.html</id>
-    <link href="https://www.rubbish.press/posts/38323.html"/>
-    <published>2026-03-29T12:10:08.182Z</published>
-    <summary>**摘要**   本文通过医学与神话结合的视角，剖析天庭御前侍卫“千里眼”因长期超负荷工作导致的严重视力障碍。尽管其能清晰观测十万八千里外的景物（如妖猴洗澡），却在近景视觉（0-100米）中完全失明，表现为撞柱、踩轮等事故频发，日常生活自理能力全面崩溃。研究通过凌霄宝殿避障测试、蟠桃会进食障碍评估等实证，证实其属“一级物理盲人”，并建议天庭残联为其颁发残疾证、配备导盲神顺风耳，并拨款定制超级老花镜以改善基本生存能力。该案例为完善天庭《神仙工伤保险条例》提供了荒诞却严谨的参考依据，同时呼吁关注神话角色背后的健康权益保障。</summary>
-    <title>南天门安保人员“千里眼”的极端老花综合征与一级伤残评定报告</title>
-    <updated>2026-03-29T12:15:14.245Z</updated>
   </entry>
 </feed>
