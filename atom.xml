@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-02T03:39:51.063Z</updated>
+  <updated>2026-04-02T06:12:06.902Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="柱间细胞" scheme="https://www.rubbish.press/tags/%E6%9F%B1%E9%97%B4%E7%BB%86%E8%83%9E/"/>
+    <category term="细胞培养" scheme="https://www.rubbish.press/tags/%E7%BB%86%E8%83%9E%E5%9F%B9%E5%85%BB/"/>
+    <category term="外道魔像" scheme="https://www.rubbish.press/tags/%E5%A4%96%E9%81%93%E9%AD%94%E5%83%8F/"/>
+    <category term="火影忍者" scheme="https://www.rubbish.press/tags/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85/"/>
+    <category term="体外培养" scheme="https://www.rubbish.press/tags/%E4%BD%93%E5%A4%96%E5%9F%B9%E5%85%BB/"/>
+    <id>https://www.rubbish.press/posts/22906.html</id>
+    <link href="https://www.rubbish.press/posts/22906.html"/>
+    <published>2026-04-02T06:06:19.443Z</published>
+    <summary>**摘要**：   本研究针对柱间细胞依赖活体宿主培养、难以标准化扩增的问题，首次建立了一套体外培养体系。通过优化培养基（含外道魔像基质提取物GSME）、使用忍者组织基质胶增强黏附，并引入免疫共培养与封印术稳定场（SSF）抑制细胞暴走，成功实现了柱间细胞的长期稳定传代。结果表明，适度GSME可维持细胞活性，但过量易致失控；联合免疫调控与查克拉约束能显著提升培养稳定性。该体系突破了传统人体依赖模式，为柱间细胞的机制研究及再生医疗应用提供了可重复的技术平台，推动了战略生物资源的规范化研究。（199字）</summary>
+    <title>基于外道魔像基质提取物的柱间细胞体外培养体系构建与优化</title>
+    <updated>2026-04-02T06:12:06.902Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -365,23 +383,5 @@
     <summary>**摘要**   本文以《火影忍者》忍界体系为背景，探讨生态学知识在极端军事化环境中的适用性。研究将第四次忍界大战视为“战争型生态系统”，分析个体价值如何由战斗能力主导。尽管生态学博士背景的漩涡鸣人具备系统思维与环境调控理念，但在高强度战争中，其知识因无法快速转化为战术优势而作用有限。然而，战后重建阶段，其专业能力可应用于尾兽栖息地保护、战场生态修复等长期规划。结论指出，在即时冲突中知识型职业边缘化，但在和平时期具战略价值，为动漫叙事中知识与社会权力的关系提供了新视角。关键词：火影忍者；生态学；忍界大战；战争生态。</summary>
     <title>如果鸣人学习了生态学：知识型忍者在高强度战争中的失效机制</title>
     <updated>2026-03-29T11:51:38.798Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="岛屿生物地理平衡理论" scheme="https://www.rubbish.press/tags/%E5%B2%9B%E5%B1%BF%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%86%E5%B9%B3%E8%A1%A1%E7%90%86%E8%AE%BA/"/>
-    <category term="天体生物学" scheme="https://www.rubbish.press/tags/%E5%A4%A9%E4%BD%93%E7%94%9F%E7%89%A9%E5%AD%A6/"/>
-    <category term="行星开发" scheme="https://www.rubbish.press/tags/%E8%A1%8C%E6%98%9F%E5%BC%80%E5%8F%91/"/>
-    <category term="生态保护" scheme="https://www.rubbish.press/tags/%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4/"/>
-    <category term="星际殖民" scheme="https://www.rubbish.press/tags/%E6%98%9F%E9%99%85%E6%AE%96%E6%B0%91/"/>
-    <id>https://www.rubbish.press/posts/61336.html</id>
-    <link href="https://www.rubbish.press/posts/61336.html"/>
-    <published>2026-03-29T11:33:06.988Z</published>
-    <summary>**摘要：**   本文探讨将岛屿生物地理学理论应用于天体生物学，以应对地球未来可能不再宜居的挑战。作者提出“太空岛屿假设”，将行星视为漂浮在宇宙海洋中的岛屿，人类改造区视为亚岛屿，并类比岛屿生态过程分析行星上生物群落的动态变化。基于岛屿生物地理平衡理论（ETIB），物种迁入率与灭绝率决定群落平衡状态，进而影响行星可承载物种数的估算、生态系统建立及保护策略。文章强调需修正传统理论以适应星际环境，如考虑人类航道的“空间距离”和亚岛屿的分布。尽管该假设缺乏实证，但为星际殖民规划提供了生物地理学视角，尤其在入侵物种管理和系统保护设计中具潜在应用价值。</summary>
-    <title>应用岛屿生物地理学规划行星开发与保护</title>
-    <updated>2026-03-29T11:40:33.248Z</updated>
   </entry>
 </feed>
