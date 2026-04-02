@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-02T07:03:47.740Z</updated>
+  <updated>2026-04-02T09:07:43.330Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="扎根理论" scheme="https://www.rubbish.press/tags/%E6%89%8E%E6%A0%B9%E7%90%86%E8%AE%BA/"/>
+    <category term="百合叙事" scheme="https://www.rubbish.press/tags/%E7%99%BE%E5%90%88%E5%8F%99%E4%BA%8B/"/>
+    <category term="情感共生" scheme="https://www.rubbish.press/tags/%E6%83%85%E6%84%9F%E5%85%B1%E7%94%9F/"/>
+    <category term="LLM辅助编码" scheme="https://www.rubbish.press/tags/LLM%E8%BE%85%E5%8A%A9%E7%BC%96%E7%A0%81/"/>
+    <category term="轻小说" scheme="https://www.rubbish.press/tags/%E8%BD%BB%E5%B0%8F%E8%AF%B4/"/>
+    <category term="超辉夜姬" scheme="https://www.rubbish.press/tags/%E8%B6%85%E8%BE%89%E5%A4%9C%E5%A7%AC/"/>
+    <id>https://www.rubbish.press/posts/36072.html</id>
+    <link href="https://www.rubbish.press/posts/36072.html"/>
+    <published>2026-04-02T08:55:35.896Z</published>
+    <summary>**摘要**    《超辉夜姬！》作为百合轻小说的典型案例，其情感共生机制长期缺乏系统性学术分析。本研究采用建构主义扎根理论与大语言模型（LLM）辅助编码技术，对约8万字中文译本进行文本分析，提取30个核心概念并归纳为四个主轴范畴：（1）**无法拒绝的入侵者**；（2）**共犯式的温柔悖论**；（3）**时间洪流中的唯一坐标**；（4）**神性崩塌后的体温渴求**。研究识别出核心范畴“时间洪流中的唯一坐标”，提出百合叙事的情感演化模型：以命运级相遇为起点，通过日常照护瓦解防线、建立共犯契约，最终实现跨时间维度的灵魂锚定与双向救赎。方法论上探索了LLM在质性研究中的可行性，同时揭示虚构角色引发真实感动的情感逻辑——即使冰冷分析，爱仍是宇宙中最暴力的温柔。</summary>
+    <title>《超辉夜姬！》中的“时间洪流中的唯一坐标”：基于LLM辅助扎根理论的百合轻小说情感共生机制研究</title>
+    <updated>2026-04-02T09:07:43.330Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -365,22 +384,5 @@
     <summary>**摘要**    本文探讨了在高压环境下，研究生群体中常见嗜好（如烟草、酒精、麻将等）的非嗜好属性及其适应性功能。研究发现，这些嗜好已异化为社交工具（如递烟破冰、敬酒表达诉求）、经济平衡器（低成本高满足感）、压力代偿机制（如吸烟缓解焦虑、饮酒激发灵感）及时间管理工具（如“五分钟逃离效应”）。其中，烟草的“五分钟逃离效应”、酒精的“勇气疗法”和麻将的“去中心化民主”被首次提出。研究采用参与式观察、深度访谈及伪定量分析等方法，揭示研究生嗜好的范式转移——从“物质成瘾”转向“社交依赖”，并呈现明显的学科与性别差异。结论强调，这些嗜好在特定生态中具有合理性，可为研究生提供心理补偿与现实替代体验。</summary>
     <title>基于非系统性观察的研究生群体多元嗜好社会学及功能异化分析——以Tobacco, Alcohol and Mahjong为例</title>
     <updated>2026-03-29T12:31:03.471Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="APEX英雄" scheme="https://www.rubbish.press/tags/APEX%E8%8B%B1%E9%9B%84/"/>
-    <category term="滋崩" scheme="https://www.rubbish.press/tags/%E6%BB%8B%E5%B4%A9/"/>
-    <category term="情绪价值" scheme="https://www.rubbish.press/tags/%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC/"/>
-    <category term="游戏心理学" scheme="https://www.rubbish.press/tags/%E6%B8%B8%E6%88%8F%E5%BF%83%E7%90%86%E5%AD%A6/"/>
-    <id>https://www.rubbish.press/posts/30020.html</id>
-    <link href="https://www.rubbish.press/posts/30020.html"/>
-    <published>2026-03-29T12:17:41.895Z</published>
-    <summary>**摘要**：   本研究探讨《APEX英雄》中不同交火距离对玩家情绪价值的影响，提出“马桶塞曲线”模型：0-5米贴脸交火带来高方差体验——要么瞬间击杀获得巅峰快感，要么白给引发强烈挫败感；50-150米滋崩（充能步枪）区则提供稳定多巴胺分泌的“养生式快乐”。研究采用铂金/黄金路人局数据，以血压波动、语音辱骂强度等量化情绪指标，发现远距离滋崩的快乐转化率高于贴脸击杀。结论建议优先使用滋崩类武器以提升游戏愉悦感，并指出该现象源于玩家心理预期与实际枪法水平的错位。关键词：滋崩、情绪价值、马桶塞曲线、APEX。</summary>
-    <title>论APEX玩家交火距离与情绪价值的关系</title>
-    <updated>2026-03-29T12:20:57.510Z</updated>
   </entry>
 </feed>
