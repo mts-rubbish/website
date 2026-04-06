@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-02T09:07:43.330Z</updated>
+  <updated>2026-04-06T13:25:00.935Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="小鼠" scheme="https://www.rubbish.press/tags/%E5%B0%8F%E9%BC%A0/"/>
+    <category term="海马体" scheme="https://www.rubbish.press/tags/%E6%B5%B7%E9%A9%AC%E4%BD%93/"/>
+    <category term="光纤测量" scheme="https://www.rubbish.press/tags/%E5%85%89%E7%BA%A4%E6%B5%8B%E9%87%8F/"/>
+    <category term="电极植入" scheme="https://www.rubbish.press/tags/%E7%94%B5%E6%9E%81%E6%A4%8D%E5%85%A5/"/>
+    <category term="组织学" scheme="https://www.rubbish.press/tags/%E7%BB%84%E7%BB%87%E5%AD%A6/"/>
+    <category term="形态学" scheme="https://www.rubbish.press/tags/%E5%BD%A2%E6%80%81%E5%AD%A6/"/>
+    <id>https://www.rubbish.press/posts/6459.html</id>
+    <link href="https://www.rubbish.press/posts/6459.html"/>
+    <published>2026-04-06T13:18:07.043Z</published>
+    <summary>**摘要**   本研究通过长期植入光纤探针记录小鼠双侧海马体（dCA1）神经元活动时，意外发现：双侧各植入1-2根直径200 μm光纤、持续超过12周的小鼠，在组织学检查中呈现显著的海马体形态学改变——背腹径压缩、整体结构扁平化。通过排除切片方向偏差和颅外机械挤压等混杂因素后，该现象仍稳定复现，且单侧植入对照组未见类似变化，表明变形与双侧多根光纤长期植入相关。研究首次揭示此类植入设备可能对脑组织结构造成不可逆的宏观形变，提示神经科学在体研究中需重视植入物对脑组织的潜在影响。作者强调此发现属偶然（serendipity），机制及功能后果尚待进一步探索。    （字数：198）</summary>
+    <title>双侧植入光纤或导致小鼠海马体发生形态学改变</title>
+    <updated>2026-04-06T13:25:00.935Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -364,25 +383,5 @@
     <summary>本文是一篇讽刺性学术文章，核心观点为“上班”对劳动者身心健康造成严重危害。作者通过构建“时间代换模型”、分析“并发效应”（如强制起床、通勤压力、深夜娱乐中断）以及实证“摸鱼”行为可显著缓解工作带来的负面情绪与精力消耗，提出“摸鱼”是保护打工人的有效手段。结论强调上班会系统性剥夺时间与自主性，建议劳动者及时采取自救措施。全文以戏谑笔调呈现，实为对现代职场文化的批判。</summary>
     <title>上班！一个绝对不能忽视的隐形杀手！</title>
     <updated>2026-03-30T11:34:45.547Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="研究生" scheme="https://www.rubbish.press/tags/%E7%A0%94%E7%A9%B6%E7%94%9F/"/>
-    <category term="嗜好异化" scheme="https://www.rubbish.press/tags/%E5%97%9C%E5%A5%BD%E5%BC%82%E5%8C%96/"/>
-    <category term="社交货币" scheme="https://www.rubbish.press/tags/%E7%A4%BE%E4%BA%A4%E8%B4%A7%E5%B8%81/"/>
-    <category term="压力代偿" scheme="https://www.rubbish.press/tags/%E5%8E%8B%E5%8A%9B%E4%BB%A3%E5%81%BF/"/>
-    <category term="麻将社会学" scheme="https://www.rubbish.press/tags/%E9%BA%BB%E5%B0%86%E7%A4%BE%E4%BC%9A%E5%AD%A6/"/>
-    <category term="烟草" scheme="https://www.rubbish.press/tags/%E7%83%9F%E8%8D%89/"/>
-    <category term="酒精" scheme="https://www.rubbish.press/tags/%E9%85%92%E7%B2%BE/"/>
-    <id>https://www.rubbish.press/posts/23592.html</id>
-    <link href="https://www.rubbish.press/posts/23592.html"/>
-    <published>2026-03-29T12:23:38.626Z</published>
-    <summary>**摘要**    本文探讨了在高压环境下，研究生群体中常见嗜好（如烟草、酒精、麻将等）的非嗜好属性及其适应性功能。研究发现，这些嗜好已异化为社交工具（如递烟破冰、敬酒表达诉求）、经济平衡器（低成本高满足感）、压力代偿机制（如吸烟缓解焦虑、饮酒激发灵感）及时间管理工具（如“五分钟逃离效应”）。其中，烟草的“五分钟逃离效应”、酒精的“勇气疗法”和麻将的“去中心化民主”被首次提出。研究采用参与式观察、深度访谈及伪定量分析等方法，揭示研究生嗜好的范式转移——从“物质成瘾”转向“社交依赖”，并呈现明显的学科与性别差异。结论强调，这些嗜好在特定生态中具有合理性，可为研究生提供心理补偿与现实替代体验。</summary>
-    <title>基于非系统性观察的研究生群体多元嗜好社会学及功能异化分析——以Tobacco, Alcohol and Mahjong为例</title>
-    <updated>2026-03-29T12:31:03.471Z</updated>
   </entry>
 </feed>
