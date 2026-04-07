@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-07T07:08:19.068Z</updated>
+  <updated>2026-04-07T08:29:51.386Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
+    <category term="AI痕迹" scheme="https://www.rubbish.press/tags/AI%E7%97%95%E8%BF%B9/"/>
+    <category term="创作主体" scheme="https://www.rubbish.press/tags/%E5%88%9B%E4%BD%9C%E4%B8%BB%E4%BD%93/"/>
+    <category term="人机协作" scheme="https://www.rubbish.press/tags/%E4%BA%BA%E6%9C%BA%E5%8D%8F%E4%BD%9C/"/>
+    <category term="技术与社会" scheme="https://www.rubbish.press/tags/%E6%8A%80%E6%9C%AF%E4%B8%8E%E7%A4%BE%E4%BC%9A/"/>
+    <category term="图灵陷阱" scheme="https://www.rubbish.press/tags/%E5%9B%BE%E7%81%B5%E9%99%B7%E9%98%B1/"/>
+    <category term="反身性自我民族志" scheme="https://www.rubbish.press/tags/%E5%8F%8D%E8%BA%AB%E6%80%A7%E8%87%AA%E6%88%91%E6%B0%91%E6%97%8F%E5%BF%97/"/>
+    <id>https://www.rubbish.press/posts/55050.html</id>
+    <link href="https://www.rubbish.press/posts/55050.html"/>
+    <published>2026-04-07T07:21:15.048Z</published>
+    <summary>**摘要**   本文以“人工修改反而导致AI检测率上升”这一反直觉现象为切入点，揭示当前AI创作评价体系的深层矛盾：检测技术局限性与政策刚性要求之间的结构性错位。研究发现，“AI痕迹严重”是技术过渡期的社会建构而非客观质量指标；降AI率的必要性因场景而异——过程导向领域（如学术）需妥协于现有制度，结果导向领域（如商业文案）则应追求效率与价值平衡。作者指出，当AI写作能力普遍超越人类时，个体陷入“图灵陷阱”：模仿AI所理解的“人类”反而被识别为AI。因此，解决方案不在于让人类“写得更像人类”，而在于推动评价标准从“工具使用”转向“价值创造”。本文建议，随着技术普及与认知更新，应逐步去污名化“AI痕迹”，建立适配人机协作时代的新评价体系。</summary>
+    <title>我是AI还是AI是我？——论AI痕迹、创作主体与一个时代的认知错位</title>
+    <updated>2026-04-07T08:29:51.386Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -365,24 +384,5 @@
     <summary>**摘要**   本文探讨了在经济系统转型期，宏观压力如何通过“牺牲叙事”转移至微观个体。通过对比20世纪90年代“下岗潮”与当代“学术扩张”现象，作者指出二者均采用“缓冲阀”机制：个体以高强度压力（如低薪、延迟社会化）换取宏观指标稳定，并将此重构为“吃苦即奉献”“读博即享福”的崇高使命。研究发现，读博等教育行为兼具多重功能——平滑就业数据、拉动消费、提供廉价科研劳动力，而艰苦环境则被话语体系美化为“新时代担当”。文章揭示，这种结构性牺牲实为维持系统稳定的低成本方案，但长期可能掩盖真实代价。结论强调，每一代人都被赋予特定“使命”，需在肯定其历史作用的同时反思可持续性。</summary>
     <title>旧数据新故事：从“下岗潮”到“读博潮”的奉献精神与宏大叙事</title>
     <updated>2026-03-29T13:11:20.073Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="博弈论" scheme="https://www.rubbish.press/tags/%E5%8D%9A%E5%BC%88%E8%AE%BA/"/>
-    <category term="机械键盘" scheme="https://www.rubbish.press/tags/%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98/"/>
-    <category term="青轴" scheme="https://www.rubbish.press/tags/%E9%9D%92%E8%BD%B4/"/>
-    <category term="声学惩罚" scheme="https://www.rubbish.press/tags/%E5%A3%B0%E5%AD%A6%E6%83%A9%E7%BD%9A/"/>
-    <category term="多智能体" scheme="https://www.rubbish.press/tags/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93/"/>
-    <category term="实验室生态" scheme="https://www.rubbish.press/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%94%9F%E6%80%81/"/>
-    <id>https://www.rubbish.press/posts/16597.html</id>
-    <link href="https://www.rubbish.press/posts/16597.html"/>
-    <published>2026-03-29T12:42:25.799Z</published>
-    <summary>**摘要**   本文探讨机械键盘轴体选择对高密度学术实验室中个体生产力与集体声学环境的影响。研究构建多目标优化模型，量化生物力学奖励（如触发压力、段落反馈）与声学惩罚（噪音干扰）之间的权衡关系。通过博弈论框架分析孤立智能体的效用函数，揭示个体追求极致触觉反馈可能导致“公地悲剧”——即个人最优选择与团队声学和谐冲突。数据集涵盖多种轴体的效用评分、声学指标（分贝）及视觉激励值。结论表明：在个人舒适度与全局环境可持续性之间存在极值平衡点。建议科研机构采用该模型指导设备选型，以兼顾人体工学效率与实验室声学生态，最终保障科研协作的长期稳定。关键词：人机交互；多智能体行为；博弈论。</summary>
-    <title>科研环境下的键盘选择：对青轴使用者施加动能干预</title>
-    <updated>2026-03-29T12:50:20.026Z</updated>
   </entry>
 </feed>
