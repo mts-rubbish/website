@@ -10,7 +10,24 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-07T10:01:31.696Z</updated>
+  <updated>2026-04-07T10:12:30.076Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="第一印象" scheme="https://www.rubbish.press/tags/%E7%AC%AC%E4%B8%80%E5%8D%B0%E8%B1%A1/"/>
+    <category term="锚定效应" scheme="https://www.rubbish.press/tags/%E9%94%9A%E5%AE%9A%E6%95%88%E5%BA%94/"/>
+    <category term="验证性偏见" scheme="https://www.rubbish.press/tags/%E9%AA%8C%E8%AF%81%E6%80%A7%E5%81%8F%E8%A7%81/"/>
+    <category term="直觉" scheme="https://www.rubbish.press/tags/%E7%9B%B4%E8%A7%89/"/>
+    <category term="认知闭环" scheme="https://www.rubbish.press/tags/%E8%AE%A4%E7%9F%A5%E9%97%AD%E7%8E%AF/"/>
+    <id>https://www.rubbish.press/posts/20918.html</id>
+    <link href="https://www.rubbish.press/posts/20918.html"/>
+    <published>2026-04-07T10:03:50.172Z</published>
+    <summary>**摘要**：   本文探讨第一印象在人际认知中的核心作用，指出其通过**锚定效应**与**验证性偏见**形成认知闭环，既高效保护个体，也可能关闭认知的开放性。人虽多元立体，但认知天然片面，易陷入自我确认的循环。文章强调直觉作为防御机制的价值，但其边界在于仅反映特定情境下的感受，而非人的全部。作者提出“**弹性认知**”的交往姿态：第一印象是“入场券”而非“判决书”，应保持警惕的同时为对方保留改变的可能。最终，认识他人需在与自身偏见的持续对话中，平衡直觉警觉与认知开放性，接纳片面的必然性与变化的可能。</summary>
+    <title>那个你第一眼就判了“死刑”的人，后来怎么样了？——关于人际认知的锚定、直觉与片面性困境</title>
+    <updated>2026-04-07T10:12:30.076Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -365,23 +382,5 @@
     <summary>**摘要**：   本文是一篇以娱乐为目的的改编文章，基于作者本科毕业设计《行星齿轮……的探究》的真实实验结果。研究通过“胡乱设计”开发了一款行星齿轮式抛光工具，其材料去除轮廓经归一化后呈现出类高斯型特征，但仿真结果与实际存在偏差。有趣的是，作者发现该去除函数轮廓与富士山高度相似，遂将其命名为“富士山型去除函数”。尽管该结果看似创新，但作者强调其核心作用仅为帮助自己顺利毕业，不具备学术价值或复现性，且研究过程缺乏严谨性。文章旨在调侃科研中形式主义与偶然性，并致谢母校SUSTech。</summary>
     <title>我的去除函数像座富士山</title>
     <updated>2026-03-30T12:39:42.537Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="学术写作" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E5%86%99%E4%BD%9C/"/>
-    <category term="生存策略" scheme="https://www.rubbish.press/tags/%E7%94%9F%E5%AD%98%E7%AD%96%E7%95%A5/"/>
-    <category term="组会" scheme="https://www.rubbish.press/tags/%E7%BB%84%E4%BC%9A/"/>
-    <category term="导师" scheme="https://www.rubbish.press/tags/%E5%AF%BC%E5%B8%88/"/>
-    <category term="科研汇报" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E6%B1%87%E6%8A%A5/"/>
-    <id>https://www.rubbish.press/posts/53590.html</id>
-    <link href="https://www.rubbish.press/posts/53590.html"/>
-    <published>2026-03-30T12:25:29.165Z</published>
-    <summary>**摘要**   本文基于作者多年研究生经历，探讨组会中导师对不同汇报内容（文献、实验、学术写作）的反应模式，旨在帮助研究生减少批评、改善师生关系。研究发现：无论汇报质量如何，老师批评概率较高；文献汇报需平衡难度以避免过高期望；实验进展应持续优化以积累成果；初稿写作宜寻求师兄师姐指导并自主决策。建议多读文献、虚心改进、合理求助，以提升组会表现与科研效率，最终实现“无痛毕业”。</summary>
-    <title>基于组会环境下的老师行为的分析预测</title>
-    <updated>2026-03-30T12:28:53.420Z</updated>
   </entry>
 </feed>
