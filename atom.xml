@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-07T08:33:08.654Z</updated>
+  <updated>2026-04-07T08:47:36.447Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="姓名刻板印象" scheme="https://www.rubbish.press/tags/%E5%A7%93%E5%90%8D%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1/"/>
+    <category term="语音象征" scheme="https://www.rubbish.press/tags/%E8%AF%AD%E9%9F%B3%E8%B1%A1%E5%BE%81/"/>
+    <category term="社会势场" scheme="https://www.rubbish.press/tags/%E7%A4%BE%E4%BC%9A%E5%8A%BF%E5%9C%BA/"/>
+    <category term="自我实现预言" scheme="https://www.rubbish.press/tags/%E8%87%AA%E6%88%91%E5%AE%9E%E7%8E%B0%E9%A2%84%E8%A8%80/"/>
+    <category term="弛豫模型" scheme="https://www.rubbish.press/tags/%E5%BC%9B%E8%B1%AB%E6%A8%A1%E5%9E%8B/"/>
+    <id>https://www.rubbish.press/posts/23967.html</id>
+    <link href="https://www.rubbish.press/posts/23967.html"/>
+    <published>2026-04-07T08:39:44.033Z</published>
+    <summary>**摘要**：   本文从社会物理学视角构建“社会势场”模型，探讨姓名如何影响个体形象与命运。通过分析“冬妮娅”“胡一彪”等典型姓名的语音象征与文化模因，作者指出：（1）姓名通过刻板印象触发社会互动的初始边界条件；（2）其解释力有限，远非决定命运的“主控变量”；（3）个体在成长中持续与社会势场发生“弛豫”，强耦合关系（如家庭、关键事件）常覆盖或重塑姓名的初始影响。模型提出姓名作用为动态过程，受多重变量制约，真正驱动发展的是复杂的社会动力系统。研究为理解姓名效应提供了形式化框架，并反思民间实践的认识论局限：姓名有影响，但非决定性。    （关键词：姓名刻板印象；语音象征；社会势场；自我实现预言；符号互动论）</summary>
+    <title>姓名与形象的“弛豫”效应：你觉得你应该长什么样子？</title>
+    <updated>2026-04-07T08:47:36.447Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -365,24 +383,5 @@
     <summary>**摘要**：   本文以博士申请过程为研究对象，将其建模为一个信息不完全的双边匹配问题，通过构建可复现的模拟框架，系统分析了学生与导师之间的动态策略互动。模型设定学生在多维能力基础上投递简历信号，导师根据学术声望、经费、压榨风险等特征进行筛选，并引入“养鱼”行为（如暂存候选人池）和虚假招生机制以反映现实复杂性。模拟结果显示，随着时间推移，临时匹配增多，中后期频繁出现学生换导师或导师换候选人的现象，导致匹配效率下降。尤其当导师未明确招生计划时，会显著增加学生的申请成本与周期。研究进一步表明，在信息不透明条件下，稳定匹配比例有限，揭示当前博士申请机制存在优化空间。基于此，作者建议建立统一信息发布平台，公开招生计划与筛选标准，以提升整体匹配效率并降低搜寻成本。</summary>
     <title>大师兄为什么还没找到心仪的博导？  ——博士申请市场中的双边筛选与养鱼行为研</title>
     <updated>2026-03-29T13:31:28.041Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="爽文" scheme="https://www.rubbish.press/categories/%E7%88%BD%E6%96%87/"/>
-    <category term="下岗" scheme="https://www.rubbish.press/tags/%E4%B8%8B%E5%B2%97/"/>
-    <category term="读博" scheme="https://www.rubbish.press/tags/%E8%AF%BB%E5%8D%9A/"/>
-    <category term="奉献精神" scheme="https://www.rubbish.press/tags/%E5%A5%89%E7%8C%AE%E7%B2%BE%E7%A5%9E/"/>
-    <category term="宏大叙事" scheme="https://www.rubbish.press/tags/%E5%AE%8F%E5%A4%A7%E5%8F%99%E4%BA%8B/"/>
-    <category term="社会缓冲" scheme="https://www.rubbish.press/tags/%E7%A4%BE%E4%BC%9A%E7%BC%93%E5%86%B2/"/>
-    <category term="结构性压力" scheme="https://www.rubbish.press/tags/%E7%BB%93%E6%9E%84%E6%80%A7%E5%8E%8B%E5%8A%9B/"/>
-    <id>https://www.rubbish.press/posts/48702.html</id>
-    <link href="https://www.rubbish.press/posts/48702.html"/>
-    <published>2026-03-29T13:00:43.359Z</published>
-    <summary>**摘要**   本文探讨了在经济系统转型期，宏观压力如何通过“牺牲叙事”转移至微观个体。通过对比20世纪90年代“下岗潮”与当代“学术扩张”现象，作者指出二者均采用“缓冲阀”机制：个体以高强度压力（如低薪、延迟社会化）换取宏观指标稳定，并将此重构为“吃苦即奉献”“读博即享福”的崇高使命。研究发现，读博等教育行为兼具多重功能——平滑就业数据、拉动消费、提供廉价科研劳动力，而艰苦环境则被话语体系美化为“新时代担当”。文章揭示，这种结构性牺牲实为维持系统稳定的低成本方案，但长期可能掩盖真实代价。结论强调，每一代人都被赋予特定“使命”，需在肯定其历史作用的同时反思可持续性。</summary>
-    <title>旧数据新故事：从“下岗潮”到“读博潮”的奉献精神与宏大叙事</title>
-    <updated>2026-03-29T13:11:20.073Z</updated>
   </entry>
 </feed>
