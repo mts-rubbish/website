@@ -10,7 +10,7 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-07T11:24:11.786Z</updated>
+  <updated>2026-04-07T11:24:32.978Z</updated>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -25,9 +25,9 @@
     <id>https://www.rubbish.press/posts/64220.html</id>
     <link href="https://www.rubbish.press/posts/64220.html"/>
     <published>2026-04-07T11:19:52.163Z</published>
-    <summary>**摘要：**   本文针对当前理工科学术交流中英语霸权导致认知效率低下的问题，提出“元语言”假说，主张融合中文表意文字与英文逻辑结构的优势，构建更高效统一的学术交流工具。通过历史语言学与符号学分析，论证了不同语言在知识表征中的差异化认知效率；并设计基于强化学习的生成模型，将“表意清晰度”与“逻辑严谨性”量化为奖励函数，实验生成示例语言“ChinGlis”。结果表明，该语言在保持逻辑严密的同时显著降低新手学习门槛。研究为打破学术语言壁垒、推动知识民主化提供了理论与技术路径支持。（199字）</summary>
+    <summary>本文探讨当前理工科学术交流中英语单一霸权带来的认知效率问题，提出“元语言”（Metalanguage）假说：通过融合中文表意文字与英文逻辑结构的认知优势，构建更高效的专业术语体系。研究采用强化学习框架，将“表意清晰度”与“逻辑严谨性”量化为奖励函数，训练生成示例语言“ChinGlis”。实验表明该语言在保持逻辑性的同时显著降低新手学习门槛。作者主张打破学术语言壁垒，推动知识民主化，认为跨语系融合的语言创新兼具理论依据与实践潜力。</summary>
     <title>人类学术语言大一统计划——必要性和可行性分析报告</title>
-    <updated>2026-04-07T11:24:11.786Z</updated>
+    <updated>2026-04-07T11:24:32.978Z</updated>
   </entry>
   <entry>
     <author>
