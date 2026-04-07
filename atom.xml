@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-07T08:58:18.173Z</updated>
+  <updated>2026-04-07T10:01:31.696Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="C57BL/6小鼠" scheme="https://www.rubbish.press/tags/C57BL-6%E5%B0%8F%E9%BC%A0/"/>
+    <category term="暴击率" scheme="https://www.rubbish.press/tags/%E6%9A%B4%E5%87%BB%E7%8E%87/"/>
+    <category term="研究生安全" scheme="https://www.rubbish.press/tags/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AE%89%E5%85%A8/"/>
+    <category term="保定技术" scheme="https://www.rubbish.press/tags/%E4%BF%9D%E5%AE%9A%E6%8A%80%E6%9C%AF/"/>
+    <category term="以人度鼠法" scheme="https://www.rubbish.press/tags/%E4%BB%A5%E4%BA%BA%E5%BA%A6%E9%BC%A0%E6%B3%95/"/>
+    <id>https://www.rubbish.press/posts/35470.html</id>
+    <link href="https://www.rubbish.press/posts/35470.html"/>
+    <published>2026-04-07T09:53:00.481Z</published>
+    <summary>**摘要**    本研究探讨了小鼠在实验过程中对研究生的啃咬行为，发现其攻击力度和频率存在显著差异，可分为“轻咬”（未刺破手套）和“暴击”（穿透多层手套并造成严重痛感）。通过对2月龄C57BL/6小鼠在基因鉴定过程中的观察，作者记录56次咬击事件，其中3次为暴击，估算暴击率约5.36%。研究提出“蓄力假说”“欺诈假说”和“起床气假说”解释暴击现象，认为小鼠可能通过轻咬铺垫降低实验者警惕性，从而发动高伤害攻击。然而，由于样本量小、品系单一，且实验操作不当（如保定失误）可能是主要诱因，结论需谨慎看待。本文旨在警示研究生规范操作，减少被咬风险，并呼吁善待实验动物。</summary>
+    <title>Ka! Ka! Ka! Ooch！小鼠啃咬研究生行为的暴击率统计及其触发条件分析</title>
+    <updated>2026-04-07T10:01:31.696Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -240,8 +258,8 @@
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="量化分析" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%8C%96%E5%88%86%E6%9E%90/"/>
     <category term="跨学科研究" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E5%AD%A6%E7%A7%91%E7%A0%94%E7%A9%B6/"/>
+    <category term="量化分析" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%8C%96%E5%88%86%E6%9E%90/"/>
     <category term="释然感" scheme="https://www.rubbish.press/tags/%E9%87%8A%E7%84%B6%E6%84%9F/"/>
     <category term="tags: [, 关羽之歌, 新三国," scheme="https://www.rubbish.press/tags/tags-%E5%85%B3%E7%BE%BD%E4%B9%8B%E6%AD%8C-%E6%96%B0%E4%B8%89%E5%9B%BD/"/>
     <category term="关羽之歌" scheme="https://www.rubbish.press/tags/%E5%85%B3%E7%BE%BD%E4%B9%8B%E6%AD%8C/"/>
@@ -365,24 +383,5 @@
     <summary>**摘要**   本文基于作者多年研究生经历，探讨组会中导师对不同汇报内容（文献、实验、学术写作）的反应模式，旨在帮助研究生减少批评、改善师生关系。研究发现：无论汇报质量如何，老师批评概率较高；文献汇报需平衡难度以避免过高期望；实验进展应持续优化以积累成果；初稿写作宜寻求师兄师姐指导并自主决策。建议多读文献、虚心改进、合理求助，以提升组会表现与科研效率，最终实现“无痛毕业”。</summary>
     <title>基于组会环境下的老师行为的分析预测</title>
     <updated>2026-03-30T12:28:53.420Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="抽象研究" scheme="https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1%E7%A0%94%E7%A9%B6/"/>
-    <category term="肠道菌群" scheme="https://www.rubbish.press/tags/%E8%82%A0%E9%81%93%E8%8F%8C%E7%BE%A4/"/>
-    <category term="医患沟通" scheme="https://www.rubbish.press/tags/%E5%8C%BB%E6%82%A3%E6%B2%9F%E9%80%9A/"/>
-    <category term="HPA轴" scheme="https://www.rubbish.press/tags/HPA%E8%BD%B4/"/>
-    <category term="便秘" scheme="https://www.rubbish.press/tags/%E4%BE%BF%E7%A7%98/"/>
-    <category term="神经内分泌" scheme="https://www.rubbish.press/tags/%E7%A5%9E%E7%BB%8F%E5%86%85%E5%88%86%E6%B3%8C/"/>
-    <id>https://www.rubbish.press/posts/61717.html</id>
-    <link href="https://www.rubbish.press/posts/61717.html"/>
-    <published>2026-03-30T11:43:01.317Z</published>
-    <summary>**摘要**   本研究首次提出“肠-脑-沟通轴”概念，探讨粪性团块通过肠道菌群-HPA轴影响医患沟通效能的神经内分泌机制。动物实验采用冷生理盐水灌肠构建便秘小鼠模型，发现其社交行为减少60.7%、血清皮质酮升高111.4%、下丘脑室旁核（PVN）c-Fos表达增加，且肠道菌群多样性下降伴肠球菌丰度减少70%；RU486、甲吡酮及益生菌干预可逆转上述变化，肾上腺切除术完全阻断行为缺陷。临床回顾性研究显示，医患纠纷患者粪性团块指数（FMI）（3.51±0.34）显著高于对照组（1.68±0.19），且FMI与血清皮质醇（r=0.78）及纠纷严重程度（r=0.71）呈正相关（OR=5.12），是独立危险因素。结论表明，粪性团块通过菌群-HPA轴激活应激反应，损害沟通效能，为医患矛盾的生物学干预提供了新靶点。</summary>
-    <title>粪性团块通过肠道菌群-HPA轴调控医患沟通效能的机制研究</title>
-    <updated>2026-03-30T12:20:20.272Z</updated>
   </entry>
 </feed>
