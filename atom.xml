@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-06T13:25:00.935Z</updated>
+  <updated>2026-04-07T07:08:19.068Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="王者荣耀" scheme="https://www.rubbish.press/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/"/>
+    <category term="安琪拉" scheme="https://www.rubbish.press/tags/%E5%AE%89%E7%90%AA%E6%8B%89/"/>
+    <category term="妲己" scheme="https://www.rubbish.press/tags/%E5%A6%B2%E5%B7%B1/"/>
+    <category term="老六" scheme="https://www.rubbish.press/tags/%E8%80%81%E5%85%AD/"/>
+    <category term="法师" scheme="https://www.rubbish.press/tags/%E6%B3%95%E5%B8%88/"/>
+    <category term="英雄分析" scheme="https://www.rubbish.press/tags/%E8%8B%B1%E9%9B%84%E5%88%86%E6%9E%90/"/>
+    <id>https://www.rubbish.press/posts/38273.html</id>
+    <link href="https://www.rubbish.press/posts/38273.html"/>
+    <published>2026-04-07T07:03:26.513Z</published>
+    <summary>**摘要**   本文以《王者荣耀》中两位法师英雄安琪拉与妲己为研究对象，探究“老六”（指隐蔽、阴险的伏击者）的身份归属。作者首先界定“老六”的核心特征：隐蔽性与耐心，并基于口头禅、英雄档案及技能机制三方面展开对比分析。安琪拉的座右铭“知识就是力量”体现其独立正直，而妲己“请尽情吩咐妲己”则暗示依附性；档案显示妲己为人造人，缺乏人类属性；技能层面，妲己普攻减法抗、二技能远程晕眩等机制更符合“背后偷袭”的“老六”行为模式。最终结论：**妲己是老六，安琪拉不是**。研究结合游戏设定与现实隐喻，揭示了角色性格与战术定位的关联性。    （字数：198）</summary>
+    <title>安琪拉是老六吗？——基于《王者荣耀》中路法师安琪拉与妲己英雄的全方面分析</title>
+    <updated>2026-04-07T07:08:19.068Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -365,23 +384,5 @@
     <summary>**摘要**   本文探讨机械键盘轴体选择对高密度学术实验室中个体生产力与集体声学环境的影响。研究构建多目标优化模型，量化生物力学奖励（如触发压力、段落反馈）与声学惩罚（噪音干扰）之间的权衡关系。通过博弈论框架分析孤立智能体的效用函数，揭示个体追求极致触觉反馈可能导致“公地悲剧”——即个人最优选择与团队声学和谐冲突。数据集涵盖多种轴体的效用评分、声学指标（分贝）及视觉激励值。结论表明：在个人舒适度与全局环境可持续性之间存在极值平衡点。建议科研机构采用该模型指导设备选型，以兼顾人体工学效率与实验室声学生态，最终保障科研协作的长期稳定。关键词：人机交互；多智能体行为；博弈论。</summary>
     <title>科研环境下的键盘选择：对青轴使用者施加动能干预</title>
     <updated>2026-03-29T12:50:20.026Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="爽文" scheme="https://www.rubbish.press/categories/%E7%88%BD%E6%96%87/"/>
-    <category term="摸鱼" scheme="https://www.rubbish.press/tags/%E6%91%B8%E9%B1%BC/"/>
-    <category term="上班" scheme="https://www.rubbish.press/tags/%E4%B8%8A%E7%8F%AD/"/>
-    <category term="时间模型" scheme="https://www.rubbish.press/tags/%E6%97%B6%E9%97%B4%E6%A8%A1%E5%9E%8B/"/>
-    <category term="社畜" scheme="https://www.rubbish.press/tags/%E7%A4%BE%E7%95%9C/"/>
-    <category term="职业健康" scheme="https://www.rubbish.press/tags/%E8%81%8C%E4%B8%9A%E5%81%A5%E5%BA%B7/"/>
-    <id>https://www.rubbish.press/posts/53575.html</id>
-    <link href="https://www.rubbish.press/posts/53575.html"/>
-    <published>2026-03-29T12:33:34.609Z</published>
-    <summary>本文是一篇讽刺性学术文章，核心观点为“上班”对劳动者身心健康造成严重危害。作者通过构建“时间代换模型”、分析“并发效应”（如强制起床、通勤压力、深夜娱乐中断）以及实证“摸鱼”行为可显著缓解工作带来的负面情绪与精力消耗，提出“摸鱼”是保护打工人的有效手段。结论强调上班会系统性剥夺时间与自主性，建议劳动者及时采取自救措施。全文以戏谑笔调呈现，实为对现代职场文化的批判。</summary>
-    <title>上班！一个绝对不能忽视的隐形杀手！</title>
-    <updated>2026-03-30T11:34:45.547Z</updated>
   </entry>
 </feed>
