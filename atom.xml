@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-08T15:51:30.935Z</updated>
+  <updated>2026-04-08T15:56:27.838Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="地球OL" scheme="https://www.rubbish.press/tags/%E5%9C%B0%E7%90%83OL/"/>
+    <category term="交换法则" scheme="https://www.rubbish.press/tags/%E4%BA%A4%E6%8D%A2%E6%B3%95%E5%88%99/"/>
+    <category term="回中机制" scheme="https://www.rubbish.press/tags/%E5%9B%9E%E4%B8%AD%E6%9C%BA%E5%88%B6/"/>
+    <category term="NPC化" scheme="https://www.rubbish.press/tags/NPC%E5%8C%96/"/>
+    <category term="合同异" scheme="https://www.rubbish.press/tags/%E5%90%88%E5%90%8C%E5%BC%82/"/>
+    <category term="自指系统" scheme="https://www.rubbish.press/tags/%E8%87%AA%E6%8C%87%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://www.rubbish.press/posts/24737.html</id>
+    <link href="https://www.rubbish.press/posts/24737.html"/>
+    <published>2026-04-08T15:52:49.939Z</published>
+    <summary>**摘要**   本文从系统架构视角解构“地球OL 1.0”这一超大规模开放世界模型，揭示其核心机制为“交换法则”与“回中法则”。交换法则将行为转化为德能（正向）与债能（负向），驱动个体与系统的动态平衡；回中法则则通过预警至归位四阶段，实现自动纠错，防止系统失稳。游戏化地，该系统呈现无限轮回、三才属性（天位/地位/人位）成长及NPC化休眠机制。研究发现，玩家若识别隐藏任务（如“合同异”“知位守位”）并主动重启自指模块，可优化德债流向，提升体验并降低强制归位风险。建议玩家优先关注信号、维护自指与承载，通过最小可行闭环实现持续升级。当前版本处于混沌期，觉醒者面临高收益窗口。</summary>
+    <title>地球OL架构设计研究：一种基于交换与回中机制的开放系统模型</title>
+    <updated>2026-04-08T15:56:27.838Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -357,24 +375,5 @@
     <summary>摘要：  本文以《王者荣耀》中两位中路法师安琪拉与妲己为研究对象，探讨二者是否具备“老六”特质。研究首先界定“老六”为隐蔽潜伏、伺机突袭的贬义行为，强调其在草丛等隐蔽位置伏击脆皮英雄的特点。随后从口头禅、英雄档案及技能三方面进行对比分析：安琪拉座右铭“知识就是力量”体现其独立正直；妲己则依赖主人指令，缺乏自主性。档案显示安琪拉为人类神秘法师，而妲己为人造人偶，身份低微。技能方面，安琪拉普攻叠加灼烧伤害，正面输出；妲己则通过降低敌方法抗间接增强爆发，且三技能狐火随机攻击，具有偷袭特征。综合判断，妲己更符合“老六”形象。结论认为：安琪拉非老六，而妲己具备典型“老六”行为模式。关键词：安琪拉；妲己；老六；王者荣耀。</summary>
     <title>安琪拉是老六吗？——基于《王者荣耀》中路法师安琪拉与妲己英雄的全方面分析</title>
     <updated>2026-04-08T14:47:47.160Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="小鼠" scheme="https://www.rubbish.press/tags/%E5%B0%8F%E9%BC%A0/"/>
-    <category term="海马体" scheme="https://www.rubbish.press/tags/%E6%B5%B7%E9%A9%AC%E4%BD%93/"/>
-    <category term="光纤测量" scheme="https://www.rubbish.press/tags/%E5%85%89%E7%BA%A4%E6%B5%8B%E9%87%8F/"/>
-    <category term="电极植入" scheme="https://www.rubbish.press/tags/%E7%94%B5%E6%9E%81%E6%A4%8D%E5%85%A5/"/>
-    <category term="组织学" scheme="https://www.rubbish.press/tags/%E7%BB%84%E7%BB%87%E5%AD%A6/"/>
-    <category term="形态学" scheme="https://www.rubbish.press/tags/%E5%BD%A2%E6%80%81%E5%AD%A6/"/>
-    <id>https://www.rubbish.press/posts/6459.html</id>
-    <link href="https://www.rubbish.press/posts/6459.html"/>
-    <published>2026-04-06T13:18:07.043Z</published>
-    <summary>**摘要**   本研究通过长期植入光纤探针记录小鼠双侧海马体（dCA1）神经元活动时，意外发现：双侧各植入1-2根直径200 μm光纤、持续超过12周的小鼠，在组织学检查中呈现显著的海马体形态学改变——背腹径压缩、整体结构扁平化。通过排除切片方向偏差和颅外机械挤压等混杂因素后，该现象仍稳定复现，且单侧植入对照组未见类似变化，表明变形与双侧多根光纤长期植入相关。研究首次揭示此类植入设备可能对脑组织结构造成不可逆的宏观形变，提示神经科学在体研究中需重视植入物对脑组织的潜在影响。作者强调此发现属偶然（serendipity），机制及功能后果尚待进一步探索。    （字数：198）</summary>
-    <title>双侧植入光纤或导致小鼠海马体发生形态学改变</title>
-    <updated>2026-04-06T13:25:00.935Z</updated>
   </entry>
 </feed>
