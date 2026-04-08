@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-08T08:21:09.215Z</updated>
+  <updated>2026-04-08T08:30:53.137Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
+    <category term="INFJ" scheme="https://www.rubbish.press/tags/INFJ/"/>
+    <category term="情绪价值" scheme="https://www.rubbish.press/tags/%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC/"/>
+    <category term="高敏感" scheme="https://www.rubbish.press/tags/%E9%AB%98%E6%95%8F%E6%84%9F/"/>
+    <category term="依恋模型" scheme="https://www.rubbish.press/tags/%E4%BE%9D%E6%81%8B%E6%A8%A1%E5%9E%8B/"/>
+    <category term="内耗" scheme="https://www.rubbish.press/tags/%E5%86%85%E8%80%97/"/>
+    <id>https://www.rubbish.press/posts/9978.html</id>
+    <link href="https://www.rubbish.press/posts/9978.html"/>
+    <published>2026-04-08T08:25:07.377Z</published>
+    <summary>**摘要**：   本文从女性视角探讨MBTI中高敏感人群（如INFP、INFJ等）的心理特质，聚焦其情感敏锐性与内在脆弱性。作者构建“高敏感依恋模型”，通过数学公式揭示高敏感个体对爱的主观感知受放大系数、内耗累积及安全感影响，提出“被爱解”需满足正向爱意信号超越负面干扰的阈值条件。结合神经负荷分析，指出HSP因感知增益与细节捕捉能力承受更高情绪消耗，易焦虑疲惫且常被误解为过度思虑。研究强调理解与陪伴的重要性：唯有在稳定关系中提供持续正向反馈，方能缓解其内耗，使其真实感知被爱。建议通过提升情绪价值与共情沟通，帮助高敏感者建立心理安全边界，实现自我接纳与关系和谐。</summary>
+    <title>高敏感依恋模型：在亲密关系中求「被爱」的存在解</title>
+    <updated>2026-04-08T08:30:53.137Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -358,27 +376,5 @@
     <summary>**摘要**   传统培养方法依赖琼脂平板，但约60%-70%的人体肠道微生物因生长缓慢或营养需求特殊而难以培养。为突破此局限，本研究采用粪便滤液（“粪汤”）作为培养基添加剂，模拟肠道原生环境，以解决微生物培养难题。粪汤富含短链脂肪酸、胆汁酸、宿主来源分子及难降解多糖等，其pH、渗透压和氧化还原电位与肠道高度一致。实验通过对比含粪汤的“屎琼脂”与常规培养基（如类YPD、LB），在厌氧工作站中培养人类粪便上清液，结果显示粪汤显著提升微生物可培养率，成功分离出传统方法无法生长的菌株。研究证实粪汤通过提供天然信号分子和生态互作条件，有效唤醒难培养微生物的生长能力。然而，粪汤成分复杂且异质性高，标准化仍是挑战。未来需结合代谢组学解析关键因子，推动人工培养基的理性设计。该方法为肠道微生物资源开发、功能研究及临床转化（如益生菌、粪菌移植）提供了重要工具，是连接宏基因组数据与纯培养研究的桥梁。    （字数：199）</summary>
     <title>于人粪便滤液用于肠道菌群中难培养微生物培养的研究</title>
     <updated>2026-04-07T08:31:54.881Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="跨学科研究" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E5%AD%A6%E7%A7%91%E7%A0%94%E7%A9%B6/"/>
-    <category term="量化分析" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%8C%96%E5%88%86%E6%9E%90/"/>
-    <category term="释然感" scheme="https://www.rubbish.press/tags/%E9%87%8A%E7%84%B6%E6%84%9F/"/>
-    <category term="tags: [, 关羽之歌, 新三国," scheme="https://www.rubbish.press/tags/tags-%E5%85%B3%E7%BE%BD%E4%B9%8B%E6%AD%8C-%E6%96%B0%E4%B8%89%E5%9B%BD/"/>
-    <category term="关羽之歌" scheme="https://www.rubbish.press/tags/%E5%85%B3%E7%BE%BD%E4%B9%8B%E6%AD%8C/"/>
-    <category term="新三国" scheme="https://www.rubbish.press/tags/%E6%96%B0%E4%B8%89%E5%9B%BD/"/>
-    <category term="心理学" scheme="https://www.rubbish.press/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
-    <category term="多模态生理参数" scheme="https://www.rubbish.press/tags/%E5%A4%9A%E6%A8%A1%E6%80%81%E7%94%9F%E7%90%86%E5%8F%82%E6%95%B0/"/>
-    <category term="AI模拟实验" scheme="https://www.rubbish.press/tags/AI%E6%A8%A1%E6%8B%9F%E5%AE%9E%E9%AA%8C/"/>
-    <id>https://www.rubbish.press/posts/62752.html</id>
-    <link href="https://www.rubbish.press/posts/62752.html"/>
-    <published>2026-04-01T07:08:40.217Z</published>
-    <summary>**摘要**：   本文提出一种基于多模态生理参数（心率变异性、血氧饱和度、皮肤电导水平、脑电波α功率）的释然感量化模型，旨在科学评估《关羽之歌》对个体心理状态的影响。通过构建公式 \( R_{sr} \) 综合四项指标，研究采用创新性AI模拟方法（基于Qwen3.5大模型）生成30名“被试”听歌前后的生理数据与主观感受。结果显示，93.3%的模拟对象释然度显著上升，且多数报告主观释然体验，验证了模型的有效性。该研究首次系统量化释然感，为跨学科情绪分析提供了新路径，尤其适用于文化作品的情感影响评估。关键词：释然感；《关羽之歌》；多模态生理参数；AI模拟实验。</summary>
-    <title>释然可以量化吗？——基于多模态生理参数的《关羽之歌》释然感量化研究</title>
-    <updated>2026-04-01T07:14:27.333Z</updated>
   </entry>
 </feed>
