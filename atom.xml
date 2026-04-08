@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-07T11:24:32.978Z</updated>
+  <updated>2026-04-08T08:21:09.215Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="废旧鞋子" scheme="https://www.rubbish.press/tags/%E5%BA%9F%E6%97%A7%E9%9E%8B%E5%AD%90/"/>
+    <category term="种植容器" scheme="https://www.rubbish.press/tags/%E7%A7%8D%E6%A4%8D%E5%AE%B9%E5%99%A8/"/>
+    <category term="城市农业" scheme="https://www.rubbish.press/tags/%E5%9F%8E%E5%B8%82%E5%86%9C%E4%B8%9A/"/>
+    <category term="末世生存" scheme="https://www.rubbish.press/tags/%E6%9C%AB%E4%B8%96%E7%94%9F%E5%AD%98/"/>
+    <category term="耕地红线" scheme="https://www.rubbish.press/tags/%E8%80%95%E5%9C%B0%E7%BA%A2%E7%BA%BF/"/>
+    <id>https://www.rubbish.press/posts/25237.html</id>
+    <link href="https://www.rubbish.press/posts/25237.html"/>
+    <published>2026-04-08T08:16:10.860Z</published>
+    <summary>**摘要**   在城市化加速与耕地红线管控的双重压力下，传统农业空间受限，亟需拓展新型城市种植模式。本文提出利用废旧鞋子作为种植容器，通过为期30天的对照实验（对比陶瓷盆和暖水瓶盖），以赤豆为作物分析生长表现。结果显示，废旧鞋（尤其布面/网面）在株高（32.5±2.1 cm）、叶片面积（18.7±3.5 cm²）及根系发育上显著优于对照组，得益于其透气性、排水性与微气候调节优势。该方案成本低廉、空间利用率高，兼具资源循环利用价值，适用于阳台种植，缓解粮食供给压力，并为末日生存场景提供分散式食物生产思路。未来需进一步验证不同鞋类材质及作物的适用性。</summary>
+    <title>你走了，我们吃什么？一种新型城市化农业实现方案——废旧鞋子作为农作物种植容器的优势及可行性分析</title>
+    <updated>2026-04-08T08:21:09.215Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -362,23 +380,5 @@
     <summary>**摘要**：   本文提出一种基于多模态生理参数（心率变异性、血氧饱和度、皮肤电导水平、脑电波α功率）的释然感量化模型，旨在科学评估《关羽之歌》对个体心理状态的影响。通过构建公式 \( R_{sr} \) 综合四项指标，研究采用创新性AI模拟方法（基于Qwen3.5大模型）生成30名“被试”听歌前后的生理数据与主观感受。结果显示，93.3%的模拟对象释然度显著上升，且多数报告主观释然体验，验证了模型的有效性。该研究首次系统量化释然感，为跨学科情绪分析提供了新路径，尤其适用于文化作品的情感影响评估。关键词：释然感；《关羽之歌》；多模态生理参数；AI模拟实验。</summary>
     <title>释然可以量化吗？——基于多模态生理参数的《关羽之歌》释然感量化研究</title>
     <updated>2026-04-01T07:14:27.333Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="神经元" scheme="https://www.rubbish.press/tags/%E7%A5%9E%E7%BB%8F%E5%85%83/"/>
-    <category term="柔性执行系统" scheme="https://www.rubbish.press/tags/%E6%9F%94%E6%80%A7%E6%89%A7%E8%A1%8C%E7%B3%BB%E7%BB%9F/"/>
-    <category term="生物电驱动" scheme="https://www.rubbish.press/tags/%E7%94%9F%E7%89%A9%E7%94%B5%E9%A9%B1%E5%8A%A8/"/>
-    <category term="闪电五连鞭" scheme="https://www.rubbish.press/tags/%E9%97%AA%E7%94%B5%E4%BA%94%E8%BF%9E%E9%9E%AD/"/>
-    <category term="动力学模型" scheme="https://www.rubbish.press/tags/%E5%8A%A8%E5%8A%9B%E5%AD%A6%E6%A8%A1%E5%9E%8B/"/>
-    <id>https://www.rubbish.press/posts/22922.html</id>
-    <link href="https://www.rubbish.press/posts/22922.html"/>
-    <published>2026-04-01T06:41:35.287Z</published>
-    <summary>该研究基于简化神经元动力学模型，构建了“神经元驱动柔性鞭状执行系统”（NBWS）的理论框架。核心观点是：神经元群体的同步水平决定系统输出的节律模式，而输出频率与时间间隔调控其动力表现。研究通过电-机械线性映射关系，分析了不同同步程度下的宏观行为，并提出“闪电五连鞭”机制——高频同步-去同步循环可实现连续多次快速动力释放。结果表明，该系统在单次高幅度与多次快速输出两类模式下具有一致性。研究从理论层面阐明了神经元电活动向复杂动力行为的转化路径，为生物电驱动柔性系统提供了新视角。</summary>
-    <title>以神经元为材料制作鞭类武器的可行性分析</title>
-    <updated>2026-04-01T07:02:58.913Z</updated>
   </entry>
 </feed>
