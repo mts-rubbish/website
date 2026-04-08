@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-08T08:30:53.137Z</updated>
+  <updated>2026-04-08T08:39:51.442Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="说文解字" scheme="https://www.rubbish.press/tags/%E8%AF%B4%E6%96%87%E8%A7%A3%E5%AD%97/"/>
+    <category term="污" scheme="https://www.rubbish.press/tags/%E6%B1%A1/"/>
+    <category term="垢" scheme="https://www.rubbish.press/tags/%E5%9E%A2/"/>
+    <category term="近义词辨析" scheme="https://www.rubbish.press/tags/%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90/"/>
+    <category term="网络语言" scheme="https://www.rubbish.press/tags/%E7%BD%91%E7%BB%9C%E8%AF%AD%E8%A8%80/"/>
+    <id>https://www.rubbish.press/posts/57386.html</id>
+    <link href="https://www.rubbish.press/posts/57386.html"/>
+    <published>2026-04-08T08:34:22.365Z</published>
+    <summary>**摘要**：本文系统辨析了现代汉语近义词“污”与“垢”的语义差异。研究发现：“污”多指液态、易除的脏物，可动词化（如“污蔑”），在网络语境中衍生出“低俗”义；而“垢”侧重固态、顽固附着物，仅作名词，其责骂义已由“诟”承担。二者虽常并称“污垢”，但语义重心偏向“垢”。进一步分析指出，并非所有“污”都会转化为“垢”，只有含可固化成分、经反复沉积且在适宜化学条件下（如温度、pH值）才可能演变为硬质“垢”，如牙结石或水垢的形成过程。本研究为汉语近义词的微观语义演变提供了实证案例。</summary>
+    <title>说文解字“污”与“垢”：从油渍到水垢的语义考古——兼论“污”为何能开车而“垢”不能</title>
+    <updated>2026-04-08T08:39:51.442Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -358,23 +376,5 @@
     <summary>**摘要**   针对稀土分离提纯“卡脖子”难题，本研究以未分离的本土稀土原矿为原料，通过一锅法直接合成了含全部17种稀土元素的高熵钙钛矿金属有机框架材料HE-RE-MOF-17。该材料具有80%孔隙率及优异的吸附（优先捕获CO₂）、发光（全光谱荧光）、导电、磁性和催化性能。研究不仅为稀土资源直接利用提供了颠覆性范式，还验证了高熵MOF材料的巨大潜力，有望应用于碳捕集、光电传感、加密防伪等多领域，突破了传统稀土利用的技术瓶颈。</summary>
     <title>十七元高熵稀土钙钛矿金属有机框架的一锅法合成及其多功能硬用</title>
     <updated>2026-04-02T03:39:51.063Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="粪便滤液" scheme="https://www.rubbish.press/tags/%E7%B2%AA%E4%BE%BF%E6%BB%A4%E6%B6%B2/"/>
-    <category term="肠道菌群" scheme="https://www.rubbish.press/tags/%E8%82%A0%E9%81%93%E8%8F%8C%E7%BE%A4/"/>
-    <category term="难培养微生物" scheme="https://www.rubbish.press/tags/%E9%9A%BE%E5%9F%B9%E5%85%BB%E5%BE%AE%E7%94%9F%E7%89%A9/"/>
-    <category term="粪汤培养" scheme="https://www.rubbish.press/tags/%E7%B2%AA%E6%B1%A4%E5%9F%B9%E5%85%BB/"/>
-    <category term="模拟原生境" scheme="https://www.rubbish.press/tags/%E6%A8%A1%E6%8B%9F%E5%8E%9F%E7%94%9F%E5%A2%83/"/>
-    <id>https://www.rubbish.press/posts/9558.html</id>
-    <link href="https://www.rubbish.press/posts/9558.html"/>
-    <published>2026-04-01T07:22:25.186Z</published>
-    <summary>**摘要**   传统培养方法依赖琼脂平板，但约60%-70%的人体肠道微生物因生长缓慢或营养需求特殊而难以培养。为突破此局限，本研究采用粪便滤液（“粪汤”）作为培养基添加剂，模拟肠道原生环境，以解决微生物培养难题。粪汤富含短链脂肪酸、胆汁酸、宿主来源分子及难降解多糖等，其pH、渗透压和氧化还原电位与肠道高度一致。实验通过对比含粪汤的“屎琼脂”与常规培养基（如类YPD、LB），在厌氧工作站中培养人类粪便上清液，结果显示粪汤显著提升微生物可培养率，成功分离出传统方法无法生长的菌株。研究证实粪汤通过提供天然信号分子和生态互作条件，有效唤醒难培养微生物的生长能力。然而，粪汤成分复杂且异质性高，标准化仍是挑战。未来需结合代谢组学解析关键因子，推动人工培养基的理性设计。该方法为肠道微生物资源开发、功能研究及临床转化（如益生菌、粪菌移植）提供了重要工具，是连接宏基因组数据与纯培养研究的桥梁。    （字数：199）</summary>
-    <title>于人粪便滤液用于肠道菌群中难培养微生物培养的研究</title>
-    <updated>2026-04-07T08:31:54.881Z</updated>
   </entry>
 </feed>
