@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-08T08:39:51.442Z</updated>
+  <updated>2026-04-08T08:50:32.631Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="离心管" scheme="https://www.rubbish.press/tags/%E7%A6%BB%E5%BF%83%E7%AE%A1/"/>
+    <category term="飞盖" scheme="https://www.rubbish.press/tags/%E9%A3%9E%E7%9B%96/"/>
+    <category term="量子微扰" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%AD%90%E5%BE%AE%E6%89%B0/"/>
+    <category term="退相干" scheme="https://www.rubbish.press/tags/%E9%80%80%E7%9B%B8%E5%B9%B2/"/>
+    <category term="费米黄金规则" scheme="https://www.rubbish.press/tags/%E8%B4%B9%E7%B1%B3%E9%BB%84%E9%87%91%E8%A7%84%E5%88%99/"/>
+    <category term="科研吐槽" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E5%90%90%E6%A7%BD/"/>
+    <id>https://www.rubbish.press/posts/19082.html</id>
+    <link href="https://www.rubbish.press/posts/19082.html"/>
+    <published>2026-04-08T08:41:20.484Z</published>
+    <summary>
+      <![CDATA[该研究以“离心管盖子崩飞”现象为切入点，运用含时微扰理论、费米黄金规则和宏观退相干机制进行量子力学层面的分析。结果表明，尽管从量子角度看存在极微弱的扰动可能，但实际贡献概率低至约10^(-10^20)，远低于宇宙尺度，可完全忽略。结合德布罗意波长极短（~10^-34米）及瞬间退相干（<10^-20秒），系统波函数迅速塌缩至失败态。因此，飞盖本质由经典因素主导，量子效应仅具象征意义。结论强调：实验失败主因在于操作问题，而非量子不确定性；建议以“薛定谔的盖子”作幽默警示，并为科研工作者提供量子级心理安慰。]]>
+    </summary>
+    <title>离心管盖子崩飞对实验成功率的量子力学扰动效应</title>
+    <updated>2026-04-08T08:50:32.631Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -356,25 +377,5 @@
     <summary>**摘要**：   本研究针对柱间细胞依赖活体宿主培养、难以标准化扩增的问题，首次建立了一套体外培养体系。通过优化培养基（含外道魔像基质提取物GSME）、使用忍者组织基质胶增强黏附，并引入免疫共培养与封印术稳定场（SSF）抑制细胞暴走，成功实现了柱间细胞的长期稳定传代。结果表明，适度GSME可维持细胞活性，但过量易致失控；联合免疫调控与查克拉约束能显著提升培养稳定性。该体系突破了传统人体依赖模式，为柱间细胞的机制研究及再生医疗应用提供了可重复的技术平台，推动了战略生物资源的规范化研究。（199字）</summary>
     <title>基于外道魔像基质提取物的柱间细胞体外培养体系构建与优化</title>
     <updated>2026-04-02T06:12:06.902Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="高熵材料" scheme="https://www.rubbish.press/tags/%E9%AB%98%E7%86%B5%E6%9D%90%E6%96%99/"/>
-    <category term="稀土" scheme="https://www.rubbish.press/tags/%E7%A8%80%E5%9C%9F/"/>
-    <category term="钙钛矿" scheme="https://www.rubbish.press/tags/%E9%92%99%E9%92%9B%E7%9F%BF/"/>
-    <category term="金属有机框架" scheme="https://www.rubbish.press/tags/%E9%87%91%E5%B1%9E%E6%9C%89%E6%9C%BA%E6%A1%86%E6%9E%B6/"/>
-    <category term="MOF" scheme="https://www.rubbish.press/tags/MOF/"/>
-    <category term="多功能材料" scheme="https://www.rubbish.press/tags/%E5%A4%9A%E5%8A%9F%E8%83%BD%E6%9D%90%E6%96%99/"/>
-    <category term="一锅法合成" scheme="https://www.rubbish.press/tags/%E4%B8%80%E9%94%85%E6%B3%95%E5%90%88%E6%88%90/"/>
-    <id>https://www.rubbish.press/posts/4513.html</id>
-    <link href="https://www.rubbish.press/posts/4513.html"/>
-    <published>2026-04-02T03:24:37.092Z</published>
-    <summary>**摘要**   针对稀土分离提纯“卡脖子”难题，本研究以未分离的本土稀土原矿为原料，通过一锅法直接合成了含全部17种稀土元素的高熵钙钛矿金属有机框架材料HE-RE-MOF-17。该材料具有80%孔隙率及优异的吸附（优先捕获CO₂）、发光（全光谱荧光）、导电、磁性和催化性能。研究不仅为稀土资源直接利用提供了颠覆性范式，还验证了高熵MOF材料的巨大潜力，有望应用于碳捕集、光电传感、加密防伪等多领域，突破了传统稀土利用的技术瓶颈。</summary>
-    <title>十七元高熵稀土钙钛矿金属有机框架的一锅法合成及其多功能硬用</title>
-    <updated>2026-04-02T03:39:51.063Z</updated>
   </entry>
 </feed>
