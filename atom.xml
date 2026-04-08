@@ -10,7 +10,24 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-08T15:33:36.488Z</updated>
+  <updated>2026-04-08T15:42:33.871Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="自我观察" scheme="https://www.rubbish.press/tags/%E8%87%AA%E6%88%91%E8%A7%82%E5%AF%9F/"/>
+    <category term="实验室依附错觉" scheme="https://www.rubbish.press/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BE%9D%E9%99%84%E9%94%99%E8%A7%89/"/>
+    <category term="放假后遗症" scheme="https://www.rubbish.press/tags/%E6%94%BE%E5%81%87%E5%90%8E%E9%81%97%E7%97%87/"/>
+    <category term="科研心理" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E5%BF%83%E7%90%86/"/>
+    <category term="斯德哥尔摩症候群" scheme="https://www.rubbish.press/tags/%E6%96%AF%E5%BE%B7%E5%93%A5%E5%B0%94%E6%91%A9%E7%97%87%E5%80%99%E7%BE%A4/"/>
+    <id>https://www.rubbish.press/posts/31968.html</id>
+    <link href="https://www.rubbish.press/posts/31968.html"/>
+    <published>2026-04-08T15:36:47.971Z</published>
+    <summary>本研究探讨了一种在长期假期期间出现的罕见心理现象，即研究人员产生“想回实验室做实验”的主观冲动。该现象被命名为“实验室依附错觉（LAI）”。通过单一受试者（n=1）的纵向观察发现，当假期超过第5-7天后，受试者开始出现对实验设备的幻听、对未完成实验的浪漫化想象等认知偏误。研究提出了三种可能的形成机制：痛苦记忆淡化效应、生产力焦虑反弹和未完成效应（Zeigarnik effect）。研究发现该现象具有高度可逆性，一旦返回实验室实际操作即可迅速消失。作者建议未来研究应扩大样本量并探讨其与实验室环境的关系。</summary>
+    <title>长期放假诱发之实验室依附错觉：一项自我观察研究</title>
+    <updated>2026-04-08T15:42:33.871Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -361,23 +378,5 @@
     <summary>**摘要**    《超辉夜姬！》作为百合轻小说的典型案例，其情感共生机制长期缺乏系统性学术分析。本研究采用建构主义扎根理论与大语言模型（LLM）辅助编码技术，对约8万字中文译本进行文本分析，提取30个核心概念并归纳为四个主轴范畴：（1）**无法拒绝的入侵者**；（2）**共犯式的温柔悖论**；（3）**时间洪流中的唯一坐标**；（4）**神性崩塌后的体温渴求**。研究识别出核心范畴“时间洪流中的唯一坐标”，提出百合叙事的情感演化模型：以命运级相遇为起点，通过日常照护瓦解防线、建立共犯契约，最终实现跨时间维度的灵魂锚定与双向救赎。方法论上探索了LLM在质性研究中的可行性，同时揭示虚构角色引发真实感动的情感逻辑——即使冰冷分析，爱仍是宇宙中最暴力的温柔。</summary>
     <title>《超辉夜姬！》中的“时间洪流中的唯一坐标”：基于LLM辅助扎根理论的百合轻小说情感共生机制研究</title>
     <updated>2026-04-02T09:07:43.330Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
-    <category term="科研焦虑" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E7%84%A6%E8%99%91/"/>
-    <category term="线性回归" scheme="https://www.rubbish.press/tags/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/"/>
-    <category term="包容度" scheme="https://www.rubbish.press/tags/%E5%8C%85%E5%AE%B9%E5%BA%A6/"/>
-    <category term="拟合优度" scheme="https://www.rubbish.press/tags/%E6%8B%9F%E5%90%88%E4%BC%98%E5%BA%A6/"/>
-    <category term="视觉回归" scheme="https://www.rubbish.press/tags/%E8%A7%86%E8%A7%89%E5%9B%9E%E5%BD%92/"/>
-    <id>https://www.rubbish.press/posts/32106.html</id>
-    <link href="https://www.rubbish.press/posts/32106.html"/>
-    <published>2026-04-02T06:56:29.431Z</published>
-    <summary>**摘要**：   本文针对传统线性回归因数据离散性导致拟合优度（R²）低、引发“拟合焦虑”的问题，提出“包容增强型拟合”（IEF）方法。该方法受量子概率云启发，主张用具有宽度（包容度 *I*）的带状拟合线替代零宽度的理想直线，以视觉化方式接纳数据噪声。通过蒙特卡洛模拟1000组含噪数据集，研究发现：当包容度达26.4%时，平均R²可超0.85，实现“看起来完美”的统计平衡；而*I*=1时，图表完全被黑色覆盖，RSS强制归零，达成逻辑上的绝对拟合。研究认为，任何微弱相关的数据均可通过此模型被视为完美拟合，从而为低质量实验数据提供新的发表策略。结论强调，科研应从“剔除残差”转向“包容多元性”，将离群点视为自然复杂性的体现而非缺陷，倡导以宽容心态拥抱混沌世界。</summary>
-    <title>一种基于拟合线包容度的线性回归优化模型</title>
-    <updated>2026-04-02T07:03:47.740Z</updated>
   </entry>
 </feed>
