@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-08T08:54:22.139Z</updated>
+  <updated>2026-04-08T15:06:06.872Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="王者荣耀" scheme="https://www.rubbish.press/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/"/>
+    <category term="高端局" scheme="https://www.rubbish.press/tags/%E9%AB%98%E7%AB%AF%E5%B1%80/"/>
+    <category term="正态分布" scheme="https://www.rubbish.press/tags/%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/"/>
+    <category term="巅峰赛" scheme="https://www.rubbish.press/tags/%E5%B7%85%E5%B3%B0%E8%B5%9B/"/>
+    <category term="Python" scheme="https://www.rubbish.press/tags/Python/"/>
+    <id>https://www.rubbish.press/posts/1868.html</id>
+    <link href="https://www.rubbish.press/posts/1868.html"/>
+    <published>2026-04-08T15:00:41.605Z</published>
+    <summary>**摘要：**   本文基于王者荣耀真实数据与正态分布模型，提出一种量化“高端局”的数学方法。通过分析巅峰赛分数分布，构建玩家超越全服比例的概率模型，得出：当赛季末巅峰分达到1549、1670、1812、2106分时，玩家分别超过95%、97.5%、99%、99.9%的对手。研究还开发Python算法，利用实时巅峰万强与第一高分动态计算当前赛季的高端局门槛（如前5%对应约1549分）。结果表明，传统“星数定段法”需转换为“分数定段法”以准确衡量对局水平，为判断高端局提供了客观标准。关键词：王者荣耀；高端局；数学模型；正态分布。</summary>
+    <title>一个考察王者荣耀玩家是否处于高端局的数学模型与算法</title>
+    <updated>2026-04-08T15:06:06.872Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -359,23 +377,5 @@
     <summary>**摘要**：本文首次将热力学四大定律系统性地引入观鸟领域，提出“鸟运四大定律”以科学阐释观鸟爱好者群体中广泛流传的“鸟运”概念——即个体发现罕见鸟种的几率或能力。通过“潜水式网络民族志”研究方法，作者基于微信群观察与非正式访谈，归纳出鸟运作为一种可在观鸟者间传递的状态量，并揭示其守恒性、方向性与耗散规律。具体而言，第零定律确立鸟运的可比性与传递性，支持“蹭鸟运”行为；第一定律强调鸟运守恒，否定永动式观鸟可能；第二定律引入“鸟运熵”概念，解释鸟讯扩散后鸟运稀释及错失现象；第三定律类比绝对零度不可达，指出长期零收获状态无法持续。研究不仅为玄学化的民间经验提供理论框架，也为优化观鸟实践（如搭档选择、鸟讯分享）提供了方法论指导，推动观鸟文化从经验走向科学。</summary>
     <title>观鸟热力学定律的建立与初步探究</title>
     <updated>2026-04-02T06:43:05.881Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="柱间细胞" scheme="https://www.rubbish.press/tags/%E6%9F%B1%E9%97%B4%E7%BB%86%E8%83%9E/"/>
-    <category term="细胞培养" scheme="https://www.rubbish.press/tags/%E7%BB%86%E8%83%9E%E5%9F%B9%E5%85%BB/"/>
-    <category term="外道魔像" scheme="https://www.rubbish.press/tags/%E5%A4%96%E9%81%93%E9%AD%94%E5%83%8F/"/>
-    <category term="火影忍者" scheme="https://www.rubbish.press/tags/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85/"/>
-    <category term="体外培养" scheme="https://www.rubbish.press/tags/%E4%BD%93%E5%A4%96%E5%9F%B9%E5%85%BB/"/>
-    <id>https://www.rubbish.press/posts/22906.html</id>
-    <link href="https://www.rubbish.press/posts/22906.html"/>
-    <published>2026-04-02T06:06:19.443Z</published>
-    <summary>**摘要**：   本研究针对柱间细胞依赖活体宿主培养、难以标准化扩增的问题，首次建立了一套体外培养体系。通过优化培养基（含外道魔像基质提取物GSME）、使用忍者组织基质胶增强黏附，并引入免疫共培养与封印术稳定场（SSF）抑制细胞暴走，成功实现了柱间细胞的长期稳定传代。结果表明，适度GSME可维持细胞活性，但过量易致失控；联合免疫调控与查克拉约束能显著提升培养稳定性。该体系突破了传统人体依赖模式，为柱间细胞的机制研究及再生医疗应用提供了可重复的技术平台，推动了战略生物资源的规范化研究。（199字）</summary>
-    <title>基于外道魔像基质提取物的柱间细胞体外培养体系构建与优化</title>
-    <updated>2026-04-02T06:12:06.902Z</updated>
   </entry>
 </feed>
