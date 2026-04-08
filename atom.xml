@@ -10,7 +10,27 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-08T15:18:49.363Z</updated>
+  <updated>2026-04-08T15:33:36.488Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="CSGO" scheme="https://www.rubbish.press/tags/CSGO/"/>
+    <category term="回归分析" scheme="https://www.rubbish.press/tags/%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90/"/>
+    <category term="神经网络" scheme="https://www.rubbish.press/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    <category term="胜率预测" scheme="https://www.rubbish.press/tags/%E8%83%9C%E7%8E%87%E9%A2%84%E6%B5%8B/"/>
+    <category term="团队协同" scheme="https://www.rubbish.press/tags/%E5%9B%A2%E9%98%9F%E5%8D%8F%E5%90%8C/"/>
+    <id>https://www.rubbish.press/posts/39841.html</id>
+    <link href="https://www.rubbish.press/posts/39841.html"/>
+    <published>2026-04-08T15:25:26.628Z</published>
+    <summary>
+      <![CDATA[**摘要**   本文基于100局普通玩家CS:GO竞技对局数据，探讨个人与团队指标对胜率及得分的量化影响。研究发现：**个人击杀数、得分对胜率无显著影响**（P > 0.05），而**队友及全队击杀数正向影响胜率**，**死亡数（含个人与团队）则负向影响胜率**。通过回归分析与神经网络建模验证，“队友平均击杀数”和“全队平均死亡数”是胜率的核心变量。进一步分析表明，**个人得分超半数依赖团队进攻能力**，高死亡虽推高得分却削弱胜率。研究揭示了“高得分低胜率”悖论的底层逻辑——控死亡、重团队协作才是胜负关键，为普通玩家提供实证提升路径，亦补充了战术类FPS项目的量化研究体系。    （199字）]]>
+    </summary>
+    <title>杀多赢少？——基于回归和神经网络分析的CSGO胜利指南</title>
+    <updated>2026-04-08T15:33:36.488Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -359,23 +379,5 @@
     <summary>**摘要**：   本文针对传统线性回归因数据离散性导致拟合优度（R²）低、引发“拟合焦虑”的问题，提出“包容增强型拟合”（IEF）方法。该方法受量子概率云启发，主张用具有宽度（包容度 *I*）的带状拟合线替代零宽度的理想直线，以视觉化方式接纳数据噪声。通过蒙特卡洛模拟1000组含噪数据集，研究发现：当包容度达26.4%时，平均R²可超0.85，实现“看起来完美”的统计平衡；而*I*=1时，图表完全被黑色覆盖，RSS强制归零，达成逻辑上的绝对拟合。研究认为，任何微弱相关的数据均可通过此模型被视为完美拟合，从而为低质量实验数据提供新的发表策略。结论强调，科研应从“剔除残差”转向“包容多元性”，将离群点视为自然复杂性的体现而非缺陷，倡导以宽容心态拥抱混沌世界。</summary>
     <title>一种基于拟合线包容度的线性回归优化模型</title>
     <updated>2026-04-02T07:03:47.740Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="爽文" scheme="https://www.rubbish.press/categories/%E7%88%BD%E6%96%87/"/>
-    <category term="硕博生活" scheme="https://www.rubbish.press/tags/%E7%A1%95%E5%8D%9A%E7%94%9F%E6%B4%BB/"/>
-    <category term="高压力" scheme="https://www.rubbish.press/tags/%E9%AB%98%E5%8E%8B%E5%8A%9B/"/>
-    <category term="不可能三角" scheme="https://www.rubbish.press/tags/%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%B8%89%E8%A7%92/"/>
-    <category term="精神健康" scheme="https://www.rubbish.press/tags/%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7/"/>
-    <category term="不良嗜好" scheme="https://www.rubbish.press/tags/%E4%B8%8D%E8%89%AF%E5%97%9C%E5%A5%BD/"/>
-    <id>https://www.rubbish.press/posts/35316.html</id>
-    <link href="https://www.rubbish.press/posts/35316.html"/>
-    <published>2026-04-02T06:46:10.423Z</published>
-    <summary>**摘要**   本研究基于对硕博生的深度访谈与案例研究，提出“高压力情境下不可能三角理论”，揭示其在极端压力下维持精神稳定与无不良嗜好难以兼得的困境。研究识别出五类典型应对模式（神算子、酒蒙子、药罐子、老烟枪、体育生），均属低成本、即时的情绪缓冲策略。实证显示该理论具有良好信效度与解释力，但交叉维度仍存未解之谜。作者呼吁优先规避高压环境，或为其保留非世俗定义的自我空间，以避免心理崩溃。关键词：硕博生活；压力应对；不可能三角；心理健康。</summary>
-    <title>高压力情境下不可能三角理论：一项基于当代硕博生生活的实证案例研究</title>
-    <updated>2026-04-02T06:49:38.028Z</updated>
   </entry>
 </feed>
