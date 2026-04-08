@@ -10,7 +10,24 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-08T15:43:25.323Z</updated>
+  <updated>2026-04-08T15:51:30.935Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="情人节" scheme="https://www.rubbish.press/tags/%E6%83%85%E4%BA%BA%E8%8A%82/"/>
+    <category term="鲜花丢弃" scheme="https://www.rubbish.press/tags/%E9%B2%9C%E8%8A%B1%E4%B8%A2%E5%BC%83/"/>
+    <category term="情感载体" scheme="https://www.rubbish.press/tags/%E6%83%85%E6%84%9F%E8%BD%BD%E4%BD%93/"/>
+    <category term="符号消费" scheme="https://www.rubbish.press/tags/%E7%AC%A6%E5%8F%B7%E6%B6%88%E8%B4%B9/"/>
+    <category term="垃圾桶场域理论" scheme="https://www.rubbish.press/tags/%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%9C%BA%E5%9F%9F%E7%90%86%E8%AE%BA/"/>
+    <id>https://www.rubbish.press/posts/58013.html</id>
+    <link href="https://www.rubbish.press/posts/58013.html"/>
+    <published>2026-04-08T15:46:48.522Z</published>
+    <summary>**摘要：**   本研究聚焦情人节后大规模鲜花丢弃现象，探讨情感载体生命周期与情感存续周期的错配问题。通过多中心田野调查、垃圾桶分层抽样及深度访谈，分析全国18个一线城市2024-2026年3个情人节的1246个样本及327份有效访谈数据。结果显示，87.2%的丢弃鲜花仍处于生理活性期，其物理生命周期仅完成12.3%，丢弃本质是符号价值终结而非物理失效。行为主体可划分为6类，其中“情感兑付失败型”（41.7%）和“符号消费完成型”（35.2%）占比超75%。研究首次提出“节日情感载体半衰期定律”，构建“情感物化—去物化闭环模型”与“垃圾桶情感场域理论”，揭示丢弃行为的四大心理学内核。该研究为城市环卫优化清运、鲜花行业产品设计及都市人情感告别流程提供理论支持与行为学指导。    **关键词：** 节日情感载体；都市情感半衰期；垃圾桶场域理论</summary>
+    <title>对特定节日后情感载体处理方式的行为学分析</title>
+    <updated>2026-04-08T15:51:30.935Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -359,24 +376,5 @@
     <summary>**摘要**   本研究通过长期植入光纤探针记录小鼠双侧海马体（dCA1）神经元活动时，意外发现：双侧各植入1-2根直径200 μm光纤、持续超过12周的小鼠，在组织学检查中呈现显著的海马体形态学改变——背腹径压缩、整体结构扁平化。通过排除切片方向偏差和颅外机械挤压等混杂因素后，该现象仍稳定复现，且单侧植入对照组未见类似变化，表明变形与双侧多根光纤长期植入相关。研究首次揭示此类植入设备可能对脑组织结构造成不可逆的宏观形变，提示神经科学在体研究中需重视植入物对脑组织的潜在影响。作者强调此发现属偶然（serendipity），机制及功能后果尚待进一步探索。    （字数：198）</summary>
     <title>双侧植入光纤或导致小鼠海马体发生形态学改变</title>
     <updated>2026-04-06T13:25:00.935Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="扎根理论" scheme="https://www.rubbish.press/tags/%E6%89%8E%E6%A0%B9%E7%90%86%E8%AE%BA/"/>
-    <category term="百合叙事" scheme="https://www.rubbish.press/tags/%E7%99%BE%E5%90%88%E5%8F%99%E4%BA%8B/"/>
-    <category term="情感共生" scheme="https://www.rubbish.press/tags/%E6%83%85%E6%84%9F%E5%85%B1%E7%94%9F/"/>
-    <category term="LLM辅助编码" scheme="https://www.rubbish.press/tags/LLM%E8%BE%85%E5%8A%A9%E7%BC%96%E7%A0%81/"/>
-    <category term="轻小说" scheme="https://www.rubbish.press/tags/%E8%BD%BB%E5%B0%8F%E8%AF%B4/"/>
-    <category term="超辉夜姬" scheme="https://www.rubbish.press/tags/%E8%B6%85%E8%BE%89%E5%A4%9C%E5%A7%AC/"/>
-    <id>https://www.rubbish.press/posts/36072.html</id>
-    <link href="https://www.rubbish.press/posts/36072.html"/>
-    <published>2026-04-02T08:55:35.896Z</published>
-    <summary>**摘要**    《超辉夜姬！》作为百合轻小说的典型案例，其情感共生机制长期缺乏系统性学术分析。本研究采用建构主义扎根理论与大语言模型（LLM）辅助编码技术，对约8万字中文译本进行文本分析，提取30个核心概念并归纳为四个主轴范畴：（1）**无法拒绝的入侵者**；（2）**共犯式的温柔悖论**；（3）**时间洪流中的唯一坐标**；（4）**神性崩塌后的体温渴求**。研究识别出核心范畴“时间洪流中的唯一坐标”，提出百合叙事的情感演化模型：以命运级相遇为起点，通过日常照护瓦解防线、建立共犯契约，最终实现跨时间维度的灵魂锚定与双向救赎。方法论上探索了LLM在质性研究中的可行性，同时揭示虚构角色引发真实感动的情感逻辑——即使冰冷分析，爱仍是宇宙中最暴力的温柔。</summary>
-    <title>《超辉夜姬！》中的“时间洪流中的唯一坐标”：基于LLM辅助扎根理论的百合轻小说情感共生机制研究</title>
-    <updated>2026-04-02T09:07:43.330Z</updated>
   </entry>
 </feed>
