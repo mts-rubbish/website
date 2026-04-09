@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-08T15:56:27.838Z</updated>
+  <updated>2026-04-09T02:42:50.163Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="桂林米粉" scheme="https://www.rubbish.press/tags/%E6%A1%82%E6%9E%97%E7%B1%B3%E7%B2%89/"/>
+    <category term="POI" scheme="https://www.rubbish.press/tags/POI/"/>
+    <category term="GIS" scheme="https://www.rubbish.press/tags/GIS/"/>
+    <category term="核密度分析" scheme="https://www.rubbish.press/tags/%E6%A0%B8%E5%AF%86%E5%BA%A6%E5%88%86%E6%9E%90/"/>
+    <category term="标准差椭圆" scheme="https://www.rubbish.press/tags/%E6%A0%87%E5%87%86%E5%B7%AE%E6%A4%AD%E5%9C%86/"/>
+    <id>https://www.rubbish.press/posts/36060.html</id>
+    <link href="https://www.rubbish.press/posts/36060.html"/>
+    <published>2026-04-09T02:32:36.087Z</published>
+    <summary>**摘要**：   本文以桂林市198家米粉店POI数据为基础，结合核密度分析、标准差椭圆与平均中心计算等GIS空间分析方法，系统研究了桂林米粉店的分布特征。结果显示，象山区、七星区、秀峰区构成核心集聚区，合计占比73%；高密度区集中于解放东路、中山中路等传统商圈，呈显著“东北—西南”轴向分布，平均中心位于桂林站东侧。研究不仅揭示了城市美食设施的空间规律，更提出实用建议：游客住宿应优选该区域，以实现交通成本最小化与米粉体验最大化，为地方文旅消费提供精准导览支持。</summary>
+    <title>基于POI数据的桂林市桂林米粉店空间可视化分析</title>
+    <updated>2026-04-09T02:42:50.163Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -356,24 +374,5 @@
     <summary>**摘要**：   本文通过反身性自我民族志方法，揭示当前AI创作评价体系中的核心矛盾：检测工具的技术局限性与政策执行的刚性要求之间的结构性错位。研究起点是作者亲身经历——刻意修改人工文本以“降低AI感”后，反而被判定为更高AI痕迹；而未经修改的AI生成文本却被误判为人类原创。作者分析指出，主流AI检测器基于语言困惑度和突发性等统计特征进行判断，易将逻辑工整的人类文本误判为AI生成，尤其当人类模仿“AI所理解的人类风格”时更易触发误判。进一步研究发现，“AI痕迹严重”被视为劣质标签，实则是技术过渡期的社会建构，而非客观质量指标。不同场景对“降AI率”的需求差异显著：过程导向领域（如学术）需妥协于制度规则，而结果导向领域（如商业文案）则应追求效率与价值创造。最终，作者提出关键建议：当AI写作能力普遍超越人类时，个体应摆脱“图灵陷阱”，推动评价标准从“追问工具使用”转向“追问价值创造”，而非徒劳模仿“人类”。</summary>
     <title>我是AI还是AI是我？——论AI痕迹、创作主体与一个时代的认知错位</title>
     <updated>2026-04-07T08:33:08.654Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="王者荣耀" scheme="https://www.rubbish.press/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/"/>
-    <category term="安琪拉" scheme="https://www.rubbish.press/tags/%E5%AE%89%E7%90%AA%E6%8B%89/"/>
-    <category term="妲己" scheme="https://www.rubbish.press/tags/%E5%A6%B2%E5%B7%B1/"/>
-    <category term="老六" scheme="https://www.rubbish.press/tags/%E8%80%81%E5%85%AD/"/>
-    <category term="法师" scheme="https://www.rubbish.press/tags/%E6%B3%95%E5%B8%88/"/>
-    <category term="英雄分析" scheme="https://www.rubbish.press/tags/%E8%8B%B1%E9%9B%84%E5%88%86%E6%9E%90/"/>
-    <id>https://www.rubbish.press/posts/38273.html</id>
-    <link href="https://www.rubbish.press/posts/38273.html"/>
-    <published>2026-04-07T07:03:26.513Z</published>
-    <summary>摘要：  本文以《王者荣耀》中两位中路法师安琪拉与妲己为研究对象，探讨二者是否具备“老六”特质。研究首先界定“老六”为隐蔽潜伏、伺机突袭的贬义行为，强调其在草丛等隐蔽位置伏击脆皮英雄的特点。随后从口头禅、英雄档案及技能三方面进行对比分析：安琪拉座右铭“知识就是力量”体现其独立正直；妲己则依赖主人指令，缺乏自主性。档案显示安琪拉为人类神秘法师，而妲己为人造人偶，身份低微。技能方面，安琪拉普攻叠加灼烧伤害，正面输出；妲己则通过降低敌方法抗间接增强爆发，且三技能狐火随机攻击，具有偷袭特征。综合判断，妲己更符合“老六”形象。结论认为：安琪拉非老六，而妲己具备典型“老六”行为模式。关键词：安琪拉；妲己；老六；王者荣耀。</summary>
-    <title>安琪拉是老六吗？——基于《王者荣耀》中路法师安琪拉与妲己英雄的全方面分析</title>
-    <updated>2026-04-08T14:47:47.160Z</updated>
   </entry>
 </feed>
