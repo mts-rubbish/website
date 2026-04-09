@@ -10,7 +10,23 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-09T02:55:03.930Z</updated>
+  <updated>2026-04-09T03:13:14.874Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="学术垃圾" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E5%9E%83%E5%9C%BE/"/>
+    <category term="自指" scheme="https://www.rubbish.press/tags/%E8%87%AA%E6%8C%87/"/>
+    <category term="反标准" scheme="https://www.rubbish.press/tags/%E5%8F%8D%E6%A0%87%E5%87%86/"/>
+    <id>https://www.rubbish.press/posts/55655.html</id>
+    <link href="https://www.rubbish.press/posts/55655.html"/>
+    <published>2026-04-09T03:06:50.503Z</published>
+    <summary>摘要：本文是一篇以讽刺和自嘲手法撰写的“学术垃圾”范例，核心主题是揭示低质量学术作品的荒谬性与自我矛盾性。文章声称其目标是通过刻意违反学术规范（如逻辑混乱、缺乏创新、写作模糊等）来展现“不堪入目”的学术形态，并指出这类作品常陷入自我指涉的悖论——即声称自身不满足任何标准，却仍在进行写作。作者承认智力有限，主动终止论证，并以荒诞结论（“井盖”）收尾，进一步强化其反讽意图。关键词强调“学术垃圾”与“不堪入目”。尽管全文充满矛盾与戏谑，但其核心观点是：真正彻底的“学术垃圾”应拒绝一切规范性，包括写作本身，从而形成无法自洽的闭环。建议读者勿将其视为严肃学术成果，而应理解为对学术形式主义的批判性模仿。</summary>
+    <title>如何产出一篇不堪入目的学术垃圾</title>
+    <updated>2026-04-09T03:13:14.874Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -354,23 +370,5 @@
     <summary>**摘要**   本研究系统评估了“宫外恒温毛茸茸疗法”（ETFT）联合猫咕噜声对妊娠早期健康的综合干预效果。采用个体本位超精准循证范式（IB-UEBP），以单一黄金样本（n=1）进行观察分析，提出并验证了“咕噜-囊胚共振”假说：家猫20-140Hz的咕噜声波通过激活囊胚细胞Piezo1通道，促进胚胎发育相关基因表达，模拟输卵管蠕动环境。研究还证实，猫腹部热敷在温度控制、用户体验和可持续性上全面优于热水袋、暖宝宝及远红外线磁疗仪等设备，并兼具情绪疏导、灭鼠、灭蟑螂等协同健康效益，健康达成率达100%。结论强调，ETFT是一种低成本、可持续的家庭健康干预模式，尤其适合研究生群体提前布局未来家庭健康基础设施，具有显著公共卫生价值。关键词：宫外恒温毛茸茸疗法；咕噜-囊胚共振；孕早期；个体本位超精准循证；家猫。</summary>
     <title>宫外恒温毛茸茸疗法联合咕噜-囊胚共振：妊娠早期家庭公共卫生干预及健康补益机制研究</title>
     <updated>2026-04-07T08:58:18.173Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="姓名刻板印象" scheme="https://www.rubbish.press/tags/%E5%A7%93%E5%90%8D%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1/"/>
-    <category term="语音象征" scheme="https://www.rubbish.press/tags/%E8%AF%AD%E9%9F%B3%E8%B1%A1%E5%BE%81/"/>
-    <category term="社会势场" scheme="https://www.rubbish.press/tags/%E7%A4%BE%E4%BC%9A%E5%8A%BF%E5%9C%BA/"/>
-    <category term="自我实现预言" scheme="https://www.rubbish.press/tags/%E8%87%AA%E6%88%91%E5%AE%9E%E7%8E%B0%E9%A2%84%E8%A8%80/"/>
-    <category term="弛豫模型" scheme="https://www.rubbish.press/tags/%E5%BC%9B%E8%B1%AB%E6%A8%A1%E5%9E%8B/"/>
-    <id>https://www.rubbish.press/posts/23967.html</id>
-    <link href="https://www.rubbish.press/posts/23967.html"/>
-    <published>2026-04-07T08:39:44.033Z</published>
-    <summary>好的，这是一个为上述博客文章撰写的简明扼要的摘要：  **摘要**  本文探讨“姓名是否影响人的形象与命运”这一长期存在的社会心理问题。作者提出一个名为“社会势场弛豫”的模型，从社会物理学视角分析姓名如何通过语音象征与文化模因，触发听者的刻板印象，形成个体形象的初始边界条件。通过对典型姓名的案例分析（如“胡一彪”“安雅”），文章发现姓名虽能产生初始影响，但在家庭、关键事件等强耦合关系构成的复杂社会动力系统中，其解释力和决定性作用有限。个体的形象会随时间与社会势场发生动态“弛豫”互动，姓名的初始影响常被覆盖或重塑。因此，姓名确有影响，但远非决定性的命运主控变量；真正驱动个体发展的是更复杂的动力系统。该模型为理解姓名与形象的“双向塑造”提供了一个形式化框架，也为相关民间实践提供了认识论参照。</summary>
-    <title>姓名与形象的“弛豫”效应：你觉得你应该长什么样子？</title>
-    <updated>2026-04-07T08:48:45.429Z</updated>
   </entry>
 </feed>
