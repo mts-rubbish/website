@@ -10,7 +10,27 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-09T03:13:14.874Z</updated>
+  <updated>2026-04-11T09:58:51.502Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="MBTI" scheme="https://www.rubbish.press/tags/MBTI/"/>
+    <category term="SBTI" scheme="https://www.rubbish.press/tags/SBTI/"/>
+    <category term="RBTI" scheme="https://www.rubbish.press/tags/RBTI/"/>
+    <category term="人格测试" scheme="https://www.rubbish.press/tags/%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95/"/>
+    <category term="流量" scheme="https://www.rubbish.press/tags/%E6%B5%81%E9%87%8F/"/>
+    <category term="社交媒体" scheme="https://www.rubbish.press/tags/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/"/>
+    <category term="学术批评" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E6%89%B9%E8%AF%84/"/>
+    <id>https://www.rubbish.press/posts/30178.html</id>
+    <link href="https://www.rubbish.press/posts/30178.html"/>
+    <published>2026-04-11T09:49:19.242Z</published>
+    <summary>**摘要：**   本文探讨了人格测试在流量时代的演变逻辑，分析了MBTI的衰落与SBTI（Silly Big Personality Test）爆火的深层原因。文章指出，MBTI因黑箱操作、被滥用为招聘工具及公众对“科学”叙事的反叛而失势；而SBTI凭借荒诞标签和AI技术迅速引爆网络，遵循“共鸣优于正确、情绪重于逻辑”的传播法则。作者进一步提出RBTI（Rubbish-Based Type Indicator），将学术写作中的低质行为分为文献缝合怪、数据拷问师、理论搬运工和结论炼金术士四类，旨在通过戏谑方式揭露学术工业的弊病。研究认为，基于玩梗的流量狂欢生命周期短暂，但RBTI这类元嘲讽工具可能更具批判价值。关键词：MBTI；SBTI；RBTI；流量时代；人格测试。</summary>
+    <title>从MBTI到SBTI：人格测试的陨落、狂欢与流量收割——兼论RBTI的诞生研究</title>
+    <updated>2026-04-11T09:58:51.502Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -351,24 +371,5 @@
     <summary>**摘要**    本研究探讨了小鼠在实验过程中对研究生的啃咬行为，发现其攻击力度和频率存在显著差异，可分为“轻咬”（未刺破手套）和“暴击”（穿透多层手套并造成严重痛感）。通过对2月龄C57BL/6小鼠在基因鉴定过程中的观察，作者记录56次咬击事件，其中3次为暴击，估算暴击率约5.36%。研究提出“蓄力假说”“欺诈假说”和“起床气假说”解释暴击现象，认为小鼠可能通过轻咬铺垫降低实验者警惕性，从而发动高伤害攻击。然而，由于样本量小、品系单一，且实验操作不当（如保定失误）可能是主要诱因，结论需谨慎看待。本文旨在警示研究生规范操作，减少被咬风险，并呼吁善待实验动物。</summary>
     <title>Ka! Ka! Ka! Ooch！小鼠啃咬研究生行为的暴击率统计及其触发条件分析</title>
     <updated>2026-04-07T10:01:31.696Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="宫外恒温毛茸茸疗法" scheme="https://www.rubbish.press/tags/%E5%AE%AB%E5%A4%96%E6%81%92%E6%B8%A9%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%96%97%E6%B3%95/"/>
-    <category term="咕噜-囊胚共振" scheme="https://www.rubbish.press/tags/%E5%92%95%E5%99%9C-%E5%9B%8A%E8%83%9A%E5%85%B1%E6%8C%AF/"/>
-    <category term="妊娠早期" scheme="https://www.rubbish.press/tags/%E5%A6%8A%E5%A8%A0%E6%97%A9%E6%9C%9F/"/>
-    <category term="个体本位超精准循证" scheme="https://www.rubbish.press/tags/%E4%B8%AA%E4%BD%93%E6%9C%AC%E4%BD%8D%E8%B6%85%E7%B2%BE%E5%87%86%E5%BE%AA%E8%AF%81/"/>
-    <category term="家猫" scheme="https://www.rubbish.press/tags/%E5%AE%B6%E7%8C%AB/"/>
-    <category term="Piezo1" scheme="https://www.rubbish.press/tags/Piezo1/"/>
-    <id>https://www.rubbish.press/posts/54353.html</id>
-    <link href="https://www.rubbish.press/posts/54353.html"/>
-    <published>2026-04-07T08:52:37.681Z</published>
-    <summary>**摘要**   本研究系统评估了“宫外恒温毛茸茸疗法”（ETFT）联合猫咕噜声对妊娠早期健康的综合干预效果。采用个体本位超精准循证范式（IB-UEBP），以单一黄金样本（n=1）进行观察分析，提出并验证了“咕噜-囊胚共振”假说：家猫20-140Hz的咕噜声波通过激活囊胚细胞Piezo1通道，促进胚胎发育相关基因表达，模拟输卵管蠕动环境。研究还证实，猫腹部热敷在温度控制、用户体验和可持续性上全面优于热水袋、暖宝宝及远红外线磁疗仪等设备，并兼具情绪疏导、灭鼠、灭蟑螂等协同健康效益，健康达成率达100%。结论强调，ETFT是一种低成本、可持续的家庭健康干预模式，尤其适合研究生群体提前布局未来家庭健康基础设施，具有显著公共卫生价值。关键词：宫外恒温毛茸茸疗法；咕噜-囊胚共振；孕早期；个体本位超精准循证；家猫。</summary>
-    <title>宫外恒温毛茸茸疗法联合咕噜-囊胚共振：妊娠早期家庭公共卫生干预及健康补益机制研究</title>
-    <updated>2026-04-07T08:58:18.173Z</updated>
   </entry>
 </feed>
