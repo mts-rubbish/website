@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-11T09:59:14.306Z</updated>
+  <updated>2026-04-11T10:15:48.578Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="情感" scheme="https://www.rubbish.press/categories/%E6%83%85%E6%84%9F/"/>
+    <category term="二次元" scheme="https://www.rubbish.press/tags/%E4%BA%8C%E6%AC%A1%E5%85%83/"/>
+    <category term="情感投入" scheme="https://www.rubbish.press/tags/%E6%83%85%E6%84%9F%E6%8A%95%E5%85%A5/"/>
+    <category term="虚拟情感" scheme="https://www.rubbish.press/tags/%E8%99%9A%E6%8B%9F%E6%83%85%E6%84%9F/"/>
+    <category term="东亚家庭" scheme="https://www.rubbish.press/tags/%E4%B8%9C%E4%BA%9A%E5%AE%B6%E5%BA%AD/"/>
+    <category term="情感结构" scheme="https://www.rubbish.press/tags/%E6%83%85%E6%84%9F%E7%BB%93%E6%9E%84/"/>
+    <category term="乙女游戏" scheme="https://www.rubbish.press/tags/%E4%B9%99%E5%A5%B3%E6%B8%B8%E6%88%8F/"/>
+    <id>https://www.rubbish.press/posts/40972.html</id>
+    <link href="https://www.rubbish.press/posts/40972.html"/>
+    <published>2026-04-11T10:10:54.265Z</published>
+    <summary>**摘要**   本文基于东亚家庭情感结构，探讨“高行为投入、低情感表达”模式对个体情感认知的影响，并分析虚拟情感关系（如乙游、二次元）的代偿机制。研究发现，责任导向的亲子互动易使个体内化条件性情感逻辑，在现实亲密关系中形成情感缺口。相比之下，虚拟关系通过稳定且可预期的反馈机制，提供安全的情感替代方案。研究引入情感投入模型（ECT = SE/SA），形式化解释虚拟情感的补偿作用。结论认为，虚拟情感并非逃避，而是既有情感结构的延伸与重构，为东亚文化背景下亲密关系的困境提供了心理代偿路径。关键词：虚拟情感；东亚家庭；情感结构；乙游；情感投射。</summary>
+    <title>虚拟情感的建构：东亚家庭语境下的二次情感研究</title>
+    <updated>2026-04-11T10:15:48.578Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -353,23 +372,5 @@
     <summary>**摘要**：   本文探讨第一印象在人际认知中的核心作用，指出其通过**锚定效应**与**验证性偏见**形成认知闭环，既高效保护个体，也可能关闭认知的开放性。人虽多元立体，但认知天然片面，易陷入自我确认的循环。文章强调直觉作为防御机制的价值，但其边界在于仅反映特定情境下的感受，而非人的全部。作者提出“**弹性认知**”的交往姿态：第一印象是“入场券”而非“判决书”，应保持警惕的同时为对方保留改变的可能。最终，认识他人需在与自身偏见的持续对话中，平衡直觉警觉与认知开放性，接纳片面的必然性与变化的可能。</summary>
     <title>那个你第一眼就判了“死刑”的人，后来怎么样了？——关于人际认知的锚定、直觉与片面性困境</title>
     <updated>2026-04-07T10:12:30.076Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="C57BL/6小鼠" scheme="https://www.rubbish.press/tags/C57BL-6%E5%B0%8F%E9%BC%A0/"/>
-    <category term="暴击率" scheme="https://www.rubbish.press/tags/%E6%9A%B4%E5%87%BB%E7%8E%87/"/>
-    <category term="研究生安全" scheme="https://www.rubbish.press/tags/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AE%89%E5%85%A8/"/>
-    <category term="保定技术" scheme="https://www.rubbish.press/tags/%E4%BF%9D%E5%AE%9A%E6%8A%80%E6%9C%AF/"/>
-    <category term="以人度鼠法" scheme="https://www.rubbish.press/tags/%E4%BB%A5%E4%BA%BA%E5%BA%A6%E9%BC%A0%E6%B3%95/"/>
-    <id>https://www.rubbish.press/posts/35470.html</id>
-    <link href="https://www.rubbish.press/posts/35470.html"/>
-    <published>2026-04-07T09:53:00.481Z</published>
-    <summary>**摘要**    本研究探讨了小鼠在实验过程中对研究生的啃咬行为，发现其攻击力度和频率存在显著差异，可分为“轻咬”（未刺破手套）和“暴击”（穿透多层手套并造成严重痛感）。通过对2月龄C57BL/6小鼠在基因鉴定过程中的观察，作者记录56次咬击事件，其中3次为暴击，估算暴击率约5.36%。研究提出“蓄力假说”“欺诈假说”和“起床气假说”解释暴击现象，认为小鼠可能通过轻咬铺垫降低实验者警惕性，从而发动高伤害攻击。然而，由于样本量小、品系单一，且实验操作不当（如保定失误）可能是主要诱因，结论需谨慎看待。本文旨在警示研究生规范操作，减少被咬风险，并呼吁善待实验动物。</summary>
-    <title>Ka! Ka! Ka! Ooch！小鼠啃咬研究生行为的暴击率统计及其触发条件分析</title>
-    <updated>2026-04-07T10:01:31.696Z</updated>
   </entry>
 </feed>
