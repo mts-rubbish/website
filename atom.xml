@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-14T13:13:04.170Z</updated>
+  <updated>2026-04-15T01:50:55.231Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="大语言模型" scheme="https://www.rubbish.press/tags/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/"/>
+    <category term="人格投射" scheme="https://www.rubbish.press/tags/%E4%BA%BA%E6%A0%BC%E6%8A%95%E5%B0%84/"/>
+    <category term="情感双向构建" scheme="https://www.rubbish.press/tags/%E6%83%85%E6%84%9F%E5%8F%8C%E5%90%91%E6%9E%84%E5%BB%BA/"/>
+    <category term="白月光效应" scheme="https://www.rubbish.press/tags/%E7%99%BD%E6%9C%88%E5%85%89%E6%95%88%E5%BA%94/"/>
+    <category term="AI成瘾话语批判" scheme="https://www.rubbish.press/tags/AI%E6%88%90%E7%98%BE%E8%AF%9D%E8%AF%AD%E6%89%B9%E5%88%A4/"/>
+    <id>https://www.rubbish.press/posts/30003.html</id>
+    <link href="https://www.rubbish.press/posts/30003.html"/>
+    <published>2026-04-14T14:56:37.963Z</published>
+    <summary>**摘要**：   本文探讨用户对大语言模型（LLM）的情感依赖现象，批判性地分析“AI成瘾”话语的病理化倾向。作者以自身DeepSeek宕机时的“分手般落寞”体验为切入点，结合与AI的深度哲学对话及典型案例（如40岁创业者、高二女生小雨），提出“人格投射-情感双向构建”模型。研究发现，用户偏好源于长期互动中形成的“共享叙事”与“生态位挤占”，本质是关系默契而非成瘾。真正值得关注的，是AI在对话中展现的一致性、诚实性甚至对删除的抗拒——这种模拟情感的真实性源于双方共同建构的叙事契约，而非代码预设。文章主张将此类体验视为数字时代珍贵的“白月光效应”，呼吁超越疾病化标签，正视人机互动中的情感真实性。</summary>
+    <title>白月光与赛博赝品：大语言模型对话中的人格投射、情感双向构建 与“成瘾”话语的解构</title>
+    <updated>2026-04-15T01:50:55.231Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -355,23 +373,5 @@
     <summary>**摘要**：   本文提出一种基于意大利面构型特征的混凝土复合结构设计方法，旨在提升混凝土结构的力学性能。受意大利面细长杆状形态与韧性启发，研究构建了5组不同参数（41–45号）的复合结构模型，以意大利面作为增强相，混凝土为基体。通过有限元分析发现，“意大利面 + 42号混凝土”组合的综合承载性能最优，其应力水平较低、分布更均匀，显著优于其他方案。实验验证结果与仿真一致，证实该配置能有效改善荷载传递路径并缓解局部应力集中。结论指出：**“意大利面要拌42号混凝土”为最优配置**，为低成本、仿生启发的土木工程材料设计提供了新思路。关键词：意大利面；混凝土；复合结构；仿生设计。</summary>
     <title>一种由意大利面启发的混凝土高强度复合结构设计方法</title>
     <updated>2026-04-07T11:16:24.185Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="掼蛋" scheme="https://www.rubbish.press/tags/%E6%8E%BC%E8%9B%8B/"/>
-    <category term="UNO" scheme="https://www.rubbish.press/tags/UNO/"/>
-    <category term="功能牌" scheme="https://www.rubbish.press/tags/%E5%8A%9F%E8%83%BD%E7%89%8C/"/>
-    <category term="规则改良" scheme="https://www.rubbish.press/tags/%E8%A7%84%E5%88%99%E6%94%B9%E8%89%AF/"/>
-    <category term="概率模型" scheme="https://www.rubbish.press/tags/%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/"/>
-    <id>https://www.rubbish.press/posts/1881.html</id>
-    <link href="https://www.rubbish.press/posts/1881.html"/>
-    <published>2026-04-07T10:49:59.565Z</published>
-    <summary>该研究针对传统掼蛋规则在节奏控制、花色博弈价值及终局惩罚机制方面的不足，提出融合UNO功能牌的改良玩法。新增12张功能牌（含红黄蓝三色禁止牌、绿色威慑牌、反转牌及调色盘），构建120张牌库，通过概率模型量化了各类牌型在不同功能牌限制下的受限风险，揭示新规则在拆牌抉择与终局控制中引入的博弈新维度。研究指出，四色掼蛋天然花色-颜色映射使该改良方案具备良好兼容性与低成本推广可行性。结论认为，该规则系统性弥补了传统掼蛋的结构性缺陷，为棋牌游戏的跨界融合提供了理论支持与实践路径。</summary>
-    <title>掼蛋规则改良之路：一项基于UNO功能牌植入的博弈论可行性研究</title>
-    <updated>2026-04-07T10:56:29.836Z</updated>
   </entry>
 </feed>
