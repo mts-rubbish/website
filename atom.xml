@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-15T01:50:55.231Z</updated>
+  <updated>2026-04-15T15:18:13.649Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="MBTI人格" scheme="https://www.rubbish.press/tags/MBTI%E4%BA%BA%E6%A0%BC/"/>
+    <category term="SBTI人格" scheme="https://www.rubbish.press/tags/SBTI%E4%BA%BA%E6%A0%BC/"/>
+    <category term="中医情志" scheme="https://www.rubbish.press/tags/%E4%B8%AD%E5%8C%BB%E6%83%85%E5%BF%97/"/>
+    <category term="易感病证" scheme="https://www.rubbish.press/tags/%E6%98%93%E6%84%9F%E7%97%85%E8%AF%81/"/>
+    <category term="养生" scheme="https://www.rubbish.press/tags/%E5%85%BB%E7%94%9F/"/>
+    <id>https://www.rubbish.press/posts/39935.html</id>
+    <link href="https://www.rubbish.press/posts/39935.html"/>
+    <published>2026-04-15T14:30:01.712Z</published>
+    <summary>摘要：本文融合经典MBTI十六型人格与爆火的SBTI人格测试，以中医情志致病、脏腑辨证理论为核心，系统剖析两类人格对应的行为模式、情绪状态与中医病机及易感病证的内在关联。研究通过不完全归纳法，将16种MBTI人格与对应的SBTI标签进行匹配，并据此推导出各类人格的中医易感病证。例如，ENFJ（主人公型）易致心脾两虚、肝郁脾虚；INTP（逻辑学家型）易致心阴不足、脾胃虚弱。文章旨在构建人格特质与中医病证的对应体系，为不同人格人群的个性化中医养生与疾病预防提供科学参考，实现传统中医与当代流行人格文化的跨界融合与应用。</summary>
+    <title>MBTI 与 SBTI 不同人格易感中医病证研究</title>
+    <updated>2026-04-15T15:18:13.649Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -51,8 +69,8 @@
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="量子力学" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/"/>
     <category term="科研焦虑" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E7%84%A6%E8%99%91/"/>
+    <category term="量子力学" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/"/>
     <category term="组会预测" scheme="https://www.rubbish.press/tags/%E7%BB%84%E4%BC%9A%E9%A2%84%E6%B5%8B/"/>
     <category term="占卜" scheme="https://www.rubbish.press/tags/%E5%8D%A0%E5%8D%9C/"/>
     <category term="塔罗牌" scheme="https://www.rubbish.press/tags/%E5%A1%94%E7%BD%97%E7%89%8C/"/>
@@ -355,23 +373,5 @@
     <summary>**摘要**：   本文探讨了当前理工科学术交流中英语单极化的困境，并提出“元语言”假说以融合中英文的认知优势。通过分析中文表意文字（如部首、声旁）的高效分类功能与英文语法结构的严谨性，作者构建了一种名为“ChinGlis”的混合语言模型。该模型基于强化学习框架，将“表意清晰度”和“逻辑严谨性”量化为奖励函数，旨在降低学习门槛并提升认知效率。实验表明，新语言在保持逻辑性的同时显著简化了术语理解。研究为打破学术语言壁垒、推动知识民主化提供了理论依据与技术路径，关键词包括元语言、认知语言学、强化学习及跨学科交流。</summary>
     <title>人类学术语言大一统计划——必要性和可行性分析报告</title>
     <updated>2026-04-15T08:46:40.398Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="意大利面" scheme="https://www.rubbish.press/tags/%E6%84%8F%E5%A4%A7%E5%88%A9%E9%9D%A2/"/>
-    <category term="混凝土" scheme="https://www.rubbish.press/tags/%E6%B7%B7%E5%87%9D%E5%9C%9F/"/>
-    <category term="复合结构" scheme="https://www.rubbish.press/tags/%E5%A4%8D%E5%90%88%E7%BB%93%E6%9E%84/"/>
-    <category term="仿生设计" scheme="https://www.rubbish.press/tags/%E4%BB%BF%E7%94%9F%E8%AE%BE%E8%AE%A1/"/>
-    <category term="有限元分析" scheme="https://www.rubbish.press/tags/%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90/"/>
-    <id>https://www.rubbish.press/posts/10678.html</id>
-    <link href="https://www.rubbish.press/posts/10678.html"/>
-    <published>2026-04-07T11:09:55.814Z</published>
-    <summary>**摘要**：   本文提出一种基于意大利面构型特征的混凝土复合结构设计方法，旨在提升混凝土结构的力学性能。受意大利面细长杆状形态与韧性启发，研究构建了5组不同参数（41–45号）的复合结构模型，以意大利面作为增强相，混凝土为基体。通过有限元分析发现，“意大利面 + 42号混凝土”组合的综合承载性能最优，其应力水平较低、分布更均匀，显著优于其他方案。实验验证结果与仿真一致，证实该配置能有效改善荷载传递路径并缓解局部应力集中。结论指出：**“意大利面要拌42号混凝土”为最优配置**，为低成本、仿生启发的土木工程材料设计提供了新思路。关键词：意大利面；混凝土；复合结构；仿生设计。</summary>
-    <title>一种由意大利面启发的混凝土高强度复合结构设计方法</title>
-    <updated>2026-04-07T11:16:24.185Z</updated>
   </entry>
 </feed>
