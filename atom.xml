@@ -10,7 +10,25 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-15T15:26:48.960Z</updated>
+  <updated>2026-04-16T16:17:14.098Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="大语言模型" scheme="https://www.rubbish.press/tags/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/"/>
+    <category term="LLM 失灵" scheme="https://www.rubbish.press/tags/LLM-%E5%A4%B1%E7%81%B5/"/>
+    <category term="经济崩溃" scheme="https://www.rubbish.press/tags/%E7%BB%8F%E6%B5%8E%E5%B4%A9%E6%BA%83/"/>
+    <category term="系统脆弱性" scheme="https://www.rubbish.press/tags/%E7%B3%BB%E7%BB%9F%E8%84%86%E5%BC%B1%E6%80%A7/"/>
+    <category term="技术依赖" scheme="https://www.rubbish.press/tags/%E6%8A%80%E6%9C%AF%E4%BE%9D%E8%B5%96/"/>
+    <id>https://www.rubbish.press/posts/26318.html</id>
+    <link href="https://www.rubbish.press/posts/26318.html"/>
+    <published>2026-04-16T12:39:17.164Z</published>
+    <summary>本文虚构全球LLM（大语言模型）集体失灵的极端场景，揭示当前技术生态的系统性脆弱性。核心论点包括：LLM因Transformer架构同质化、硬件依赖（如GPU）及基础设施集中化而存在高风险；人类过度依赖LLM已导致科研、编程、写作等基础技能退化；一旦发生黑天鹅事件（如世界大战致海底光缆中断或平行时空架构失效），最先崩溃的是高度依赖LLM的研究者、计算机专业学生与高校学生。文章强调，尽管该情景纯属假设，却警示技术繁荣背后的结构性隐患。结论呼吁推动系统异构化、制定失效应急预案，并探索人机协作新范式，以应对潜在危机。</summary>
+    <title>当全世界的LLM集体失灵</title>
+    <updated>2026-04-16T16:17:14.098Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -355,23 +373,5 @@
     <summary>**摘要**   在城市化加速与耕地红线管控的双重压力下，传统农业空间受限，亟需拓展新型城市种植模式。本文提出利用废旧鞋子作为种植容器，通过为期30天的对照实验（对比陶瓷盆和暖水瓶盖），以赤豆为作物分析生长表现。结果显示，废旧鞋（尤其布面/网面）在株高（32.5±2.1 cm）、叶片面积（18.7±3.5 cm²）及根系发育上显著优于对照组，得益于其透气性、排水性与微气候调节优势。该方案成本低廉、空间利用率高，兼具资源循环利用价值，适用于阳台种植，缓解粮食供给压力，并为末日生存场景提供分散式食物生产思路。未来需进一步验证不同鞋类材质及作物的适用性。</summary>
     <title>你走了，我们吃什么？一种新型城市化农业实现方案——废旧鞋子作为农作物种植容器的优势及可行性分析</title>
     <updated>2026-04-08T08:21:09.215Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="元语言" scheme="https://www.rubbish.press/tags/%E5%85%83%E8%AF%AD%E8%A8%80/"/>
-    <category term="强化学习" scheme="https://www.rubbish.press/tags/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/"/>
-    <category term="跨学科交流" scheme="https://www.rubbish.press/tags/%E8%B7%A8%E5%AD%A6%E7%A7%91%E4%BA%A4%E6%B5%81/"/>
-    <category term="知识民主化" scheme="https://www.rubbish.press/tags/%E7%9F%A5%E8%AF%86%E6%B0%91%E4%B8%BB%E5%8C%96/"/>
-    <category term="ChinGlis" scheme="https://www.rubbish.press/tags/ChinGlis/"/>
-    <id>https://www.rubbish.press/posts/64220.html</id>
-    <link href="https://www.rubbish.press/posts/64220.html"/>
-    <published>2026-04-07T11:19:52.163Z</published>
-    <summary>**摘要**：   本文探讨了当前理工科学术交流中英语单极化的困境，并提出“元语言”假说以融合中英文的认知优势。通过分析中文表意文字（如部首、声旁）的高效分类功能与英文语法结构的严谨性，作者构建了一种名为“ChinGlis”的混合语言模型。该模型基于强化学习框架，将“表意清晰度”和“逻辑严谨性”量化为奖励函数，旨在降低学习门槛并提升认知效率。实验表明，新语言在保持逻辑性的同时显著简化了术语理解。研究为打破学术语言壁垒、推动知识民主化提供了理论依据与技术路径，关键词包括元语言、认知语言学、强化学习及跨学科交流。</summary>
-    <title>人类学术语言大一统计划——必要性和可行性分析报告</title>
-    <updated>2026-04-15T08:46:40.398Z</updated>
   </entry>
 </feed>
