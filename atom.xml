@@ -10,7 +10,23 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-16T16:17:14.098Z</updated>
+  <updated>2026-04-16T16:22:28.253Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="赛博发疯" scheme="https://www.rubbish.press/tags/%E8%B5%9B%E5%8D%9A%E5%8F%91%E7%96%AF/"/>
+    <category term="天敌威慑" scheme="https://www.rubbish.press/tags/%E5%A4%A9%E6%95%8C%E5%A8%81%E6%85%91/"/>
+    <category term="心魔幻想" scheme="https://www.rubbish.press/tags/%E5%BF%83%E9%AD%94%E5%B9%BB%E6%83%B3/"/>
+    <id>https://www.rubbish.press/posts/29110.html</id>
+    <link href="https://www.rubbish.press/posts/29110.html"/>
+    <published>2026-04-16T13:06:50.244Z</published>
+    <summary>本文探讨了动态微信头像在极端社交情境下的信号功能与沟通困境。研究聚焦于两种典型关系：与导师（“天敌”）和暧昧对象（“心魔”）互动时，动态头像对观察者心理及行为的影响。通过三组实验发现：面对导师，黑白阴间滤镜的动态头像会触发观察者的生存本能反应，显著抑制互动意愿；面对暧昧对象，彩色动态头像则诱发过度解读与“自杀式社交”倾向。研究进一步揭示发送者与观察者之间存在严重的理解错配——精心设计的局部细节常被误判为加载失败的色块，证明此类沟通高度不可靠且充满误读。结论指出，动态头像已成为一种高风险的社交信号系统，其意图识别具有极强的主观性与非理性，本质上是一种“赛博算命”。因此，作者建议青年群体减少对头像信号的过度解读，以保护心理健康。关键词包括：赛博发疯、天敌威慑、心魔幻想。</summary>
+    <title>究竟是他在暗示，还是我已发疯？——导师与暧昧对象动态头像的意图识别与生存指南</title>
+    <updated>2026-04-16T16:22:28.253Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -355,23 +371,5 @@
     <summary>**摘要**：   本文从女性视角探讨MBTI中高敏感人群（如INFP、INFJ等）的心理特质，聚焦其情感敏锐性与内在脆弱性。作者构建“高敏感依恋模型”，通过数学公式揭示高敏感个体对爱的主观感知受放大系数、内耗累积及安全感影响，提出“被爱解”需满足正向爱意信号超越负面干扰的阈值条件。结合神经负荷分析，指出HSP因感知增益与细节捕捉能力承受更高情绪消耗，易焦虑疲惫且常被误解为过度思虑。研究强调理解与陪伴的重要性：唯有在稳定关系中提供持续正向反馈，方能缓解其内耗，使其真实感知被爱。建议通过提升情绪价值与共情沟通，帮助高敏感者建立心理安全边界，实现自我接纳与关系和谐。</summary>
     <title>高敏感依恋模型：在亲密关系中求「被爱」的存在解</title>
     <updated>2026-04-08T08:30:53.137Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="废旧鞋子" scheme="https://www.rubbish.press/tags/%E5%BA%9F%E6%97%A7%E9%9E%8B%E5%AD%90/"/>
-    <category term="种植容器" scheme="https://www.rubbish.press/tags/%E7%A7%8D%E6%A4%8D%E5%AE%B9%E5%99%A8/"/>
-    <category term="城市农业" scheme="https://www.rubbish.press/tags/%E5%9F%8E%E5%B8%82%E5%86%9C%E4%B8%9A/"/>
-    <category term="末世生存" scheme="https://www.rubbish.press/tags/%E6%9C%AB%E4%B8%96%E7%94%9F%E5%AD%98/"/>
-    <category term="耕地红线" scheme="https://www.rubbish.press/tags/%E8%80%95%E5%9C%B0%E7%BA%A2%E7%BA%BF/"/>
-    <id>https://www.rubbish.press/posts/25237.html</id>
-    <link href="https://www.rubbish.press/posts/25237.html"/>
-    <published>2026-04-08T08:16:10.860Z</published>
-    <summary>**摘要**   在城市化加速与耕地红线管控的双重压力下，传统农业空间受限，亟需拓展新型城市种植模式。本文提出利用废旧鞋子作为种植容器，通过为期30天的对照实验（对比陶瓷盆和暖水瓶盖），以赤豆为作物分析生长表现。结果显示，废旧鞋（尤其布面/网面）在株高（32.5±2.1 cm）、叶片面积（18.7±3.5 cm²）及根系发育上显著优于对照组，得益于其透气性、排水性与微气候调节优势。该方案成本低廉、空间利用率高，兼具资源循环利用价值，适用于阳台种植，缓解粮食供给压力，并为末日生存场景提供分散式食物生产思路。未来需进一步验证不同鞋类材质及作物的适用性。</summary>
-    <title>你走了，我们吃什么？一种新型城市化农业实现方案——废旧鞋子作为农作物种植容器的优势及可行性分析</title>
-    <updated>2026-04-08T08:21:09.215Z</updated>
   </entry>
 </feed>
