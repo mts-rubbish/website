@@ -1,10 +1,8 @@
 https://www.rubbish.press/vercel.json
 https://www.rubbish.press/tags/index.html
-https://www.rubbish.press/page/temp/index.html
-https://www.rubbish.press/page/wenxin/index.md.html
+https://www.rubbish.press/editors/index.html
 https://www.rubbish.press/archives/index.html
 https://www.rubbish.press/categories/index.html
-https://www.rubbish.press/editors/index.html
 https://www.rubbish.press/posts/29110.html
 https://www.rubbish.press/posts/26318.html
 https://www.rubbish.press/posts/39935.html
@@ -599,12 +597,6 @@ https://www.rubbish.press/tags/%E5%B1%B1%E9%A1%B6%E7%BC%86%E8%BD%A6/
 https://www.rubbish.press/tags/3D%E6%89%93%E5%8D%B0/
 https://www.rubbish.press/tags/%E5%87%8F%E6%9D%90%E5%88%B6%E9%80%A0/
 https://www.rubbish.press/tags/%E7%87%83%E7%83%A7/
-https://www.rubbish.press/tags/%E4%BF%A1%E5%8F%B7%E5%8D%9A%E5%BC%88/
-https://www.rubbish.press/tags/%E7%BA%B3%E4%BB%80%E5%9D%87%E8%A1%A1/
-https://www.rubbish.press/tags/%E8%B7%A8%E6%9C%9F%E8%B4%B4%E7%8E%B0/
-https://www.rubbish.press/tags/%E5%AF%BC%E5%B8%88%E7%94%BB%E9%A5%BC/
-https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E7%B3%8A%E5%BC%84/
-https://www.rubbish.press/tags/%E5%AF%BC%E5%AD%A6%E5%85%B3%E7%B3%BB/
 https://www.rubbish.press/tags/Agriculture/
 https://www.rubbish.press/tags/Sample-Collection/
 https://www.rubbish.press/tags/Field-Sampling/
@@ -649,6 +641,12 @@ https://www.rubbish.press/tags/%E7%AC%91%E5%A3%B0%E9%A2%91%E6%AC%A1/
 https://www.rubbish.press/tags/%E9%99%8D%E5%A6%96%E8%83%9C%E7%8E%87/
 https://www.rubbish.press/tags/%E5%98%B2%E8%AE%BD%E6%8A%97%E6%80%A7/
 https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1/
+https://www.rubbish.press/tags/%E4%BF%A1%E5%8F%B7%E5%8D%9A%E5%BC%88/
+https://www.rubbish.press/tags/%E7%BA%B3%E4%BB%80%E5%9D%87%E8%A1%A1/
+https://www.rubbish.press/tags/%E8%B7%A8%E6%9C%9F%E8%B4%B4%E7%8E%B0/
+https://www.rubbish.press/tags/%E5%AF%BC%E5%B8%88%E7%94%BB%E9%A5%BC/
+https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E7%B3%8A%E5%BC%84/
+https://www.rubbish.press/tags/%E5%AF%BC%E5%AD%A6%E5%85%B3%E7%B3%BB/
 https://www.rubbish.press/tags/%E7%AC%91%E5%A3%B0/
 https://www.rubbish.press/tags/%E9%87%8F%E5%8C%96%E5%88%86%E6%9E%90/
 https://www.rubbish.press/tags/%E6%8A%BD%E8%B1%A1%E5%AD%A6%E6%9C%AF/
