@@ -10,7 +10,20 @@
   <rights>All rights reserved 2026, Rubbish编辑部</rights>
   <subtitle>于荒诞处 见同路人</subtitle>
   <title>Rubbish</title>
-  <updated>2026-04-16T16:22:28.253Z</updated>
+  <updated>2026-04-17T04:44:03.565Z</updated>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文心 × 落碑拾" scheme="https://www.rubbish.press/categories/%E6%96%87%E5%BF%83-%C3%97-%E8%90%BD%E7%A2%91%E6%8B%BE/"/>
+    <category term="新闻" scheme="https://www.rubbish.press/categories/%E6%96%B0%E9%97%BB/"/>
+    <id>https://www.rubbish.press/posts/30814.html</id>
+    <link href="https://www.rubbish.press/posts/30814.html"/>
+    <published>2026-04-24T16:00:00.975Z</published>
+    <summary>首届文心抽象论文大赛正式启动，由文心与落碑拾联合主办。活动旨在通过AI辅助创作，探索抽象思维与现实议题的融合。投稿时间为4月17日至24日，主题为六组生活化命题（如“舌尖上头实录”“高质量人类的高耗日常”等），要求基于真实信息、逻辑自洽且原创合规。参赛者需使用百度文心助手辅助写作，并提交相关对话截图。评审侧重课题抽象性、论证严谨性及“胡编专业感”，优秀作品可豁免评分。奖项分设主理人、总编和研究员三类，奖品包含智能设备与定制周边。作品一经投稿即授权主办方用于出版与宣传。</summary>
+    <title>用​AI​成全抽象​​——首届文心抽象论文大赛正式开启！</title>
+    <updated>2026-04-17T04:44:03.565Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Rubbish编辑部</name>
@@ -353,23 +366,5 @@
     <summary>**摘要**：本文系统辨析了现代汉语近义词“污”与“垢”的语义差异。研究发现：“污”多指液态、易除的脏物，可动词化（如“污蔑”），在网络语境中衍生出“低俗”义；而“垢”侧重固态、顽固附着物，仅作名词，其责骂义已由“诟”承担。二者虽常并称“污垢”，但语义重心偏向“垢”。进一步分析指出，并非所有“污”都会转化为“垢”，只有含可固化成分、经反复沉积且在适宜化学条件下（如温度、pH值）才可能演变为硬质“垢”，如牙结石或水垢的形成过程。本研究为汉语近义词的微观语义演变提供了实证案例。</summary>
     <title>说文解字“污”与“垢”：从油渍到水垢的语义考古——兼论“污”为何能开车而“垢”不能</title>
     <updated>2026-04-08T08:39:51.442Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="科普" scheme="https://www.rubbish.press/categories/%E7%A7%91%E6%99%AE/"/>
-    <category term="INFJ" scheme="https://www.rubbish.press/tags/INFJ/"/>
-    <category term="情绪价值" scheme="https://www.rubbish.press/tags/%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC/"/>
-    <category term="高敏感" scheme="https://www.rubbish.press/tags/%E9%AB%98%E6%95%8F%E6%84%9F/"/>
-    <category term="依恋模型" scheme="https://www.rubbish.press/tags/%E4%BE%9D%E6%81%8B%E6%A8%A1%E5%9E%8B/"/>
-    <category term="内耗" scheme="https://www.rubbish.press/tags/%E5%86%85%E8%80%97/"/>
-    <id>https://www.rubbish.press/posts/9978.html</id>
-    <link href="https://www.rubbish.press/posts/9978.html"/>
-    <published>2026-04-08T08:25:07.377Z</published>
-    <summary>**摘要**：   本文从女性视角探讨MBTI中高敏感人群（如INFP、INFJ等）的心理特质，聚焦其情感敏锐性与内在脆弱性。作者构建“高敏感依恋模型”，通过数学公式揭示高敏感个体对爱的主观感知受放大系数、内耗累积及安全感影响，提出“被爱解”需满足正向爱意信号超越负面干扰的阈值条件。结合神经负荷分析，指出HSP因感知增益与细节捕捉能力承受更高情绪消耗，易焦虑疲惫且常被误解为过度思虑。研究强调理解与陪伴的重要性：唯有在稳定关系中提供持续正向反馈，方能缓解其内耗，使其真实感知被爱。建议通过提升情绪价值与共情沟通，帮助高敏感者建立心理安全边界，实现自我接纳与关系和谐。</summary>
-    <title>高敏感依恋模型：在亲密关系中求「被爱」的存在解</title>
-    <updated>2026-04-08T08:30:53.137Z</updated>
   </entry>
 </feed>
