@@ -29,6 +29,25 @@
       <name>Rubbish编辑部</name>
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="花生米" scheme="https://www.rubbish.press/tags/%E8%8A%B1%E7%94%9F%E7%B1%B3/"/>
+    <category term="下酒菜" scheme="https://www.rubbish.press/tags/%E4%B8%8B%E9%85%92%E8%8F%9C/"/>
+    <category term="酒桌文化" scheme="https://www.rubbish.press/tags/%E9%85%92%E6%A1%8C%E6%96%87%E5%8C%96/"/>
+    <category term="饮食史" scheme="https://www.rubbish.press/tags/%E9%A5%AE%E9%A3%9F%E5%8F%B2/"/>
+    <category term="日常生活史" scheme="https://www.rubbish.press/tags/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E5%8F%B2/"/>
+    <category term="文化符号" scheme="https://www.rubbish.press/tags/%E6%96%87%E5%8C%96%E7%AC%A6%E5%8F%B7/"/>
+    <id>https://www.rubbish.press/posts/46993.html</id>
+    <link href="https://www.rubbish.press/posts/46993.html"/>
+    <published>2026-04-18T14:06:55.610Z</published>
+    <summary>本文探讨“花生米成为中国酒桌经典搭配”的深层原因，指出其胜出并非仅因“便宜好吃”，而是历史空缺、物质特性与社交需求三重条件叠加的结果。中国古代虽有丰富佐酒食物，但受礼制、地域和季节限制，缺乏跨阶层、跨场景的统一下酒菜；花生作为明清传入的外来作物，凭借适应性强、易储运、可标准化加工等基础设施优势，迅速融入日常消费网络。在现代中国以白酒、小聚、共享为核心的酒桌文化中，花生米以低成本、低门槛、耐久食、不断档的特征，完美满足“填补时间”“维持节奏”“降低社交压力”的实际需求。它不仅是一种配酒食品，更成为高度辨识度的酒桌符号，折射出中国饮酒文化从礼仪化走向日常化、从珍馐叙事转向实用主义的长期演变。</summary>
+    <title>花生米何以成为中国酒桌的经典搭配</title>
+    <updated>2026-04-18T14:30:09.370Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
     <category term="三角洲" scheme="https://www.rubbish.press/tags/%E4%B8%89%E8%A7%92%E6%B4%B2/"/>
     <category term="运气玄学" scheme="https://www.rubbish.press/tags/%E8%BF%90%E6%B0%94%E7%8E%84%E5%AD%A6/"/>
@@ -344,25 +363,5 @@
     <summary>本博客文章探讨了一种在长期假期中出现的罕见心理现象，即个体产生“想回实验室做实验”的主观冲动，并将其命名为“实验室依附错觉（LAI）”。研究通过单一受试者纵向观察发现，当假期超过5-7天后，受试者开始出现对实验室环境的怀念、幻听和幻想。这种现象与传统burnout模型不同，可能与痛苦记忆淡化、生产力焦虑和未完成效应（Zeigarnik effect）有关。研究建议未来扩大样本量，并探讨其与导师及实验室风气的相关性。</summary>
     <title>长期放假诱发之实验室依附错觉：一项自我观察研究</title>
     <updated>2026-04-08T15:43:25.323Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="CSGO" scheme="https://www.rubbish.press/tags/CSGO/"/>
-    <category term="回归分析" scheme="https://www.rubbish.press/tags/%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90/"/>
-    <category term="神经网络" scheme="https://www.rubbish.press/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
-    <category term="胜率预测" scheme="https://www.rubbish.press/tags/%E8%83%9C%E7%8E%87%E9%A2%84%E6%B5%8B/"/>
-    <category term="团队协同" scheme="https://www.rubbish.press/tags/%E5%9B%A2%E9%98%9F%E5%8D%8F%E5%90%8C/"/>
-    <id>https://www.rubbish.press/posts/39841.html</id>
-    <link href="https://www.rubbish.press/posts/39841.html"/>
-    <published>2026-04-08T15:25:26.628Z</published>
-    <summary>
-      <![CDATA[**摘要**   本文基于100局普通玩家CS:GO竞技对局数据，探讨个人与团队指标对胜率及得分的量化影响。研究发现：**个人击杀数、得分对胜率无显著影响**（P > 0.05），而**队友及全队击杀数正向影响胜率**，**死亡数（含个人与团队）则负向影响胜率**。通过回归分析与神经网络建模验证，“队友平均击杀数”和“全队平均死亡数”是胜率的核心变量。进一步分析表明，**个人得分超半数依赖团队进攻能力**，高死亡虽推高得分却削弱胜率。研究揭示了“高得分低胜率”悖论的底层逻辑——控死亡、重团队协作才是胜负关键，为普通玩家提供实证提升路径，亦补充了战术类FPS项目的量化研究体系。    （199字）]]>
-    </summary>
-    <title>杀多赢少？——基于回归和神经网络分析的CSGO胜利指南</title>
-    <updated>2026-04-08T15:33:36.488Z</updated>
   </entry>
 </feed>
