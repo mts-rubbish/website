@@ -49,6 +49,21 @@
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="影响因子" scheme="https://www.rubbish.press/tags/%E5%BD%B1%E5%93%8D%E5%9B%A0%E5%AD%90/"/>
+    <category term="数域拓展" scheme="https://www.rubbish.press/tags/%E6%95%B0%E5%9F%9F%E6%8B%93%E5%B1%95/"/>
+    <id>https://www.rubbish.press/posts/26092.html</id>
+    <link href="https://www.rubbish.press/posts/26092.html"/>
+    <published>2026-04-18T11:56:33.536Z</published>
+    <summary>**摘要**：   本文提出对学术期刊影响因子（IF）的数域拓展，以更全面量化其影响力。现有IF为非负有理数，存在局限。作者首先将IF扩展至负数，认为越负则期刊前瞻性越强；随后引入无理数，通过定义“间接引用数S”体现学术影响的无限不循环性，使IF涵盖全体实数；最后扩展至复数域，指出虚部正负分别表征广泛性与专业性。这一系统性拓展标志着人类对期刊影响力的认知实现重大飞跃，建议未来IF计算应纳入多维时空效应以提升评估准确性。    （199字）</summary>
+    <title>学术期刊影响因子的数域拓展</title>
+    <updated>2026-04-18T14:32:18.352Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
     <category term="三角洲" scheme="https://www.rubbish.press/tags/%E4%B8%89%E8%A7%92%E6%B4%B2/"/>
     <category term="运气玄学" scheme="https://www.rubbish.press/tags/%E8%BF%90%E6%B0%94%E7%8E%84%E5%AD%A6/"/>
     <category term="晋级概率" scheme="https://www.rubbish.press/tags/%E6%99%8B%E7%BA%A7%E6%A6%82%E7%8E%87/"/>
@@ -346,22 +361,5 @@
     <summary>**摘要：**   本研究聚焦情人节后大规模鲜花丢弃现象，探讨情感载体生命周期与情感存续周期的错配问题。通过多中心田野调查、垃圾桶分层抽样及深度访谈，分析全国18个一线城市2024-2026年3个情人节的1246个样本及327份有效访谈数据。结果显示，87.2%的丢弃鲜花仍处于生理活性期，其物理生命周期仅完成12.3%，丢弃本质是符号价值终结而非物理失效。行为主体可划分为6类，其中“情感兑付失败型”（41.7%）和“符号消费完成型”（35.2%）占比超75%。研究首次提出“节日情感载体半衰期定律”，构建“情感物化—去物化闭环模型”与“垃圾桶情感场域理论”，揭示丢弃行为的四大心理学内核。该研究为城市环卫优化清运、鲜花行业产品设计及都市人情感告别流程提供理论支持与行为学指导。    **关键词：** 节日情感载体；都市情感半衰期；垃圾桶场域理论</summary>
     <title>对特定节日后情感载体处理方式的行为学分析</title>
     <updated>2026-04-08T15:51:30.935Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="自我观察" scheme="https://www.rubbish.press/tags/%E8%87%AA%E6%88%91%E8%A7%82%E5%AF%9F/"/>
-    <category term="实验室依附错觉" scheme="https://www.rubbish.press/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BE%9D%E9%99%84%E9%94%99%E8%A7%89/"/>
-    <category term="放假后遗症" scheme="https://www.rubbish.press/tags/%E6%94%BE%E5%81%87%E5%90%8E%E9%81%97%E7%97%87/"/>
-    <category term="科研心理" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E5%BF%83%E7%90%86/"/>
-    <category term="斯德哥尔摩症候群" scheme="https://www.rubbish.press/tags/%E6%96%AF%E5%BE%B7%E5%93%A5%E5%B0%94%E6%91%A9%E7%97%87%E5%80%99%E7%BE%A4/"/>
-    <id>https://www.rubbish.press/posts/31968.html</id>
-    <link href="https://www.rubbish.press/posts/31968.html"/>
-    <published>2026-04-08T15:36:47.971Z</published>
-    <summary>本博客文章探讨了一种在长期假期中出现的罕见心理现象，即个体产生“想回实验室做实验”的主观冲动，并将其命名为“实验室依附错觉（LAI）”。研究通过单一受试者纵向观察发现，当假期超过5-7天后，受试者开始出现对实验室环境的怀念、幻听和幻想。这种现象与传统burnout模型不同，可能与痛苦记忆淡化、生产力焦虑和未完成效应（Zeigarnik effect）有关。研究建议未来扩大样本量，并探讨其与导师及实验室风气的相关性。</summary>
-    <title>长期放假诱发之实验室依附错觉：一项自我观察研究</title>
-    <updated>2026-04-08T15:43:25.323Z</updated>
   </entry>
 </feed>
