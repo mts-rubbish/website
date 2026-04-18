@@ -30,6 +30,23 @@
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="三角洲" scheme="https://www.rubbish.press/tags/%E4%B8%89%E8%A7%92%E6%B4%B2/"/>
+    <category term="运气玄学" scheme="https://www.rubbish.press/tags/%E8%BF%90%E6%B0%94%E7%8E%84%E5%AD%A6/"/>
+    <category term="晋级概率" scheme="https://www.rubbish.press/tags/%E6%99%8B%E7%BA%A7%E6%A6%82%E7%8E%87/"/>
+    <category term="认知偏误" scheme="https://www.rubbish.press/tags/%E8%AE%A4%E7%9F%A5%E5%81%8F%E8%AF%AF/"/>
+    <id>https://www.rubbish.press/posts/14447.html</id>
+    <link href="https://www.rubbish.press/posts/14447.html"/>
+    <published>2026-04-17T16:05:41.363Z</published>
+    <summary>**摘要**   本研究以三角洲烽火杯赛事为背景，通过分析作者连续11场押注三支队伍的名次数据，探讨其“运气差”的主观感受是否具有统计学依据。结果显示，押注队伍的平均排名（3.67）略高于随机期望（3.5），晋级成功率（72.7%）也低于理论值（80%），但差异未达显著性水平。结合认知心理学分析发现，主观上的“运气差”是客观劣势与负性偏误共同作用的结果：人类对失败的敏感度更高、期望与现实落差放大负面体验，以及极端名次（如第5、6名）的频繁出现强化了“选错队”的印象。尽管数据未证实“极度倒霉”，但建议调整心理预期或优化押注策略以提升参与感。</summary>
+    <title>押注运气玄学：基于三角洲烽火杯的押注运气研究</title>
+    <updated>2026-04-18T07:56:34.920Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
     <category term="王者荣耀" scheme="https://www.rubbish.press/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/"/>
     <category term="虚拟生态系统" scheme="https://www.rubbish.press/tags/%E8%99%9A%E6%8B%9F%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F/"/>
     <category term="生物多样性" scheme="https://www.rubbish.press/tags/%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A0%B7%E6%80%A7/"/>
@@ -153,8 +170,8 @@
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="量子力学" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/"/>
     <category term="科研焦虑" scheme="https://www.rubbish.press/tags/%E7%A7%91%E7%A0%94%E7%84%A6%E8%99%91/"/>
+    <category term="量子力学" scheme="https://www.rubbish.press/tags/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/"/>
     <category term="组会预测" scheme="https://www.rubbish.press/tags/%E7%BB%84%E4%BC%9A%E9%A2%84%E6%B5%8B/"/>
     <category term="占卜" scheme="https://www.rubbish.press/tags/%E5%8D%A0%E5%8D%9C/"/>
     <category term="塔罗牌" scheme="https://www.rubbish.press/tags/%E5%A1%94%E7%BD%97%E7%89%8C/"/>
@@ -346,23 +363,5 @@
     <summary>**摘要**：   本文通过跨学科视角揭示了一个普遍存在的现象——“抗变惯性”：万物天生倾向于抗拒变化、维持稳定。文章从物理学的楞次定律和惯性、化学的勒夏特列原理、生物学的负反馈机制，延伸至经济学市场调节、心理学逆反心理及社会学的阶级固化等，指出这些看似无关的现象本质上是系统为保持稳定而表现出的保守倾向。作者强调，这种“懒人哲学”既有益处（防止系统崩溃），也有弊端（可能导致僵化）。结论是：理解并善用抗变惯性，在稳定与变革间取得平衡，才是智慧所在。关键词：抗变惯性、稳态机制、跨学科研究、系统稳定性、负反馈。    （字数：198）</summary>
     <title>“别动！我挺好的！”——论万物对变化的顽强抵抗</title>
     <updated>2026-04-08T15:18:49.363Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="王者荣耀" scheme="https://www.rubbish.press/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/"/>
-    <category term="高端局" scheme="https://www.rubbish.press/tags/%E9%AB%98%E7%AB%AF%E5%B1%80/"/>
-    <category term="正态分布" scheme="https://www.rubbish.press/tags/%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/"/>
-    <category term="巅峰赛" scheme="https://www.rubbish.press/tags/%E5%B7%85%E5%B3%B0%E8%B5%9B/"/>
-    <category term="Python" scheme="https://www.rubbish.press/tags/Python/"/>
-    <id>https://www.rubbish.press/posts/1868.html</id>
-    <link href="https://www.rubbish.press/posts/1868.html"/>
-    <published>2026-04-08T15:00:41.605Z</published>
-    <summary>**摘要：**   本文基于王者荣耀真实数据与正态分布模型，提出一种量化“高端局”的数学方法。通过分析巅峰赛分数分布，构建玩家超越全服比例的概率模型，得出：当赛季末巅峰分达到1549、1670、1812、2106分时，玩家分别超过95%、97.5%、99%、99.9%的对手。研究还开发Python算法，利用实时巅峰万强与第一高分动态计算当前赛季的高端局门槛（如前5%对应约1549分）。结果表明，传统“星数定段法”需转换为“分数定段法”以准确衡量对局水平，为判断高端局提供了客观标准。关键词：王者荣耀；高端局；数学模型；正态分布。</summary>
-    <title>一个考察王者荣耀玩家是否处于高端局的数学模型与算法</title>
-    <updated>2026-04-08T15:06:06.872Z</updated>
   </entry>
 </feed>
