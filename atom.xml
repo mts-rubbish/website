@@ -29,6 +29,25 @@
       <name>Rubbish编辑部</name>
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="掼蛋" scheme="https://www.rubbish.press/tags/%E6%8E%BC%E8%9B%8B/"/>
+    <category term="四张顺子" scheme="https://www.rubbish.press/tags/%E5%9B%9B%E5%BC%A0%E9%A1%BA%E5%AD%90/"/>
+    <category term="四张同花顺" scheme="https://www.rubbish.press/tags/%E5%9B%9B%E5%BC%A0%E5%90%8C%E8%8A%B1%E9%A1%BA/"/>
+    <category term="博弈平衡" scheme="https://www.rubbish.press/tags/%E5%8D%9A%E5%BC%88%E5%B9%B3%E8%A1%A1/"/>
+    <category term="规则演化" scheme="https://www.rubbish.press/tags/%E8%A7%84%E5%88%99%E6%BC%94%E5%8C%96/"/>
+    <category term="民间竞技" scheme="https://www.rubbish.press/tags/%E6%B0%91%E9%97%B4%E7%AB%9E%E6%8A%80/"/>
+    <id>https://www.rubbish.press/posts/62457.html</id>
+    <link href="https://www.rubbish.press/posts/62457.html"/>
+    <published>2026-04-19T05:49:16.033Z</published>
+    <summary>摘要：   本文以掼蛋（一种起源于江苏淮安的四人结对纸牌游戏）为研究对象，探讨引入“四张顺子与同花顺”这一规则创新的可行性。文章基于复杂系统理论、博弈论与概率分析，系统评估该规则对游戏平衡性、策略体系与竞技体验的影响。研究表明，允许四张顺子与同花顺应显著提升其出现频率（较五张牌型分别高出约2.4倍和4倍），盘活小牌并加快游戏节奏；同时重构牌型压制梯度，使炸弹价值分化、策略重心由中盘博弈主导。尽管可能增加记牌难度并引发规则细节争议，但总体上增强了游戏的包容性与观赏性。结论认为，该创新在平衡娱乐性与竞技性的前提下具有合理性，可为民间竞技规则的理性演化提供参考，助力掼蛋向规范化、标准化发展。</summary>
+    <title>民间竞技博弈的规则适配与平衡变化——基于掼蛋游戏四张顺子与 同花顺的合理性研究</title>
+    <updated>2026-04-19T06:15:21.259Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
     <category term="隔音棚" scheme="https://www.rubbish.press/tags/%E9%9A%94%E9%9F%B3%E6%A3%9A/"/>
     <category term="失语症" scheme="https://www.rubbish.press/tags/%E5%A4%B1%E8%AF%AD%E7%97%87/"/>
@@ -338,23 +357,5 @@
     <summary>本文是一篇戏谑性学术随笔，探讨研究生组会汇报中两类典型导师的行为模式及其应对策略。作者将导师分为“上翻PPT型”（频繁要求学生回溯讲解）和“下翻PPT型”（急于跳过内容）两类，并分析其心理动机：前者因理解能力有限，试图通过反复追问细节来掌控讨论；后者则自视甚高，认为学生思路偏离预期而急于接管节奏。针对前者，建议学生以科普心态从容讲解，淡化紧张情绪；针对后者，应突出数据完整性供其选择，并聚焦浅层逻辑，将深层拓展交由导师发挥。文章虽以幽默笔调呈现，但揭示了师生互动中的权力结构与沟通困境，对研究生如何应对不同风格的学术指导具有一定启示意义。</summary>
     <title>组合中“上翻ppt”和“下翻ppt”型的两类导师</title>
     <updated>2026-04-09T02:55:03.930Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="桂林米粉" scheme="https://www.rubbish.press/tags/%E6%A1%82%E6%9E%97%E7%B1%B3%E7%B2%89/"/>
-    <category term="POI" scheme="https://www.rubbish.press/tags/POI/"/>
-    <category term="GIS" scheme="https://www.rubbish.press/tags/GIS/"/>
-    <category term="核密度分析" scheme="https://www.rubbish.press/tags/%E6%A0%B8%E5%AF%86%E5%BA%A6%E5%88%86%E6%9E%90/"/>
-    <category term="标准差椭圆" scheme="https://www.rubbish.press/tags/%E6%A0%87%E5%87%86%E5%B7%AE%E6%A4%AD%E5%9C%86/"/>
-    <id>https://www.rubbish.press/posts/36060.html</id>
-    <link href="https://www.rubbish.press/posts/36060.html"/>
-    <published>2026-04-09T02:32:36.087Z</published>
-    <summary>**摘要**：   本文以桂林市198家米粉店POI数据为基础，结合核密度分析、标准差椭圆与平均中心计算等GIS空间分析方法，系统研究了桂林米粉店的分布特征。结果显示，象山区、七星区、秀峰区构成核心集聚区，合计占比73%；高密度区集中于解放东路、中山中路等传统商圈，呈显著“东北—西南”轴向分布，平均中心位于桂林站东侧。研究不仅揭示了城市美食设施的空间规律，更提出实用建议：游客住宿应优选该区域，以实现交通成本最小化与米粉体验最大化，为地方文旅消费提供精准导览支持。</summary>
-    <title>基于POI数据的桂林市桂林米粉店空间可视化分析</title>
-    <updated>2026-04-09T02:42:50.163Z</updated>
   </entry>
 </feed>
