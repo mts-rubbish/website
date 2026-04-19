@@ -29,6 +29,23 @@
       <name>Rubbish编辑部</name>
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="生理释放" scheme="https://www.rubbish.press/tags/%E7%94%9F%E7%90%86%E9%87%8A%E6%94%BE/"/>
+    <category term="大脑反馈信号" scheme="https://www.rubbish.press/tags/%E5%A4%A7%E8%84%91%E5%8F%8D%E9%A6%88%E4%BF%A1%E5%8F%B7/"/>
+    <category term="认知调节" scheme="https://www.rubbish.press/tags/%E8%AE%A4%E7%9F%A5%E8%B0%83%E8%8A%82/"/>
+    <category term="信号重构" scheme="https://www.rubbish.press/tags/%E4%BF%A1%E5%8F%B7%E9%87%8D%E6%9E%84/"/>
+    <id>https://www.rubbish.press/posts/15730.html</id>
+    <link href="https://www.rubbish.press/posts/15730.html"/>
+    <published>2026-04-19T14:13:45.711Z</published>
+    <summary>本文探讨了日常生理释放行为（如厕）对个体认知系统的隐性调节作用，提出其在认知资源分配与大脑反馈信号重构中的关键机制。研究发现，在生理需求未满足阶段，个体认知系统受到持续性低强度干扰，导致注意力分散、思维连贯性下降及决策效率降低；而在生理释放完成后，该干扰迅速消失，触发认知资源的瞬时再分配与反馈信号的阶段性重构，形成短暂的“清晰化窗口”，表现为思维连贯性增强与决策效率提升。基于此，作者构建了大脑反馈信号重构模型（BR-SRM），将认知变化划分为占用、释放与重构三个阶段，揭示了生理释放不仅是生理活动，更是一种隐性的认知调节机制。研究为理解日常认知波动提供了新视角，强调了身体状态对认知过程的重要影响。</summary>
+    <title>基于生理释放过程的大脑反馈信号重构机制研究——以如厕行为为例</title>
+    <updated>2026-04-19T14:23:05.358Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
     <category term="掼蛋" scheme="https://www.rubbish.press/tags/%E6%8E%BC%E8%9B%8B/"/>
     <category term="四张顺子" scheme="https://www.rubbish.press/tags/%E5%9B%9B%E5%BC%A0%E9%A1%BA%E5%AD%90/"/>
@@ -340,22 +357,5 @@
     <summary>摘要：本文是一篇以讽刺和自嘲手法撰写的“学术垃圾”范例，核心主题是揭示低质量学术作品的荒谬性与自我矛盾性。文章声称其目标是通过刻意违反学术规范（如逻辑混乱、缺乏创新、写作模糊等）来展现“不堪入目”的学术形态，并指出这类作品常陷入自我指涉的悖论——即声称自身不满足任何标准，却仍在进行写作。作者承认智力有限，主动终止论证，并以荒诞结论（“井盖”）收尾，进一步强化其反讽意图。关键词强调“学术垃圾”与“不堪入目”。尽管全文充满矛盾与戏谑，但其核心观点是：真正彻底的“学术垃圾”应拒绝一切规范性，包括写作本身，从而形成无法自洽的闭环。建议读者勿将其视为严肃学术成果，而应理解为对学术形式主义的批判性模仿。</summary>
     <title>如何产出一篇不堪入目的学术垃圾</title>
     <updated>2026-04-09T03:13:14.874Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="爽文" scheme="https://www.rubbish.press/categories/%E7%88%BD%E6%96%87/"/>
-    <category term="组会" scheme="https://www.rubbish.press/tags/%E7%BB%84%E4%BC%9A/"/>
-    <category term="导师类型" scheme="https://www.rubbish.press/tags/%E5%AF%BC%E5%B8%88%E7%B1%BB%E5%9E%8B/"/>
-    <category term="PPT汇报" scheme="https://www.rubbish.press/tags/PPT%E6%B1%87%E6%8A%A5/"/>
-    <category term="学术吐槽" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E5%90%90%E6%A7%BD/"/>
-    <id>https://www.rubbish.press/posts/8538.html</id>
-    <link href="https://www.rubbish.press/posts/8538.html"/>
-    <published>2026-04-09T02:46:52.759Z</published>
-    <summary>本文是一篇戏谑性学术随笔，探讨研究生组会汇报中两类典型导师的行为模式及其应对策略。作者将导师分为“上翻PPT型”（频繁要求学生回溯讲解）和“下翻PPT型”（急于跳过内容）两类，并分析其心理动机：前者因理解能力有限，试图通过反复追问细节来掌控讨论；后者则自视甚高，认为学生思路偏离预期而急于接管节奏。针对前者，建议学生以科普心态从容讲解，淡化紧张情绪；针对后者，应突出数据完整性供其选择，并聚焦浅层逻辑，将深层拓展交由导师发挥。文章虽以幽默笔调呈现，但揭示了师生互动中的权力结构与沟通困境，对研究生如何应对不同风格的学术指导具有一定启示意义。</summary>
-    <title>组合中“上翻ppt”和“下翻ppt”型的两类导师</title>
-    <updated>2026-04-09T02:55:03.930Z</updated>
   </entry>
 </feed>
