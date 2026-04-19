@@ -29,6 +29,24 @@
       <name>Rubbish编辑部</name>
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="宝宝荣耀" scheme="https://www.rubbish.press/tags/%E5%AE%9D%E5%AE%9D%E8%8D%A3%E8%80%80/"/>
+    <category term="资源配置" scheme="https://www.rubbish.press/tags/%E8%B5%84%E6%BA%90%E9%85%8D%E7%BD%AE/"/>
+    <category term="机制设计" scheme="https://www.rubbish.press/tags/%E6%9C%BA%E5%88%B6%E8%AE%BE%E8%AE%A1/"/>
+    <category term="资产不可分割性" scheme="https://www.rubbish.press/tags/%E8%B5%84%E4%BA%A7%E4%B8%8D%E5%8F%AF%E5%88%86%E5%89%B2%E6%80%A7/"/>
+    <category term="资产专用性" scheme="https://www.rubbish.press/tags/%E8%B5%84%E4%BA%A7%E4%B8%93%E7%94%A8%E6%80%A7/"/>
+    <id>https://www.rubbish.press/posts/23926.html</id>
+    <link href="https://www.rubbish.press/posts/23926.html"/>
+    <published>2026-04-19T14:43:29.717Z</published>
+    <summary>《王者荣耀》5v5对局被视作动态资源配置过程，但现有机制因野怪争夺、蹭线等行为引发频繁冲突，损害玩家体验。本文以新制度经济学为框架，诊断出三大制度性病因：一是资源产权界定不清（如野区归属模糊），二是装备资产不可分割性导致购买门槛高（如差33金买不起攻速鞋），三是装备专用性强且无法交易形成“锁定效应”，造成大量帕累托改进空间被浪费。为此，研究提出两项互补机制：局内货币信贷机制（如“花呗进峡谷”）提供跨期流动性，帮助玩家整件购买关键装备；以及局内装备交易机制，允许错配装备在队友间转让，提升资源使用效率。两者共同降低冲突、优化配置，为“宝宝荣耀”版本提供可行落地方案。</summary>
+    <title>宝宝荣耀中如何用“借钱”和“倒卖装备”终结峡谷内讧 ——基于新制度经济学的局内资源配置优化机制设计</title>
+    <updated>2026-04-19T15:09:31.878Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
     <category term="生理释放" scheme="https://www.rubbish.press/tags/%E7%94%9F%E7%90%86%E9%87%8A%E6%94%BE/"/>
     <category term="大脑反馈信号" scheme="https://www.rubbish.press/tags/%E5%A4%A7%E8%84%91%E5%8F%8D%E9%A6%88%E4%BF%A1%E5%8F%B7/"/>
@@ -341,21 +359,5 @@
     <summary>**摘要**：   本文探讨了人格测试在流量时代从MBTI到SBTI的演变逻辑，分析了其兴衰背后的深层机制。文章指出，MBTI因黑箱操作、被滥用为招聘工具以及公众对“自我规训”的反叛而衰落；而SBTI则凭借生成式AI的普及和“发疯文学”式的情绪宣泄迅速爆火，形成“引爆-裂变-分食-消退”的短期流量模型。基于此，作者提出RBTI（Rubbish-Based Type Indicator），一种以学术注水行为为分类标准的恶搞测试，将学术写作者分为文献缝合怪、数据拷问师、理论搬运工和结论炼金术士四类，旨在通过解构学术工业的荒诞性实现批判性祛魅。文章强调，此类流量狂欢生命周期短暂，但RBTI这类元嘲讽工具可能留下更持久的批判价值。</summary>
     <title>从MBTI到SBTI：人格测试的陨落、狂欢与流量收割——兼论RBTI的诞生研究</title>
     <updated>2026-04-11T09:59:14.306Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="学术垃圾" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E5%9E%83%E5%9C%BE/"/>
-    <category term="自指" scheme="https://www.rubbish.press/tags/%E8%87%AA%E6%8C%87/"/>
-    <category term="反标准" scheme="https://www.rubbish.press/tags/%E5%8F%8D%E6%A0%87%E5%87%86/"/>
-    <id>https://www.rubbish.press/posts/55655.html</id>
-    <link href="https://www.rubbish.press/posts/55655.html"/>
-    <published>2026-04-09T03:06:50.503Z</published>
-    <summary>摘要：本文是一篇以讽刺和自嘲手法撰写的“学术垃圾”范例，核心主题是揭示低质量学术作品的荒谬性与自我矛盾性。文章声称其目标是通过刻意违反学术规范（如逻辑混乱、缺乏创新、写作模糊等）来展现“不堪入目”的学术形态，并指出这类作品常陷入自我指涉的悖论——即声称自身不满足任何标准，却仍在进行写作。作者承认智力有限，主动终止论证，并以荒诞结论（“井盖”）收尾，进一步强化其反讽意图。关键词强调“学术垃圾”与“不堪入目”。尽管全文充满矛盾与戏谑，但其核心观点是：真正彻底的“学术垃圾”应拒绝一切规范性，包括写作本身，从而形成无法自洽的闭环。建议读者勿将其视为严肃学术成果，而应理解为对学术形式主义的批判性模仿。</summary>
-    <title>如何产出一篇不堪入目的学术垃圾</title>
-    <updated>2026-04-09T03:13:14.874Z</updated>
   </entry>
 </feed>
