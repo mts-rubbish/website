@@ -29,6 +29,23 @@
       <name>Rubbish编辑部</name>
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="医闹" scheme="https://www.rubbish.press/tags/%E5%8C%BB%E9%97%B9/"/>
+    <category term="105mm 榴弹炮" scheme="https://www.rubbish.press/tags/105mm-%E6%A6%B4%E5%BC%B9%E7%82%AE/"/>
+    <category term="冲突解决" scheme="https://www.rubbish.press/tags/%E5%86%B2%E7%AA%81%E8%A7%A3%E5%86%B3/"/>
+    <category term="聚能破甲" scheme="https://www.rubbish.press/tags/%E8%81%9A%E8%83%BD%E7%A0%B4%E7%94%B2/"/>
+    <category term="冬の花基金" scheme="https://www.rubbish.press/tags/%E5%86%AC%E3%81%AE%E8%8A%B1%E5%9F%BA%E9%87%91/"/>
+    <id>https://www.rubbish.press/posts/60785.html</id>
+    <link href="https://www.rubbish.press/posts/60785.html"/>
+    <published>2026-04-20T14:37:55.711Z</published>
+    <summary>**摘要**   本文探讨将105mm榴弹炮改装为“冲突解决定向仪”（CROD-105）以应对医院医闹问题。研究通过模拟实验评估其清除三类医闹人员（家属情绪激动型、媒体煽动型、职业医闹型）的效果，结果显示清除率分别为98.6%、96.3%和100%，医护人员误伤率为0.00%。方法上采用标准化作业流程（SOP-H-01），包括目标识别、非战斗人员疏散及实弹射击。结论认为，榴弹炮是“解决提出问题的人”的有效工具，建议将其纳入三甲医院配置。关键词：医闹、105mm榴弹炮、冲突解决、冬の花基金。</summary>
+    <title>“解决不了问题，就解决提出问题的人” ―105mm 榴弹炮在医闹问题中的应用与研究</title>
+    <updated>2026-04-20T14:57:24.041Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
     <category term="宝宝荣耀" scheme="https://www.rubbish.press/tags/%E5%AE%9D%E5%AE%9D%E8%8D%A3%E8%80%80/"/>
     <category term="资源配置" scheme="https://www.rubbish.press/tags/%E8%B5%84%E6%BA%90%E9%85%8D%E7%BD%AE/"/>
@@ -339,25 +356,5 @@
     <summary>**摘要**：   本文基于东亚家庭情感结构，探讨虚拟情感关系（如乙游、二次元）的代偿机制。研究发现，东亚家庭普遍存在“高行为投入、低情感表达”的责任导向模式，易使个体内化条件性情感逻辑，在现实亲密关系中形成情感缺口。相比之下，虚拟关系通过稳定可预期的反馈构建正向情感循环，成为既有情感结构的延伸而非逃避。研究引入情感投入模型（ECT = SE/SA）形式化解释该机制，指出虚拟情感依赖源于对现实关系风险的规避，是情感投射与代偿的体现。建议关注情感表达模式的代际影响，推动更健康的情感互动方式。  （198字）</summary>
     <title>虚拟情感的建构：东亚家庭语境下的二次情感研究</title>
     <updated>2026-04-15T13:10:32.262Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="MBTI" scheme="https://www.rubbish.press/tags/MBTI/"/>
-    <category term="SBTI" scheme="https://www.rubbish.press/tags/SBTI/"/>
-    <category term="RBTI" scheme="https://www.rubbish.press/tags/RBTI/"/>
-    <category term="人格测试" scheme="https://www.rubbish.press/tags/%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95/"/>
-    <category term="流量" scheme="https://www.rubbish.press/tags/%E6%B5%81%E9%87%8F/"/>
-    <category term="社交媒体" scheme="https://www.rubbish.press/tags/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/"/>
-    <category term="学术批评" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E6%89%B9%E8%AF%84/"/>
-    <id>https://www.rubbish.press/posts/30178.html</id>
-    <link href="https://www.rubbish.press/posts/30178.html"/>
-    <published>2026-04-11T09:49:19.242Z</published>
-    <summary>**摘要**：   本文探讨了人格测试在流量时代从MBTI到SBTI的演变逻辑，分析了其兴衰背后的深层机制。文章指出，MBTI因黑箱操作、被滥用为招聘工具以及公众对“自我规训”的反叛而衰落；而SBTI则凭借生成式AI的普及和“发疯文学”式的情绪宣泄迅速爆火，形成“引爆-裂变-分食-消退”的短期流量模型。基于此，作者提出RBTI（Rubbish-Based Type Indicator），一种以学术注水行为为分类标准的恶搞测试，将学术写作者分为文献缝合怪、数据拷问师、理论搬运工和结论炼金术士四类，旨在通过解构学术工业的荒诞性实现批判性祛魅。文章强调，此类流量狂欢生命周期短暂，但RBTI这类元嘲讽工具可能留下更持久的批判价值。</summary>
-    <title>从MBTI到SBTI：人格测试的陨落、狂欢与流量收割——兼论RBTI的诞生研究</title>
-    <updated>2026-04-11T09:59:14.306Z</updated>
   </entry>
 </feed>
