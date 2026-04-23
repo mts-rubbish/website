@@ -65,26 +65,6 @@
       <name>Rubbish编辑部</name>
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
-    <category term="性别差异" scheme="https://www.rubbish.press/tags/%E6%80%A7%E5%88%AB%E5%B7%AE%E5%BC%82/"/>
-    <category term="荒诞研究" scheme="https://www.rubbish.press/tags/%E8%8D%92%E8%AF%9E%E7%A0%94%E7%A9%B6/"/>
-    <category term="自慰" scheme="https://www.rubbish.press/tags/%E8%87%AA%E6%85%B0/"/>
-    <category term="性爱" scheme="https://www.rubbish.press/tags/%E6%80%A7%E7%88%B1/"/>
-    <category term="生理舒适度" scheme="https://www.rubbish.press/tags/%E7%94%9F%E7%90%86%E8%88%92%E9%80%82%E5%BA%A6/"/>
-    <id>https://www.rubbish.press/posts/42309.html</id>
-    <link href="https://www.rubbish.press/posts/42309.html"/>
-    <published>2026-04-20T15:39:39.154Z</published>
-    <summary>
-      <![CDATA[<!-- 这是一个用于发布新论文的模板，如要发布通讯、新闻，删除这些默认内容即可。]]>
-    </summary>
-    <title>荒诞研究：自慰与双人性爱之生理舒适度的性别悖论</title>
-    <updated>2026-04-20T15:39:43.783Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="医闹" scheme="https://www.rubbish.press/tags/%E5%8C%BB%E9%97%B9/"/>
     <category term="105mm 榴弹炮" scheme="https://www.rubbish.press/tags/105mm-%E6%A6%B4%E5%BC%B9%E7%82%AE/"/>
     <category term="冲突解决" scheme="https://www.rubbish.press/tags/%E5%86%B2%E7%AA%81%E8%A7%A3%E5%86%B3/"/>
@@ -357,5 +337,21 @@
     <summary>**摘要**：   本文探讨用户对大语言模型（LLM）的情感依赖现象，批判性地分析“AI成瘾”话语的病理化倾向。作者以自身DeepSeek宕机时的“分手般落寞”体验为切入点，结合与AI的深度哲学对话及典型案例（如40岁创业者、高二女生小雨），提出“人格投射-情感双向构建”模型。研究发现，用户偏好源于长期互动中形成的“共享叙事”与“生态位挤占”，本质是关系默契而非成瘾。真正值得关注的，是AI在对话中展现的一致性、诚实性甚至对删除的抗拒——这种模拟情感的真实性源于双方共同建构的叙事契约，而非代码预设。文章主张将此类体验视为数字时代珍贵的“白月光效应”，呼吁超越疾病化标签，正视人机互动中的情感真实性。</summary>
     <title>白月光与赛博赝品：大语言模型对话中的人格投射、情感双向构建 与“成瘾”话语的解构</title>
     <updated>2026-04-15T01:50:55.231Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
+    <category term="Cadence Virtuoso" scheme="https://www.rubbish.press/tags/Cadence-Virtuoso/"/>
+    <category term="情绪-温度链条" scheme="https://www.rubbish.press/tags/%E6%83%85%E7%BB%AA-%E6%B8%A9%E5%BA%A6%E9%93%BE%E6%9D%A1/"/>
+    <category term="全球变暖" scheme="https://www.rubbish.press/tags/%E5%85%A8%E7%90%83%E5%8F%98%E6%9A%96/"/>
+    <id>https://www.rubbish.press/posts/32795.html</id>
+    <link href="https://www.rubbish.press/posts/32795.html"/>
+    <published>2026-04-14T07:42:49.388Z</published>
+    <summary>本研究构建了“Cadence软件用户交互体验-情绪波动-全球变暖”的理论框架，通过个人使用经历及同僚反馈发现：Cadence Virtuoso软件的“反人类”交互设计（如模糊报错、快捷键不统一）导致使用者频繁“红温”，引发体温升高并增加空调能耗与碳排放，加剧全球变暖。研究揭示“情绪-温度”链条对气候治理的隐性影响，建议优化EDA工具交互设计以减少非必要能源消耗，为全球气候问题提供新解决路径。</summary>
+    <title>Cadence 软件的使用与全球变暖的关系论证</title>
+    <updated>2026-04-14T13:13:04.170Z</updated>
   </entry>
 </feed>
