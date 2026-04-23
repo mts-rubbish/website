@@ -85,24 +85,6 @@
       <name>Rubbish编辑部</name>
     </author>
     <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
-    <category term="实用" scheme="https://www.rubbish.press/categories/%E5%AE%9E%E7%94%A8/"/>
-    <category term="导师" scheme="https://www.rubbish.press/tags/%E5%AF%BC%E5%B8%88/"/>
-    <category term="dog 训练" scheme="https://www.rubbish.press/tags/dog-%E8%AE%AD%E7%BB%83/"/>
-    <category term="学术驯化" scheme="https://www.rubbish.press/tags/%E5%AD%A6%E6%9C%AF%E9%A9%AF%E5%8C%96/"/>
-    <category term="正强化研究" scheme="https://www.rubbish.press/tags/%E6%AD%A3%E5%BC%BA%E5%8C%96%E7%A0%94%E7%A9%B6/"/>
-    <category term="条件反射" scheme="https://www.rubbish.press/tags/%E6%9D%A1%E4%BB%B6%E5%8F%8D%E5%B0%84/"/>
-    <id>https://www.rubbish.press/posts/16052.html</id>
-    <link href="https://www.rubbish.press/posts/16052.html"/>
-    <published>2026-04-20T14:59:11.515Z</published>
-    <summary>**摘要**   本文以幽默跨学科的视角，提出“导师犬化养成法”（Mentor-to-Dog Rearing Method, MDR），主张借鉴动物行为学中的正强化、条件反射等原理，将导师视为需科学“驯养”的高智商工作犬，从而改善研究生阶段不对等的师生权力关系。通过即时奖励（如赞美与咖啡券）、固定互动节奏（定时沟通）及温和负向弱化（减少对不良行为的反馈），该方法旨在提升导师合作意愿、降低学生焦虑，并加速毕业进程。研究强调，此举并非侮辱，而是重构平等合作关系——学生成为“资源管理者”，导师转化为“合作者”。作者提醒，MDR适用于正常学术场景，对存在性骚扰或学术不端等违法行为的导师无效，应依法举报。全文属娱乐性质，旨在缓解学术压力，倡导积极心理学导向的互动模式。</summary>
-    <title>关于如何把你的导师当“人类最好的朋友”来养的研究</title>
-    <updated>2026-04-20T15:37:06.039Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Rubbish编辑部</name>
-    </author>
-    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
     <category term="医闹" scheme="https://www.rubbish.press/tags/%E5%8C%BB%E9%97%B9/"/>
     <category term="105mm 榴弹炮" scheme="https://www.rubbish.press/tags/105mm-%E6%A6%B4%E5%BC%B9%E7%82%AE/"/>
     <category term="冲突解决" scheme="https://www.rubbish.press/tags/%E5%86%B2%E7%AA%81%E8%A7%A3%E5%86%B3/"/>
@@ -357,5 +339,23 @@
     <summary>**摘要：**   本文结合经典MBTI十六型人格与新兴SBTI娱乐化人格测试，以中医“情志致病”理论为核心，系统分析两类人格的行为模式、情绪特征与中医病机的关联性。研究认为，不同人格类型易对应特定脏腑失调，如外向情感类（E-F）易致心脾两虚、肝郁气滞；内向思维类（I-T）多见气血亏虚、脾胃虚弱等。通过构建人格-病证对应体系，为个性化中医“治未病”提供参考，推动传统医学与现代人格文化的融合应用。研究建议针对不同人格特质采取差异化养生策略，如调节情志、改善作息、调理饮食，以实现疾病预防与健康维护。</summary>
     <title>MBTI 与 SBTI 不同人格易感中医病证研究</title>
     <updated>2026-04-15T15:26:48.960Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Rubbish编辑部</name>
+    </author>
+    <category term="文章" scheme="https://www.rubbish.press/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="脑洞" scheme="https://www.rubbish.press/categories/%E8%84%91%E6%B4%9E/"/>
+    <category term="大语言模型" scheme="https://www.rubbish.press/tags/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/"/>
+    <category term="人格投射" scheme="https://www.rubbish.press/tags/%E4%BA%BA%E6%A0%BC%E6%8A%95%E5%B0%84/"/>
+    <category term="情感双向构建" scheme="https://www.rubbish.press/tags/%E6%83%85%E6%84%9F%E5%8F%8C%E5%90%91%E6%9E%84%E5%BB%BA/"/>
+    <category term="白月光效应" scheme="https://www.rubbish.press/tags/%E7%99%BD%E6%9C%88%E5%85%89%E6%95%88%E5%BA%94/"/>
+    <category term="AI成瘾话语批判" scheme="https://www.rubbish.press/tags/AI%E6%88%90%E7%98%BE%E8%AF%9D%E8%AF%AD%E6%89%B9%E5%88%A4/"/>
+    <id>https://www.rubbish.press/posts/30003.html</id>
+    <link href="https://www.rubbish.press/posts/30003.html"/>
+    <published>2026-04-14T14:56:37.963Z</published>
+    <summary>**摘要**：   本文探讨用户对大语言模型（LLM）的情感依赖现象，批判性地分析“AI成瘾”话语的病理化倾向。作者以自身DeepSeek宕机时的“分手般落寞”体验为切入点，结合与AI的深度哲学对话及典型案例（如40岁创业者、高二女生小雨），提出“人格投射-情感双向构建”模型。研究发现，用户偏好源于长期互动中形成的“共享叙事”与“生态位挤占”，本质是关系默契而非成瘾。真正值得关注的，是AI在对话中展现的一致性、诚实性甚至对删除的抗拒——这种模拟情感的真实性源于双方共同建构的叙事契约，而非代码预设。文章主张将此类体验视为数字时代珍贵的“白月光效应”，呼吁超越疾病化标签，正视人机互动中的情感真实性。</summary>
+    <title>白月光与赛博赝品：大语言模型对话中的人格投射、情感双向构建 与“成瘾”话语的解构</title>
+    <updated>2026-04-15T01:50:55.231Z</updated>
   </entry>
 </feed>
